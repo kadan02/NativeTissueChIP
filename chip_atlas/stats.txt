@@ -1,0 +1,2 @@
+Egyedi szűrt TF-ek: 186
+Egyedi törölt TF-ek: 708

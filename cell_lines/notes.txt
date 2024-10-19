@@ -1,0 +1,14 @@
+Kulturált, de egészségesnek tűnő sejtek:
+HSMM - Human Skeletal Muscle Myoblasts
+NHLF - Human Lung Fibroblasts
+AoAF – Human Aortic Adventitial
+SAEC – Human Small Airway Epithelial Cells
+HMVEC - Human Lung Microvascular Endothelial Cells
+HCPEpiC
+HCF
+
+
+
+"rendhagyó" (nehezen besorolható sejtek?):
+LEC - Lymphatic endothelial cells 
+BEC - Brain endothelial cell

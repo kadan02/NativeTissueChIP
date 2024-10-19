@@ -1,0 +1,3116 @@
+Experiment ID,Track type,Cell type class,Cell type
+SRX019498,CTCF,Adipocyte,Adipose stromal cell
+SRX019505,CTCF,Adipocyte,Adipose stromal cell
+SRX019512,CTCF,Adipocyte,Adipose stromal cell
+SRX019519,CTCF,Adipocyte,Adipose stromal cell
+SRX019520,PPARG,Adipocyte,Adipose stromal cell
+SRX019521,PPARG,Adipocyte,Adipose stromal cell
+SRX027401,E2F4,Adipocyte,Adipocytes
+SRX027402,CEBPA,Adipocyte,Adipocytes
+SRX027403,HSF1,Adipocyte,Adipocytes
+SRX12412428,LMNB1,Adipocyte,Adipose stem cells
+SRX12412429,LMNB1,Adipocyte,Adipose stem cells
+SRX12412430,LMNB1,Adipocyte,Adipose stem cells
+SRX12412431,LMNB1,Adipocyte,Adipose stem cells
+SRX12412432,LMNB1,Adipocyte,Adipose stem cells
+SRX12412433,LMNB1,Adipocyte,Adipose stem cells
+SRX12412434,LMNB1,Adipocyte,Adipose stem cells
+SRX12412435,LMNB1,Adipocyte,Adipose stem cells
+SRX13551226,CTCF,Adipocyte,Adipose stem cells
+SRX13551227,CTCF,Adipocyte,Adipose stem cells
+SRX13551244,CTCF,Adipocyte,Adipose stem cells
+SRX13551245,CTCF,Adipocyte,Adipose stem cells
+SRX13551262,CTCF,Adipocyte,Adipose stem cells
+SRX13551263,CTCF,Adipocyte,Adipose stem cells
+SRX13551280,CTCF,Adipocyte,Adipose stem cells
+SRX13551281,CTCF,Adipocyte,Adipose stem cells
+SRX15003482,HNRNPA2B1,Adipocyte,Adipose-derived stem cells
+SRX15003483,HNRNPA2B1,Adipocyte,Adipose-derived stem cells
+SRX15003484,HNRNPA2B1,Adipocyte,Adipose-derived stem cells
+SRX15003485,HNRNPA2B1,Adipocyte,Adipose-derived stem cells
+SRX18768993,LMNA,Adipocyte,Adipose stem cells
+SRX18768994,LMNA,Adipocyte,Adipose stem cells
+SRX18768995,LMNA,Adipocyte,Adipose stem cells
+SRX18768996,LMNA,Adipocyte,Adipose stem cells
+SRX18768997,LMNA,Adipocyte,Adipose stem cells
+SRX18768998,LMNA,Adipocyte,Adipose stem cells
+SRX19304507,CTCF,Adipocyte,Adipose stem cells
+SRX19304509,CTCF,Adipocyte,Adipose stem cells
+SRX19304518,CTCF,Adipocyte,Adipose stem cells
+SRX19304527,CTCF,Adipocyte,Adipose stem cells
+SRX19304538,CTCF,Adipocyte,Adipose stem cells
+SRX19304546,CTCF,Adipocyte,Adipose stem cells
+SRX19304559,CTCF,Adipocyte,Adipose stem cells
+SRX19304567,CTCF,Adipocyte,Adipose stem cells
+SRX19304575,CTCF,Adipocyte,Adipose stem cells
+SRX19304584,CTCF,Adipocyte,Adipose stem cells
+SRX19304593,CTCF,Adipocyte,Adipose stem cells
+SRX19304598,CTCF,Adipocyte,Adipose stem cells
+SRX19304607,CTCF,Adipocyte,Adipose stem cells
+SRX19304615,CTCF,Adipocyte,Adipose stem cells
+SRX19304625,CTCF,Adipocyte,Adipose stem cells
+SRX19304635,CTCF,Adipocyte,Adipose stem cells
+SRX19304644,CTCF,Adipocyte,Adipose stem cells
+SRX19304655,CTCF,Adipocyte,Adipose stem cells
+SRX19304664,CTCF,Adipocyte,Adipose stem cells
+SRX19304673,CTCF,Adipocyte,Adipose stem cells
+SRX22532981,ZNF189,Adipocyte,Adipocytes
+SRX3321891,CTCF,Adipocyte,Omental fat pad
+SRX3321989,CTCF,Adipocyte,Omental fat pad
+SRX3321997,CTCF,Adipocyte,Colon
+SRX3321998,EP300,Adipocyte,Subcutaneous adipose tissue
+SRX3322044,CTCF,Adipocyte,Omental fat pad
+SRX3322060,EP300,Adipocyte,Subcutaneous adipose tissue
+SRX3322140,EP300,Adipocyte,Omental fat pad
+SRX3322293,EP300,Adipocyte,Colon
+SRX3322544,EP300,Adipocyte,Omental fat pad
+SRX3322609,CTCF,Adipocyte,Colon
+SRX3322694,EP300,Adipocyte,Colon
+SRX3322855,CTCF,Adipocyte,Colon
+SRX3322904,EP300,Adipocyte,Omental fat pad
+SRX3322952,EP300,Adipocyte,Subcutaneous adipose tissue
+SRX3322953,EP300,Adipocyte,Subcutaneous adipose tissue
+SRX3322954,EP300,Adipocyte,Colon
+SRX3322962,CTCF,Adipocyte,Subcutaneous adipose tissue
+SRX3322994,CTCF,Adipocyte,Colon
+SRX3323044,EP300,Adipocyte,Omental fat pad
+SRX3323073,CTCF,Adipocyte,Subcutaneous adipose tissue
+SRX4174970,PPARG,Adipocyte,Adipocytes
+SRX4174971,PPARG,Adipocyte,Adipocytes
+SRX4174972,PPARG,Adipocyte,Adipocytes
+SRX4174973,PPARG,Adipocyte,Adipocytes
+SRX4174974,PPARG,Adipocyte,Adipocytes
+SRX469458,EBF1,Adipocyte,Adipose stromal cell
+SRX469460,EBF1,Adipocyte,Adipose stromal cell
+SRX4711138,LMNB1,Adipocyte,Adipose stem cells
+SRX4711139,LMNB1,Adipocyte,Adipose stem cells
+SRX4711140,LMNB1,Adipocyte,Adipose stem cells
+SRX4711141,LMNB1,Adipocyte,Adipose stem cells
+SRX4711142,LMNB1,Adipocyte,Adipose stem cells
+SRX4711143,LMNB1,Adipocyte,Adipose stem cells
+SRX4711144,LMNB1,Adipocyte,Adipose stem cells
+SRX4711145,LMNB1,Adipocyte,Adipose stem cells
+SRX4796925,PPARG,Adipocyte,Adipose Tissue
+SRX4796926,PPARG,Adipocyte,Adipose Tissue
+SRX4796927,PPARG,Adipocyte,Adipose Tissue
+SRX4796928,PPARG,Adipocyte,Adipose Tissue
+SRX4796929,PPARG,Adipocyte,Adipose Tissue
+SRX660077,CREBBP,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660078,CREBBP,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660083,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660084,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660085,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660086,PPARG,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660087,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660088,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660089,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX660090,KLF11,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX7141987,O-GlcNAc,Adipocyte,Adipocytes
+SRX7141988,O-GlcNAc,Adipocyte,Adipocytes
+SRX7141989,O-GlcNAc,Adipocyte,Adipocytes
+SRX7141990,O-GlcNAc,Adipocyte,Adipocytes
+SRX7141991,O-GlcNAc,Adipocyte,Adipocytes
+SRX7141992,O-GlcNAc,Adipocyte,Adipocytes
+SRX7509299,CTCF,Adipocyte,Colon
+SRX7509300,CTCF,Adipocyte,Colon
+SRX751297,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX751298,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX751299,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX751300,MED1,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX760967,LMNA,Adipocyte,Pre-adipocytes
+SRX760968,LMNA,Adipocyte,Pre-adipocytes
+SRX760969,LMNA,Adipocyte,Pre-adipocytes
+SRX760970,LMNA,Adipocyte,Pre-adipocytes
+SRX760971,LMNA,Adipocyte,Pre-adipocytes
+SRX7807102,CEBPB,Adipocyte,Adipocytes
+SRX7807103,CEBPB,Adipocyte,Adipocytes
+SRX7807106,CTCF,Adipocyte,Adipocytes
+SRX7807107,CTCF,Adipocyte,Adipocytes
+SRX7807126,TEAD1,Adipocyte,Adipocytes
+SRX7807127,TEAD1,Adipocyte,Adipocytes
+SRX7807128,MED1,Adipocyte,Adipocytes
+SRX7807129,MED1,Adipocyte,Adipocytes
+SRX8151644,ARNTL,Adipocyte,Preadipocytes
+SRX8151645,ARNTL,Adipocyte,Preadipocytes
+SRX8151646,ARNTL,Adipocyte,Preadipocytes
+SRX8151647,ARNTL,Adipocyte,Preadipocytes
+SRX8151648,ARNTL,Adipocyte,Preadipocytes
+SRX8151649,ARNTL,Adipocyte,Preadipocytes
+SRX821806,PPARG,Adipocyte,Adipose Tissue
+SRX821807,PPARG,Adipocyte,White adipose tissue
+SRX821808,PPARG,Adipocyte,White adipose tissue
+SRX821809,PPARG,Adipocyte,White adipose tissue
+SRX821810,PPARG,Adipocyte,White adipose tissue
+SRX821811,PPARG,Adipocyte,White adipose tissue
+SRX821812,PPARG,Adipocyte,White adipose tissue
+SRX821813,PPARG,Adipocyte,White adipose tissue
+SRX821814,PPARG,Adipocyte,White adipose tissue
+SRX821815,PPARG,Adipocyte,White adipose tissue
+SRX821816,PPARG,Adipocyte,White adipose tissue
+SRX821817,PPARG,Adipocyte,White adipose tissue
+SRX821818,PPARG,Adipocyte,Adipose Tissue
+SRX821819,PPARG,Adipocyte,Adipose Tissue
+SRX821820,PPARG,Adipocyte,White adipose tissue
+SRX821821,PPARG,Adipocyte,White adipose tissue
+SRX9012289,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX9012290,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX9012291,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX9012292,GPS2,Adipocyte,Adipose-Derived Mesenchymal Stem Cells
+SRX9683838,NR3C1,Adipocyte,Adipocytes
+SRX9683839,NR3C1,Adipocyte,Adipocytes
+SRX9683840,NR3C1,Adipocyte,Adipocytes
+SRX9683841,NR3C1,Adipocyte,Adipocytes
+SRX9683842,NR3C1,Adipocyte,Adipocytes
+SRX9683843,NR3C1,Adipocyte,Adipocytes
+SRX9683844,NR3C1,Adipocyte,Adipocytes
+SRX9683845,NR3C1,Adipocyte,Adipocytes
+SRX9683846,NR3C1,Adipocyte,Adipocytes
+SRX9683847,NR3C1,Adipocyte,Adipocytes
+SRX9683848,NR3C1,Adipocyte,Adipocytes
+SRX9683849,NR3C1,Adipocyte,Adipocytes
+SRX9683850,NR3C1,Adipocyte,Adipocytes
+SRX9683851,NR3C1,Adipocyte,Adipocytes
+SRX9683852,NR3C1,Adipocyte,Adipocytes
+SRX9683853,NR3C1,Adipocyte,Adipocytes
+SRX9683854,NR3C1,Adipocyte,Adipocytes
+DRX044425,CTCF,Blood,T cells
+DRX044426,CTCF,Blood,T cells
+DRX440344,EZH2,Blood,CD4+ T cells
+DRX440349,EZH2,Blood,CD4+ T cells
+DRX440350,TP73,Blood,CD4+ T cells
+DRX486779,SMAD3,Blood,CD4+ T cells
+DRX486781,SMAD3,Blood,CD4+ T cells
+DRX486783,SMAD3,Blood,CD4+ T cells
+ERX200492,CTCF,Blood,B cells
+ERX200493,CTCF,Blood,B cells
+ERX200494,CTCF,Blood,B cells
+ERX200495,CTCF,Blood,B cells
+ERX200496,CTCF,Blood,B cells
+ERX200497,CTCF,Blood,B cells
+ERX200498,CTCF,Blood,B cells
+ERX200499,CTCF,Blood,B cells
+ERX200500,CTCF,Blood,B cells
+ERX200501,CTCF,Blood,B cells
+ERX200502,CTCF,Blood,B cells
+ERX200503,CTCF,Blood,B cells
+ERX200504,CTCF,Blood,B cells
+ERX200505,CTCF,Blood,B cells
+ERX200506,CTCF,Blood,B cells
+ERX200507,CTCF,Blood,B cells
+ERX200508,CTCF,Blood,B cells
+ERX200509,CTCF,Blood,B cells
+ERX200512,CTCF,Blood,B cells
+ERX200513,CTCF,Blood,B cells
+ERX200514,CTCF,Blood,B cells
+ERX200515,CTCF,Blood,B cells
+ERX200526,CTCF,Blood,B cells
+ERX200532,CTCF,Blood,B cells
+ERX200534,CTCF,Blood,B cells
+ERX200535,CTCF,Blood,B cells
+ERX200536,CTCF,Blood,B cells
+ERX200537,CTCF,Blood,B cells
+ERX200540,CTCF,Blood,B cells
+ERX200543,CTCF,Blood,B cells
+ERX664188,CTCF,Blood,B cells
+ERX664189,CTCF,Blood,B cells
+ERX664190,CTCF,Blood,B cells
+ERX664191,CTCF,Blood,B cells
+ERX664192,CTCF,Blood,B cells
+ERX664193,CTCF,Blood,B cells
+ERX664196,CTCF,Blood,B cells
+ERX664197,CTCF,Blood,B cells
+ERX664198,CTCF,Blood,B cells
+ERX664199,CTCF,Blood,B cells
+ERX664200,CTCF,Blood,B cells
+ERX664201,CTCF,Blood,B cells
+ERX664210,CTCF,Blood,B cells
+SRX003794,CTCF,Blood,CD4+ T cells
+SRX017698,CREBBP,Blood,CD4+ T cells
+SRX017699,EP300,Blood,CD4+ T cells
+SRX017700,KAT2B,Blood,CD4+ T cells
+SRX017701,KAT8,Blood,CD4+ T cells
+SRX017702,KAT5,Blood,CD4+ T cells
+SRX017703,HDAC1,Blood,CD4+ T cells
+SRX017704,HDAC2,Blood,CD4+ T cells
+SRX017705,HDAC3,Blood,CD4+ T cells
+SRX017706,HDAC6,Blood,CD4+ T cells
+SRX017709,KAT5,Blood,CD4+ T cells
+SRX017710,HDAC6,Blood,CD4+ T cells
+SRX021983,ATRX,Blood,Erythroblasts
+SRX022390,VDR,Blood,Lymphoblastoid cell line
+SRX022391,VDR,Blood,Lymphoblastoid cell line
+SRX022392,VDR,Blood,Lymphoblastoid cell line
+SRX022393,VDR,Blood,Lymphoblastoid cell line
+SRX022394,VDR,Blood,Lymphoblastoid cell line
+SRX022395,VDR,Blood,Lymphoblastoid cell line
+SRX022396,VDR,Blood,Lymphoblastoid cell line
+SRX022397,VDR,Blood,Lymphoblastoid cell line
+SRX026653,ERG,Blood,CD34 Hematopoietic stem cells
+SRX026659,ERG,Blood,Hematopoietic cells
+SRX026660,ERG,Blood,Hematopoietic cells
+SRX029315,GABPA,Blood,CD34 Hematopoietic stem cells
+SRX029433,GATA1,Blood,CD34+
+SRX029434,GATA2,Blood,CD34+
+SRX029435,RUNX1,Blood,CD34+
+SRX029436,FLI1,Blood,CD34+
+SRX029437,TAL1,Blood,CD34+
+SRX029598,TAL1,Blood,CD34 Hematopoietic stem cells
+SRX032595,HMGN1,Blood,CD4+ T cells
+SRX032596,YY1,Blood,CD4+ T cells
+SRX037935,CTCF,Blood,CD34+
+SRX037936,CTCF,Blood,CD36+
+SRX037937,CTCF,Blood,CD36+
+SRX037938,TAL1,Blood,CD36+
+SRX037939,TAL1,Blood,CD36+
+SRX037940,GATA1,Blood,CD36+
+SRX037941,GATA1,Blood,CD36+
+SRX037946,SMARCA4,Blood,CD34+
+SRX037947,SMARCA4,Blood,CD36+
+SRX038908,TAL1,Blood,Hematopoietic Stem Cells
+SRX038909,TAL1,Blood,Hematopoietic Stem Cells
+SRX038910,SPI1,Blood,Hematopoietic Stem Cells
+SRX038911,SPI1,Blood,Hematopoietic Stem Cells
+SRX038912,IKZF1,Blood,Hematopoietic Stem Cells
+SRX038913,IKZF1,Blood,Hematopoietic Stem Cells
+SRX038914,MEIS1,Blood,Hematopoietic Stem Cells
+SRX038915,MEIS1,Blood,Hematopoietic Stem Cells
+SRX038916,MEIS1,Blood,Hematopoietic Stem Cells
+SRX041286,STAT1,Blood,T cells
+SRX041287,STAT1,Blood,T cells
+SRX041288,STAT4,Blood,T cells
+SRX041289,STAT4,Blood,T cells
+SRX041290,STAT5A,Blood,T cells
+SRX041291,STAT5A,Blood,T cells
+SRX041292,STAT5B,Blood,T cells
+SRX041293,STAT5B,Blood,T cells
+SRX058249,TAL1,Blood,CD34+
+SRX062339,RUNX1,Blood,CD34+
+SRX092313,TBX21,Blood,Th1 Cells
+SRX092314,GATA3,Blood,Th1 Cells
+SRX092315,GATA3,Blood,Th2 Cells
+SRX093183,SPI1,Blood,Monocytes
+SRX093184,CEBPB,Blood,Monocytes
+SRX093189,SPI1,Blood,Macrophages
+SRX093190,CEBPB,Blood,Macrophages
+SRX093191,EGR2,Blood,Macrophages
+SRX093192,EGR2,Blood,Macrophages
+SRX097067,GATA1,Blood,CD34+
+SRX097068,GATA1,Blood,CD34+
+SRX097069,GATA1,Blood,CD34+
+SRX097070,GATA1,Blood,CD34+
+SRX097071,SMAD1,Blood,CD34+
+SRX097072,SMAD1,Blood,CD34 Hematopoietic stem cells
+SRX097073,SMAD1,Blood,CD34 Hematopoietic stem cells
+SRX097074,TCF7L2,Blood,CD34 Hematopoietic stem cells
+SRX097075,TCF7L2,Blood,CD34 Hematopoietic stem cells
+SRX100320,GATA2,Blood,CD34 Hematopoietic stem cells
+SRX100321,SMAD1,Blood,CD34+
+SRX1012536,FOXO1,Blood,B cells
+SRX1012537,FOXO1,Blood,B cells
+SRX1012538,BCL6,Blood,B cells
+SRX1012539,BCL6,Blood,B cells
+SRX10142206,CTCF,Blood,B cells
+SRX10142207,CTCF,Blood,B cells
+SRX10145207,REL,Blood,CD4+ T cells
+SRX10145208,REL,Blood,CD4+ T cells
+SRX10145210,REL,Blood,Naive B cells
+SRX10145211,REL,Blood,Naive B cells
+SRX10145212,REL,Blood,Naive B cells
+SRX10206211,RAD21,Blood,Monocytes
+SRX10206213,ZBTB3,Blood,Monocytes
+SRX10206214,CTCF,Blood,Monocytes
+SRX10212065,ATF4,Blood,CD4+ T cells
+SRX10212066,ATF4,Blood,CD4+ T cells
+SRX10212067,ATF4,Blood,CD4+ T cells
+SRX10212068,CEBPB,Blood,CD4+ T cells
+SRX10212069,CEBPB,Blood,CD4+ T cells
+SRX10212070,CEBPB,Blood,CD4+ T cells
+SRX1023790,SPI1,Blood,Macrophages
+SRX1023791,SPI1,Blood,Macrophages
+SRX1023792,SPI1,Blood,Macrophages
+SRX1023793,SPI1,Blood,Macrophages
+SRX1023794,SPI1,Blood,Macrophages
+SRX1023795,SPI1,Blood,Macrophages
+SRX1023796,SPI1,Blood,Macrophages
+SRX1023797,SPI1,Blood,Macrophages
+SRX103444,BRD4,Blood,CD4+ T cells
+SRX103445,BRD4,Blood,CD4+ T cells
+SRX1036365,RUNX1,Blood,Peripheral blood stem cells
+SRX1042046,BPTF,Blood,Erythroid Cells
+SRX1042048,SETD1A,Blood,Erythroid Cells
+SRX1042049,USF1,Blood,Erythroid Cells
+SRX1042050,USF2,Blood,Erythroid Cells
+SRX1046555,RAG1,Blood,Thymus
+SRX1046556,RAG1,Blood,Thymus
+SRX1046557,RAG1,Blood,Thymus
+SRX1046558,RAG2,Blood,Thymus
+SRX10644687,RUNX2,Blood,Natural Killer T-Cells
+SRX10697702,STAT5A,Blood,Monocytes-CD14+
+SRX10852977,MED1,Blood,T cells
+SRX10852978,MED1,Blood,T cells
+SRX10852979,MED1,Blood,T cells
+SRX10852980,MED1,Blood,T cells
+SRX10852981,MED1,Blood,T cells
+SRX10852982,MED1,Blood,T cells
+SRX10852983,MED1,Blood,T cells
+SRX10852984,MED1,Blood,T cells
+SRX10852985,MED1,Blood,T cells
+SRX10852986,MED1,Blood,T cells
+SRX10852987,MED1,Blood,T cells
+SRX10852988,MED1,Blood,T cells
+SRX10852989,MED12,Blood,T cells
+SRX10852990,MED12,Blood,T cells
+SRX10852991,MED12,Blood,T cells
+SRX10852992,MED12,Blood,T cells
+SRX10852993,MED12,Blood,T cells
+SRX10852994,MED12,Blood,T cells
+SRX1089823,GATA1,Blood,Hematopoietic Stem Cells
+SRX1089824,GATA1,Blood,Hematopoietic Stem Cells
+SRX1089825,TAL1,Blood,Hematopoietic Stem Cells
+SRX1089826,TAL1,Blood,Erythroblasts
+SRX1089827,TAL1,Blood,Hematopoietic Stem Cells
+SRX1089828,NFE2,Blood,Hematopoietic Stem Cells
+SRX1089829,NFE2,Blood,Erythroblasts
+SRX1089830,NFE2,Blood,Hematopoietic Stem Cells
+SRX1089831,IRF2,Blood,Hematopoietic Stem Cells
+SRX1089832,SPI1,Blood,Hematopoietic Stem Cells
+SRX1089833,SPI1,Blood,Hematopoietic Stem Cells
+SRX1089834,RUNX1,Blood,Hematopoietic Stem Cells
+SRX1089835,RUNX1,Blood,Hematopoietic Stem Cells
+SRX1089836,GATA2,Blood,Erythroblasts
+SRX10954233,BATF,Blood,CD4+ T cells
+SRX10954235,BATF,Blood,CD4+ T cells
+SRX10954237,FOSL1,Blood,CD4+ T cells
+SRX10954239,FOSL1,Blood,CD4+ T cells
+SRX10954241,FOSL2,Blood,CD4+ T cells
+SRX10954243,FOSL2,Blood,CD4+ T cells
+SRX11120905,RAD21,Blood,B cells
+SRX11478228,RAD21,Blood,Lymphoblastoid cell line
+SRX11478229,RAD21,Blood,Lymphoblastoid cell line
+SRX11478230,RAD21,Blood,Lymphoblastoid cell line
+SRX11478231,RAD21,Blood,Lymphoblastoid cell line
+SRX11513458,NR3C1,Blood,Dendritic Cells
+SRX11513459,NR3C1,Blood,Dendritic Cells
+SRX11513460,NR3C1,Blood,Dendritic Cells
+SRX11513461,NR3C1,Blood,Dendritic Cells
+SRX11513462,NR3C1,Blood,Dendritic Cells
+SRX11513463,NR3C1,Blood,Dendritic Cells
+SRX11513464,NR3C1,Blood,Dendritic Cells
+SRX11513465,NR3C1,Blood,Dendritic Cells
+SRX11513466,MAFB,Blood,Dendritic Cells
+SRX11513467,MAFB,Blood,Dendritic Cells
+SRX11513468,MAFB,Blood,Dendritic Cells
+SRX11513469,MAFB,Blood,Dendritic Cells
+SRX11513470,MAFB,Blood,Dendritic Cells
+SRX11513471,MAFB,Blood,Dendritic Cells
+SRX11513472,MAFB,Blood,Dendritic Cells
+SRX11513473,MAFB,Blood,Dendritic Cells
+SRX12027417,EBF1,Blood,B-cell (CD19+)
+SRX12027421,EBF1,Blood,B-cell (CD19+)
+SRX12027422,EBF1,Blood,B-cell (CD19+)
+SRX12118507,POU2F2,Blood,B cells
+SRX12118508,POU2AF1,Blood,B cells
+SRX12118509,POU2F2,Blood,Naive B cells
+SRX12129503,BRD4,Blood,T cells
+SRX12129506,BRD4,Blood,T cells
+SRX12151157,GATA1,Blood,CD34+
+SRX12151158,GATA1,Blood,CD34+
+SRX12151159,KLF1,Blood,CD34+
+SRX12151160,KLF1,Blood,CD34+
+SRX12209231,NFKB1,Blood,CD4+ T cells
+SRX12209232,NFKB1,Blood,CD4+ T cells
+SRX12209233,NFKB1,Blood,CD4+ T cells
+SRX12209234,NFKB1,Blood,CD4+ T cells
+SRX12209235,NFKB1,Blood,CD4+ T cells
+SRX12209236,NFKB1,Blood,CD4+ T cells
+SRX12209237,NFKB1,Blood,CD4+ T cells
+SRX12209238,NFKB1,Blood,CD4+ T cells
+SRX12209239,NFKB1,Blood,CD4+ T cells
+SRX12209240,NFKB1,Blood,CD4+ T cells
+SRX12209241,NFKB1,Blood,CD4+ T cells
+SRX12209242,NFKB1,Blood,CD4+ T cells
+SRX12357927,AHR,Blood,Hematopoietic Stem Cells
+SRX12357929,AHR,Blood,Hematopoietic Stem Cells
+SRX12357931,AHR,Blood,Hematopoietic Stem Cells
+SRX12387243,EGR1,Blood,CD34 Hematopoietic stem cells
+SRX12387244,EGR1,Blood,CD34 Hematopoietic stem cells
+SRX12387245,EGR1,Blood,CD34 Hematopoietic stem cells
+SRX12387246,EGR1,Blood,CD34 Hematopoietic stem cells
+SRX12622730,NR3C1,Blood,Lymphoblastoid cell line
+SRX12622732,NR3C1,Blood,Lymphoblastoid cell line
+SRX12622734,NR3C1,Blood,Lymphoblastoid cell line
+SRX12622736,NR3C1,Blood,Lymphoblastoid cell line
+SRX12698888,NR4A1,Blood,Dendritic Cells
+SRX12698889,NR4A2,Blood,Dendritic Cells
+SRX12698890,NR4A3,Blood,Dendritic Cells
+SRX12698892,NR4A1,Blood,Dendritic Cells
+SRX12698893,NR4A2,Blood,Dendritic Cells
+SRX12698894,NR4A3,Blood,Dendritic Cells
+SRX12698896,NR4A1,Blood,Dendritic Cells
+SRX12698897,NR4A2,Blood,Dendritic Cells
+SRX12698898,NR4A3,Blood,Dendritic Cells
+SRX12698900,NR4A1,Blood,Dendritic Cells
+SRX12698901,NR4A2,Blood,Dendritic Cells
+SRX12698902,NR4A3,Blood,Dendritic Cells
+SRX12698904,NR4A1,Blood,Dendritic Cells
+SRX12698905,NR4A2,Blood,Dendritic Cells
+SRX12698906,NR4A3,Blood,Dendritic Cells
+SRX12698908,NR4A1,Blood,Dendritic Cells
+SRX12698909,NR4A2,Blood,Dendritic Cells
+SRX12698910,NR4A3,Blood,Dendritic Cells
+SRX130608,BCL6,Blood,B cells
+SRX130609,BCOR,Blood,B cells
+SRX130610,NCOR2,Blood,B cells
+SRX13150017,YAP1,Blood,Neutrophils
+SRX13150018,YAP1,Blood,Neutrophils
+SRX13183649,GATA1,Blood,CD34+
+SRX13183650,GATA1,Blood,CD34+
+SRX13183651,GATA1,Blood,CD34+
+SRX13183653,GATA1,Blood,CD34+
+SRX13183654,GATA1,Blood,CD34+
+SRX13183655,GATA1,Blood,CD34+
+SRX13183657,GATA1,Blood,CD34+
+SRX13183658,GATA1,Blood,CD34+
+SRX13183659,GATA1,Blood,CD34+
+SRX1322299,EBNA1,Blood,B cells
+SRX1331087,AICDA,Blood,CD20+ B cells
+SRX1331089,AICDA,Blood,CD20+ B cells
+SRX1331091,AICDA,Blood,CD20+ B cells
+SRX1331093,AICDA,Blood,CD20+ B cells
+SRX13602603,ATRX,Blood,CD34+
+SRX13602604,ATRX,Blood,CD34+
+SRX13602605,ATRX,Blood,CD34+
+SRX13602606,ATRX,Blood,CD34+
+SRX13602610,GATA1,Blood,CD34+
+SRX13602611,GATA1,Blood,CD34+
+SRX13602612,GATA1,Blood,CD34+
+SRX13602613,GATA1,Blood,CD34+
+SRX13681293,ATRX,Blood,Lymphoblastoid cell line
+SRX13681294,ATRX,Blood,Lymphoblastoid cell line
+SRX13681295,ATRX,Blood,Lymphoblastoid cell line
+SRX13681296,ATRX,Blood,Lymphoblastoid cell line
+SRX13681297,ATRX,Blood,Lymphoblastoid cell line
+SRX13681298,ATRX,Blood,Lymphoblastoid cell line
+SRX13681305,RUNX3,Blood,Lymphoblastoid cell line
+SRX13681306,RUNX3,Blood,Lymphoblastoid cell line
+SRX13681307,RUNX3,Blood,Lymphoblastoid cell line
+SRX13681308,RUNX3,Blood,Lymphoblastoid cell line
+SRX13711950,HIC2,Blood,CD34+ cells
+SRX1397384,SMAD1,Blood,CD34+
+SRX1397385,GATA1,Blood,CD34+
+SRX1397386,GATA2,Blood,CD34+
+SRX1397389,SMAD1,Blood,CD34+
+SRX1397390,GATA1,Blood,CD34+
+SRX1397391,GATA2,Blood,CD34+
+SRX1397395,SMAD1,Blood,CD34+
+SRX1397396,GATA1,Blood,CD34+
+SRX1397397,GATA2,Blood,CD34+
+SRX1397401,SMAD1,Blood,CD34+
+SRX1397402,GATA1,Blood,CD34+
+SRX1397403,GATA2,Blood,CD34+
+SRX1397407,GATA1,Blood,CD34+
+SRX1397408,GATA2,Blood,CD34+
+SRX1397412,SMAD1,Blood,CD34+
+SRX1425808,CTCF,Blood,T cells
+SRX1425809,CTCF,Blood,T cells
+SRX144520,NFE2L2,Blood,Lymphoblastoid cell line
+SRX144521,NFE2L2,Blood,Lymphoblastoid cell line
+SRX144523,NFE2L2,Blood,Lymphoblastoid cell line
+SRX144524,NFE2L2,Blood,Lymphoblastoid cell line
+SRX144525,NFE2L2,Blood,Lymphoblastoid cell line
+SRX144527,NFE2L2,Blood,Lymphoblastoid cell line
+SRX1456193,EBF1,Blood,B cells
+SRX1456195,RBPJ,Blood,B cells
+SRX1460847,RELA,Blood,Th1 Cells
+SRX1460848,RELA,Blood,Th1 Cells
+SRX1460849,AFF4,Blood,Th1 Cells
+SRX1460850,AFF4,Blood,Th1 Cells
+SRX1460851,BRD4,Blood,Th1 Cells
+SRX1460852,BRD4,Blood,Th1 Cells
+SRX1460853,MED1,Blood,Th1 Cells
+SRX1460854,MED1,Blood,Th1 Cells
+SRX1477664,MED12,Blood,CD34 Hematopoietic stem cells
+SRX1477665,MED12,Blood,CD34 Hematopoietic stem cells
+SRX1477666,MED12,Blood,CD34 Hematopoietic stem cells
+SRX14888587,YY1,Blood,Macrophages
+SRX15036323,GATA3,Blood,CD4+ T cells
+SRX151229,SMC1A,Blood,Lymphoblastoid cells
+SRX151230,NIPBL,Blood,Lymphoblastoid cells
+SRX15710546,CTCF,Blood,B cells
+SRX15710548,MAU2,Blood,B cells
+SRX15710549,RAD21,Blood,B cells
+SRX160843,GATA1,Blood,CD34+
+SRX160844,GATA1,Blood,CD34+
+SRX160847,IRF2,Blood,CD34+
+SRX1614802,ZNF366,Blood,Dendritic Cells
+SRX1614803,ZNF366,Blood,Dendritic Cells
+SRX1614804,ZNF366,Blood,Dendritic Cells
+SRX1614805,ZNF366,Blood,Dendritic Cells
+SRX1614806,ZNF366,Blood,Dendritic Cells
+SRX1614807,ZNF366,Blood,Dendritic Cells
+SRX1614808,ZNF366,Blood,Dendritic Cells
+SRX1614809,ZNF366,Blood,Dendritic Cells
+SRX1614810,ZNF366,Blood,Dendritic Cells
+SRX1614811,ZNF366,Blood,Dendritic Cells
+SRX16495439,CTCF,Blood,B cells
+SRX16495440,CTCF,Blood,B cells
+SRX16495441,CTCF,Blood,B cells
+SRX16495581,CTCF,Blood,B cells
+SRX16495582,CTCF,Blood,B cells
+SRX16495583,CTCF,Blood,B cells
+SRX16495661,CTCF,Blood,CD8+ T cells
+SRX16495662,CTCF,Blood,CD8+ T cells
+SRX16495663,CTCF,Blood,CD8+ T cells
+SRX16495761,CTCF,Blood,CD8+ T cells
+SRX16495762,CTCF,Blood,CD8+ T cells
+SRX16498443,CTCF,Blood,Monocytes-CD14+
+SRX16498444,CTCF,Blood,Monocytes-CD14+
+SRX16498445,CTCF,Blood,Monocytes-CD14+
+SRX16499729,CTCF,Blood,CD4+ T cells
+SRX16499730,CTCF,Blood,CD4+ T cells
+SRX16499731,CTCF,Blood,CD4+ T cells
+SRX16500096,CTCF,Blood,Natural killer cells
+SRX16500097,CTCF,Blood,Natural killer cells
+SRX16500098,CTCF,Blood,Natural killer cells
+SRX16500124,CTCF,Blood,CD4+ T cells
+SRX16500125,CTCF,Blood,CD4+ T cells
+SRX16500126,CTCF,Blood,CD4+ T cells
+SRX16608127,NFYB,Blood,B cells
+SRX16608128,NFYB,Blood,B cells
+SRX170345,SMARCA4,Blood,CD4+
+SRX170346,SMARCA4,Blood,Hematopoietic Stem Cells
+SRX170347,EP300,Blood,Hematopoietic Stem Cells
+SRX170348,SMARCA4,Blood,CD36+
+SRX170349,EP300,Blood,CD36+
+SRX170356,SMARCA4,Blood,B cells
+SRX17149149,ETV3,Blood,Monocytes
+SRX17149150,ETV3,Blood,Monocytes
+SRX17149151,ETV6,Blood,Monocytes
+SRX17149152,ETV6,Blood,Monocytes
+SRX1733648,ATF2,Blood,Macrophages
+SRX1738529,CTCF,Blood,Hematopoietic Stem Cells
+SRX1738530,STAG1,Blood,Hematopoietic Stem Cells
+SRX1738531,CTCF,Blood,Erythroid Cells
+SRX1738532,STAG1,Blood,Erythroid Cells
+SRX17491426,AGO2,Blood,Macrophages
+SRX17491428,AGO2,Blood,Macrophages
+SRX17834083,BATF,Blood,T cells
+SRX17834084,BATF,Blood,T cells
+SRX17966408,GATA1,Blood,Erythroblasts
+SRX17966409,GATA1,Blood,Erythroblasts
+SRX17966410,GATA1,Blood,Erythroblasts
+SRX17966411,GATA1,Blood,Erythroblasts
+SRX17966412,HIC2,Blood,Erythroblasts
+SRX17966413,HIC2,Blood,Erythroblasts
+SRX17966414,HIC2,Blood,Erythroblasts
+SRX17966415,HIC2,Blood,Erythroblasts
+SRX1799522,TRIM28,Blood,CD4+ T cells
+SRX1799525,TRIM28,Blood,CD4+ T cells
+SRX1799528,TRIM28,Blood,CD4+ T cells
+SRX1799531,TRIM28,Blood,CD4+ T cells
+SRX1799591,TBX21,Blood,Th1 Cells
+SRX1799593,TBX21,Blood,Th1 Cells
+SRX18297837,CBX4,Blood,Erythroblasts
+SRX18520343,KMT2D,Blood,B cells
+SRX185893,BCL6,Blood,B cells
+SRX186666,EZH2,Blood,CD20+
+SRX186670,CTCF,Blood,CD20+
+SRX186704,CTCF,Blood,Monocytes-CD14+
+SRX1901489,MLL-AF4,Blood,CD19+ leukemic cells
+SRX1901615,CHD7,Blood,CD34+
+SRX19123211,DAXX,Blood,B cells
+SRX19123214,DAXX,Blood,B cells
+SRX19123217,DAXX,Blood,B cells
+SRX1920484,STAT5A,Blood,Memory T cells
+SRX1920486,STAT5A,Blood,Memory T cells
+SRX1920488,STAT5A,Blood,Memory T cells
+SRX19487524,NFE2L2,Blood,Erythroid progenitors
+SRX19487525,NFE2L2,Blood,Erythroid progenitors
+SRX19487526,NFE2L2,Blood,Erythroid progenitors
+SRX19487527,NFE2L2,Blood,Erythroid progenitors
+SRX1968072,BCL11B,Blood,Thymus
+SRX1968074,BCL11B,Blood,Thymus
+SRX1968076,BCL11B,Blood,Thymus
+SRX1968078,BCL11B,Blood,Thymus
+SRX198033,BRD4,Blood,CD4+ T cells
+SRX198034,BRD4,Blood,CD4+ T cells
+SRX2013090,MYCN,Blood,CD34 Hematopoietic stem cells
+SRX2013091,MYCN,Blood,CD34 Hematopoietic stem cells
+SRX2013092,MYCN,Blood,CD34 Hematopoietic stem cells
+SRX2013093,MYCN,Blood,CD34 Hematopoietic stem cells
+SRX203387,BRD4,Blood,Plasma Cells
+SRX203388,BRD4,Blood,Plasma Cells
+SRX203389,MYC,Blood,Plasma Cells
+SRX203390,CDK9,Blood,Plasma Cells
+SRX203391,CDK9,Blood,Plasma Cells
+SRX203394,MAX,Blood,Plasma Cells
+SRX203395,MED1,Blood,Plasma Cells
+SRX20420564,TFAP4,Blood,T cells
+SRX20420565,TFAP4,Blood,T cells
+SRX20420566,TFAP4,Blood,T cells
+SRX20420567,TFAP4,Blood,T cells
+SRX20420568,TFAP4,Blood,T cells
+SRX20420569,TFAP4,Blood,T cells
+SRX20420570,TFAP4,Blood,T cells
+SRX20420571,TFAP4,Blood,T cells
+SRX20420572,TFAP4,Blood,T cells
+SRX20420573,TFAP4,Blood,T cells
+SRX20420574,TFAP4,Blood,T cells
+SRX20420575,TFAP4,Blood,T cells
+SRX20420576,BATF,Blood,T cells
+SRX20420577,BATF,Blood,T cells
+SRX20420578,BATF,Blood,T cells
+SRX20420579,BATF,Blood,T cells
+SRX20420580,BATF,Blood,T cells
+SRX20420581,BATF,Blood,T cells
+SRX20420582,BATF,Blood,T cells
+SRX20420583,BATF,Blood,T cells
+SRX20420584,BATF,Blood,T cells
+SRX20420585,BATF,Blood,T cells
+SRX20420586,BATF,Blood,T cells
+SRX20420587,BATF,Blood,T cells
+SRX205164,TAL1,Blood,Erythroid Cells
+SRX205165,TAL1,Blood,Erythroid Cells
+SRX205166,TAL1,Blood,Erythroid Cells
+SRX205167,TAL1,Blood,Erythroid Cells
+SRX212318,CTCF,Blood,Monocytes
+SRX212319,CTCF,Blood,Macrophages
+SRX212351,HIF1A,Blood,Macrophages
+SRX212352,HIF1A,Blood,Macrophages
+SRX212353,HIF1A,Blood,Macrophages
+SRX212354,HIF1A,Blood,Macrophages
+SRX212355,EPAS1,Blood,Macrophages
+SRX212356,EPAS1,Blood,Macrophages
+SRX212357,EPAS1,Blood,Macrophages
+SRX212358,EPAS1,Blood,Macrophages
+SRX212359,HIF1A,Blood,Macrophages
+SRX212360,HIF1A,Blood,Macrophages
+SRX212361,HIF1A,Blood,Macrophages
+SRX212362,HIF1A,Blood,Macrophages
+SRX212363,EPAS1,Blood,Macrophages
+SRX212364,EPAS1,Blood,Macrophages
+SRX212365,EPAS1,Blood,Macrophages
+SRX212366,EPAS1,Blood,Macrophages
+SRX212431,STAT5A,Blood,Treg
+SRX212432,STAT5A,Blood,Treg
+SRX212433,STAT5A,Blood,CD4+ T cells
+SRX212434,STAT5A,Blood,CD4+ T cells
+SRX212437,ETS1,Blood,Treg
+SRX212438,ETS1,Blood,Treg
+SRX212439,ETS1,Blood,Treg
+SRX212440,ETS1,Blood,CD4+ T cells
+SRX212441,ETS1,Blood,CD4+ T cells
+SRX212442,RUNX1,Blood,Treg
+SRX212443,RUNX1,Blood,CD4+ T cells
+SRX212444,RUNX1,Blood,CD4+ T cells
+SRX212445,FOXP3,Blood,Treg
+SRX212446,FOXP3,Blood,Treg
+SRX212447,FOXP3,Blood,CD4+ T cells
+SRX212448,FOXP3,Blood,CD4+ T cells
+SRX212647,STAT1,Blood,Monocytes-CD14+
+SRX212648,STAT1,Blood,Monocytes-CD14+
+SRX212649,STAT1,Blood,Monocytes-CD14+
+SRX212650,STAT1,Blood,Monocytes-CD14+
+SRX212651,STAT1,Blood,Monocytes-CD14+
+SRX212652,STAT1,Blood,Monocytes-CD14+
+SRX212661,IRF1,Blood,Monocytes-CD14+
+SRX212662,IRF1,Blood,Monocytes-CD14+
+SRX212663,IRF1,Blood,Monocytes-CD14+
+SRX212664,IRF1,Blood,Monocytes-CD14+
+SRX218418,GATA1,Blood,Erythroid Cells
+SRX218419,KLF1,Blood,Erythroid Cells
+SRX218420,NFE2,Blood,Erythroid Cells
+SRX218421,EP300,Blood,Erythroid Cells
+SRX22037065,RAD21,Blood,Erythroid Cells
+SRX22037066,RAD21,Blood,Erythroid Cells
+SRX22037067,RAD21,Blood,Erythroid Cells
+SRX22037076,CTCF,Blood,Erythroid Cells
+SRX22037077,CTCF,Blood,Erythroid Cells
+SRX22037078,CTCF,Blood,Erythroid Cells
+SRX2253219,CD74,Blood,B cells
+SRX2253220,CD74,Blood,B cells
+SRX2253222,CD74,Blood,B cells
+SRX2253223,CD74,Blood,B cells
+SRX2253225,CD74,Blood,B cells
+SRX2253226,CD74,Blood,B cells
+SRX2253228,CD74,Blood,B cells
+SRX2281258,KMT2A,Blood,Cord blood mononuclear
+SRX2281260,KMT2A,Blood,Bone marrow mononuclear cells
+SRX23335291,EZH2,Blood,CD4+ T cells
+SRX23335292,EZH2,Blood,CD4+ T cells
+SRX23335293,EZH2,Blood,CD4+ T cells
+SRX2339191,CREBBP,Blood,B cells
+SRX2339193,CREBBP,Blood,B cells
+SRX2367967,SP140,Blood,Macrophages
+SRX2367969,SP140,Blood,Macrophages
+SRX237289,INO80,Blood,CD4+ T cells
+SRX237290,SRCAP,Blood,CD4+ T cells
+SRX24330007,MYC,Blood,Macrophages
+SRX24330009,MYC,Blood,Macrophages
+SRX24545851,S100A9,Blood,Monocytes
+SRX24545853,S100A9,Blood,Monocytes
+SRX24545855,S100A9,Blood,Monocytes
+SRX24545857,S100A9,Blood,Monocytes
+SRX24545858,S100A9,Blood,Monocytes
+SRX24545860,S100A9,Blood,Monocytes
+SRX24545862,S100A9,Blood,Monocytes
+SRX24545864,S100A9,Blood,Monocytes
+SRX2464015,EP300,Blood,CD8+ T cells
+SRX2464016,EP300,Blood,CD8+ T cells
+SRX2464017,EP300,Blood,CD8+ T cells
+SRX2464018,EP300,Blood,CD8+ T cells
+SRX2481499,GATA1,Blood,Erythroid Precursor Cells
+SRX2481500,TAL1,Blood,Erythroid Precursor Cells
+SRX248930,ERG,Blood,CD34+
+SRX248931,FLI1,Blood,CD34+
+SRX248932,TAL1,Blood,CD34+
+SRX248933,LYL1,Blood,CD34+
+SRX248934,GATA2,Blood,CD34+
+SRX248935,RUNX1,Blood,CD34+
+SRX248936,LMO2,Blood,CD34+
+SRX256993,NR3C1,Blood,Lymphoblastoid cell line
+SRX256994,NR3C1,Blood,Lymphoblastoid cell line
+SRX256995,NR3C1,Blood,Lymphoblastoid cell line
+SRX256996,NR3C1,Blood,Lymphoblastoid cell line
+SRX256997,RELA,Blood,Lymphoblastoid cell line
+SRX256998,RELA,Blood,Lymphoblastoid cell line
+SRX256999,RELA,Blood,Lymphoblastoid cell line
+SRX257000,RELA,Blood,Lymphoblastoid cell line
+SRX2614800,DNMT3B,Blood,Lymphoblastoid cell line
+SRX2614801,DNMT3B,Blood,Lymphoblastoid cell line
+SRX2614802,DNMT3B,Blood,Lymphoblastoid cell line
+SRX2614803,DNMT3B,Blood,Lymphoblastoid cell line
+SRX2661479,STAT3,Blood,Th17 Cells
+SRX2661481,STAT3,Blood,Th17 Cells
+SRX2661483,STAT3,Blood,Th17 Cells
+SRX2770844,CEBPB,Blood,Macrophages
+SRX2770845,CEBPB,Blood,Macrophages
+SRX2770846,CEBPB,Blood,Macrophages
+SRX2770847,CEBPB,Blood,Macrophages
+SRX2770850,MAF,Blood,Macrophages
+SRX2770851,MAF,Blood,Macrophages
+SRX2770854,SPI1,Blood,Macrophages
+SRX2770855,SPI1,Blood,Macrophages
+SRX2770856,SPI1,Blood,Macrophages
+SRX2770857,SPI1,Blood,Macrophages
+SRX2770858,SMC1A,Blood,Macrophages
+SRX2770859,SMC1A,Blood,Macrophages
+SRX2770860,SMC1A,Blood,Macrophages
+SRX2778382,YY1,Blood,Lymphoblastoid cell line
+SRX2778383,YY1,Blood,Lymphoblastoid cell line
+SRX2778384,YY1,Blood,Lymphoblastoid cell line
+SRX2778385,YY1,Blood,Lymphoblastoid cell line
+SRX2778386,YY1,Blood,Lymphoblastoid cell line
+SRX2778387,YY1,Blood,Lymphoblastoid cell line
+SRX2778388,YY1,Blood,Lymphoblastoid cell line
+SRX2778389,YY1,Blood,Lymphoblastoid cell line
+SRX2778390,YY1,Blood,Lymphoblastoid cell line
+SRX2778391,YY1,Blood,Lymphoblastoid cell line
+SRX2778392,YY1,Blood,Lymphoblastoid cell line
+SRX2778393,YY1,Blood,Lymphoblastoid cell line
+SRX2778394,YY1,Blood,Lymphoblastoid cell line
+SRX2778395,YY1,Blood,Lymphoblastoid cell line
+SRX2778396,YY1,Blood,Lymphoblastoid cell line
+SRX2778397,YY1,Blood,Lymphoblastoid cell line
+SRX2778398,YY1,Blood,Lymphoblastoid cell line
+SRX2778399,YY1,Blood,Lymphoblastoid cell line
+SRX278504,TP53,Blood,Lymphoblastoid cells
+SRX278506,TP53,Blood,Lymphoblastoid cells
+SRX278507,TP53,Blood,Lymphoblastoid cells
+SRX278510,TP53,Blood,Lymphoblastoid cells
+SRX2821736,FOSL1,Blood,CD4+ T cells
+SRX2821737,FOSL1,Blood,CD4+ T cells
+SRX2821738,FOSL1,Blood,CD4+ T cells
+SRX2821739,FOSL1,Blood,CD4+ T cells
+SRX286018,SPI1,Blood,Macrophages
+SRX286019,SPI1,Blood,Macrophages
+SRX2867628,BRD4,Blood,Lymphoblastoid cell line
+SRX2867629,BRD4,Blood,Lymphoblastoid cell line
+SRX2867630,BRD4,Blood,Lymphoblastoid cell line
+SRX3010219,CTCF,Blood,Neutrophils
+SRX3010220,CTCF,Blood,Neutrophils
+SRX3056625,CTCF,Blood,Erythroblasts
+SRX3056626,CTCF,Blood,Erythroblasts
+SRX3056628,CTCF,Blood,Erythroblasts
+SRX3056629,CTCF,Blood,Erythroblasts
+SRX3083284,BACH2,Blood,B cells
+SRX3083285,BACH2,Blood,B cells
+SRX3089967,NCOA4,Blood,Erythroblasts
+SRX3089968,NCOA4,Blood,Erythroblasts
+SRX3195440,MLLT3,Blood,CD34+ cells
+SRX3244991,SPI1,Blood,Macrophages
+SRX3244992,CEBPB,Blood,Macrophages
+SRX3244993,CEBPB,Blood,Macrophages
+SRX3279750,IRF4,Blood,CD4+ T cells
+SRX3279751,NFATC1,Blood,CD4+ T cells
+SRX3279752,NFATC2,Blood,CD4+ T cells
+SRX331853,REST,Blood,CD4+ T cells
+SRX3322276,CTCF,Blood,Peyers Patches
+SRX3322443,CTCF,Blood,Peyers Patches
+SRX3322475,CTCF,Blood,Peyers Patches
+SRX3323079,CTCF,Blood,Peyers Patches
+SRX3345973,INTS13,Blood,Monocytes
+SRX3408800,CTCF,Blood,CD34 Hematopoietic stem cells
+SRX3445722,ZNF341,Blood,B cells
+SRX3445723,ZNF341,Blood,B cells
+SRX3460916,IKZF3,Blood,Pre-B cells
+SRX3460917,IKZF1,Blood,Pre-B cells
+SRX3460918,MTA2,Blood,Pre-B cells
+SRX3460919,CHD4,Blood,Pre-B cells
+SRX3460920,POU2AF1,Blood,Pre-B cells
+SRX3460921,POU2F2,Blood,Pre-B cells
+SRX3545872,SMARCC1,Blood,Bone marrow nuclear cells
+SRX3545876,SMARCC1,Blood,Bone marrow nuclear cells
+SRX3545880,SMARCC1,Blood,Bone marrow nuclear cells
+SRX3545884,SMARCC1,Blood,Peripheral blood mononuclear cells
+SRX356482,CTCF,Blood,Lymphoblastoid cell line
+SRX356483,CTCF,Blood,Lymphoblastoid cell line
+SRX356484,CTCF,Blood,Lymphoblastoid cell line
+SRX356499,STAG1,Blood,Lymphoblastoid cell line
+SRX356500,STAG1,Blood,Lymphoblastoid cell line
+SRX356545,CTCF,Blood,Lymphoblastoid cell line
+SRX356546,CTCF,Blood,Lymphoblastoid cell line
+SRX356547,CTCF,Blood,Lymphoblastoid cell line
+SRX356559,STAG1,Blood,Lymphoblastoid cell line
+SRX356560,STAG1,Blood,Lymphoblastoid cell line
+SRX356712,CTCF,Blood,Lymphoblastoid cell line
+SRX356713,CTCF,Blood,Lymphoblastoid cell line
+SRX356714,CTCF,Blood,Lymphoblastoid cell line
+SRX356728,STAG1,Blood,Lymphoblastoid cell line
+SRX356729,STAG1,Blood,Lymphoblastoid cell line
+SRX356730,CTCF,Blood,Lymphoblastoid cell line
+SRX356731,CTCF,Blood,Lymphoblastoid cell line
+SRX356732,CTCF,Blood,Lymphoblastoid cell line
+SRX356746,STAG1,Blood,Lymphoblastoid cell line
+SRX356747,STAG1,Blood,Lymphoblastoid cell line
+SRX356748,CTCF,Blood,Lymphoblastoid cell line
+SRX356749,CTCF,Blood,Lymphoblastoid cell line
+SRX356750,CTCF,Blood,Lymphoblastoid cell line
+SRX356764,STAG1,Blood,Lymphoblastoid cell line
+SRX356765,STAG1,Blood,Lymphoblastoid cell line
+SRX356766,CTCF,Blood,Lymphoblastoid cell line
+SRX356767,CTCF,Blood,Lymphoblastoid cell line
+SRX356768,CTCF,Blood,Lymphoblastoid cell line
+SRX356782,STAG1,Blood,Lymphoblastoid cell line
+SRX356783,STAG1,Blood,Lymphoblastoid cell line
+SRX3586325,NR3C1,Blood,Monocytes
+SRX3586326,NR3C1,Blood,Monocytes
+SRX3586327,NR3C1,Blood,Monocytes
+SRX3586328,NR3C1,Blood,Monocytes
+SRX3586329,NR3C1,Blood,Macrophages
+SRX3586330,NR3C1,Blood,Macrophages
+SRX3586331,NR3C1,Blood,Macrophages
+SRX3586332,NR3C1,Blood,Macrophages
+SRX3586365,RUNX1,Blood,Pre-B lymphoblast cells
+SRX3586366,RUNX1,Blood,Pre-B lymphoblast cells
+SRX3586367,RUNX1,Blood,Pre-B lymphoblast cells
+SRX3655130,PBX1,Blood,Natural Killer T-Cells
+SRX3655131,PBX1,Blood,Natural Killer T-Cells
+SRX3666488,TP53,Blood,T cells
+SRX3666490,TP53,Blood,T cells
+SRX3666492,TP53,Blood,T cells
+SRX3666494,TP53,Blood,T cells
+SRX3666496,TP53,Blood,T cells
+SRX3666498,TP53,Blood,T cells
+SRX3666500,TP53,Blood,T cells
+SRX3666502,TP53,Blood,T cells
+SRX3666504,TP53,Blood,T cells
+SRX3666506,TP53,Blood,T cells
+SRX3666508,TP53,Blood,T cells
+SRX3666510,TP53,Blood,T cells
+SRX3703140,MEF2B,Blood,B cells
+SRX3703142,MEF2B,Blood,B cells
+SRX3768713,MLLT3,Blood,CD34 Hematopoietic stem cells
+SRX3768714,MLLT3,Blood,CD34 Hematopoietic stem cells
+SRX3768715,MLLT3,Blood,CD34 Hematopoietic stem cells
+SRX3768720,MLLT3,Blood,Erythroblasts
+SRX3768721,MLLT3,Blood,Erythroblasts
+SRX3768736,MLLT3,Blood,CD34 Hematopoietic stem cells
+SRX3768737,MLLT3,Blood,CD34 Hematopoietic stem cells
+SRX381543,LDB1,Blood,Erythroblasts
+SRX381545,CTCF,Blood,Erythroblasts
+SRX386202,GATA1,Blood,CD34+
+SRX386203,TAL1,Blood,CD34+
+SRX386204,GFI1B,Blood,CD34+
+SRX391683,TRIM28,Blood,CD34 Hematopoietic stem cells
+SRX3934090,INTS13,Blood,Monocytes
+SRX3934091,INTS13,Blood,Macrophages
+SRX3934092,NAB2,Blood,Monocytes
+SRX3934093,NAB2,Blood,Macrophages
+SRX3934095,INTS13,Blood,Monocytes
+SRX3934096,INTS13,Blood,Monocytes
+SRX3942992,ZNF341,Blood,T cells
+SRX3990567,ASUN,Blood,Monocytes
+SRX4001754,CTCF,Blood,Macrophages
+SRX4001755,CTCF,Blood,Macrophages
+SRX4001756,CTCF,Blood,Macrophages
+SRX4001757,CTCF,Blood,Macrophages
+SRX4001758,CTCF,Blood,Macrophages
+SRX4001759,CTCF,Blood,Macrophages
+SRX4001760,CTCF,Blood,Macrophages
+SRX4001761,CTCF,Blood,Macrophages
+SRX4001762,RAD21,Blood,Macrophages
+SRX4001763,RAD21,Blood,Macrophages
+SRX4001764,RAD21,Blood,Macrophages
+SRX4001765,RAD21,Blood,Macrophages
+SRX4001818,SPI1,Blood,Macrophages
+SRX4001819,SPI1,Blood,Macrophages
+SRX4001820,SPI1,Blood,Macrophages
+SRX4001821,SPI1,Blood,Macrophages
+SRX4046302,CXXC1,Blood,Erythroblasts
+SRX4046303,CXXC1,Blood,Erythroblasts
+SRX4046306,HCFC1,Blood,Erythroblasts
+SRX4046307,MEN1,Blood,Erythroblasts
+SRX4046308,RBBP5,Blood,Erythroblasts
+SRX4046309,SETD1A,Blood,Erythroblasts
+SRX4046310,KDM6A,Blood,Erythroblasts
+SRX4046314,CXXC1,Blood,Lymphoblastoid cell line
+SRX4046315,CXXC1,Blood,Lymphoblastoid cell line
+SRX4116559,FOXP1,Blood,B cells
+SRX4116561,FOXP1,Blood,B cells
+SRX4212570,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212572,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212574,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212576,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212578,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212580,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212585,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212587,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212589,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212591,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212593,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212595,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4212597,EZH2,Blood,Peripheral blood mononuclear cells
+SRX4284003,CTCF,Blood,B cells
+SRX4284004,CTCF,Blood,B cells
+SRX4284007,CTCF,Blood,B cells
+SRX4284008,CTCF,Blood,B cells
+SRX4284011,CTCF,Blood,B cells
+SRX4284012,CTCF,Blood,B cells
+SRX4288471,CTCF,Blood,Lymphoblastoid cell line
+SRX4288472,CTCF,Blood,Lymphoblastoid cell line
+SRX4288473,CTCF,Blood,Lymphoblastoid cell line
+SRX4288474,CTCF,Blood,Lymphoblastoid cell line
+SRX4288475,CTCF,Blood,Lymphoblastoid cell line
+SRX4288476,CTCF,Blood,Lymphoblastoid cell line
+SRX4345356,NFATC2,Blood,CD4+ T cells
+SRX4345357,NFATC2,Blood,CD4+ T cells
+SRX4345358,NFATC2,Blood,CD4+ T cells
+SRX4345359,NFATC2,Blood,CD4+ T cells
+SRX4345360,NFATC1,Blood,CD4+ T cells
+SRX4345361,NFATC1,Blood,CD4+ T cells
+SRX4345362,FOS,Blood,CD4+ T cells
+SRX4345363,JUNB,Blood,CD4+ T cells
+SRX4345364,MYC,Blood,CD4+ T cells
+SRX4345365,NFKB1,Blood,CD4+ T cells
+SRX4345366,NFKB1,Blood,CD4+ T cells
+SRX447428,KMT2A,Blood,CD34+
+SRX447429,MLLT3,Blood,CD34+
+SRX4521396,CTCF,Blood,Macrophages
+SRX4521397,CTCF,Blood,Macrophages
+SRX4521398,CTCF,Blood,Macrophages
+SRX4671059,BMI1,Blood,Lymphoblastoid cell line
+SRX4671060,BMI,Blood,Lymphoblastoid cell line
+SRX467199,NR2C2,Blood,Erythroblasts
+SRX467200,NR2C2,Blood,Erythroblasts
+SRX467201,NR2C2,Blood,Erythroblasts
+SRX4712347,LDB1,Blood,Macrophages
+SRX4712348,LDB1,Blood,Macrophages
+SRX472275,TERF1,Blood,Lymphoblastoid cell line
+SRX472276,TERF2,Blood,Lymphoblastoid cell line
+SRX4732741,HDAC2,Blood,Pre-B cells
+SRX4985784,KDM6B,Blood,CD4+ T cells
+SRX4985785,KDM6B,Blood,CD4+ T cells
+SRX4985786,KDM6B,Blood,CD4+ T cells
+SRX4985787,KDM6B,Blood,CD4+ T cells
+SRX4985788,KDM6B,Blood,CD4+ T cells
+SRX4985789,KDM6B,Blood,CD4+ T cells
+SRX4985790,KDM6B,Blood,CD4+ T cells
+SRX4985791,KDM6B,Blood,CD4+ T cells
+SRX4985792,KDM6B,Blood,CD4+ T cells
+SRX4985793,KDM6B,Blood,CD4+ T cells
+SRX5095870,SPI1,Blood,Dendritic Cells
+SRX5095871,SPI1,Blood,Dendritic Cells
+SRX5099498,STAT3,Blood,B cells
+SRX5099499,STAT3,Blood,B cells
+SRX5167211,CHD4,Blood,Bone marrow nuclear cells
+SRX5167212,KDM6A,Blood,Bone marrow nuclear cells
+SRX5167217,CHD4,Blood,Nuclear cells
+SRX5167218,KDM6A,Blood,Nuclear cells
+SRX5169134,GATA2,Blood,Erythroid progenitors
+SRX5169135,GATA1,Blood,Erythroid progenitors
+SRX5169142,GATA2,Blood,Erythroid Precursor Cells
+SRX5169143,GATA1,Blood,Erythroid Precursor Cells
+SRX5182324,FMR1,Blood,Lymphoblastoid cell line
+SRX5186323,SMAD2,Blood,Hematopoietic Stem Cells
+SRX5299873,CTCF,Blood,Erythroid Cells
+SRX5299877,NFE2,Blood,Erythroid Cells
+SRX5299878,NFE2,Blood,Erythroid Cells
+SRX5371248,WAS,Blood,Lymphoblastoid cell line
+SRX5371740,NFKB1,Blood,CD4+ T cells
+SRX5371741,NFKB1,Blood,CD4+ T cells
+SRX5371742,RELA,Blood,CD4+ T cells
+SRX5371743,RELA,Blood,CD4+ T cells
+SRX5391679,SMC3,Blood,Neutrophils
+SRX5391680,SMC3,Blood,Neutrophils
+SRX5391681,SMC3,Blood,Neutrophils
+SRX5391682,RAD21,Blood,Neutrophils
+SRX5391683,RAD21,Blood,Neutrophils
+SRX5391684,RAD21,Blood,Neutrophils
+SRX5391685,RAD21,Blood,Neutrophils
+SRX5391686,CTCF,Blood,Neutrophils
+SRX5391687,CTCF,Blood,Neutrophils
+SRX5391688,CTCF,Blood,Neutrophils
+SRX5391689,CTCF,Blood,Neutrophils
+SRX5391690,CTCF,Blood,Neutrophils
+SRX5391691,CTCF,Blood,Neutrophils
+SRX5409709,NETO2,Blood,CD34 Hematopoietic stem cells
+SRX5574340,SPI1,Blood,B cells
+SRX5574341,SPI1,Blood,B cells
+SRX5574342,SPI1,Blood,Monocytes
+SRX5574343,SPI1,Blood,Monocytes
+SRX5574344,SPI1,Blood,Monocytes
+SRX5574345,SPI1,Blood,Monocytes
+SRX5574346,SPI1,Blood,Neutrophils
+SRX5574348,SPI1,Blood,Neutrophils
+SRX5574350,SPI1,Blood,Mast Cells
+SRX5574352,SPI1,Blood,Mast Cells
+SRX5574354,SPI1,Blood,Monocytes
+SRX5574355,SPI1,Blood,Monocytes
+SRX5574356,SPI1,Blood,Monocytes
+SRX5574357,SPI1,Blood,Dendritic Cells
+SRX5574359,SPI1,Blood,Dendritic Cells
+SRX5574361,SPI1,Blood,Dendritic Cells
+SRX5574362,SPI1,Blood,Dendritic Cells
+SRX5574363,SPI1,Blood,Dendritic Cells
+SRX5574364,SPI1,Blood,Dendritic Cells
+SRX5574365,SPI1,Blood,Dendritic Cells
+SRX5574367,SPI1,Blood,Dendritic Cells
+SRX5574369,SPI1,Blood,Dendritic Cells
+SRX5574370,SPI1,Blood,Dendritic Cells
+SRX5574371,SPI1,Blood,Monocytes
+SRX5574372,SPI1,Blood,Monocytes
+SRX5574373,SPI1,Blood,Monocytes
+SRX5574375,SPI1,Blood,Macrophages
+SRX5574376,SPI1,Blood,Macrophages
+SRX5574377,SPI1,Blood,Macrophages
+SRX5574379,SPI1,Blood,EM-3
+SRX5624367,SREBF2,Blood,Macrophages
+SRX5624368,SREBF2,Blood,Macrophages
+SRX5624369,SREBF2,Blood,Macrophages
+SRX5624370,SREBF2,Blood,Macrophages
+SRX5801452,STAT3,Blood,Th2 Cells
+SRX5801453,STAT3,Blood,Th2 Cells
+SRX5801454,STAT3,Blood,Th2 Cells
+SRX5801455,STAT3,Blood,Th2 Cells
+SRX5821022,CTCF,Blood,CD34 Hematopoietic stem cells
+SRX5821023,CTCF,Blood,CD34 Hematopoietic stem cells
+SRX5821024,CTCF,Blood,CD34+
+SRX5821025,CTCF,Blood,CD34+
+SRX5821030,GATA1,Blood,CD34+
+SRX5821031,GATA1,Blood,CD34+
+SRX5839976,CREBBP,Blood,Macrophages
+SRX5839977,CREBBP,Blood,Macrophages
+SRX5839978,CREBBP,Blood,Macrophages
+SRX5839979,CREBBP,Blood,Macrophages
+SRX627428,SPI1,Blood,Dendritic Cells
+SRX627430,SPI1,Blood,Dendritic Cells
+SRX646125,EED,Blood,Erythroblasts
+SRX646126,SUZ12,Blood,Erythroblasts
+SRX646127,EZH1,Blood,Erythroblasts
+SRX646128,EZH1,Blood,Erythroblasts
+SRX646129,EZH2,Blood,Erythroblasts
+SRX646130,EZH2,Blood,Erythroblasts
+SRX646131,EZH1,Blood,Erythroblasts
+SRX646132,EZH1,Blood,Erythroblasts
+SRX646133,EZH2,Blood,Erythroblasts
+SRX646134,EZH2,Blood,Erythroblasts
+SRX646135,NFE2,Blood,Erythroblasts
+SRX646136,TAL1,Blood,Erythroblasts
+SRX6578928,CTCF,Blood,T cells
+SRX6578929,CTCF,Blood,T cells
+SRX658606,TAL1,Blood,Hematopoietic Stem Cells
+SRX658607,TAL1,Blood,Hematopoietic Stem Cells
+SRX6657886,ATF6,Blood,Treg
+SRX6657888,ATF6,Blood,Treg
+SRX6657890,ATF6,Blood,Treg
+SRX6657892,ATF6,Blood,Treg
+SRX6657894,ATF6,Blood,Treg
+SRX666439,BCL6,Blood,CD4+ T cells
+SRX6763471,CHD4,Blood,Macrophages
+SRX6763472,CHD4,Blood,Macrophages
+SRX6763473,EGR1,Blood,Macrophages
+SRX6763474,EGR1,Blood,Macrophages
+SRX6763475,EGR1,Blood,Macrophages
+SRX6763476,EGR1,Blood,Macrophages
+SRX6763478,EGR1,Blood,Monocytes
+SRX6813406,ATF4,Blood,CD4+ T cells
+SRX6813408,ATF4,Blood,CD4+ T cells
+SRX6813410,CEBPB,Blood,CD4+ T cells
+SRX687554,HDAC1,Blood,Erythroid progenitors
+SRX687555,HDAC2,Blood,Erythroid progenitors
+SRX687556,GATA2,Blood,Erythroid progenitors
+SRX687557,GATA2,Blood,Erythroid progenitors
+SRX6902857,CTCF,Blood,CD34+
+SRX6902858,CTCF,Blood,CD34+
+SRX6902859,CTCF,Blood,CD34+
+SRX6902860,GATA1,Blood,CD34+
+SRX6902861,GATA1,Blood,CD34+
+SRX6902862,GATA1,Blood,CD34+
+SRX690997,PSIP1,Blood,CD4+ T cells
+SRX6913093,BRD2,Blood,CD4+ T cells
+SRX6913094,BRD2,Blood,CD4+ T cells
+SRX6913095,BRD2,Blood,CD4+ T cells
+SRX6913096,BRD3,Blood,CD4+ T cells
+SRX6913097,BRD3,Blood,CD4+ T cells
+SRX6913098,BRD3,Blood,CD4+ T cells
+SRX6913099,BRD4,Blood,CD4+ T cells
+SRX6913100,BRD4,Blood,CD4+ T cells
+SRX6913101,BRD4,Blood,CD4+ T cells
+SRX6913102,BRD4,Blood,CD4+ T cells
+SRX6944145,FOS,Blood,CD4+ T cells
+SRX6944146,FOS,Blood,CD4+ T cells
+SRX6944147,JUNB,Blood,CD4+ T cells
+SRX6944148,JUNB,Blood,CD4+ T cells
+SRX6944149,FOS,Blood,CD4+ T cells
+SRX6944150,FOS,Blood,CD4+ T cells
+SRX6944151,FOS,Blood,CD4+ T cells
+SRX6944152,JUNB,Blood,CD4+ T cells
+SRX6944153,JUNB,Blood,CD4+ T cells
+SRX6944154,JUNB,Blood,CD4+ T cells
+SRX6944155,NFATC2,Blood,CD4+ T cells
+SRX6944156,NFATC2,Blood,CD4+ T cells
+SRX6944157,NFATC2,Blood,CD4+ T cells
+SRX697735,PRKCQ,Blood,CD4+ T cells
+SRX697736,PRKCQ,Blood,CD4+ T cells
+SRX697737,PRKCQ,Blood,CD4+ T cells
+SRX697738,PRKCQ,Blood,CD4+ T cells
+SRX7031580,EGR1,Blood,CD34+
+SRX7031581,EGR1,Blood,Monocytes
+SRX7031582,EGR1,Blood,Monocytes
+SRX7031583,EGR1,Blood,Monocytes
+SRX7044869,MAZ,Blood,Erythroid Cells
+SRX716944,NR3C1,Blood,Macrophages
+SRX735289,TBX21,Blood,Th1 Cells
+SRX7428070,XBP1,Blood,Plasmablasts
+SRX7428073,CTCF,Blood,Memory B cells
+SRX7428079,IRF4,Blood,Memory B cells
+SRX7509460,CTCF,Blood,Peyers Patches
+SRX7509461,CTCF,Blood,Peyers Patches
+SRX7509469,CTCF,Blood,Peyers Patches
+SRX7509470,CTCF,Blood,Peyers Patches
+SRX751541,NOTCH1,Blood,CD34 Hematopoietic stem cells
+SRX7584817,ATF4,Blood,Erythroblasts
+SRX7584818,ATF4,Blood,Erythroblasts
+SRX7756142,VDR,Blood,Monocytes
+SRX7756143,VDR,Blood,Monocytes
+SRX7756145,VDR,Blood,Dendritic Cells
+SRX7756146,VDR,Blood,Dendritic Cells
+SRX7756148,VDR,Blood,Dendritic Cells
+SRX7756149,VDR,Blood,Dendritic Cells
+SRX7894794,ETS1,Blood,CD4+ T cells
+SRX7902977,EGR1,Blood,Monocytes
+SRX7902978,EGR1,Blood,Macrophages
+SRX7902979,EGR1,Blood,Macrophages
+SRX7902980,EGR1,Blood,Macrophages
+SRX7902981,EGR1,Blood,Macrophages
+SRX7902982,EGR1,Blood,Macrophages
+SRX7902983,EGR1,Blood,CD34+
+SRX7902984,EGR1,Blood,Monocytes
+SRX7902985,EGR1,Blood,Monocytes
+SRX7971771,STAT3,Blood,Th2 Cells
+SRX7971772,STAT3,Blood,Th2 Cells
+SRX7971773,STAT3,Blood,Th2 Cells
+SRX7971775,STAT3,Blood,Th2 Cells
+SRX7971776,STAT3,Blood,Th2 Cells
+SRX7971779,STAT3,Blood,Th2 Cells
+SRX7971780,STAT3,Blood,Th2 Cells
+SRX7971781,STAT3,Blood,Th2 Cells
+SRX8064814,E2F6,Blood,Lymphoblastoid cell line
+SRX8064815,E2F6,Blood,Lymphoblastoid cell line
+SRX8064816,E2F1,Blood,Lymphoblastoid cell line
+SRX8064817,E2F1,Blood,Lymphoblastoid cell line
+SRX8064818,RB1,Blood,Lymphoblastoid cell line
+SRX8064820,RB1,Blood,Lymphoblastoid cell line
+SRX8064821,HDAC1,Blood,Lymphoblastoid cell line
+SRX8064822,HDAC1,Blood,Lymphoblastoid cell line
+SRX8064823,HDAC2,Blood,Lymphoblastoid cell line
+SRX8064824,HDAC2,Blood,Lymphoblastoid cell line
+SRX8180619,HIF1A,Blood,Peripheral blood mononuclear cells
+SRX8180621,HIF1A,Blood,Peripheral blood mononuclear cells
+SRX831872,STAT5B,Blood,CD8+ T cells
+SRX831873,STAT5B,Blood,CD8+ T cells
+SRX831874,STAT5B,Blood,CD8+ T cells
+SRX831875,STAT5B,Blood,CD8+ T cells
+SRX831876,STAT5B,Blood,CD8+ T cells
+SRX831877,STAT5B,Blood,CD8+ T cells
+SRX831878,STAT5B,Blood,CD8+ T cells
+SRX831879,STAT5B,Blood,CD8+ T cells
+SRX831880,STAT5B,Blood,CD8+ T cells
+SRX831881,STAT5B,Blood,CD8+ T cells
+SRX8418557,KMT2A,Blood,Bone Marrow Cells
+SRX8418558,AFF1,Blood,Bone Marrow Cells
+SRX8453140,AR,Blood,Lymph Nodes
+SRX8453142,AR,Blood,Lymph Nodes
+SRX8453144,CTCF,Blood,Lymph Nodes
+SRX8453145,CTCF,Blood,Lymph Nodes
+SRX8453147,FOXA1,Blood,Lymph Nodes
+SRX8453149,FOXA1,Blood,Lymph Nodes
+SRX8468846,IRF4,Blood,B cells
+SRX8468848,IRF4,Blood,B cells
+SRX850667,BCL6,Blood,CD4+ T cells
+SRX8536088,RUNX1,Blood,CD34+
+SRX8536089,RUNX1T1,Blood,CD34+
+SRX8536090,RUNX1T1,Blood,CD34+
+SRX8536091,JUND,Blood,CD34+
+SRX8536092,JUND,Blood,CD34+
+SRX8536093,GATA2,Blood,CD34+
+SRX8536094,GATA2,Blood,CD34+
+SRX8536095,RUNX1,Blood,CD34+
+SRX8664961,ATF4,Blood,Erythroblasts
+SRX8664962,ATF4,Blood,Erythroblasts
+SRX8806010,ZNF410,Blood,CD34+
+SRX8806011,ZNF410,Blood,CD34+
+SRX8841617,CTCF,Blood,Lymphoblasts
+SRX8841619,CTCF,Blood,Lymphoblasts
+SRX8841621,CTCF,Blood,Lymphoblasts
+SRX8841623,CTCF,Blood,Lymphoblasts
+SRX8841625,RAD21,Blood,Lymphoblasts
+SRX8841627,RAD21,Blood,Lymphoblasts
+SRX8841629,RAD21,Blood,Lymphoblasts
+SRX8841631,RAD21,Blood,Lymphoblasts
+SRX885891,CEBPB,Blood,Macrophages
+SRX885892,CEBPB,Blood,Macrophages
+SRX885893,CEBPB,Blood,Macrophages
+SRX885894,CEBPB,Blood,Macrophages
+SRX885895,CEBPB,Blood,Macrophages
+SRX885896,CEBPB,Blood,Macrophages
+SRX885897,CEBPB,Blood,Macrophages
+SRX885898,CEBPB,Blood,Macrophages
+SRX9029194,CEBPB,Blood,Neutrophils
+SRX9029195,CEBPB,Blood,Neutrophils
+SRX9029196,SPI1,Blood,Neutrophils
+SRX9029197,SPI1,Blood,Neutrophils
+SRX9029198,POU2F2,Blood,Neutrophils
+SRX9029199,POU2F2,Blood,Neutrophils
+SRX9029200,POU2F2,Blood,Monocytes-CD14+
+SRX9029201,POU2F2,Blood,Monocytes-CD14+
+SRX9029206,CEBPB,Blood,Neutrophils
+SRX9029207,CEBPB,Blood,Neutrophils
+SRX9029208,SPI1,Blood,Neutrophils
+SRX9029209,SPI1,Blood,Neutrophils
+SRX9029210,POU2F2,Blood,Neutrophils
+SRX9029211,POU2F2,Blood,Neutrophils
+SRX9029212,POU2F2,Blood,Monocytes-CD14+
+SRX9029213,POU2F2,Blood,Monocytes-CD14+
+SRX9045664,TP53,Blood,Erythroblasts
+SRX9045665,TP53,Blood,Erythroblasts
+SRX9279232,EGR1,Blood,Macrophages
+SRX9345714,CTCF,Blood,Erythroid Cells
+SRX9345715,CTCF,Blood,Erythroid Cells
+SRX9345716,CTCF,Blood,Erythroid Cells
+SRX9345717,CTCF,Blood,Erythroid Cells
+SRX9345718,CTCF,Blood,Erythroid Cells
+SRX9345719,CTCF,Blood,Erythroid Cells
+SRX9531405,SREBF1,Blood,Dendritic Cells
+SRX9531406,SREBF1,Blood,Dendritic Cells
+SRX9531407,SREBF1,Blood,Dendritic Cells
+SRX9531411,SREBF1,Blood,Dendritic Cells
+SRX9531412,SREBF1,Blood,Dendritic Cells
+SRX9531413,SREBF1,Blood,Dendritic Cells
+SRX9531417,SREBF1,Blood,Dendritic Cells
+SRX9531418,SREBF1,Blood,Dendritic Cells
+SRX9531419,SREBF1,Blood,Dendritic Cells
+SRX9534426,POU2AF1,Blood,Tonsil germinal center cells
+SRX9534427,POU2AF1,Blood,Tonsil germinal center cells
+SRX965494,STAT3,Blood,Th17 Cells
+SRX976241,KMT2D,Blood,B cells
+SRX976244,KMT2D,Blood,B cells
+SRX9867029,CTCF,Blood,CD4+ T cells
+SRX9867030,CTCF,Blood,CD8+ T cells
+SRX9867031,CTCF,Blood,CD8+ T cells
+SRX9867034,CTCF,Blood,Monocytes
+SRX9867035,CTCF,Blood,Monocytes
+SRX9867040,CTCF,Blood,CD4+ T cells
+SRX995496,CTCF,Blood,Hematopoietic Stem Cells
+SRX995497,STAG1,Blood,Hematopoietic Stem Cells
+SRX995500,CTCF,Blood,Erythroid Cells
+SRX995501,STAG1,Blood,Erythroid Cells
+SRX067535,CTCF,Bone,Osteobl
+SRX10976683,CTCF,Bone,Chondrocytes
+SRX10976684,CTCF,Bone,Chondrocytes
+SRX10976685,CTCF,Bone,Chondrocytes
+SRX10976686,CTCF,Bone,Chondrocytes
+SRX10977145,CTCF,Bone,Osteocytes
+SRX10977146,CTCF,Bone,Osteocytes
+SRX10977147,CTCF,Bone,Osteocytes
+SRX10977148,CTCF,Bone,Osteocytes
+SRX10977149,CTCF,Bone,Osteocytes
+SRX11157743,AAV Rep68,Bone,Osteosarcoma
+SRX11157744,AAV Rep68,Bone,Osteosarcoma
+SRX11157745,AAV Rep68,Bone,Osteosarcoma
+SRX11157746,AAV Rep68,Bone,Osteosarcoma
+SRX11157752,AAV Rep68,Bone,Osteosarcoma
+SRX11157753,AAV Rep68,Bone,Osteosarcoma
+SRX11157754,AAV Rep68,Bone,Osteosarcoma
+SRX11157755,AAV Rep68,Bone,Osteosarcoma
+SRX1823797,BRD4,Bone,Osteoblasts
+SRX1823798,BRD4,Bone,Osteoblasts
+SRX1823799,BRD4,Bone,Osteoblasts
+SRX1823800,BRD4,Bone,Osteoblasts
+SRX1823801,BRD4,Bone,Osteoblasts
+SRX1823802,BRD4,Bone,Osteoblasts
+SRX1823809,CEBPB,Bone,Osteoblasts
+SRX1823810,CEBPB,Bone,Osteoblasts
+SRX1823811,FOSL2,Bone,Osteoblasts
+SRX1823812,FOSL2,Bone,Osteoblasts
+SRX1823813,JUND,Bone,Osteoblasts
+SRX1823814,JUND,Bone,Osteoblasts
+SRX1823815,TEAD1,Bone,Osteoblasts
+SRX1823816,TEAD1,Bone,Osteoblasts
+SRX1823817,STAT3,Bone,Osteoblasts
+SRX1823818,STAT3,Bone,Osteoblasts
+SRX186710,EP300,Bone,Osteobl
+SRX19538279,TP53,Bone,Osteoblasts
+SRX19538280,TP53,Bone,Osteoblasts
+SRX19538281,TP53,Bone,Osteoblasts
+SRX19538282,TP53,Bone,Osteoblasts
+SRX2268292,CHD1,Bone,Osteoblasts
+SRX2941475,PBXIP1,Bone,Chondrocytes
+SRX2941476,PBXIP1,Bone,Chondrocytes
+SRX2990553,GLI1,Bone,Chondrosarcoma
+SRX2990554,GLI2,Bone,Chondrosarcoma
+SRX7587157,FOXO1,Bone,Chondrocytes
+SRX7587158,FOXO1,Bone,Chondrocytes
+SRX7587159,FOXO1,Bone,Chondrocytes
+SRX7730449,RB1,Bone,Osteoblasts
+SRX7730450,E2F3,Bone,Osteoblasts
+ERX2242375,BCL11A,Breast,Breast cells
+ERX2242379,BCL11A,Breast,Mammary epithelial cells
+ERX2242380,CHD8,Breast,Mammary epithelial cells
+ERX2242381,ARID1A,Breast,Mammary epithelial cells
+ERX2242385,BCL11A,Breast,Mammary epithelial cells
+ERX2242386,CHD8,Breast,Mammary epithelial cells
+ERX2242387,ARID1A,Breast,Mammary epithelial cells
+ERX2242391,BCL11A,Breast,Mammary epithelial cells
+ERX2242392,CHD8,Breast,Mammary epithelial cells
+ERX2242393,ARID1A,Breast,Mammary epithelial cells
+ERX2242397,BCL11A,Breast,Mammary epithelial cells
+ERX2242398,CHD8,Breast,Mammary epithelial cells
+ERX2242399,ARID1A,Breast,Mammary epithelial cells
+ERX2242403,BCL11A,Breast,Mammary epithelial cells
+ERX2242404,CHD8,Breast,Mammary epithelial cells
+ERX2242405,BCL11A,Breast,Mammary epithelial cells
+ERX2242406,CHD8,Breast,Mammary epithelial cells
+ERX2242409,ARID1A,Breast,Mammary epithelial cells
+ERX2242411,ARID1A,Breast,Mammary epithelial cells
+ERX2242414,ARID1A,Breast,Mammary epithelial cells
+ERX2666242,ARID1A,Breast,Mammary epithelial cells
+ERX371659,BCL11A,Breast,Mammary epithelial cells
+ERX371660,BRD4,Breast,Mammary epithelial cells
+ERX371663,BCL11A,Breast,Mammary epithelial cells
+ERX371664,BRD4,Breast,Mammary epithelial cells
+ERX371667,BCL11A,Breast,Mammary epithelial cells
+ERX371668,BRD4,Breast,Mammary epithelial cells
+ERX371671,BRD4,Breast,Mammary epithelial cells
+ERX371674,BCL11A,Breast,Mammary epithelial cells
+ERX371675,BRD4,Breast,Mammary epithelial cells
+ERX371678,BCL11A,Breast,Mammary epithelial cells
+ERX371679,BRD4,Breast,Mammary epithelial cells
+ERX371682,BCL11A,Breast,Mammary epithelial cells
+ERX371683,BRD4,Breast,Mammary epithelial cells
+ERX371686,BRD4,Breast,Mammary epithelial cells
+ERX371689,BCL11A,Breast,Mammary epithelial cells
+ERX371690,BRD4,Breast,Mammary epithelial cells
+ERX371693,BCL11A,Breast,Mammary epithelial cells
+ERX371694,BRD4,Breast,Mammary epithelial cells
+ERX371697,BCL11A,Breast,Mammary epithelial cells
+ERX371698,BRD4,Breast,Mammary epithelial cells
+ERX371701,BRD4,Breast,Mammary epithelial cells
+ERX371704,BCL11A,Breast,Mammary epithelial cells
+ERX371705,BRD4,Breast,Mammary epithelial cells
+ERX371708,BCL11A,Breast,Mammary epithelial cells
+ERX371709,BRD4,Breast,Mammary epithelial cells
+ERX371712,BCL11A,Breast,Mammary epithelial cells
+ERX371713,BRD4,Breast,Mammary epithelial cells
+ERX371716,BRD4,Breast,Mammary epithelial cells
+SRX10142196,CTCF,Breast,Mammary epithelial cells
+SRX10142197,CTCF,Breast,Mammary epithelial cells
+SRX10142198,CTCF,Breast,Breast luminal cells
+SRX10142199,CTCF,Breast,Breast luminal cells
+SRX10142200,CTCF,Breast,Breast luminal cells
+SRX10142201,CTCF,Breast,Breast luminal cells
+SRX10399318,RBM39,Breast,Breast epithelium
+SRX10399319,RBM39,Breast,Breast epithelium
+SRX10399320,KMT2A,Breast,Breast epithelium
+SRX10399321,KMT2A,Breast,Breast epithelium
+SRX14812502,TP53,Breast,Mammary epithelial cells
+SRX14812503,TP53,Breast,Mammary epithelial cells
+SRX2109209,MYC,Breast,Mammary epithelial cells
+SRX2109214,MYC,Breast,Mammary epithelial cells
+SRX2109219,MYC,Breast,Mammary epithelial cells
+SRX2642968,NELFA,Breast,Breast cells
+SRX3322196,EP300,Breast,Breast epithelium
+SRX3322208,CTCF,Breast,Breast epithelium
+SRX3322347,EP300,Breast,Breast epithelium
+SRX3322356,EP300,Breast,Breast epithelium
+SRX3322437,CTCF,Breast,Breast epithelium
+SRX3322541,EP300,Breast,Breast epithelium
+SRX3322593,CTCF,Breast,Breast epithelium
+SRX3734314,TP63,Breast,Mammary glands
+SRX3734319,TP63,Breast,Mammary glands
+SRX3734320,TP53,Breast,Mammary glands
+SRX3734321,TP53,Breast,Mammary glands
+SRX396568,CBX6,Breast,Breast cells
+SRX396569,CBX7,Breast,Breast cells
+SRX396570,CBX8,Breast,Breast cells
+SRX396572,RING1,Breast,Breast cells
+SRX396573,RNF2,Breast,Breast cells
+SRX7098802,CTCF,Breast,Mammary epithelial cells
+SRX7098803,CTCF,Breast,Mammary epithelial cells
+SRX7098804,CTCF,Breast,Mammary epithelial cells
+SRX7098805,CTCF,Breast,Mammary epithelial cells
+SRX7098806,CTCF,Breast,Mammary epithelial cells
+SRX7642859,RBM39,Breast,Mammary epithelial cells
+SRX7642860,RBM39,Breast,Mammary epithelial cells
+SRX7642861,KMT2A,Breast,Mammary epithelial cells
+SRX7642862,KMT2A,Breast,Mammary epithelial cells
+SRX8537730,ESR1,Breast,PE1B
+SRX8537744,FOXA1,Breast,PE1B
+SRX099628,EP300,Cardiovascular,Heart
+SRX099629,EP300,Cardiovascular,Heart
+SRX10475435,CTCF,Cardiovascular,Left ventricle
+SRX10475436,CTCF,Cardiovascular,Left ventricle
+SRX10476797,CTCF,Cardiovascular,Left ventricle
+SRX10476798,CTCF,Cardiovascular,Left ventricle
+SRX10478144,CTCF,Cardiovascular,Left ventricle
+SRX10478145,CTCF,Cardiovascular,Left ventricle
+SRX10976184,CTCF,Cardiovascular,Endothelial Cells
+SRX10976185,CTCF,Cardiovascular,Endothelial Cells
+SRX10976744,CTCF,Cardiovascular,Left ventricle
+SRX10976745,CTCF,Cardiovascular,Left ventricle
+SRX10976905,CTCF,Cardiovascular,Right ventricle
+SRX10976906,CTCF,Cardiovascular,Right ventricle
+SRX10977387,CTCF,Cardiovascular,Right ventricle
+SRX10977388,CTCF,Cardiovascular,Right ventricle
+SRX11515984,SMARCA4,Cardiovascular,Aortic smooth muscle cells
+SRX11515992,SMARCA4,Cardiovascular,Aortic smooth muscle cells
+SRX13005477,CTCF,Cardiovascular,Right ventricle
+SRX13005478,CTCF,Cardiovascular,Right ventricle
+SRX13006678,CTCF,Cardiovascular,Left ventricle
+SRX13006679,CTCF,Cardiovascular,Left ventricle
+SRX13006718,CTCF,Cardiovascular,Left ventricle
+SRX13006719,CTCF,Cardiovascular,Left ventricle
+SRX13006720,CTCF,Cardiovascular,Left ventricle
+SRX13006721,CTCF,Cardiovascular,Left ventricle
+SRX13006771,CTCF,Cardiovascular,Right ventricle
+SRX13006772,CTCF,Cardiovascular,Right ventricle
+SRX13007592,CTCF,Cardiovascular,Right ventricle
+SRX13007593,CTCF,Cardiovascular,Right ventricle
+SRX13007647,CTCF,Cardiovascular,Left ventricle
+SRX13007648,CTCF,Cardiovascular,Left ventricle
+SRX13007981,CTCF,Cardiovascular,Right ventricle
+SRX13007982,CTCF,Cardiovascular,Right ventricle
+SRX13007993,CTCF,Cardiovascular,Right ventricle
+SRX13007994,CTCF,Cardiovascular,Right ventricle
+SRX13008747,CTCF,Cardiovascular,Left ventricle
+SRX13008748,CTCF,Cardiovascular,Left ventricle
+SRX13008809,CTCF,Cardiovascular,Left ventricle
+SRX13008810,CTCF,Cardiovascular,Left ventricle
+SRX13009141,CTCF,Cardiovascular,Left ventricle
+SRX13009142,CTCF,Cardiovascular,Left ventricle
+SRX13009184,CTCF,Cardiovascular,Right ventricle
+SRX13009185,CTCF,Cardiovascular,Right ventricle
+SRX13009190,CTCF,Cardiovascular,Left ventricle
+SRX13009191,CTCF,Cardiovascular,Left ventricle
+SRX13009263,CTCF,Cardiovascular,Right ventricle
+SRX13009264,CTCF,Cardiovascular,Right ventricle
+SRX13273914,KDM1A,Cardiovascular,Cardiomyocytes
+SRX13273917,KDM1A,Cardiovascular,Cardiomyocytes
+SRX13273920,KDM1A,Cardiovascular,Cardiomyocytes
+SRX1548204,E2F1,Cardiovascular,Wharton Jelly
+SRX1548205,E2F1,Cardiovascular,Wharton Jelly
+SRX1548206,E2F1,Cardiovascular,Wharton Jelly
+SRX1548207,E2F1,Cardiovascular,Wharton Jelly
+SRX1548208,E2F1,Cardiovascular,Wharton Jelly
+SRX1548209,E2F1,Cardiovascular,Wharton Jelly
+SRX16495588,CTCF,Cardiovascular,Right ventricle
+SRX16495589,CTCF,Cardiovascular,Right ventricle
+SRX16499925,CTCF,Cardiovascular,Left ventricle
+SRX16499926,CTCF,Cardiovascular,Left ventricle
+SRX20871832,IRX2,Cardiovascular,Cardiac fibroblasts
+SRX20871833,IRX2,Cardiovascular,Cardiac fibroblasts
+SRX2343922,NOTCH1,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343923,NOTCH1,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343924,NOTCH1,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343925,NOTCH1,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343934,EP300,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343935,EP300,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343936,EP300,Cardiovascular,Large pulmonary artery endothelial cells
+SRX2343937,EP300,Cardiovascular,Large pulmonary artery endothelial cells
+SRX23548768,TP53,Cardiovascular,Vascular smooth muscle cells
+SRX23548770,TP53,Cardiovascular,Vascular smooth muscle cells
+SRX244128,TAL1,Cardiovascular,Primary endothelial cells
+SRX2671792,EP300,Cardiovascular,Cardiac progenitor cells
+SRX2671799,EP300,Cardiovascular,Endothelial Cells
+SRX2671829,EP300,Cardiovascular,Cardiac progenitor cells
+SRX2671836,EP300,Cardiovascular,Endothelial Cells
+SRX285599,NOTCH1,Cardiovascular,Aortic valve endothelial cells
+SRX3040156,STAG1,Cardiovascular,Coronary artery endothelial cells
+SRX3040157,STAG2,Cardiovascular,Coronary artery endothelial cells
+SRX3040158,SMC1A,Cardiovascular,Coronary artery endothelial cells
+SRX3322596,CTCF,Cardiovascular,Tibial Arteries
+SRX3322851,CTCF,Cardiovascular,Aorta
+SRX3847778,SMAD2,Cardiovascular,Aortic smooth muscle cells
+SRX3847781,SMAD2,Cardiovascular,Aortic smooth muscle cells
+SRX393516,TAL1,Cardiovascular,Primary endothelial cells
+SRX393518,TAL1,Cardiovascular,Primary endothelial cells
+SRX4734150,SMARCA4,Cardiovascular,Smooth muscle cells
+SRX4734151,HDAC9,Cardiovascular,Smooth muscle cells
+SRX4797395,LMNA,Cardiovascular,Myocytes
+SRX4797397,LMNA,Cardiovascular,Myocytes
+SRX4797399,LMNA,Cardiovascular,Myocytes
+SRX4797401,LMNA,Cardiovascular,Myocytes
+SRX4797403,LMNA,Cardiovascular,Myocytes
+SRX4797405,LMNA,Cardiovascular,Myocytes
+SRX4797407,LMNA,Cardiovascular,Myocytes
+SRX4797409,LMNA,Cardiovascular,Myocytes
+SRX4797411,LMNA,Cardiovascular,Myocytes
+SRX4797413,LMNA,Cardiovascular,Myocytes
+SRX503335,KSHV LANA,Cardiovascular,BEC
+SRX503336,KSHV LANA,Cardiovascular,BEC
+SRX5090166,CTCF,Cardiovascular,Myocytes
+SRX5457151,CTCF,Cardiovascular,Left ventricle
+SRX5457197,CTCF,Cardiovascular,Right atrium auricular region
+SRX5457275,CTCF,Cardiovascular,Aorta
+SRX5457276,CTCF,Cardiovascular,Aorta
+SRX5457329,CTCF,Cardiovascular,Coronary artery cells
+SRX5457395,CTCF,Cardiovascular,Left ventricle
+SRX6476497,SMAD2,Cardiovascular,Aortic smooth muscle cells
+SRX6476500,SMAD2,Cardiovascular,Aortic smooth muscle cells
+SRX6860609,TFEB,Cardiovascular,Aortic smooth muscle cells
+SRX6969884,CHD6,Cardiovascular,Cardiomyocytes
+SRX6969885,CHD6,Cardiovascular,Cardiomyocytes
+SRX7089148,CTCF,Cardiovascular,Tibial Arteries
+SRX7089149,CTCF,Cardiovascular,Tibial Arteries
+SRX7089226,CTCF,Cardiovascular,Right atrium auricular region
+SRX7089227,CTCF,Cardiovascular,Right atrium auricular region
+SRX7089228,CTCF,Cardiovascular,Right atrium auricular region
+SRX7299332,TCF21,Cardiovascular,Coronary artery smooth muscle
+SRX7509400,CTCF,Cardiovascular,Right atrium auricular region
+SRX7509413,CTCF,Cardiovascular,Coronary artery cells
+SRX7509463,CTCF,Cardiovascular,Aorta
+SRX7509464,CTCF,Cardiovascular,Aorta
+SRX7509663,CTCF,Cardiovascular,Aorta
+SRX7826472,YAP1,Cardiovascular,Coronary artery endothelial cells
+SRX7826475,YAP1,Cardiovascular,Coronary artery endothelial cells
+SRX8588623,SMARCA4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588624,SMARCA4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588625,SMARCA4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588626,SMARCA4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588639,KLF4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588640,KLF4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588641,KLF4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8588642,KLF4,Cardiovascular,Pulmonary artery endothelial cells
+SRX8631024,SMARCA4,Cardiovascular,Aortic smooth muscle cells
+SRX8631029,SMARCA4,Cardiovascular,Aortic smooth muscle cells
+SRX10475459,CTCF,Digestive tract,Colon
+SRX10475460,CTCF,Digestive tract,Colon
+SRX10475461,CTCF,Digestive tract,Colon
+SRX10475462,CTCF,Digestive tract,Colon
+SRX10977245,CTCF,Digestive tract,Stomach
+SRX10977246,CTCF,Digestive tract,Stomach
+SRX16495370,CTCF,Digestive tract,Colonic mucosa
+SRX16495371,CTCF,Digestive tract,Colonic mucosa
+SRX16498416,CTCF,Digestive tract,Colonic mucosa
+SRX16498417,CTCF,Digestive tract,Colonic mucosa
+SRX3321887,EP300,Digestive tract,Gastroesophageal sphincter
+SRX3321913,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX3321947,EP300,Digestive tract,Esophagus muscularis mucosa
+SRX3322024,CTCF,Digestive tract,Colon
+SRX3322054,EP300,Digestive tract,Stomach
+SRX3322055,CTCF,Digestive tract,Stomach
+SRX3322085,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX3322106,EP300,Digestive tract,Colon
+SRX3322246,EP300,Digestive tract,Colon
+SRX3322272,CTCF,Digestive tract,Stomach
+SRX3322281,CTCF,Digestive tract,Colon
+SRX3322325,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX3322337,CTCF,Digestive tract,Colon
+SRX3322380,EP300,Digestive tract,Esophagus muscularis mucosa
+SRX3322381,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX3322426,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX3322453,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX3322553,EP300,Digestive tract,Stomach
+SRX3322590,CTCF,Digestive tract,Stomach
+SRX3322605,EP300,Digestive tract,Gastroesophageal sphincter
+SRX3322613,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX3322649,EP300,Digestive tract,Stomach
+SRX3322685,EP300,Digestive tract,Gastroesophageal sphincter
+SRX3322704,EP300,Digestive tract,Colon
+SRX3322750,CTCF,Digestive tract,Colon
+SRX3322766,EP300,Digestive tract,Colon
+SRX3322792,CTCF,Digestive tract,Colon
+SRX3322864,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX3322999,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX3323014,EP300,Digestive tract,Esophagus muscularis mucosa
+SRX3323016,CTCF,Digestive tract,Stomach
+SRX3323072,EP300,Digestive tract,Esophagus muscularis mucosa
+SRX5457293,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX5457362,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX7509196,CTCF,Digestive tract,Stomach
+SRX7509197,CTCF,Digestive tract,Stomach
+SRX7509219,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX7509220,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX7509268,CTCF,Digestive tract,Stomach
+SRX7509269,CTCF,Digestive tract,Stomach
+SRX7509297,CTCF,Digestive tract,Colon
+SRX7509298,CTCF,Digestive tract,Colon
+SRX7509308,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX7509309,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX7509326,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX7509327,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX7509411,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX7509412,CTCF,Digestive tract,Esophagus muscularis mucosa
+SRX7509495,CTCF,Digestive tract,Colon
+SRX7509496,CTCF,Digestive tract,Colon
+SRX7509497,CTCF,Digestive tract,Colon
+SRX7509498,CTCF,Digestive tract,Colon
+SRX7509595,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX7509596,CTCF,Digestive tract,Esophagus squamous epithelium
+SRX7509642,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX7509643,CTCF,Digestive tract,Gastroesophageal sphincter
+SRX7509664,CTCF,Digestive tract,Colon
+SRX7509665,CTCF,Digestive tract,Colon
+SRX7509672,CTCF,Digestive tract,Colon
+SRX7509673,CTCF,Digestive tract,Colon
+SRX018991,TP63,Epidermis,Keratinocytes
+SRX018992,TP63,Epidermis,Keratinocytes
+SRX019786,TP63,Epidermis,Keratinocytes
+SRX079858,NFKBIA,Epidermis,Keratinocytes
+SRX099053,TP63,Epidermis,Keratinocytes
+SRX099055,TP63,Epidermis,Keratinocytes
+SRX105186,TP63,Epidermis,Keratinocytes
+SRX105187,TP63,Epidermis,Keratinocytes
+SRX10634383,YAP1,Epidermis,Keratinocytes
+SRX10634384,TEAD1,Epidermis,Keratinocytes
+SRX10913934,EN1,Epidermis,Dermal fibroblast
+SRX10913935,EN1,Epidermis,Dermal fibroblast
+SRX10913936,SP1,Epidermis,Dermal fibroblast
+SRX10913937,SP1,Epidermis,Dermal fibroblast
+SRX10913940,EN1,Epidermis,Dermal fibroblast
+SRX10913941,EN1,Epidermis,Dermal fibroblast
+SRX10913942,SP1,Epidermis,Dermal fibroblast
+SRX10913943,SP1,Epidermis,Dermal fibroblast
+SRX10913946,EN1,Epidermis,Dermal fibroblast
+SRX10913947,EN1,Epidermis,Dermal fibroblast
+SRX10913948,SP1,Epidermis,Dermal fibroblast
+SRX10913949,SP1,Epidermis,Dermal fibroblast
+SRX10976217,CTCF,Epidermis,Foreskin
+SRX10976218,CTCF,Epidermis,Foreskin
+SRX10976426,EZH2,Epidermis,Dermal fibroblast
+SRX10976427,EZH2,Epidermis,Dermal fibroblast
+SRX10976477,EZH2,Epidermis,Dermal fibroblast
+SRX10976478,EZH2,Epidermis,Dermal fibroblast
+SRX10977237,CTCF,Epidermis,Foreskin
+SRX10977238,CTCF,Epidermis,Foreskin
+SRX10977274,CTCF,Epidermis,Foreskin
+SRX10977275,CTCF,Epidermis,Foreskin
+SRX11483609,SMAD3,Epidermis,Keratinocytes
+SRX11955265,AFF1,Epidermis,Keratinocytes
+SRX11955266,AFF1,Epidermis,Keratinocytes
+SRX11955267,HEXIM1,Epidermis,Keratinocytes
+SRX11969040,BRD4,Epidermis,Keratinocytes
+SRX11969041,BRD4,Epidermis,Keratinocytes
+SRX11969042,BRD4,Epidermis,Keratinocytes
+SRX11969043,BRD4,Epidermis,Keratinocytes
+SRX11969044,BRD4,Epidermis,Keratinocytes
+SRX11969045,BRD4,Epidermis,Keratinocytes
+SRX11969046,BRD4,Epidermis,Keratinocytes
+SRX11969047,BRD4,Epidermis,Keratinocytes
+SRX12567770,TBP,Epidermis,Foreskin
+SRX12567772,HHV UL87,Epidermis,Foreskin
+SRX12567778,TBP,Epidermis,Foreskin
+SRX12567779,TBP,Epidermis,Foreskin
+SRX12567782,HHV UL87,Epidermis,Foreskin
+SRX13234466,SPI1,Epidermis,Dermal fibroblast
+SRX13234467,IRF8,Epidermis,Dermal fibroblast
+SRX13234468,BATF3,Epidermis,Dermal fibroblast
+SRX13234469,SPI1,Epidermis,Dermal fibroblast
+SRX13234470,IRF8,Epidermis,Dermal fibroblast
+SRX13234471,BATF3,Epidermis,Dermal fibroblast
+SRX13356476,SPI1,Epidermis,Dermal fibroblast
+SRX13356477,IRF8,Epidermis,Dermal fibroblast
+SRX13356478,BATF3,Epidermis,Dermal fibroblast
+SRX15426928,HEXIM1,Epidermis,Keratinocytes
+SRX1547996,TP53,Epidermis,Dermal fibroblast
+SRX1547998,TP53,Epidermis,Dermal fibroblast
+SRX1603678,TP63,Epidermis,Differentiated keratinocytes
+SRX1759184,ATF3,Epidermis,Dermal fibroblast
+SRX1759186,ATF3,Epidermis,Dermal fibroblast
+SRX1781647,LMNA,Epidermis,Dermal fibroblast
+SRX1781649,LMNA,Epidermis,Dermal fibroblast
+SRX1781651,LMNA,Epidermis,Dermal fibroblast
+SRX1781653,LMNA,Epidermis,Dermal fibroblast
+SRX1781655,LMNA,Epidermis,Dermal fibroblast
+SRX1781657,LMNA,Epidermis,Dermal fibroblast
+SRX1781659,LMNA,Epidermis,Dermal fibroblast
+SRX1829883,INO80,Epidermis,Melanocytes
+SRX18517800,NUP98,Epidermis,Keratinocytes
+SRX18517801,NUP98,Epidermis,Keratinocytes
+SRX18517813,HDAC1,Epidermis,Keratinocytes
+SRX18517814,HDAC1,Epidermis,Keratinocytes
+SRX18517819,NUP98,Epidermis,Keratinocytes
+SRX18517820,NUP98,Epidermis,Keratinocytes
+SRX18517821,NUP98,Epidermis,Keratinocytes
+SRX1916933,DNMT3A,Epidermis,Epidermal stem cells
+SRX1916934,DNMT3B,Epidermis,Epidermal stem cells
+SRX1916935,DNMT3A,Epidermis,Epidermal stem cells
+SRX1916936,DNMT3B,Epidermis,Epidermal stem cells
+SRX1916937,DNMT3A,Epidermis,Epidermal stem cells
+SRX1916938,DNMT3B,Epidermis,Epidermal stem cells
+SRX19495644,AHR,Epidermis,Keratinocytes
+SRX19495645,AHR,Epidermis,Keratinocytes
+SRX1967776,CTCF,Epidermis,Keratinocytes
+SRX1967777,CTCF,Epidermis,Keratinocytes
+SRX1967778,CTCF,Epidermis,Keratinocytes
+SRX1967779,SMC1A,Epidermis,Keratinocytes
+SRX1967780,SMC1A,Epidermis,Keratinocytes
+SRX1967781,SMC1A,Epidermis,Keratinocytes
+SRX1967782,SMC1A,Epidermis,Keratinocytes
+SRX1967783,SMC1A,Epidermis,Keratinocytes
+SRX1967784,SMC1A,Epidermis,Keratinocytes
+SRX1967785,EHF,Epidermis,Keratinocytes
+SRX200046,LMNA,Epidermis,Forearm skin
+SRX200048,LMNA,Epidermis,Forearm skin
+SRX200050,LMNA,Epidermis,Forearm skin
+SRX200052,LMNA,Epidermis,Forearm skin
+SRX20093960,LMNA,Epidermis,Dermal fibroblast
+SRX20093962,LMNA,Epidermis,Dermal fibroblast
+SRX20097673,VDR,Epidermis,Foreskin
+SRX20097674,VDR,Epidermis,Foreskin
+SRX20097675,VDR,Epidermis,Foreskin
+SRX20097676,VDR,Epidermis,Foreskin
+SRX20097677,VDR,Epidermis,Foreskin
+SRX20097678,VDR,Epidermis,Foreskin
+SRX20097679,TP63,Epidermis,Foreskin
+SRX20097680,TP63,Epidermis,Foreskin
+SRX20097681,TP63,Epidermis,Foreskin
+SRX20097682,TP63,Epidermis,Foreskin
+SRX20097683,CTCF,Epidermis,Foreskin
+SRX20097684,CTCF,Epidermis,Foreskin
+SRX20097685,MED1,Epidermis,Foreskin
+SRX20097686,MED1,Epidermis,Foreskin
+SRX2014554,SMC1A,Epidermis,Keratinocytes
+SRX20419390,HDAC1,Epidermis,Keratinocytes
+SRX20419391,HDAC1,Epidermis,Keratinocytes
+SRX20419392,NUP98,Epidermis,Keratinocytes
+SRX20440536,NUP98,Epidermis,Keratinocytes
+SRX20517420,HDAC1,Epidermis,Keratinocytes
+SRX20517422,HDAC1,Epidermis,Keratinocytes
+SRX20995041,MTA2,Epidermis,Keratinocytes
+SRX20995042,MTA2,Epidermis,Keratinocytes
+SRX20995043,MTA2,Epidermis,Keratinocytes
+SRX20995045,MTA2,Epidermis,Keratinocytes
+SRX20995046,MTA2,Epidermis,Keratinocytes
+SRX20995047,MTA2,Epidermis,Keratinocytes
+SRX23045260,GLI1,Epidermis,Dermal fibroblast
+SRX23045261,GLI1,Epidermis,Dermal fibroblast
+SRX23045262,GLI1,Epidermis,Dermal fibroblast
+SRX23045263,GLI1,Epidermis,Dermal fibroblast
+SRX23045264,GLI1,Epidermis,Dermal fibroblast
+SRX23045265,GLI1,Epidermis,Dermal fibroblast
+SRX23045266,GLI1,Epidermis,Dermal fibroblast
+SRX23045267,GLI1,Epidermis,Dermal fibroblast
+SRX23045268,GLI1,Epidermis,Dermal fibroblast
+SRX23335286,EZH2,Epidermis,Foreskin
+SRX23335287,EZH2,Epidermis,Foreskin
+SRX23335288,EZH2,Epidermis,Dermal fibroblast
+SRX23335289,EZH2,Epidermis,Dermal fibroblast
+SRX23335290,EZH2,Epidermis,Dermal fibroblast
+SRX23383574,TP63,Epidermis,Keratinocytes
+SRX23383575,TP63,Epidermis,Keratinocytes
+SRX23383576,TP63,Epidermis,Keratinocytes
+SRX23383577,TP63,Epidermis,Keratinocytes
+SRX25501804,LMNA,Epidermis,Dermal fibroblast
+SRX25501807,LMNA,Epidermis,Dermal fibroblast
+SRX25501808,LMNA,Epidermis,Dermal fibroblast
+SRX25501811,LMNA,Epidermis,Dermal fibroblast
+SRX25501812,LMNA,Epidermis,Dermal fibroblast
+SRX25501815,LMNA,Epidermis,Dermal fibroblast
+SRX25501818,LMNA,Epidermis,Dermal fibroblast
+SRX25501819,LMNA,Epidermis,Dermal fibroblast
+SRX25605816,DNA-RNA hybrid,Epidermis,Foreskin
+SRX25605817,DNA-RNA hybrid,Epidermis,Foreskin
+SRX2791697,LMNA,Epidermis,Dermal fibroblast
+SRX2791698,LMNB1,Epidermis,Dermal fibroblast
+SRX2791699,LMNA,Epidermis,Dermal fibroblast
+SRX2791700,LMNB1,Epidermis,Dermal fibroblast
+SRX3100755,RBPJ,Epidermis,Keratinocytes
+SRX323565,ASCL1,Epidermis,Dermal fibroblast
+SRX323567,ASCL1,Epidermis,Keratinocytes
+SRX3321933,CTCF,Epidermis,Suprapubic skin
+SRX3322116,CTCF,Epidermis,Leg skin
+SRX3322151,EP300,Epidermis,Suprapubic skin
+SRX3322192,EP300,Epidermis,Suprapubic skin
+SRX3322320,CTCF,Epidermis,Leg skin
+SRX3322668,CTCF,Epidermis,Leg skin
+SRX3322772,CTCF,Epidermis,Leg skin
+SRX3322802,EP300,Epidermis,Suprapubic skin
+SRX3322941,CTCF,Epidermis,Suprapubic skin
+SRX3322998,EP300,Epidermis,Suprapubic skin
+SRX3367137,BRD2,Epidermis,Foreskin
+SRX3367138,BRD4,Epidermis,Foreskin
+SRX3421794,AR,Epidermis,Dermal fibroblast
+SRX346921,MITF,Epidermis,Melanocytes
+SRX346922,MITF,Epidermis,Melanocytes
+SRX3511907,YAP1,Epidermis,Dermal fibroblast
+SRX3511908,YAP1,Epidermis,Dermal fibroblast
+SRX3511909,YAP1,Epidermis,Dermal fibroblast
+SRX3511910,YAP1,Epidermis,Dermal fibroblast
+SRX3642946,PRMT1,Epidermis,Keratinocytes
+SRX3642947,PRMT1,Epidermis,Keratinocytes
+SRX3642948,PRMT1,Epidermis,Keratinocytes
+SRX3642949,PRMT1,Epidermis,Keratinocytes
+SRX3679898,KMT2D,Epidermis,Keratinocytes
+SRX3679900,KMT2D,Epidermis,Keratinocytes
+SRX3679902,KMT2D,Epidermis,Keratinocytes
+SRX3679904,KMT2D,Epidermis,Keratinocytes
+SRX3679906,TP63,Epidermis,Keratinocytes
+SRX3734300,TP53,Epidermis,Foreskin
+SRX3734301,TP53,Epidermis,Foreskin
+SRX382353,RNF2,Epidermis,Melanocytes
+SRX382354,RNF2,Epidermis,Melanocytes
+SRX386478,MAF,Epidermis,Keratinocytes
+SRX386479,MAFB,Epidermis,Keratinocytes
+SRX447385,LMNA,Epidermis,Dermal fibroblast
+SRX447387,LMNA,Epidermis,Dermal fibroblast
+SRX447388,LMNA,Epidermis,Dermal fibroblast
+SRX4637892,ELK1,Epidermis,Dermal fibroblast
+SRX4637894,ELK1,Epidermis,Dermal fibroblast
+SRX4649679,TP53,Epidermis,Foreskin
+SRX4649681,TP53,Epidermis,Foreskin
+SRX476913,SNAI2,Epidermis,Keratinocytes
+SRX476914,SNAI2,Epidermis,Keratinocytes
+SRX476915,SNAI2,Epidermis,Keratinocytes
+SRX476916,SNAI2,Epidermis,Keratinocytes
+SRX476919,SNAI2,Epidermis,Keratinocytes
+SRX476920,SNAI2,Epidermis,Keratinocytes
+SRX476921,SNAI2,Epidermis,Keratinocytes
+SRX476922,SNAI2,Epidermis,Keratinocytes
+SRX476923,SNAI2,Epidermis,Keratinocytes
+SRX476924,SNAI2,Epidermis,Keratinocytes
+SRX476925,SNAI2,Epidermis,Keratinocytes
+SRX476926,SNAI2,Epidermis,Keratinocytes
+SRX4976908,TP63,Epidermis,Keratinocytes
+SRX4976909,TP63,Epidermis,Keratinocytes
+SRX4996447,HNRNPK,Epidermis,Keratinocytes
+SRX4996448,HNRNPK,Epidermis,Keratinocytes
+SRX4996449,HNRNPK,Epidermis,Keratinocytes
+SRX5126616,CTCF,Epidermis,Keratinocytes
+SRX5126619,CTCF,Epidermis,Keratinocytes
+SRX5138659,ETV2,Epidermis,Dermal fibroblast
+SRX5138661,ETV2,Epidermis,Dermal fibroblast
+SRX514837,TP63,Epidermis,Keratinocytes
+SRX514838,TP63,Epidermis,Keratinocytes
+SRX514839,TP63,Epidermis,Keratinocytes
+SRX514840,TP53,Epidermis,Keratinocytes
+SRX514841,TP53,Epidermis,Keratinocytes
+SRX514842,TP53,Epidermis,Keratinocytes
+SRX514843,TP63,Epidermis,Keratinocytes
+SRX514844,TP63,Epidermis,Keratinocytes
+SRX514845,TP63,Epidermis,Keratinocytes
+SRX514846,TP53,Epidermis,Keratinocytes
+SRX514847,TP53,Epidermis,Keratinocytes
+SRX514848,TP53,Epidermis,Keratinocytes
+SRX5360084,EZH2,Epidermis,Dermal fibroblast
+SRX5360085,EZH2,Epidermis,Dermal fibroblast
+SRX5360089,EZH2,Epidermis,Dermal fibroblast
+SRX5360090,EZH2,Epidermis,Dermal fibroblast
+SRX5360094,EZH2,Epidermis,Dermal fibroblast
+SRX5360095,EZH2,Epidermis,Dermal fibroblast
+SRX543180,ZNF750,Epidermis,Keratinocytes
+SRX543181,KLF4,Epidermis,Keratinocytes
+SRX543182,RCOR1,Epidermis,Keratinocytes
+SRX543183,KDM1A,Epidermis,Keratinocytes
+SRX5457128,CTCF,Epidermis,Suprapubic skin
+SRX5774914,POU5F1,Epidermis,Dermal fibroblast
+SRX5774915,POU5F1,Epidermis,Dermal fibroblast
+SRX5774916,POU5F1,Epidermis,Dermal fibroblast
+SRX5774919,POU5F1,Epidermis,Dermal fibroblast
+SRX5774920,POU5F1,Epidermis,Dermal fibroblast
+SRX5813556,EZH2,Epidermis,Dermal fibroblast
+SRX5813557,EZH2,Epidermis,Dermal fibroblast
+SRX5813558,EZH2,Epidermis,Dermal fibroblast
+SRX6384905,KDM1A,Epidermis,Keratinocytes
+SRX6384906,KDM1A,Epidermis,Keratinocytes
+SRX6384907,KDM1A,Epidermis,Keratinocytes
+SRX6384908,KDM1A,Epidermis,Keratinocytes
+SRX663249,TP63,Epidermis,Keratinocytes
+SRX663250,TP63,Epidermis,Keratinocytes
+SRX663251,TP63,Epidermis,Keratinocytes
+SRX663252,TP63,Epidermis,Keratinocytes
+SRX666592,RBPJ,Epidermis,Dermal fibroblast
+SRX666593,RBPJ,Epidermis,Dermal fibroblast
+SRX6976722,TEAD1,Epidermis,Keratinocytes
+SRX6976723,TEAD1,Epidermis,Keratinocytes
+SRX700518,BRD4,Epidermis,Dermal fibroblast
+SRX700519,BRD4,Epidermis,Dermal fibroblast
+SRX700520,BRD4,Epidermis,Dermal fibroblast
+SRX700521,BRD4,Epidermis,Dermal fibroblast
+SRX7086149,HNF1A,Epidermis,Skin fibroblasts
+SRX7086153,HNF1A,Epidermis,Skin fibroblasts
+SRX7089341,CTCF,Epidermis,Suprapubic skin
+SRX7089342,CTCF,Epidermis,Suprapubic skin
+SRX7214021,KLF3,Epidermis,Keratinocytes
+SRX7214022,KLF3,Epidermis,Keratinocytes
+SRX7214024,CREBBP,Epidermis,Keratinocytes
+SRX7214025,CREBBP,Epidermis,Keratinocytes
+SRX7214026,CREBBP,Epidermis,Keratinocytes
+SRX7214027,CREBBP,Epidermis,Keratinocytes
+SRX753312,JUNB,Epidermis,Keratinocytes
+SRX7805893,SMC1A,Epidermis,Dermal fibroblast
+SRX7805895,SMC1A,Epidermis,Dermal fibroblast
+SRX7805897,SMC1A,Epidermis,Dermal fibroblast
+SRX7805899,NIPBL,Epidermis,Dermal fibroblast
+SRX7805901,NIPBL,Epidermis,Dermal fibroblast
+SRX8082232,BRD4,Epidermis,Keratinocytes
+SRX8082233,BRD4,Epidermis,Keratinocytes
+SRX8363960,NUP98,Epidermis,Keratinocytes
+SRX8607604,SUPT6H,Epidermis,Keratinocytes
+SRX8607605,SUPT6H,Epidermis,Keratinocytes
+SRX864094,MYC,Epidermis,Dermal fibroblast
+SRX864095,MYC,Epidermis,Dermal fibroblast
+SRX8707935,CTCF,Epidermis,Keratinocytes
+SRX8707936,CTCF,Epidermis,Keratinocytes
+SRX8707937,CTCF,Epidermis,Keratinocytes
+SRX8707938,MED1,Epidermis,Keratinocytes
+SRX8707939,MED1,Epidermis,Keratinocytes
+SRX873804,DNMT3A,Epidermis,Epidermal stem cells
+SRX873805,DNMT3B,Epidermis,Epidermal stem cells
+SRX873813,DNMT3A,Epidermis,Keratinocytes
+SRX873814,DNMT3B,Epidermis,Keratinocytes
+SRX971582,SMARCA4,Epidermis,Keratinocytes
+SRX971583,SMARCA4,Epidermis,Keratinocytes
+SRX971584,SMARCA4,Epidermis,Keratinocytes
+SRX971585,TP63,Epidermis,Keratinocytes
+SRX971586,TP63,Epidermis,Keratinocytes
+SRX971589,EP300,Epidermis,Keratinocytes
+SRX971590,EP300,Epidermis,Keratinocytes
+SRX10976697,CTCF,Kidney,Nephrons
+SRX10976698,CTCF,Kidney,Nephrons
+SRX10976878,CTCF,Kidney,Nephrons
+SRX10976879,CTCF,Kidney,Nephrons
+SRX10976991,CTCF,Kidney,Nephrons
+SRX10976992,CTCF,Kidney,Nephrons
+SRX10977203,CTCF,Kidney,Nephrons
+SRX10977204,CTCF,Kidney,Nephrons
+SRX10977205,CTCF,Kidney,Nephrons
+SRX10977206,CTCF,Kidney,Nephrons
+SRX1318615,SIX2,Kidney,Kidney Cortex
+SRX1318617,SIX2,Kidney,Kidney Cortex
+SRX1318619,SIX1,Kidney,Kidney Cortex
+SRX1318620,SIX1,Kidney,Kidney Cortex
+SRX13994927,EP300,Kidney,rRenal tubular epithelial cells
+SRX1478537,EP300,Kidney,Kidney Cortex
+SRX1478538,SIX1,Kidney,Kidney Cortex
+SRX1478539,SIX1,Kidney,Kidney Cortex
+SRX1478540,SIX1,Kidney,Kidney Cortex
+SRX1478541,SIX2,Kidney,Kidney Cortex
+SRX1478542,SIX2,Kidney,Kidney Cortex
+SRX1478543,SIX2,Kidney,Kidney Cortex
+SRX1478544,SIX2,Kidney,Kidney Cortex
+SRX188963,CTCF,Kidney,Kidney
+SRX2993407,HIF1A,Kidney,Renal tubular cells
+SRX2993408,ARNT,Kidney,Renal tubular cells
+SRX4488114,NR3C1,Kidney,Podocytes
+SRX5661979,VDR,Kidney,Kidney Cortex
+SRX5661980,VDR,Kidney,Kidney Cortex
+SRX5661981,VDR,Kidney,Kidney Cortex
+SRX5661982,CREB1,Kidney,Kidney Cortex
+SRX5661983,CREB1,Kidney,Kidney Cortex
+SRX5661984,CREB1,Kidney,Kidney Cortex
+SRX9799512,NR3C1,Kidney,Podocytes
+SRX9799513,NR3C1,Kidney,Podocytes
+SRX032874,FOXA2,Liver,Liver
+SRX032875,FOXA2,Liver,Liver
+SRX032876,FOXA2,Liver,Liver
+SRX032877,FOXA2,Liver,Liver
+SRX10056751,MBD2,Liver,Liver
+SRX10056752,MBD2,Liver,Liver
+SRX10977196,EZH2,Liver,Hepatocytes
+SRX14280059,LMNB1,Liver,Liver
+SRX14280060,LMNB1,Liver,Liver
+SRX14280081,FOXA2,Liver,Liver
+SRX14280082,FOXA2,Liver,Liver
+SRX14280083,FOXA2,Liver,Liver
+SRX14280084,FOXA2,Liver,Liver
+SRX14280085,FOXA2,Liver,Liver
+SRX14280086,FOXA2,Liver,Liver
+SRX14280087,LMNB1,Liver,Liver
+SRX14280088,LMNB1,Liver,Liver
+SRX14280089,LMNB1,Liver,Liver
+SRX14280090,LMNB1,Liver,Liver
+SRX15600232,AHR,Liver,Hepatocytes
+SRX15600233,AHR,Liver,Hepatocytes
+SRX16495311,CTCF,Liver,Liver
+SRX16495312,CTCF,Liver,Liver
+SRX16499968,CTCF,Liver,Liver
+SRX16499969,CTCF,Liver,Liver
+SRX16499974,CTCF,Liver,Liver
+SRX16499975,CTCF,Liver,Liver
+SRX18156222,FOXA2,Liver,Liver
+SRX18156223,FOXA2,Liver,Liver
+SRX18156224,FOXA2,Liver,Liver
+SRX18156225,LMNB1,Liver,Liver
+SRX18156226,LMNB1,Liver,Liver
+SRX18156227,LMNB1,Liver,Liver
+SRX2630137,GABPA,Liver,Liver
+SRX2630138,GABPA,Liver,Liver
+SRX2630286,NR2F2,Liver,Liver
+SRX2630287,NR2F2,Liver,Liver
+SRX2630318,JUND,Liver,Liver
+SRX2630319,JUND,Liver,Liver
+SRX2630358,RAD21,Liver,Liver
+SRX2630359,RAD21,Liver,Liver
+SRX2630360,ATF3,Liver,Liver
+SRX2630361,ATF3,Liver,Liver
+SRX2630462,TAF1,Liver,Liver
+SRX2630463,TAF1,Liver,Liver
+SRX2635806,NR2F2,Liver,Liver
+SRX2635807,NR2F2,Liver,Liver
+SRX2635821,ZBTB33,Liver,Liver
+SRX2635822,ZBTB33,Liver,Liver
+SRX2635825,GABPA,Liver,Liver
+SRX2635826,GABPA,Liver,Liver
+SRX2635877,FOXA1,Liver,Liver
+SRX2635878,FOXA1,Liver,Liver
+SRX2635902,YY1,Liver,Liver
+SRX2635903,YY1,Liver,Liver
+SRX2635951,ATF3,Liver,Liver
+SRX2635952,ATF3,Liver,Liver
+SRX2635955,ZBTB33,Liver,Liver
+SRX2635956,ZBTB33,Liver,Liver
+SRX2635979,MAX,Liver,Liver
+SRX2635980,MAX,Liver,Liver
+SRX2636008,HNF4A,Liver,Liver
+SRX2636009,HNF4A,Liver,Liver
+SRX2636083,HNF4A,Liver,Liver
+SRX2636084,HNF4A,Liver,Liver
+SRX2636234,FOXA1,Liver,Liver
+SRX2636235,FOXA1,Liver,Liver
+SRX2636352,JUND,Liver,Liver
+SRX2636353,JUND,Liver,Liver
+SRX2636488,RAD21,Liver,Liver
+SRX2636489,RAD21,Liver,Liver
+SRX2636587,YY1,Liver,Liver
+SRX2636588,YY1,Liver,Liver
+SRX2636601,MAX,Liver,Liver
+SRX2636602,MAX,Liver,Liver
+SRX3010015,CTCF,Liver,Hepatocytes
+SRX3010016,CTCF,Liver,Hepatocytes
+SRX3010017,CTCF,Liver,Hepatocytes
+SRX3010297,EZH2,Liver,Hepatocytes
+SRX3010298,EZH2,Liver,Hepatocytes
+SRX3321879,FOXA2,Liver,Liver
+SRX3321880,FOXA2,Liver,Liver
+SRX3322184,HNF4G,Liver,Liver
+SRX3322185,HNF4G,Liver,Liver
+SRX3322233,FOXA2,Liver,Liver
+SRX3322234,FOXA2,Liver,Liver
+SRX3322719,CTCF,Liver,Liver
+SRX3323031,REST,Liver,Liver
+SRX3323032,REST,Liver,Liver
+SRX3323081,REST,Liver,Liver
+SRX3323082,REST,Liver,Liver
+SRX530184,NR1H4,Liver,Hepatocytes
+SRX530186,NR1H4,Liver,Hepatocytes
+SRX5457221,SP1,Liver,Liver
+SRX5457222,SP1,Liver,Liver
+SRX5457233,RXRA,Liver,Liver
+SRX5457234,RXRA,Liver,Liver
+SRX5457254,RAD21,Liver,Liver
+SRX5457255,RAD21,Liver,Liver
+SRX5457320,EGR1,Liver,Liver
+SRX5457321,EGR1,Liver,Liver
+SRX5457389,CTCF,Liver,Liver
+SRX5457390,CTCF,Liver,Liver
+SRX5457410,EGR1,Liver,Liver
+SRX5457411,EGR1,Liver,Liver
+SRX5457467,RXRA,Liver,Liver
+SRX5457468,RXRA,Liver,Liver
+SRX5457498,SP1,Liver,Liver
+SRX5457499,SP1,Liver,Liver
+SRX5471140,MED1,Liver,Liver
+SRX8453143,AR,Liver,Liver
+SRX8453146,CTCF,Liver,Liver
+SRX8453150,FOXA1,Liver,Liver
+SRX9221932,ESR1,Liver,Hepatocytes
+SRX9221933,ESR1,Liver,Hepatocytes
+SRX9221935,ESR1,Liver,Liver
+SRX10131662,CDK9,Lung,Bronchial tracheal epithelial cells
+SRX10131663,CDK9,Lung,Bronchial tracheal epithelial cells
+SRX10131664,NELFCD,Lung,Bronchial tracheal epithelial cells
+SRX10131665,NELFCD,Lung,Bronchial tracheal epithelial cells
+SRX10131666,MLLT3,Lung,Bronchial tracheal epithelial cells
+SRX10131667,MLLT3,Lung,Bronchial tracheal epithelial cells
+SRX10131668,MLLT1,Lung,Bronchial tracheal epithelial cells
+SRX10131669,MLLT1,Lung,Bronchial tracheal epithelial cells
+SRX10131670,BRD4,Lung,Bronchial tracheal epithelial cells
+SRX10131671,BRD4,Lung,Bronchial tracheal epithelial cells
+SRX10131678,MLLT3,Lung,Bronchial tracheal epithelial cells
+SRX10131679,MLLT3,Lung,Bronchial tracheal epithelial cells
+SRX10131680,MLLT1,Lung,Bronchial tracheal epithelial cells
+SRX10131681,MLLT1,Lung,Bronchial tracheal epithelial cells
+SRX10131682,BRD4,Lung,Bronchial tracheal epithelial cells
+SRX10131683,BRD4,Lung,Bronchial tracheal epithelial cells
+SRX10976484,CTCF,Lung,Lung
+SRX10976485,CTCF,Lung,Lung
+SRX10976701,CTCF,Lung,Lung
+SRX10976702,CTCF,Lung,Lung
+SRX10976863,CTCF,Lung,Lung
+SRX10976864,CTCF,Lung,Lung
+SRX11412423,1-Dec,Lung,Bronchial epithelial cells
+SRX13009098,CTCF,Lung,Lung
+SRX13009099,CTCF,Lung,Lung
+SRX16498460,CTCF,Lung,Lung
+SRX16498461,CTCF,Lung,Lung
+SRX16500149,CTCF,Lung,Lung
+SRX16500150,CTCF,Lung,Lung
+SRX1711343,INTS12,Lung,Bronchial epithelial cells
+SRX1711344,INTS12,Lung,Bronchial epithelial cells
+SRX18031708,YAP1,Lung,Bronchial epithelial cells
+SRX18031709,YAP1,Lung,Bronchial epithelial cells
+SRX18031710,TP63,Lung,Bronchial epithelial cells
+SRX18031711,TP63,Lung,Bronchial epithelial cells
+SRX188959,CTCF,Lung,Lung
+SRX212182,RELA,Lung,Lung fibroblasts
+SRX212183,RELA,Lung,Lung fibroblasts
+SRX212184,EP300,Lung,Lung fibroblasts
+SRX212185,EP300,Lung,Lung fibroblasts
+SRX212197,CTCF,Lung,Lung fibroblasts
+SRX268450,GRHL2,Lung,Tracheal epithelial cells
+SRX268451,GRHL2,Lung,Tracheal epithelial cells
+SRX268452,GRHL2,Lung,Tracheal epithelial cells
+SRX2765967,HMGB2,Lung,Lung fibroblasts
+SRX2765968,HMGB2,Lung,Lung fibroblasts
+SRX3288977,IRF3,Lung,Bronchial tracheal epithelial cells
+SRX3288978,IRF3,Lung,Bronchial tracheal epithelial cells
+SRX3288979,IRF3,Lung,Bronchial tracheal epithelial cells
+SRX3288980,IRF3,Lung,Bronchial tracheal epithelial cells
+SRX3288981,IRF3,Lung,Bronchial tracheal epithelial cells
+SRX3321881,EP300,Lung,Lung
+SRX3321901,CTCF,Lung,Lung
+SRX3322177,EP300,Lung,Lung
+SRX3322334,EP300,Lung,Lung
+SRX3322854,EP300,Lung,Lung
+SRX3322861,CTCF,Lung,Lung
+SRX3322906,CTCF,Lung,Lung
+SRX3322964,CTCF,Lung,Lung
+SRX3585704,HMGB1,Lung,Lung fibroblasts
+SRX4367421,TBP,Lung,Bronchial tracheal epithelial cells
+SRX4367422,TBP,Lung,Bronchial tracheal epithelial cells
+SRX4367431,TBP,Lung,Bronchial tracheal epithelial cells
+SRX4367432,TBP,Lung,Bronchial tracheal epithelial cells
+SRX4367441,TBP,Lung,Bronchial tracheal epithelial cells
+SRX4367442,TBP,Lung,Bronchial tracheal epithelial cells
+SRX5471141,MED1,Lung,Lung
+SRX6784062,CTCF,Lung,Lung
+SRX6784063,CTCF,Lung,Lung
+SRX7509288,CTCF,Lung,Lung
+SRX7509421,CTCF,Lung,Lung
+SRX7509422,CTCF,Lung,Lung
+SRX7570768,FOXA1,Lung,Bronchial epithelial cells
+SRX7570769,FOXA1,Lung,Bronchial epithelial cells
+SRX7570770,FOXA2,Lung,Bronchial epithelial cells
+SRX7570771,FOXA2,Lung,Bronchial epithelial cells
+SRX8453141,AR,Lung,Lung
+SRX8453148,FOXA1,Lung,Lung
+SRX9163074,TEAD1,Lung,Bronchial epithelial cells
+SRX9163075,TEAD1,Lung,Bronchial epithelial cells
+SRX9850737,KLF5,Lung,Bronchial epithelial cells
+SRX9850738,KLF5,Lung,Bronchial epithelial cells
+SRX9850739,KLF5,Lung,Bronchial epithelial cells
+SRX9850740,KLF5,Lung,Bronchial epithelial cells
+SRX9850741,CEBPB,Lung,Bronchial epithelial cells
+SRX9850742,CEBPB,Lung,Bronchial epithelial cells
+SRX10476782,CTCF,Muscle,Gastrocnemius medialis
+SRX10476783,CTCF,Muscle,Gastrocnemius medialis
+SRX107284,DUX4,Muscle,Myoblasts
+SRX107285,DUX4,Muscle,Myoblasts
+SRX10949091,CTCF,Muscle,Muscles
+SRX10949092,CTCF,Muscle,Muscles
+SRX10949099,CTCF,Muscle,Muscles
+SRX10949100,CTCF,Muscle,Muscles
+SRX10949235,CTCF,Muscle,Muscles
+SRX10949236,CTCF,Muscle,Muscles
+SRX10976875,CTCF,Muscle,Muscle
+SRX10976876,CTCF,Muscle,Muscle
+SRX16498392,CTCF,Muscle,Psoas Muscles
+SRX16498393,CTCF,Muscle,Psoas Muscles
+SRX17658242,UBE2A,Muscle,Skeletal muscle
+SRX17658243,UBE2A,Muscle,Skeletal muscle
+SRX20662341,CBFB,Muscle,Skeletal muscle
+SRX20662342,CBFB,Muscle,Skeletal muscle
+SRX20662345,YAP1,Muscle,Skeletal muscle
+SRX21849426,VDR,Muscle,Skeletal muscle
+SRX2254716,TRF2,Muscle,Myotube
+SRX2254717,TRF2,Muscle,Myotube
+SRX2254718,TRF2,Muscle,Myotube
+SRX2254719,TRF2,Muscle,Myotube
+SRX2388757,AR,Muscle,Myofibroblasts
+SRX3322290,CTCF,Muscle,Gastrocnemius medialis
+SRX3322306,CTCF,Muscle,Gastrocnemius medialis
+SRX3323006,CTCF,Muscle,Gastrocnemius medialis
+SRX341010,MYOD1,Muscle,Myoblasts
+SRX341011,MYOD1,Muscle,Myotube
+SRX4394213,HDGF2,Muscle,Myoblasts
+SRX4394214,HDGF2,Muscle,Myotube
+SRX4394221,PSIP1,Muscle,Myoblasts
+SRX4394222,PSIP1,Muscle,Myotube
+SRX4394225,SUPT16H,Muscle,Myoblasts
+SRX4394226,SUPT16H,Muscle,Myotube
+SRX4957969,TERF1,Muscle,Smooth Muscle
+SRX4957971,TERF2,Muscle,Smooth Muscle
+SRX5391034,MLXIP,Muscle,Skeletal myotubes
+SRX5391035,MLXIP,Muscle,Skeletal myotubes
+SRX668234,MED1,Muscle,Myoblasts
+SRX7509481,CTCF,Muscle,Gastrocnemius medialis
+SRX7509482,CTCF,Muscle,Gastrocnemius medialis
+SRX9674621,FOXO1,Muscle,Myoblasts
+SRX9674623,FOXO1,Muscle,Myoblasts
+SRX9674625,FOXO1,Muscle,Myoblasts
+SRX103002,CTCF,Neural,Glioblastoma
+SRX10476638,CTCF,Neural,Tibial Nerve
+SRX10976792,CTCF,Neural,Brain
+SRX10976793,CTCF,Neural,Brain
+SRX10976935,CTCF,Neural,Brain
+SRX10976936,CTCF,Neural,Brain
+SRX10976937,CTCF,Neural,Brain
+SRX10976938,CTCF,Neural,Brain
+SRX10977361,CTCF,Neural,Astrocytes
+SRX10977362,CTCF,Neural,Astrocytes
+SRX10977366,CTCF,Neural,Brain
+SRX10977367,CTCF,Neural,Brain
+SRX10977368,CTCF,Neural,Brain
+SRX10977522,CTCF,Neural,Excitatory neuron
+SRX10977523,CTCF,Neural,Excitatory neuron
+SRX10977524,CTCF,Neural,Excitatory neuron
+SRX10977525,CTCF,Neural,Excitatory neuron
+SRX11179929,BRD4,Neural,Microglia cell line
+SRX11179930,BRD4,Neural,Microglia cell line
+SRX11179931,BRD4,Neural,Microglia cell line
+SRX11179932,BRD4,Neural,Microglia cell line
+SRX13005511,CTCF,Neural,Frontal cortex
+SRX13005512,CTCF,Neural,Frontal cortex
+SRX13005553,CTCF,Neural,Frontal cortex
+SRX13005554,CTCF,Neural,Frontal cortex
+SRX13006334,CTCF,Neural,Frontal cortex
+SRX13006335,CTCF,Neural,Frontal cortex
+SRX13006441,CTCF,Neural,Frontal cortex
+SRX13006442,CTCF,Neural,Frontal cortex
+SRX13006465,CTCF,Neural,Frontal cortex
+SRX13006466,CTCF,Neural,Frontal cortex
+SRX13006476,CTCF,Neural,Frontal cortex
+SRX13006477,CTCF,Neural,Frontal cortex
+SRX13006600,CTCF,Neural,Frontal cortex
+SRX13006601,CTCF,Neural,Frontal cortex
+SRX13006634,CTCF,Neural,Frontal cortex
+SRX13006635,CTCF,Neural,Frontal cortex
+SRX13006665,CTCF,Neural,Frontal cortex
+SRX13006666,CTCF,Neural,Frontal cortex
+SRX13006674,CTCF,Neural,Frontal cortex
+SRX13006675,CTCF,Neural,Frontal cortex
+SRX13006733,CTCF,Neural,Frontal cortex
+SRX13006734,CTCF,Neural,Frontal cortex
+SRX13006782,CTCF,Neural,Frontal cortex
+SRX13006783,CTCF,Neural,Frontal cortex
+SRX13006799,CTCF,Neural,Frontal cortex
+SRX13006800,CTCF,Neural,Frontal cortex
+SRX13006802,CTCF,Neural,Frontal cortex
+SRX13006803,CTCF,Neural,Frontal cortex
+SRX13007268,CTCF,Neural,Frontal cortex
+SRX13007270,CTCF,Neural,Frontal cortex
+SRX13007612,CTCF,Neural,Frontal cortex
+SRX13007613,CTCF,Neural,Frontal cortex
+SRX13007628,CTCF,Neural,Frontal cortex
+SRX13007629,CTCF,Neural,Frontal cortex
+SRX13007634,CTCF,Neural,Frontal cortex
+SRX13007635,CTCF,Neural,Frontal cortex
+SRX13007677,CTCF,Neural,Frontal cortex
+SRX13007678,CTCF,Neural,Frontal cortex
+SRX13008004,CTCF,Neural,Frontal cortex
+SRX13008005,CTCF,Neural,Frontal cortex
+SRX13008031,CTCF,Neural,Frontal cortex
+SRX13008032,CTCF,Neural,Frontal cortex
+SRX13008082,CTCF,Neural,Frontal cortex
+SRX13008083,CTCF,Neural,Frontal cortex
+SRX13008135,CTCF,Neural,Frontal cortex
+SRX13008136,CTCF,Neural,Frontal cortex
+SRX13008162,CTCF,Neural,Frontal cortex
+SRX13008163,CTCF,Neural,Frontal cortex
+SRX13008275,CTCF,Neural,Frontal cortex
+SRX13008276,CTCF,Neural,Frontal cortex
+SRX13008420,CTCF,Neural,Frontal cortex
+SRX13008421,CTCF,Neural,Frontal cortex
+SRX13008436,CTCF,Neural,Frontal cortex
+SRX13008437,CTCF,Neural,Frontal cortex
+SRX13008464,CTCF,Neural,Frontal cortex
+SRX13008465,CTCF,Neural,Frontal cortex
+SRX13008682,CTCF,Neural,Frontal cortex
+SRX13008683,CTCF,Neural,Frontal cortex
+SRX13008767,CTCF,Neural,Frontal cortex
+SRX13008768,CTCF,Neural,Frontal cortex
+SRX13008776,CTCF,Neural,Frontal cortex
+SRX13008777,CTCF,Neural,Frontal cortex
+SRX13008778,CTCF,Neural,Frontal cortex
+SRX13008779,CTCF,Neural,Frontal cortex
+SRX13008813,CTCF,Neural,Frontal cortex
+SRX13008814,CTCF,Neural,Frontal cortex
+SRX13008890,CTCF,Neural,Frontal cortex
+SRX13008891,CTCF,Neural,Frontal cortex
+SRX13008892,CTCF,Neural,Frontal cortex
+SRX13008916,CTCF,Neural,Frontal cortex
+SRX13008917,CTCF,Neural,Frontal cortex
+SRX13008927,CTCF,Neural,Frontal cortex
+SRX13008928,CTCF,Neural,Frontal cortex
+SRX13009054,CTCF,Neural,Frontal cortex
+SRX13009055,CTCF,Neural,Frontal cortex
+SRX13009103,CTCF,Neural,Frontal cortex
+SRX13009104,CTCF,Neural,Frontal cortex
+SRX13009115,CTCF,Neural,Frontal cortex
+SRX13009116,CTCF,Neural,Frontal cortex
+SRX13009160,CTCF,Neural,Frontal cortex
+SRX13009161,CTCF,Neural,Frontal cortex
+SRX13009226,CTCF,Neural,Frontal cortex
+SRX13009227,CTCF,Neural,Frontal cortex
+SRX13009239,CTCF,Neural,Frontal cortex
+SRX13009240,CTCF,Neural,Frontal cortex
+SRX13009255,CTCF,Neural,Frontal cortex
+SRX13009256,CTCF,Neural,Frontal cortex
+SRX13009281,CTCF,Neural,Frontal cortex
+SRX13009282,CTCF,Neural,Frontal cortex
+SRX13009601,CTCF,Neural,Frontal cortex
+SRX13009602,CTCF,Neural,Frontal cortex
+SRX13262055,CIC,Neural,Astrocytes
+SRX14032938,ZNF117,Neural,Glioblastoma stem cells
+SRX14036521,VSX2,Neural,Retina
+SRX14036523,VSX2,Neural,Retina
+SRX1424891,POU3F2,Neural,Neural progenitor cells
+SRX1424892,POU3F2,Neural,Neural progenitor cells
+SRX1424893,POU3F2,Neural,Neural progenitor cells
+SRX1424894,POU3F2,Neural,Neural progenitor cells
+SRX16016300,RNF2,Neural,Glioblstoma stem cell
+SRX16016301,RNF2,Neural,Glioblstoma stem cell
+SRX16016302,RNF2,Neural,Glioblstoma stem cell
+SRX16016303,RNF2,Neural,Glioblstoma stem cell
+SRX16016304,RNF2,Neural,Glioblstoma stem cell
+SRX16016305,RNF2,Neural,Glioblstoma stem cell
+SRX16495423,CTCF,Neural,Frontal cortex
+SRX16495424,CTCF,Neural,Frontal cortex
+SRX16495545,CTCF,Neural,Frontal cortex
+SRX16495546,CTCF,Neural,Frontal cortex
+SRX16495547,CTCF,Neural,Frontal cortex
+SRX16495548,CTCF,Neural,Frontal cortex
+SRX16495697,CTCF,Neural,Frontal cortex
+SRX16495698,CTCF,Neural,Frontal cortex
+SRX16495699,CTCF,Neural,Frontal cortex
+SRX16495700,CTCF,Neural,Frontal cortex
+SRX16495800,CTCF,Neural,Frontal cortex
+SRX16495801,CTCF,Neural,Frontal cortex
+SRX16495802,CTCF,Neural,Frontal cortex
+SRX16495803,CTCF,Neural,Frontal cortex
+SRX16497620,CTCF,Neural,Frontal cortex
+SRX16497621,CTCF,Neural,Frontal cortex
+SRX16497626,CTCF,Neural,Frontal cortex
+SRX16497627,CTCF,Neural,Frontal cortex
+SRX16497666,CTCF,Neural,Frontal cortex
+SRX16497667,CTCF,Neural,Frontal cortex
+SRX16499682,CTCF,Neural,Frontal cortex
+SRX16499683,CTCF,Neural,Frontal cortex
+SRX16499811,CTCF,Neural,Frontal cortex
+SRX16499812,CTCF,Neural,Frontal cortex
+SRX16499828,CTCF,Neural,Brain
+SRX16499853,CTCF,Neural,Frontal cortex
+SRX16499854,CTCF,Neural,Frontal cortex
+SRX16499913,CTCF,Neural,Frontal cortex
+SRX16499914,CTCF,Neural,Frontal cortex
+SRX16500012,CTCF,Neural,Frontal cortex
+SRX16500013,CTCF,Neural,Frontal cortex
+SRX16500014,CTCF,Neural,Frontal cortex
+SRX16500015,CTCF,Neural,Frontal cortex
+SRX16500059,CTCF,Neural,Neural progenitor cells
+SRX16500060,CTCF,Neural,Neural progenitor cells
+SRX16500061,CTCF,Neural,Neural progenitor cells
+SRX16500062,CTCF,Neural,Neural progenitor cells
+SRX16500175,CTCF,Neural,Frontal cortex
+SRX16500176,CTCF,Neural,Frontal cortex
+SRX1683031,CHD8,Neural,Brain
+SRX1690216,MYCN,Neural,Neuroblastoma
+SRX1690217,TWIST1,Neural,Neuroblastoma
+SRX1690218,TWIST1,Neural,Neuroblastoma
+SRX1690222,MYCN,Neural,Neuroblastoma
+SRX1690226,MYCN,Neural,Neuroblastoma
+SRX1690227,TWIST1,Neural,Neuroblastoma
+SRX1690255,MYCN,Neural,Neuroblastoma
+SRX1690259,MYCN,Neural,Neuroblastoma
+SRX1690263,MYCN,Neural,Neuroblastoma
+SRX17812782,ZEB1,Neural,Dorsal lateral prefrontal cortex
+SRX17812784,ZEB1,Neural,Dorsal lateral prefrontal cortex
+SRX17812786,MEF2C,Neural,Dorsal lateral prefrontal cortex
+SRX17812788,MEF2C,Neural,Dorsal lateral prefrontal cortex
+SRX1842780,MYCN,Neural,Neuroblastoma
+SRX1842781,MYCN,Neural,Neuroblastoma
+SRX18672589,CTCF,Neural,Microglia
+SRX18672590,CTCF,Neural,Microglia
+SRX18672591,CTCF,Neural,Microglia
+SRX18672592,CTCF,Neural,Microglia
+SRX18672593,CTCF,Neural,Microglia
+SRX188970,CTCF,Neural,Medullo
+SRX19738542,EZH2,Neural,Astrocytes
+SRX19738543,EZH2,Neural,Astrocytes
+SRX19738544,EZH2,Neural,Astrocytes
+SRX19738545,EZH2,Neural,Astrocytes
+SRX20140860,SOX2,Neural,Neural progenitor cells
+SRX20140861,SOX2,Neural,Neural progenitor cells
+SRX20140862,SOX2,Neural,Neural progenitor cells
+SRX20140867,INTS10,Neural,Neural progenitor cells
+SRX20140868,INTS10,Neural,Neural progenitor cells
+SRX20140869,INTS10,Neural,Neural progenitor cells
+SRX20140870,INTS10,Neural,Neural progenitor cells
+SRX20140879,CPSF3L,Neural,Neural progenitor cells
+SRX20140880,CPSF3L,Neural,Neural progenitor cells
+SRX20140881,CPSF3L,Neural,Neural progenitor cells
+SRX20140882,CPSF3L,Neural,Neural progenitor cells
+SRX20140890,SOX2,Neural,Neural progenitor cells
+SRX20140891,SOX2,Neural,Neural progenitor cells
+SRX20140892,SOX2,Neural,Neural progenitor cells
+SRX20140894,INTS13,Neural,Neural progenitor cells
+SRX20140895,INTS13,Neural,Neural progenitor cells
+SRX20140896,INTS13,Neural,Neural progenitor cells
+SRX20140897,INTS13,Neural,Neural progenitor cells
+SRX2166885,BRD4,Neural,Retina
+SRX2166886,BRD4,Neural,Retina
+SRX2166887,BRD4,Neural,Retina
+SRX2166888,BRD4,Neural,Retina
+SRX2166889,BRD4,Neural,Retina
+SRX2166890,CTCF,Neural,Retina
+SRX2166891,CTCF,Neural,Retina
+SRX2166892,CTCF,Neural,Retina
+SRX2166893,CTCF,Neural,Retina
+SRX2166894,CTCF,Neural,Retina
+SRX2166895,CTCF,Neural,Retina
+SRX25037647,ZMYND8,Neural,Neural progenitor cells
+SRX25331416,MYCN,Neural,Glioblastoma
+SRX25331425,MYCN,Neural,Brain
+SRX25331434,MYCN,Neural,Glioblastoma
+SRX25331452,MYCN,Neural,Glioblastoma
+SRX2636092,CTCF,Neural,Bipolar spindle neurons
+SRX2636093,CTCF,Neural,Bipolar spindle neurons
+SRX2636404,SMARCA4,Neural,Bipolar spindle neurons
+SRX2636405,SMARCA4,Neural,Bipolar spindle neurons
+SRX2731772,CTCF,Neural,Neuroblastoma
+SRX2731775,CTCF,Neural,Neuroblastoma
+SRX2731778,CTCF,Neural,Neuroblastoma
+SRX2731783,MYCN,Neural,Neuroblastoma
+SRX2731786,MYCN,Neural,Neuroblastoma
+SRX2731789,MYCN,Neural,Neuroblastoma
+SRX2732458,KLF4,Neural,Glioblastoma
+SRX2732459,KLF4,Neural,Glioblastoma
+SRX2732460,KLF4,Neural,Glioblastoma
+SRX3010190,CTCF,Neural,Bipolar spindle neurons
+SRX3010191,CTCF,Neural,Bipolar spindle neurons
+SRX3010194,EZH2,Neural,Bipolar spindle neurons
+SRX3010195,EZH2,Neural,Bipolar spindle neurons
+SRX3322349,CTCF,Neural,Tibial Nerve
+SRX3322563,CTCF,Neural,Tibial Nerve
+SRX3322628,EP300,Neural,Tibial Nerve
+SRX3322659,EP300,Neural,Tibial Nerve
+SRX3322785,CTCF,Neural,Tibial Nerve
+SRX377960,ZFHX4,Neural,Glioblastoma
+SRX377961,ZFHX4,Neural,Glioblastoma
+SRX377962,CHD4,Neural,Glioblastoma
+SRX377963,CHD4,Neural,Glioblastoma
+SRX4174623,CTCF,Neural,Neurons
+SRX4174629,CTCF,Neural,Neural progenitor cells
+SRX4370433,CTCF,Neural,Anterior temporal cortex
+SRX4370436,CTCF,Neural,Anterior temporal cortex
+SRX4615357,ALKBH1,Neural,Glioblastoma
+SRX4723357,GATA3,Neural,Neurons
+SRX4723358,GATA3,Neural,Neurons
+SRX4723359,GATA3,Neural,Neurons
+SRX5020208,SMARCA2,Neural,Neural progenitor cells
+SRX5020211,SMARCA2,Neural,Neural progenitor cells
+SRX5020214,SMARCA2,Neural,Neural progenitor cells
+SRX5054307,FOSL2,Neural,Neural progenitor cells
+SRX5054308,FOSL2,Neural,Neural progenitor cells
+SRX5054309,FOSL2,Neural,Neural progenitor cells
+SRX5075168,SMARCA4,Neural,Neural progenitor cells
+SRX5075169,SMARCA4,Neural,Neural progenitor cells
+SRX5075170,SMARCA4,Neural,Neural progenitor cells
+SRX5075174,SMARCA4,Neural,Neural progenitor cells
+SRX5075175,SMARCA4,Neural,Neural progenitor cells
+SRX5075176,SMARCA4,Neural,Neural progenitor cells
+SRX5075180,SMARCA2,Neural,Neural progenitor cells
+SRX5075181,SMARCA2,Neural,Neural progenitor cells
+SRX5075182,SMARCA2,Neural,Neural progenitor cells
+SRX534844,CHD8,Neural,Neural Stem Cells
+SRX534845,CHD8,Neural,Neural Stem Cells
+SRX5457470,POU5F1,Neural,Bipolar spindle neurons
+SRX5457540,ZEB1,Neural,Bipolar spindle neurons
+SRX5532358,CTCF,Neural,Anterior temporal cortex
+SRX5532361,CTCF,Neural,Anterior temporal cortex
+SRX5532364,CTCF,Neural,Anterior temporal cortex
+SRX5532367,CTCF,Neural,Anterior temporal cortex
+SRX5600876,ATF4,Neural,Prefrontal Cortex
+SRX5600877,ATF4,Neural,Prefrontal Cortex
+SRX5600878,ATF4,Neural,Prefrontal Cortex
+SRX5600879,ATF4,Neural,Prefrontal Cortex
+SRX5600880,ATF4,Neural,Prefrontal Cortex
+SRX5600881,ATF4,Neural,Prefrontal Cortex
+SRX5600882,ATF4,Neural,Prefrontal Cortex
+SRX5600883,ATF4,Neural,Prefrontal Cortex
+SRX5600884,ATF4,Neural,Prefrontal Cortex
+SRX5600885,ATF4,Neural,Prefrontal Cortex
+SRX5600886,ATF4,Neural,Prefrontal Cortex
+SRX5600887,ATF4,Neural,Prefrontal Cortex
+SRX5600888,OLIG2,Neural,Prefrontal Cortex
+SRX5600889,OLIG2,Neural,Prefrontal Cortex
+SRX5600890,OLIG2,Neural,Prefrontal Cortex
+SRX5600891,OLIG2,Neural,Prefrontal Cortex
+SRX5600892,OLIG2,Neural,Prefrontal Cortex
+SRX5600893,OLIG2,Neural,Prefrontal Cortex
+SRX5600894,OLIG2,Neural,Prefrontal Cortex
+SRX5600895,OLIG2,Neural,Prefrontal Cortex
+SRX5600896,OLIG2,Neural,Prefrontal Cortex
+SRX5600897,OLIG2,Neural,Prefrontal Cortex
+SRX5600898,OLIG2,Neural,Prefrontal Cortex
+SRX5600899,THRA,Neural,Prefrontal Cortex
+SRX5600900,THRA,Neural,Prefrontal Cortex
+SRX5600901,THRA,Neural,Prefrontal Cortex
+SRX5600902,THRA,Neural,Prefrontal Cortex
+SRX5600903,THRA,Neural,Prefrontal Cortex
+SRX5600904,THRA,Neural,Prefrontal Cortex
+SRX5600905,THRA,Neural,Prefrontal Cortex
+SRX5600906,THRA,Neural,Prefrontal Cortex
+SRX5716451,SOX2,Neural,Neural progenitor cells
+SRX5716452,SOX2,Neural,Neural progenitor cells
+SRX5716453,SOX2,Neural,Neural progenitor cells
+SRX5716454,SOX3,Neural,Neural progenitor cells
+SRX5716455,SOX3,Neural,Neural progenitor cells
+SRX5716456,SOX3,Neural,Neural progenitor cells
+SRX5716463,SMARCA4,Neural,Neural progenitor cells
+SRX5716464,SMARCA4,Neural,Neural progenitor cells
+SRX5716467,SMARCA2,Neural,Neural progenitor cells
+SRX5716468,SMARCA2,Neural,Neural progenitor cells
+SRX5716469,SMARCA4,Neural,Neural progenitor cells
+SRX5716470,SMARCA4,Neural,Neural progenitor cells
+SRX6602366,ARNTL,Neural,Neural Stem Cells
+SRX6602367,ARNTL,Neural,Neural Stem Cells
+SRX6602369,ARNTL,Neural,Neural Stem Cells
+SRX6602370,ARNTL,Neural,Neural Stem Cells
+SRX6780853,CREB1,Neural,Frontal cortex
+SRX6780854,CREB1,Neural,Frontal cortex
+SRX6780855,CRTC1,Neural,Frontal cortex
+SRX6780856,CRTC1,Neural,Frontal cortex
+SRX6780861,CREB1,Neural,Frontal cortex
+SRX6780862,CREB1,Neural,Frontal cortex
+SRX6911598,ZMYND8,Neural,Glioblastoma
+SRX6911600,ZMYND8,Neural,Glioblastoma
+SRX6911602,ZMYND8,Neural,Glioblastoma
+SRX6911604,ZMYND8,Neural,Glioblastoma
+SRX6911606,ZMYND8,Neural,Glioblastoma
+SRX6911608,ZMYND8,Neural,Glioblastoma
+SRX6911610,ZMYND8,Neural,Glioblastoma
+SRX6911612,ZMYND8,Neural,Glioblastoma
+SRX7058946,CTCF,Neural,Glioblastoma
+SRX707368,EZH2,Neural,Neural Stem Cells
+SRX7106589,CTBP2,Neural,Glioblastoma
+SRX7106590,CTBP2,Neural,Glioblastoma
+SRX7106593,CTBP2,Neural,Glioblastoma
+SRX7106594,CTBP2,Neural,Glioblastoma
+SRX7509552,CTCF,Neural,Tibial Nerve
+SRX7509632,CTCF,Neural,Tibial Nerve
+SRX7509633,CTCF,Neural,Tibial Nerve
+SRX7627558,REST,Neural,Hippocampus
+SRX7627560,REST,Neural,Hippocampus
+SRX7627562,REST,Neural,Hippocampus
+SRX7950043,BRD4,Neural,Neuroblastoma
+SRX8713992,SUZ12,Neural,Neural Stem Cells
+SRX8713993,SUZ12,Neural,Neural Stem Cells
+SRX8713994,SUZ12,Neural,Neural Stem Cells
+SRX8713995,SUZ12,Neural,Neural Stem Cells
+SRX8814875,MEIS1,Neural,Neuroblastoma
+SRX8814876,RARA,Neural,Neuroblastoma
+SRX9648512,BMI1,Neural,Neural Stem Cells
+SRX9648513,BMI1,Neural,Neural Stem Cells
+SRX9648514,BMI1,Neural,Neural Stem Cells
+SRX9648515,BMI1,Neural,Neural Stem Cells
+SRX9795022,CHD7,Neural,Cerebellum
+SRX10059515,CEBPD,Others,Fibroblasts
+SRX10059516,CEBPD,Others,Fibroblasts
+SRX10059517,CEBPD,Others,Fibroblasts
+SRX10059518,CEBPD,Others,Fibroblasts
+SRX10059519,CEBPD,Others,Fibroblasts
+SRX10059520,CEBPD,Others,Fibroblasts
+SRX1027437,CEBPB,Others,Mesenchymal stem cells
+SRX1027438,CEBPB,Others,Mesenchymal stem cells
+SRX1027439,CEBPB,Others,Mesenchymal stem cells
+SRX1027440,NR3C1,Others,Mesenchymal stem cells
+SRX1027441,ATF4,Others,Mesenchymal stem cells
+SRX1027443,CEBPB,Others,Mesenchymal stem cells
+SRX1027444,CEBPB,Others,Mesenchymal stem cells
+SRX1027445,CEBPB,Others,Mesenchymal stem cells
+SRX1027446,CEBPB,Others,Mesenchymal stem cells
+SRX1027447,ATF4,Others,Mesenchymal stem cells
+SRX1027448,CEBPB,Others,Mesenchymal stem cells
+SRX1027449,CEBPB,Others,Mesenchymal stem cells
+SRX1027450,CEBPB,Others,Mesenchymal stem cells
+SRX1027451,ATF4,Others,Mesenchymal stem cells
+SRX1027452,ATF4,Others,Mesenchymal stem cells
+SRX10976491,CTCF,Others,Thyroid Gland
+SRX10976492,CTCF,Others,Thyroid Gland
+SRX10976536,CTCF,Others,Mesothelial cells
+SRX10976537,CTCF,Others,Mesothelial cells
+SRX10977292,CTCF,Others,Adrenal Glands
+SRX10977293,CTCF,Others,Adrenal Glands
+SRX11120906,RAD21,Others,Fibroblasts
+SRX11120932,AFF4,Others,Fibroblasts
+SRX11120933,AFF4,Others,Fibroblasts
+SRX11120934,AFF4,Others,Fibroblasts
+SRX11120938,NIPBL,Others,Fibroblasts
+SRX11120939,NIPBL,Others,Fibroblasts
+SRX11120950,NIPBL,Others,Fibroblasts
+SRX11120957,RAD21,Others,Fibroblasts
+SRX11120958,RAD21,Others,Fibroblasts
+SRX11120959,RAD21,Others,Fibroblasts
+SRX11157738,AAV Rep68,Others,Epithelial cells
+SRX11157739,AAV Rep68,Others,Epithelial cells
+SRX11157761,AAV Rep68,Others,Epithelial cells
+SRX11157762,AAV Rep68,Others,Epithelial cells
+SRX11157763,AAV Rep68,Others,Epithelial cells
+SRX11157764,AAV Rep68,Others,Epithelial cells
+SRX11470442,ATF1,Others,Mesenchymal stem cells
+SRX11470446,ATF1,Others,Mesenchymal stem cells
+SRX11470450,ATF1,Others,Mesenchymal stem cells
+SRX11470502,EP300,Others,Mesenchymal stem cells
+SRX11470503,EP300,Others,Mesenchymal stem cells
+SRX11470504,EP300,Others,Mesenchymal stem cells
+SRX13006636,CTCF,Others,Spleen
+SRX13006637,CTCF,Others,Spleen
+SRX13006695,CTCF,Others,Adrenal Glands
+SRX13006696,CTCF,Others,Adrenal Glands
+SRX13006697,CTCF,Others,Adrenal Glands
+SRX13006698,CTCF,Others,Adrenal Glands
+SRX13008451,CTCF,Others,Spleen
+SRX13008452,CTCF,Others,Spleen
+SRX13008453,CTCF,Others,Spleen
+SRX13008806,CTCF,Others,Spleen
+SRX13008807,CTCF,Others,Spleen
+SRX13008808,CTCF,Others,Spleen
+SRX13008860,CTCF,Others,Spleen
+SRX13008861,CTCF,Others,Spleen
+SRX13318152,LMNA,Others,Mesenchymal stem cells
+SRX13318154,LMNA,Others,Mesenchymal stem cells
+SRX15710550,MAU2,Others,Fibroblasts
+SRX15710551,MAU2,Others,Fibroblasts
+SRX15710552,NIPBL,Others,Fibroblasts
+SRX15710553,RAD21,Others,Fibroblasts
+SRX15710554,STAG1,Others,Fibroblasts
+SRX15710555,STAG1,Others,Fibroblasts
+SRX15710556,STAG2,Others,Fibroblasts
+SRX15710557,STAG2,Others,Fibroblasts
+SRX15710558,STAG2,Others,Fibroblasts
+SRX15710559,STAG2,Others,Fibroblasts
+SRX15891788,TP63,Others,Limbal stem cells
+SRX15891789,TP63,Others,Limbal stem cells
+SRX1629831,OVOL2,Others,Epithelium
+SRX18031879,KDM6A,Others,Bladder epithelial cells
+SRX18119380,MYB,Others,Salivary Glands
+SRX1878943,BRD4,Others,Fibroblasts
+SRX1878944,BRD4,Others,Fibroblasts
+SRX188960,CTCF,Others,Spleen
+SRX19664486,BANF1,Others,Mesenchymal stem cells
+SRX19664487,BANF1,Others,Mesenchymal stem cells
+SRX19664488,BANF1,Others,Mesenchymal stem cells
+SRX19664489,BANF1,Others,Mesenchymal stem cells
+SRX20971022,KAT6A,Others,Fibroblasts
+SRX20971023,KAT6A,Others,Fibroblasts
+SRX20971024,KAT6A,Others,Fibroblasts
+SRX2268289,CHD1,Others,Mesenchymal stem cells
+SRX2268290,CHD1,Others,Mesenchymal stem cells
+SRX2268291,CHD1,Others,Mesenchymal stem cells
+SRX2671813,EP300,Others,Fibroblasts
+SRX2671850,EP300,Others,Fibroblasts
+SRX3240987,MED1,Others,Mesenchymal stem cells
+SRX3240988,MED1,Others,Mesenchymal stem cells
+SRX3240989,MED1,Others,Mesenchymal stem cells
+SRX3240990,MED1,Others,Mesenchymal stem cells
+SRX3240991,MED1,Others,Mesenchymal stem cells
+SRX3240992,MED1,Others,Mesenchymal stem cells
+SRX3240993,MED1,Others,Mesenchymal stem cells
+SRX3240994,MED1,Others,Mesenchymal stem cells
+SRX3240995,MED1,Others,Mesenchymal stem cells
+SRX3240996,MED1,Others,Mesenchymal stem cells
+SRX3240997,MED1,Others,Mesenchymal stem cells
+SRX3240998,MED1,Others,Mesenchymal stem cells
+SRX3321908,CTCF,Others,Spleen
+SRX3322071,CTCF,Others,Spleen
+SRX3322091,CTCF,Others,Adrenal Glands
+SRX3322431,CTCF,Others,Adrenal Glands
+SRX3322574,CTCF,Others,Spleen
+SRX3322577,CTCF,Others,Spleen
+SRX3322641,CTCF,Others,Thyroid Gland
+SRX3322847,CTCF,Others,Thyroid Gland
+SRX3322907,CTCF,Others,Thyroid Gland
+SRX3322996,CTCF,Others,Adrenal Glands
+SRX3323095,CTCF,Others,Adrenal Glands
+SRX338978,ERCC6,Others,Fibroblasts
+SRX338979,ERCC6,Others,Fibroblasts
+SRX3468047,SS18,Others,Fibroblasts
+SRX3468052,SUZ12,Others,Fibroblasts
+SRX3468053,SUZ12,Others,Fibroblasts
+SRX352046,ERCC6,Others,Fibroblasts
+SRX3946904,MED1,Others,Mesenchymal stem cells
+SRX3946905,MED1,Others,Mesenchymal stem cells
+SRX3946906,MED1,Others,Mesenchymal stem cells
+SRX3946907,MED1,Others,Mesenchymal stem cells
+SRX3946908,MED1,Others,Mesenchymal stem cells
+SRX3946909,MED1,Others,Mesenchymal stem cells
+SRX3946910,MED1,Others,Mesenchymal stem cells
+SRX3946911,MED1,Others,Mesenchymal stem cells
+SRX3946912,MED1,Others,Mesenchymal stem cells
+SRX3946913,MED1,Others,Mesenchymal stem cells
+SRX3946914,MED1,Others,Mesenchymal stem cells
+SRX3946915,MED1,Others,Mesenchymal stem cells
+SRX3946916,MED1,Others,Mesenchymal stem cells
+SRX3946917,MED1,Others,Mesenchymal stem cells
+SRX3946918,MED1,Others,Mesenchymal stem cells
+SRX3946919,MED1,Others,Mesenchymal stem cells
+SRX3946920,MED1,Others,Mesenchymal stem cells
+SRX3946921,MED1,Others,Mesenchymal stem cells
+SRX3946922,MED1,Others,Mesenchymal stem cells
+SRX3946923,MED1,Others,Mesenchymal stem cells
+SRX396251,TP53,Others,Fibroblasts
+SRX396252,TP53,Others,Fibroblasts
+SRX396253,TP53,Others,Fibroblasts
+SRX396254,TP53,Others,Fibroblasts
+SRX396255,TP53,Others,Fibroblasts
+SRX396256,TP53,Others,Fibroblasts
+SRX396257,TP53,Others,Fibroblasts
+SRX396258,TP53,Others,Fibroblasts
+SRX396259,TP53,Others,Fibroblasts
+SRX396260,TP53,Others,Fibroblasts
+SRX396265,TP53,Others,Fibroblasts
+SRX396266,TP53,Others,Fibroblasts
+SRX396268,TP53,Others,Fibroblasts
+SRX4389612,CBX4,Others,Mesenchymal stem cells
+SRX4389613,CBX4,Others,Mesenchymal stem cells
+SRX481483,PRKDC,Others,Fibroblasts
+SRX481484,PRKDC,Others,Fibroblasts
+SRX481485,PCGF2,Others,Fibroblasts
+SRX481486,PCGF2,Others,Fibroblasts
+SRX503331,KSHV LANA,Others,LEC
+SRX503332,KSHV LANA,Others,LEC
+SRX503333,KSHV LANA,Others,LEC
+SRX503334,KSHV LANA,Others,LEC
+SRX5204039,PRMT3,Others,Mesenchymal stem cells
+SRX5204040,PRMT3,Others,Mesenchymal stem cells
+SRX5254847,ZBTB16,Others,Mesenchymal stem cells
+SRX5254848,ZBTB16,Others,Mesenchymal stem cells
+SRX5254849,SUZ12,Others,Mesenchymal stem cells
+SRX5254850,SUZ12,Others,Mesenchymal stem cells
+SRX5254851,RNF2,Others,Mesenchymal stem cells
+SRX5254852,RNF2,Others,Mesenchymal stem cells
+SRX6582172,JUN,Others,Fibroblasts
+SRX6582173,LMNA,Others,Fibroblasts
+SRX6582174,LMNA,Others,Fibroblasts
+SRX6596842,EGR1,Others,Fibroblasts
+SRX6596843,EGR1,Others,Fibroblasts
+SRX6596844,EGR1,Others,Fibroblasts
+SRX6596845,EGR1,Others,Fibroblasts
+SRX6596846,EGR1,Others,Fibroblasts
+SRX6596847,EGR1,Others,Fibroblasts
+SRX6596848,EGR1,Others,Fibroblasts
+SRX6596849,EGR1,Others,Fibroblasts
+SRX6596850,EGR1,Others,Fibroblasts
+SRX7015671,RNF2,Others,Fibroblasts
+SRX7089254,CTCF,Others,Spleen
+SRX7089255,CTCF,Others,Spleen
+SRX7089256,CTCF,Others,Spleen
+SRX7089257,CTCF,Others,Spleen
+SRX7277172,LMNA,Others,Fibroblasts
+SRX7277174,LMNA,Others,Fibroblasts
+SRX7277179,JUN,Others,Fibroblasts
+SRX7509193,CTCF,Others,Thyroid Gland
+SRX7509289,CTCF,Others,Spleen
+SRX7509290,CTCF,Others,Spleen
+SRX7509291,CTCF,Others,Spleen
+SRX7509292,CTCF,Others,Spleen
+SRX7509342,CTCF,Others,Thyroid Gland
+SRX7509343,CTCF,Others,Thyroid Gland
+SRX7509449,CTCF,Others,Thyroid Gland
+SRX7509450,CTCF,Others,Thyroid Gland
+SRX7509483,CTCF,Others,Spleen
+SRX7509484,CTCF,Others,Spleen
+SRX7509485,CTCF,Others,Spleen
+SRX7509486,CTCF,Others,Spleen
+SRX7509487,CTCF,Others,Spleen
+SRX7509488,CTCF,Others,Spleen
+SRX7509489,CTCF,Others,Spleen
+SRX7509490,CTCF,Others,Spleen
+SRX7626336,CTCF,Others,Mesenchymal Stromal Cells
+SRX7626337,CTCF,Others,Mesenchymal Stromal Cells
+SRX7626338,CTCF,Others,Mesenchymal Stromal Cells
+SRX7626339,CTCF,Others,Mesenchymal Stromal Cells
+SRX7626340,CTCF,Others,Mesenchymal Stromal Cells
+SRX7626341,CTCF,Others,Mesenchymal Stromal Cells
+SRX7805694,NFATC1,Others,Mesenchymal stem cells
+SRX7805695,NFATC1,Others,Mesenchymal stem cells
+SRX7805696,NFATC1,Others,Mesenchymal stem cells
+SRX7805700,NFATC1,Others,Mesenchymal stem cells
+SRX7805701,NFATC1,Others,Mesenchymal stem cells
+SRX7805702,NFATC1,Others,Mesenchymal stem cells
+SRX8090642,BRD2,Others,Synoviocytes
+SRX8090643,BRD4,Others,Synoviocytes
+SRX8090645,BRD2,Others,Synoviocytes
+SRX8090646,BRD4,Others,Synoviocytes
+SRX8090649,BRD2,Others,Synoviocytes
+SRX8090650,BRD4,Others,Synoviocytes
+SRX8090652,BRD2,Others,Synoviocytes
+SRX8090653,BRD4,Others,Synoviocytes
+SRX8359003,FLI1,Others,Mesenchymal stem cells
+SRX8359006,FLI1,Others,Mesenchymal stem cells
+SRX8894991,FOXC1,Others,Limbal stem cells
+SRX8894992,FOXC1,Others,Limbal stem cells
+SRX8961847,TBP,Others,Mesenchymal stem cells
+SRX8961858,TBP,Others,Mesenchymal stem cells
+SRX9206317,BRD8,Others,16HBE14o-
+SRX9206318,BRD8,Others,16HBE14o-
+SRX9560789,KMT2A,Others,Spleen
+SRX9560790,AFF1,Others,Spleen
+SRX026719,CTCF,Pancreas,Pancreatic islets
+SRX026720,CTCF,Pancreas,Pancreatic islets
+SRX10976458,CTCF,Pancreas,Pancreas
+SRX10976459,CTCF,Pancreas,Pancreas
+SRX10976835,CTCF,Pancreas,Pancreas
+SRX10976836,CTCF,Pancreas,Pancreas
+SRX10976859,CTCF,Pancreas,Pancreas
+SRX10976860,CTCF,Pancreas,Pancreas
+SRX10977140,CTCF,Pancreas,Pancreatic progenitors
+SRX10977141,CTCF,Pancreas,Pancreatic progenitors
+SRX13009235,CTCF,Pancreas,Pancreas
+SRX13009236,CTCF,Pancreas,Pancreas
+SRX15717771,HNF4A,Pancreas,Pancreatic islets
+SRX15717773,HNF1A,Pancreas,Pancreatic islets
+SRX188958,CTCF,Pancreas,Pancreas
+SRX3322135,CTCF,Pancreas,Body of pancreas
+SRX3322207,CTCF,Pancreas,Body of pancreas
+SRX3322215,CTCF,Pancreas,Body of pancreas
+SRX3322606,CTCF,Pancreas,Body of pancreas
+SRX6784020,CTCF,Pancreas,Body of pancreas
+SRX7509475,CTCF,Pancreas,Pancreas
+SRX7509476,CTCF,Pancreas,Pancreas
+SRX7509550,CTCF,Pancreas,Pancreas
+SRX7509551,CTCF,Pancreas,Pancreas
+SRX8419454,GLIS3,Pancreas,Pancreatic islets
+SRX11646086,AR,Prostate,Prostate
+SRX11646089,AR,Prostate,Prostate
+SRX11646091,AR,Prostate,Prostate
+SRX11646092,AR,Prostate,Prostate
+SRX11646094,AR,Prostate,Prostate
+SRX11646096,AR,Prostate,Prostate
+SRX11646098,AR,Prostate,Prostate
+SRX11646100,AR,Prostate,Prostate
+SRX11646102,AR,Prostate,Prostate
+SRX3322103,CTCF,Prostate,Prostate epithelial cells
+SRX3322104,CTCF,Prostate,Prostate epithelial cells
+SRX3322725,EP300,Prostate,Prostate gland
+SRX3322745,CTCF,Prostate,Prostate gland
+SRX3322808,CTCF,Prostate,Prostate gland
+SRX4582746,AR,Prostate,Localized prostate
+SRX4582747,AR,Prostate,Localized prostate
+SRX4582748,AR,Prostate,Localized prostate
+SRX4582749,AR,Prostate,Localized prostate
+SRX481466,ARRB1,Prostate,Prostate
+SRX502054,AR,Prostate,Prostate
+SRX502056,AR,Prostate,Prostate
+SRX502058,AR,Prostate,Prostate
+SRX502060,AR,Prostate,Prostate
+SRX502061,AR,Prostate,Prostate
+SRX502064,AR,Prostate,Prostate
+SRX502068,AR,Prostate,Prostate
+SRX5471139,MED1,Prostate,Prostate
+SRX7089339,CTCF,Prostate,Prostate gland
+SRX7089340,CTCF,Prostate,Prostate gland
+SRX7509293,CTCF,Prostate,Prostate gland
+SRX7509294,CTCF,Prostate,Prostate gland
+SRX8406299,HOXB13,Prostate,Prostate
+SRX8406300,HOXB13,Prostate,Prostate
+SRX8406301,HOXB13,Prostate,Prostate
+SRX8406302,HOXB13,Prostate,Prostate
+SRX8406303,HOXB13,Prostate,Prostate
+SRX8406304,HOXB13,Prostate,Prostate
+SRX8406305,HOXB13,Prostate,Prostate
+SRX8406306,HOXB13,Prostate,Prostate
+SRX8406307,HOXB13,Prostate,Prostate
+SRX8406308,HOXB13,Prostate,Prostate
+SRX8406315,AR,Prostate,Prostate
+SRX8406316,AR,Prostate,Prostate
+SRX8406413,AR,Prostate,Prostate
+SRX8406414,AR,Prostate,Prostate
+SRX8406415,AR,Prostate,Prostate
+SRX8406416,AR,Prostate,Prostate
+SRX8406417,AR,Prostate,Prostate
+SRX8406418,AR,Prostate,Prostate
+SRX8406419,AR,Prostate,Prostate
+SRX8406420,AR,Prostate,Prostate
+SRX8406421,AR,Prostate,Prostate
+SRX8406422,AR,Prostate,Prostate
+SRX8406423,AR,Prostate,Prostate
+SRX8406424,AR,Prostate,Prostate
+SRX8406425,AR,Prostate,Prostate
+SRX8406426,AR,Prostate,Prostate
+SRX8406427,AR,Prostate,Prostate
+SRX8406428,AR,Prostate,Prostate
+SRX8406445,AR,Prostate,Prostate
+SRX8406446,AR,Prostate,Prostate
+SRX8406447,AR,Prostate,Prostate
+SRX8406448,AR,Prostate,Prostate
+SRX8406449,AR,Prostate,Prostate
+SRX8406450,AR,Prostate,Prostate
+SRX8406482,FOXA1,Prostate,Prostate
+SRX8406483,FOXA1,Prostate,Prostate
+SRX8406484,FOXA1,Prostate,Prostate
+SRX8406485,FOXA1,Prostate,Prostate
+SRX8406486,FOXA1,Prostate,Prostate
+SRX8406487,FOXA1,Prostate,Prostate
+SRX8406488,FOXA1,Prostate,Prostate
+SRX8406489,FOXA1,Prostate,Prostate
+SRX8406490,FOXA1,Prostate,Prostate
+SRX8406491,FOXA1,Prostate,Prostate
+SRX8406492,FOXA1,Prostate,Prostate
+SRX8406500,FOXA1,Prostate,Prostate
+SRX8406501,FOXA1,Prostate,Prostate
+SRX8406502,FOXA1,Prostate,Prostate
+SRX8406503,FOXA1,Prostate,Prostate
+SRX8406504,FOXA1,Prostate,Prostate
+SRX8406505,FOXA1,Prostate,Prostate
+SRX8406506,FOXA1,Prostate,Prostate
+SRX8406507,FOXA1,Prostate,Prostate
+SRX8406508,FOXA1,Prostate,Prostate
+SRX8406509,FOXA1,Prostate,Prostate
+SRX8406510,FOXA1,Prostate,Prostate
+SRX8406511,FOXA1,Prostate,Prostate
+SRX8406512,FOXA1,Prostate,Prostate
+SRX8406513,FOXA1,Prostate,Prostate
+SRX8406514,FOXA1,Prostate,Prostate
+SRX8406515,FOXA1,Prostate,Prostate
+SRX8406531,HOXB13,Prostate,Prostate
+SRX8406532,HOXB13,Prostate,Prostate
+SRX8406533,HOXB13,Prostate,Prostate
+SRX8406534,HOXB13,Prostate,Prostate
+SRX8406535,HOXB13,Prostate,Prostate
+SRX8406536,HOXB13,Prostate,Prostate
+SRX8406537,HOXB13,Prostate,Prostate
+SRX8406538,HOXB13,Prostate,Prostate
+SRX8406539,HOXB13,Prostate,Prostate
+SRX8406540,HOXB13,Prostate,Prostate
+SRX8406541,HOXB13,Prostate,Prostate
+SRX8406542,HOXB13,Prostate,Prostate
+SRX8406543,HOXB13,Prostate,Prostate
+SRX8406544,HOXB13,Prostate,Prostate
+SRX8406545,HOXB13,Prostate,Prostate
+SRX8406546,HOXB13,Prostate,Prostate
+SRX8406547,HOXB13,Prostate,Prostate
+SRX1048945,PGR,Uterus,Endometrial stromal cells
+SRX1048946,FOSL2,Uterus,Endometrial stromal cells
+SRX1048948,FOXO1,Uterus,Endometrial stromal cells
+SRX10976123,CTCF,Uterus,Uterus
+SRX10976124,CTCF,Uterus,Uterus
+SRX10976367,CTCF,Uterus,Vagina
+SRX10976368,CTCF,Uterus,Vagina
+SRX1435941,ZBTB16,Uterus,Endometrial stromal cells
+SRX14853137,ESR1,Uterus,Endometrium
+SRX14853138,ESR1,Uterus,Endometrium
+SRX14853139,ESR1,Uterus,Uterine epithelial cells
+SRX14853140,PGR,Uterus,Uterine epithelial cells
+SRX14853141,ESR1,Uterus,Uterine epithelial cells
+SRX14853142,PGR,Uterus,Uterine epithelial cells
+SRX3322222,CTCF,Uterus,Vagina
+SRX3322404,CTCF,Uterus,Vagina
+SRX3322476,CTCF,Uterus,Uterus
+SRX3322917,EP300,Uterus,Vagina
+SRX3323045,EP300,Uterus,Vagina
+SRX3323076,CTCF,Uterus,Uterus
+SRX3503584,GATA2,Uterus,Endometrial stromal cells
+SRX372174,NR2F2,Uterus,Endometrial stromal cells
+SRX4637896,AR,Uterus,Endometrial stromal cells
+SRX4911598,FOXA2,Uterus,Endometrium
+SRX4911599,FOXA2,Uterus,Endometrium
+SRX4911600,FOXA2,Uterus,Endometrium
+SRX4911601,FOXA2,Uterus,Endometrium
+SRX5088243,NCOA2,Uterus,Endometrial stromal cells
+SRX5195671,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195672,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195673,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195674,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195707,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195708,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195709,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195710,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195711,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195712,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195713,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195714,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195715,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195716,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195717,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195718,ARID1A,Uterus,Endometrial epithelial cells
+SRX5195727,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195728,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195729,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195730,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195731,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195732,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195733,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5195734,SMARCA4,Uterus,Endometrial epithelial cells
+SRX5514006,FOS,Uterus,Myometrium
+SRX5514007,FOS,Uterus,Myometrium
+SRX5514008,FOS,Uterus,Myometrium
+SRX5514009,FOS,Uterus,Myometrium
+SRX5514010,FOS,Uterus,Myometrium
+SRX5514016,JUN,Uterus,Myometrium
+SRX5514017,JUN,Uterus,Myometrium
+SRX5514018,JUN,Uterus,Myometrium
+SRX5514019,JUN,Uterus,Myometrium
+SRX5514020,JUN,Uterus,Myometrium
+SRX5514026,CDK8,Uterus,Myometrium
+SRX5514027,CDK8,Uterus,Myometrium
+SRX5514028,CDK8,Uterus,Myometrium
+SRX5514029,CDK8,Uterus,Myometrium
+SRX5514030,CDK8,Uterus,Myometrium
+SRX5514036,MED12,Uterus,Myometrium
+SRX5514037,MED12,Uterus,Myometrium
+SRX5514038,MED12,Uterus,Myometrium
+SRX5514039,MED12,Uterus,Myometrium
+SRX5514040,MED12,Uterus,Myometrium
+SRX5927380,CTCF,Uterus,Fallopian Tubes
+SRX5927381,CTCF,Uterus,Fallopian Tubes
+SRX5927382,CTCFL,Uterus,Fallopian Tubes
+SRX6068069,PGR,Uterus,Endometrium
+SRX6068070,PGR,Uterus,Endometrium
+SRX6068072,PGR,Uterus,Endometrium
+SRX6068073,PGR,Uterus,Endometrium
+SRX6857970,PGR,Uterus,Myometrium
+SRX6857971,PGR,Uterus,Myometrium
+SRX6857972,PGR,Uterus,Myometrium
+SRX6857973,PGR,Uterus,Myometrium
+SRX7223095,EGR1,Uterus,Endometrial stromal cells
+SRX7509548,CTCF,Uterus,Uterus
+SRX7509549,CTCF,Uterus,Uterus
+SRX7767644,GATA2,Uterus,Endometrial stromal cells
+SRX7767645,GATA2,Uterus,Endometrial stromal cells
+SRX7767647,GATA2,Uterus,Endometrial stromal cells
+SRX7767648,GATA2,Uterus,Endometrial stromal cells
+SRX8418755,ESR1,Uterus,Endometrial stromal cells

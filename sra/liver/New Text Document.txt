@@ -1,8 +1,0 @@
-ERX008728		liver		human ChIP 1	hepatocytes						CTCF
-ERX008760		liver		human ChIP 2	hepatocytes						CTCF
-ERX025732		liver		human ChIP 3	hepatocytes						NRSF
-SRX6416954	cell line		EZH2		normal liver epithelial cells	THLE-2
-SRX6416955	cell line		EZH2		normal liver epithelial cells	THLE-2
-SRX6416958	cell line		JARID2		normal liver epithelial cells	THLE-2
-SRX6416959	cell line		JARID2		normal liver epithelial cells	THLE-2
-

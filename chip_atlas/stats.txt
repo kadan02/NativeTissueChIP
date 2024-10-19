@@ -1,2 +1,2 @@
-Egyedi szűrt TF-ek: 186
-Egyedi törölt TF-ek: 708
+Egyedi szűrt TF-ek: 319
+Egyedi törölt TF-ek: 1813

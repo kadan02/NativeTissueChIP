@@ -8,3 +8,8 @@ SRX4957969 és SRX495797: Muscle, Smooth -> Smooth muscle cells-re váltottam ma
 Ezek a cell type class kategóriák törölve:
 - Placenta
 - Gonad
+
+
+ERX026986 és ERX026987 manuálisan törölve mert "NA" értékek cell type oszlopokban
+
+SRX9969717 és SRX9969718 manuálisan törölve mert valamiért 16HBE14o- kulcsszó nem törölte ki

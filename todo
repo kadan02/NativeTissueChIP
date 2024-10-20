@@ -1,4 +1,2 @@
-- filter_experimentList.py: rendes beolvasás (pandas-nál skip_on_bad_lines argumentum miatt beolvasásnál sok adat kimaradt)
-- csv helyett végig .tab formátum használata?
-- diagramok újra generálása
-- filter_chip_atlas_experiment_table.py : kulccszavak keresése oszloponként, hogy a többi eredeti oszlop is megtartható legyen
+- csv helyett végig .tab formátum használata
+- diagramok teljesen inkluzív módon generálása (vertikálisan)

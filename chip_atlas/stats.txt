@@ -1,7 +1,7 @@
-### Az átszűrt adatok statisztikái:
+Az átszűrt adatok statisztikái:
 Összes SRA Experiment: 3115
 Egyedi TF-ek: 319
 
-### A szűrésen nem átjutott adatok statisztikái:
+A szűrésen nem átjutott adatok statisztikái:
 Összes SRA Experiment: 29841
 Egyedi TF-ek: 1813

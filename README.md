@@ -6,9 +6,9 @@ A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/i
 ### A csak natív kísérleteket tartalmazó CSV táblázat [itt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/chip_atlas/native_chip_atlas_experiments.csv) található.
 
 ## 2. Feldolgozás
-- A ChIP-Atlas-ról elérhető ExperimentList.tab a filter_experimentList.py-al van szűrve a "hg38" és "TF and others" értékekkel rendelkező sorokra. Az output: hg38_TF_filtered_experiments_all_columns.csv
-- 
-- További szövet-minőség szűrést a filter_chip_atlas_experiment_table.py script végez:
+1. A ChIP-Atlas-ról elérhető ExperimentList.tab a filter_experimentList.py-al van szűrve a "hg38" és "TF and others" értékekkel rendelkező sorokra. Az output: hg38_TF_filtered_experiments_all_columns.csv
+ 
+2. A további szövet-minőség szűrést a filter_chip_atlas_experiment_table.py script végzi:
  - A cell_lines mappában lévő cell_line_list_all_no_duplicates.txt tartalmazza a BRENDA Tissue Ontology-n található sejtvonalak neveit, a chip_atlas_added_cell_lines.txt pedig azokat, amelyek manuálisan lettek összegyűjtve az alapján, hogy a cell_line_list_all_no_duplicates.txt-vel történű szűrés után mely sejtvonalak nem voltak szűrve.
  - A sejtvonalakon kívül a további kulcsszavak az alábbiak voltak:
 ```

@@ -9,16 +9,19 @@ A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/i
 1. A ChIP-Atlas-ról elérhető ExperimentList.tab a filter_experimentList.py-al van szűrve a "hg38" és "TF and others" értékekkel rendelkező sorokra. Az output: hg38_TF_filtered_experiments_all_columns.csv
  
 2. A további szövet-minőség szűrést a filter_chip_atlas_experiment_table.py script végzi:
- - A cell_lines mappában lévő cell_line_list_all_no_duplicates.txt tartalmazza a BRENDA Tissue Ontology-n található sejtvonalak neveit, a chip_atlas_added_cell_lines.txt pedig azokat, amelyek manuálisan lettek összegyűjtve az alapján, hogy a cell_line_list_all_no_duplicates.txt-vel történű szűrés után mely sejtvonalak nem voltak szűrve.
- - A sejtvonalakon kívül a további kulcsszavak az alábbiak voltak:
+   - A cell_lines mappában lévő cell_line_list_all_no_duplicates.txt tartalmazza a BRENDA Tissue Ontology-n található sejtvonalak neveit, a chip_atlas_added_cell_lines.txt pedig azokat, amelyek manuálisan lettek összegyűjtve az alapján, hogy a cell_line_list_all_no_duplicates.txt-vel történű szűrés után mely sejtvonalak nem voltak szűrve.
+   - A sejtvonalakon kívül a további kulcsszavak az alábbiak voltak:
 ```
 'tumor', 'tumors', 'tumours', 'tumour', 'cancer', 'Neoplasm', 'Neoplasms', 'Sarcoma', 'Liposarcoma', 'Fibrosarcoma','leukemia','adenocarcinoma','glioma', 'lymphoma', 'melanoma', 'Rhabdomyosarcoma', 'Polycystic', 'leiomyoma', 'myeloma', 'organoid', 'organoids', 'Unclassified', 'carcinoma', 'Neurofibromatosis', 'Aneurysm','Fetal', 'Fetus', 'Embryo', 'Neural crest','hESC', 'hESCs', 'iPSC', 'iPS', 'xenograft', 'iTreg', 'iSLK','Trophoblast stem cells'
 ```
+A sejt/szövet-minőségi szűrés eredményei a native_chip_atlas_experiments.csv fájlban találhatóak.
 
+3. A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a ChIP-Atlas Peak Browser segítségével lettek letöltve. A filter_bed.py script szűri ki azokat az SRA ID-vel rendelkező sorokat, amelyek a native_chip_atlas_experiments.csv-ben megtalálhatóak.
 
-
-
-
+4. A csak natív-sejtekre szűrt BED fájlok és a hg38 genom promóterjeit tartalmazó hg38promoters.bed fájl a következő paranccsal van feldolgozva (tüdő példájával):
+```
+bedtools intersect -a hg38promoters.bed -b Lng/filtered_Lng.bed -wa -wb > Lng/intersected_Lng.bed
+```
 
 ## 3. Statisztikák
 Az átszűrt adatok:

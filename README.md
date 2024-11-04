@@ -23,7 +23,7 @@ A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](h
 ### 2.3 filter_bed.py 
 A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a [ChIP-Atlas Peak Browser](https://chip-atlas.org/peak_browser)-en keresztül lettek letöltve. A [filter_bed.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed.py) script szűri ki azokat az Experiment ID-vel rendelkező sorokat, amelyek a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv)-ben megtalálhatóak.
 
-Alternatíva: [filter_bed_single_run.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed.py). A teljes (169 GB-nyi 2024 november szerint) "TF and others" kategória adatait tartalmazó BED fájl szűri ki automatikusan, nem pedig manuálisan, 'Cell type class' kategóriánként külön.
+Alternatíva: [filter_bed_single_run.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed.py). A teljes (169 GB-nyi 2024 november szerint) "TF and others" kategória adatait tartalmazó BED fájlt szűri ki automatikusan, nem pedig manuálisan, 'Cell type class' kategóriánként külön.
 
 ### 2.4 intersect_beds.sh - bedtools intersect
 A csak natív-sejtekre szűrt BED fájlok és a hg38 genom promóterjeit tartalmazó hg38promoters.bed fájl a BEDTools csomag segítségével van feldolgozva.

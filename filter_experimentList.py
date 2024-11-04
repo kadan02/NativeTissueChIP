@@ -6,6 +6,6 @@ with open('tsv/ExperimentList.tab', 'r', encoding='utf-8') as infile, open(
         track_type = columns[2]
 
         if genome_assembly == 'hg38' and track_type == 'TFs and others':
-            # Minden oszlop írása a genom_assembly és track_type oszlopokon kívül
+            # a szűrésen végigment 2 oszlopot nem írjuk az output-ba
             filtered_columns = [columns[i] for i in range(len(columns)) if i not in (1, 2)]
             outfile.write('\t'.join(filtered_columns) + '\n')

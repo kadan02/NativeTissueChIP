@@ -1,21 +1,22 @@
 import pandas as pd
-import csv
 import re
+
+# TODO: filter function, ahelyett hogy 3x külön írom le 40-67 sorok között
 
 rows = []
 tsv_path = 'tsv/hg38_TF_filtered_experiments_relevant_columns.tsv'
 with open(tsv_path, 'r', encoding='utf-8') as infile:
     for line in infile:
-        # Split by tab and add to rows list
         rows.append(line.strip().split('\t'))
 
 data = pd.DataFrame(rows)
-data = data.replace('"', '', regex=True)
+data = data.replace('"', '', regex=True) # lehet hogy redundáns?
 
-# Sejtvonalak neveit tartalmazó fájlok
+# Kiszűrendő kulcsszavak
 cell_line_list_path = 'cell_lines/cell_line_list_all_no_duplicates.txt'
 chip_atlas_cell_line_list_path = 'cell_lines/chip_atlas_added_cell_lines.txt'
 other_keywords = 'cell_lines/keywords.txt'
+
 with open(cell_line_list_path, 'r') as f:
     cell_lines = [line.strip() for line in f.readlines()]
 with open(chip_atlas_cell_line_list_path, 'r') as f:
@@ -23,20 +24,16 @@ with open(chip_atlas_cell_line_list_path, 'r') as f:
 with open(other_keywords, 'r') as f:
     other_keywords = [line.strip() for line in f.readlines()]
 
-# Kiszűrendő kifejezések a 'Cell type class' (harmadik) oszlopban
 filter_out_cell_type_class = ['Placenta', 'Gonad', 'Embryo', 'Pluripotent stem cell', 'No description']
-# Kiszűrendő kifejezések a 'Cell type' (negyedik)  oszlopban
 filter_out_cell_type = (cell_lines + chip_atlas_cell_lines + other_keywords)
-# Kiszűrendő kifejezések a Track type (második) oszlopban
 filter_out_track_type = ['Epitope tags', 'GFP']
-
 
 # Teljes kulcsszavak/kifejezések megegyezése a táblázatban
 escaped_filter_out_cell_type_class = [r'\b' + re.escape(term) + r'\b' for term in filter_out_cell_type_class]
 escaped_filter_out_cell_type = [r'\b' + re.escape(term) + r'\b' for term in filter_out_cell_type]
 escaped_filter_out_track_type = [r'\b' + re.escape(term) + r'\b' for term in filter_out_track_type]
 
-# Kiszűrt sorok és a hozzájuk tartozó filter kulcsszó
+# Kiszűrt sorok és a hozzájuk tartozó filter kulcsszó fog ide kerülni
 removed_details = []
 
 # Filterelés cell type class alapján

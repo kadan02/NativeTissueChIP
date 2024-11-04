@@ -10,7 +10,7 @@ A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/i
    - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő cell_line_list_all_no_duplicates.txt tartalmazza a [BRENDA Tissue Ontology-n](https://www.ebi.ac.uk/ols4/ontologies/bto) található sejtvonalak neveit, a chip_atlas_added_cell_lines.txt pedig azokat, amelyek manuálisan lettek összegyűjtve az alapján, hogy a cell_line_list_all_no_duplicates.txt-vel történő szűrés után mely sejtvonalak nem voltak szűrve. 
    - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
 
-### A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
+   - A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
 
 3. A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a [ChIP-Atlas Peak Browser](https://chip-atlas.org/peak_browser)-en keresztül lettek letöltve. A [filter_bed.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed.py) script szűri ki azokat az Experiment ID-vel rendelkező sorokat, amelyek a hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv)-ben megtalálhatóak.
 

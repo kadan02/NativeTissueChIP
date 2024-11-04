@@ -19,17 +19,21 @@ A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/i
 ```
 bedtools intersect -a hg38promoters.bed -b Lng/filtered_Lng.bed -wa -wb > Lng/intersected_Lng.bed
 ```
+Az intersect_beds.sh minden bed/ alatt található almappába elhelyezett filtered_${tissue_name}.bed (filter_bed.py-al létrehozott) fájlt feldolgoz ilyen módon automatikusan.
 
-Az ilyen módon feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue_chip-seq_experiments/releases) linkről tölthetőek le.
+A feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue_chip-seq_experiments/releases) linkről tölthetőek le.
 
 ## 3. Statisztikák
 Az átszűrt adatok:
-- Összes SRA Experiment: 3115
-- Egyedi TF-ek: 319
+- Összes SRA Experiment: 3090
+- Egyedi TF-ek: 317
+- Különböző sejtcsoport kategóriák: 190
 
 A szűrésen nem átjutott adatok:
-- Összes SRA Experiment: 29841
-- Egyedi TF-ek: 1813
+- Összes SRA Experiment: 30076
+- Egyedi TF-ek: 1819
+- Különböző sejtcsoport kategóriák: 1034
+
 
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/chip_atlas/figures/figure_tf.png)
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/chip_atlas/figures/figure_cell_type_class.png)

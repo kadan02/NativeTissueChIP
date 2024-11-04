@@ -2,9 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from numpy.ma.extras import unique
 
-# data_removed = pd.read_csv('chip_atlas/removed_chip_atlas_experiments_with_keyword.csv')
-data_filtered = pd.read_csv('chip_atlas/native_chip_atlas_experiments.csv')
-data_removed = pd.read_csv('chip_atlas/removed_chip_atlas_experiments.csv')
+# data_removed = pd.read_csv('tsv/removed_chip_atlas_experiments_with_keyword.csv')
+data_filtered = pd.read_csv('tsv/hg38_native_experiments.tsv')
+data_removed = pd.read_csv('tsv/removed_chip_atlas_experiments.csv')
 tf_column = data_filtered['Cell type class']
 tf_counts = tf_column.value_counts()
 tf_counts_top50 = tf_counts.head(50)
@@ -31,5 +31,5 @@ plt.show()
 # egyéb statisztikák
 unique_filtered_tfs = data_filtered['Track type'].nunique()
 unique_removed_tfs = data_removed['Track type'].nunique()
-with open('chip_atlas/stats.txt', 'w', encoding='utf-8') as f:
+with open('tsv/stats.txt', 'w', encoding='utf-8') as f:
     f.write("Egyedi szűrt TF-ek: " + str(unique_filtered_tfs) + "\nEgyedi törölt TF-ek: " + str(unique_removed_tfs))

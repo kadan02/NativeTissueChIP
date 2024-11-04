@@ -1,2 +1,2 @@
-- csv helyett végig .tab formátum használata
 - diagramok teljesen inkluzív módon generálása (vertikálisan)
+- ID-k fixált számjegyű (pl. 00000001) generálása a filter_bed.py-ban

@@ -2,20 +2,26 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from numpy.ma.extras import unique
 
-# data_removed = pd.read_csv('tsv/removed_chip_atlas_experiments_with_keyword.csv')
-data_filtered = pd.read_csv('tsv/hg38_native_experiments.tsv')
-data_removed = pd.read_csv('tsv/removed_chip_atlas_experiments.csv')
-tf_column = data_filtered['Cell type class']
-tf_counts = tf_column.value_counts()
-tf_counts_top50 = tf_counts.head(50)
+data_filtered = pd.read_csv('tsv/hg38_native_experiments.tsv', sep='\t')
+data_removed = pd.read_csv('tsv/hg38_removed_experiments.tsv', sep='\t')
+generate = input(' TF: 1\nCell type class: 2 \nCell type: 3\n')
+column = data_filtered[generate]
+counts = column.value_counts()
+counts_top50 = counts.head(50)
 
+s = ''
+if generate == '1':
+    s = 'Transcription factor'
+elif generate == '2':
+    s = 'Cell type class'
+elif generate == '3':
+    s = 'Cell type'
 
-# oszlopdiagram
-
+# 3. TF oszlopdiagram
 plt.figure(figsize=(16, 9))
-bars = plt.bar(tf_counts_top50.index, tf_counts_top50.values)
-plt.title('Top 50 "Cell type class" in native-tissue ChIP-Seq experiments with transcription factor targets')
-plt.xlabel('Cell type class')
+bars = plt.bar(counts_top50.index, counts_top50.values)
+plt.title('Top 50 ' + s + ' in native-tissue ChIP-Seq experiments with transcription factor targets')
+plt.xlabel('Transcription factor')
 plt.ylabel('SRX ID count')
 plt.xticks(rotation=45, ha='right')
 
@@ -27,9 +33,12 @@ for bar in bars:
 plt.tight_layout()
 plt.show()
 
-
 # egyéb statisztikák
-unique_filtered_tfs = data_filtered['Track type'].nunique()
-unique_removed_tfs = data_removed['Track type'].nunique()
-with open('tsv/stats.txt', 'w', encoding='utf-8') as f:
-    f.write("Egyedi szűrt TF-ek: " + str(unique_filtered_tfs) + "\nEgyedi törölt TF-ek: " + str(unique_removed_tfs))
+unique_filtered_tfs = data_filtered['1'].nunique()
+unique_removed_tfs = data_removed['1'].nunique()
+unique_filtered_cell_types = data_filtered['3'].nunique()
+unique_removed_cell_types = data_removed['3'].nunique()
+with open('figures/stats.txt', 'w', encoding='utf-8') as f:
+    f.write("Egyedi szűrt TF-ek: " + str(unique_filtered_tfs) + "\nEgyedi törölt TF-ek: " + str(unique_removed_tfs) +
+            "\nKülönböző sejtcsoport kategóriák: " + str(unique_filtered_cell_types) +
+            "\nTörölt különböző sejtcsoport kategóriák:" + str(unique_removed_cell_types))

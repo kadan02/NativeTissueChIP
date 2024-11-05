@@ -1,15 +1,15 @@
 import csv
 import os
-# TODO fixált számjegyű  egyedi ID generálása
+# TODO: működik, de a tf oszlopot át kell nézni
 srx_ids = {}
 # ignored_lines = set() # debug
 
-with open('tsv/hg38_native_experiments.tsv', mode='r') as csv_file:
-    csv_reader = csv.DictReader(csv_file)
-    for row in csv_reader:
-        srx_id = row[0]
-        tissue = row[2]
-        tf_name = row[1]
+with open('tsv/hg38_native_experiments.tsv', mode='r', encoding='utf-8', ) as tsv_file:
+    tsv_reader = csv.DictReader(tsv_file, delimiter='\t')
+    for row in tsv_reader:
+        srx_id = row['0']
+        tissue = row['2']
+        tf_name = row['1']
         srx_ids[srx_id] = {'tissue': tissue, 'tf_name': tf_name}
 
 
@@ -36,7 +36,7 @@ with open("bed/Oth.ALL.05.AllAg.AllCell.bed", 'r', encoding="UTF-8") as input_fi
                 id_counter[current_srx_id] = 1
             else:
                 id_counter[current_srx_id] += 1
-            unique_id = f"{current_srx_id}_{id_counter[current_srx_id]}"
+            unique_id = f"{current_srx_id}_{id_counter[current_srx_id]:07d}"
 
             # oszlopok: chr start end unique_id track_type
             columns = line.split('\t')

@@ -35,6 +35,11 @@ Az [intersect_beds.sh](https://github.com/kadan02/native_tissue_chip-seq_experim
 
 A feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue_chip-seq_experiments/releases) linkről tölthetőek le.
 
+### 2.5 all_tissue_bedtools_to_fasta.sh - kötőhely szekvenciák
+
+Szintén minden bed/ alatt található almappába elhelyezett intersected_${tissue_name}.bed fájl koordinátáiból előállítja a transzkripciós faktor kötőhely szekvenciáit a fasta mappába.
+
+
 ## 3. Statisztikák
 Az átszűrt adatok:
 - Összes SRA Experiment: 3090

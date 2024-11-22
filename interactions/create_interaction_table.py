@@ -23,7 +23,7 @@ def get_priority_uniprot_ids(mapping_table):
     )
     return prioritized_uniprot
 
-uniprot_mapping_table = pd.read_csv('combined_mapped_ids.tsv', sep="\t", names=["From", "Entry", "GeneID", "Reviewed"])
+uniprot_mapping_table = pd.read_csv('mapped_ids.tsv', sep="\t", names=["From", "Entry", "GeneID", "Reviewed"])
 input_folder = 'tf_target_lists'
 prioritized_mapping = get_priority_uniprot_ids(uniprot_mapping_table)
 

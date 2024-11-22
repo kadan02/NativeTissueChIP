@@ -49,11 +49,12 @@ def combine_unique_gene_names(output_dir, combined_file):
                 with open(interaction_file, 'r') as infile:
                     for line in infile:
                         print(line)
-                        _, target_gene = line.strip().split('\t')
+                        tf_gene, target_gene = line.strip().split('\t')
+                        unique_genes.add(tf_gene)
                         unique_genes.add(target_gene)
 
     with open(combined_file, 'w') as outfile:
-        outfile.write(','.join(sorted(unique_genes)))
+        outfile.write('\n'.join(sorted(unique_genes)))
 
 
 def process_all_beds(input_dir, output_dir, combined_file):

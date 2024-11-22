@@ -8,7 +8,7 @@ A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/i
 ### 2.1 filter_experimentList.py - kezdeti szűrés
 A ChIP-Atlas-ról elérhető ExperimentList.tab a [filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)-al van szűrve a "hg38" és "TF and others" értékekkel rendelkező sorokra. Az output: [hg38_TF_filtered_experiments_relevant_columns.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
 
-### 2.2 filter_native_tissues.py - szövet minőség szűrés
+### 2.2 Szövet minőség szűrés
  A további szövet-minőség szűrést a [filter_native_tissues.py script](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_native_tissues.py) végzi:
    - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő cell_line_list_all_no_duplicates.txt tartalmazza a [BRENDA Tissue Ontology-n](https://www.ebi.ac.uk/ols4/ontologies/bto) található sejtvonalak neveit, a chip_atlas_added_cell_lines.txt pedig azokat, amelyek manuálisan lettek összegyűjtve az alapján, hogy a cell_line_list_all_no_duplicates.txt-vel történő szűrés után mely sejtvonalak nem voltak szűrve. 
    - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
@@ -20,10 +20,10 @@ A ChIP-Atlas-ról elérhető ExperimentList.tab a [filter_experimentList.py](htt
 
 A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
 
-### 2.3 filter_bed.py 
+### 2.3 Bed fájl szűrése
 A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a [ChIP-Atlas Peak Browser](https://chip-atlas.org/peak_browser)-en felületén keresztül lettek letöltve. A [filter_bed_single_run.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed.py) szűri ki azokat az Experiment ID-vel rendelkező sorokat ebből a bed fájlból, amelyek a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv)-ben megtalálhatóak. Egy könyvtárrendszert hoz létre a szövet kategóriáknak (Cell type class) megfelelően, és a filtered_SZÖVETNÉV_.bed fájlokba kerül az output.
 
-### 2.4 intersect_beds.sh - bedtools intersect
+### 2.4 Peak - promoter overlapping
 A csak natív-sejtekre szűrt BED fájlok és a hg38 genom promóterjeit tartalmazó hg38promoters.bed fájl a BEDTools csomag segítségével van feldolgozva.
 A tüdő példájával:
 ```
@@ -33,14 +33,14 @@ Az [intersect_beds.sh](https://github.com/kadan02/native_tissue_chip-seq_experim
 
 A feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue_chip-seq_experiments/releases) linkről tölthetőek le.
 
-### 2.5 all_tissue_bedtools_to_fasta.sh - kötőhely szekvenciák
+### 2.5 Kötőhely szekvenciák
 
-Szintén minden bed/ alatt található almappába elhelyezett intersected_${tissue_name}.bed fájl koordinátáiból előállítja a transzkripciós faktor kötőhely szekvenciáit a fasta mappába.
+[all_tissue_bedtools_to_fasta.sh](https://github.com/kadan02/NativeTissueChIP/blob/master/all_tissue_bedtools_to_fasta.sh) - Szintén minden bed/ alatt található almappába elhelyezett intersected_${tissue_name}.bed fájl koordinátáiból előállítja a transzkripciós faktor kötőhely szekvenciáit a fasta mappába.
 
 ### 2.6 ID Mapping
- Az extract_gene_names.py az intersected_TISSUE_NAME.bed fájlokból előállít szövetenként egy .txt fájlt, amelyek csak a Transzkripciós faktor - Target gén interakciók génneveit tartalmazzák. 
- 
-Készít egy másik .txt fájlt is, amely minden egyedi génnevet tartalmaz az összes bed fájlból. Az ID mappelés a Uniprot 'ID Mapping' tool-jával történt (https://www.uniprot.org/id-mapping). A bemenet a combined_gene_names.txt a következő beállításokkal a Uniprot felületén:
+ Az [extract_gene_names.py](https://github.com/kadan02/NativeTissueChIP/blob/master/extract_gene_names.py) az intersected_TISSUE_NAME.bed fájlokból előállít szövetenként egy .txt fájlt, amelyek csak a Transzkripciós faktor - Target gén interakciók génneveit tartalmazzák. Készít egy [másik txt fájlt](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/combined_gene_names.txt) is, amely minden egyedi génnevet tartalmaz az összes bed fájlból. 
+
+Az ID mappelés a [Uniprot 'ID Mapping' tool-jával]((https://www.uniprot.org/id-mapping)) történt. A bemeneti adatok a [combined_gene_names.txt](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/combined_gene_names.txt) sorai, az alábbi beállításokkal:
 
 Bemeneti beállítások:
    - From database: Gene Name 
@@ -52,7 +52,7 @@ Letöltés beállítások:
    - Columns: GeneID, Reviewed
 
 ### 2.7 Interakciós table előállítása
-create_interaction_table.py - Minden egyedi transzkripciós faktor - target gén interakció megfelelő adatait az interactions/output_interaction_tables tsv fájljaiba írja szövetenként.
+[create_interaction_table.py](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/create_interaction_table.py) - Minden egyedi transzkripciós faktor - target gén interakció megfelelő adatait az [interactions/output_interaction_tables](https://github.com/kadan02/NativeTissueChIP/tree/master/interactions/output_interaction_tables) tsv fájljaiba írja szövetenként.
 
 ## 3. Statisztikák
 Az átszűrt adatok:
@@ -69,3 +69,11 @@ A szűrésen nem átjutott adatok:
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_tf.png)
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_cell_type_class.png)
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_cell_type.png)
+
+## 4. Adatok forrása
+Ez a projekt a [ChIP-Atlas](https://chip-atlas.org)-on található adatok segítségével jött létre.
+
+1. Zou, Z., Ohta, T., Oki, S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Res. 52(W1), W45-W53, 2024. [http://dx.doi.org/10.1093/nar/gkae358](http://dx.doi.org/10.1093/nar/gkae358)
+2. Zou, Z., Ohta, T., Miura, F., Oki, S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Res. 50(W1), W175-W182, 2022. [http://dx.doi.org/10.1093/nar/gkac199](http://dx.doi.org/10.1093/nar/gkac199)
+3. Oki, S., Ohta, T., Shioi, G., Hatanaka, H., Ogasawara, O., Okuda, Y., Kawaji, H., Nakaki, R., Sese, J., Meno, C. ChIP-Atlas: a data-mining suite powered by full integration of public ChIP-seq data. EMBO Rep. 19(12), e46255, 2018. [http://dx.doi.org/10.15252/embr.201846255](http://dx.doi.org/10.15252/embr.201846255)
+4. Web Tool: Oki, S; Ohta, T (2015): ChIP-Atlas. [https://chip-atlas.org](https://chip-atlas.org)

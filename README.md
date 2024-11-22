@@ -37,6 +37,22 @@ A feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue
 
 Szintén minden bed/ alatt található almappába elhelyezett intersected_${tissue_name}.bed fájl koordinátáiból előállítja a transzkripciós faktor kötőhely szekvenciáit a fasta mappába.
 
+### 2.6 ID Mapping
+ Az extract_gene_names.py az intersected_TISSUE_NAME.bed fájlokból előállít szövetenként egy .txt fájlt, amelyek csak a Transzkripciós faktor - Target gén interakciók génneveit tartalmazzák. 
+ 
+Készít egy másik .txt fájlt is, amely minden egyedi génnevet tartalmaz az összes bed fájlból. Az ID mappelés a Uniprot 'ID Mapping' tool-jával történt (https://www.uniprot.org/id-mapping). A bemenet a combined_gene_names.txt a következő beállításokkal a Uniprot felületén:
+
+Bemeneti beállítások:
+   - From database: Gene Name 
+   - To database: UniProtKB 
+   - Restrict by organism: Homo sapiens, etc.
+
+Letöltés beállítások:
+   - Format: TSV
+   - Columns: GeneID, Reviewed
+
+### 2.7 Interakciós table előállítása
+create_interaction_table.py - Minden egyedi transzkripciós faktor - target gén interakció megfelelő adatait az interactions/output_interaction_tables tsv fájljaiba írja szövetenként.
 
 ## 3. Statisztikák
 Az átszűrt adatok:

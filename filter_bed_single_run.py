@@ -14,7 +14,7 @@ with open('tsv/hg38_native_experiments.tsv', mode='r', encoding='utf-8', ) as ts
 
 
 id_counter = {}
-with open("bed/Oth.ALL.05.AllAg.AllCell.bed", 'r', encoding="UTF-8") as input_file:
+with open("bed/Oth.ALL.50.AllAg.AllCell.bed", 'r', encoding="UTF-8") as input_file:
     next(input_file) # első sor metaadatot tartalmaz a file-ban
 
     for line in input_file:

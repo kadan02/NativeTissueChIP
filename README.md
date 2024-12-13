@@ -70,8 +70,8 @@ A szűrésen nem átjutott adatok:
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_cell_type_class.png)
 ![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_cell_type.png)
 
-## 4. Adatok forrása
-Ez a projekt a [ChIP-Atlas](https://chip-atlas.org)-on található adatok segítségével jött létre.
+## 4. Credits
+This project was made possible using data from [ChIP-Atlas](https://chip-atlas.org).
 
 1. Zou, Z., Ohta, T., Oki, S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Res. 52(W1), W45-W53, 2024. [http://dx.doi.org/10.1093/nar/gkae358](http://dx.doi.org/10.1093/nar/gkae358)
 2. Zou, Z., Ohta, T., Miura, F., Oki, S. ChIP-Atlas 2021 update: a data-mining suite for exploring epigenomic landscapes by fully integrating ChIP-seq, ATAC-seq and Bisulfite-seq data. Nucleic Acids Res. 50(W1), W175-W182, 2022. [http://dx.doi.org/10.1093/nar/gkac199](http://dx.doi.org/10.1093/nar/gkac199)

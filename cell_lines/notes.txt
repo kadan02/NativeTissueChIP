@@ -1,14 +1,55 @@
-Kulturált, de egészségesnek tűnő sejtek:
-HSMM - Human Skeletal Muscle Myoblasts
-NHLF - Human Lung Fibroblasts
-AoAF – Human Aortic Adventitial
-SAEC – Human Small Airway Epithelial Cells
-HMVEC - Human Lung Microvascular Endothelial Cells
-HCPEpiC
-HCF
+
+2024.12.2. megbeszélés
+mm10:
+1. probléma: replikátok
+- eddig csak a cell type class, cell type és track type oszlopokból szűrtem. Több helyen a többi metadata oszlopból derül ki a pontos természete a kísérletnek
+- replikátoknál lehet kezelt és vad típus is
+
+SRX1037021 treatment oszlopra is szűrés? https://www.ncbi.nlm.nih.gov/sra/?term=SRX1037021
+SRX10375668 - developmental stage oszlopra szűrés?
+SRX10550256
+
+Példa jól beazonosíthatóra: G1E
 
 
+2. probléma: cell line-ok továbbra is
+megoldás: https://www.cellosaurus.org/ ?
+cellosaurus.txt
 
-"rendhagyó" (nehezen besorolható sejtek?):
-LEC - Lymphatic endothelial cells 
-BEC - Brain endothelial cell
+
+- Primary cell-ek (taken directly from living tissue (e.g. biopsy material) and established for growth in vitro)
+nincsenek benne, csak "finite cell" (limited number of cell generations and growth)-ek
+
+FAQ-ból:
+Q19: Why are primary cells not included in Cellosaurus (while it includes many finite cell lines).
+
+A: In Cellosaurus we include finite cell lines (that have a limited
+lifespan and will senesce after a number of population doublings) if they
+are well defined in term of their origin (species, gender, age at
+sampling) and if they are distributed by an academic or commercial entity
+or used widely by one or more laboratory. Although it has a limited
+lifespan, a finite cell line from a single donor may be used extensively
+provided it is stored early in its lifespan.
+
+Primary cells also know as primary culture are generally taken directly
+from a living tissue, are established for growth in vitro and have
+undergone very few population doubling before they are distributed. They
+are generally more heterogeneous than a cell line which has been
+continually passaged over a long period of time and has acquired
+homogeneous genotypic and phenotypic characteristics. Companies
+distributing primary cells will often replenish their stock of primary
+cells and each batch may originate from a different donor, thus while the
+product catalog number of a primary cell may be stable, its genetic and
+phenotypic background may change.
+
+As primary cells do not represent a precisely defined entity, they are out
+of the scope of Cellosaurus. This is also why we will not assign RRIDs
+for these entities.
+
+SRX091672	Spi1	Blood	CD4 CD8 double negative cells	NA	19068209,57.8,17.1,29193	GSM774291: FLDN1 PU.1 sample1	source_name=FLDN1	strain=C57BL/6	genetic background=wildtype	cell type=Fetal liver precursor derived DN1	chip antibody=PU.1 (Santa cruz sc-352)
+SRX091673	Spi1	Blood	CD4 CD8 double negative cells	NA	18792465,61.9,11.3,34162	GSM774292: FLDN2a PU.1 sample1	source_name=FLDN2a	strain=C57BL/6	genetic background=wildtype	cell type=Fetal liver precursor derived DN2a	chip antibody=PU.1 (Santa cruz sc-352)
+SRX091674	Spi1	Blood	CD4 CD8 double negative cells	NA	30734198,76.6,14.0,9911	GSM774293: FLDN2b PU.1 sample1	source_name=FLDN2b	strain=C57BL/6	genetic background=wildtype	cell type=Fetal liver precursor derived DN2b	chip antibody=PU.1 (Santa cruz sc-352)
+SRX091675	Spi1	Blood	CD4 CD8 double positive cells	NA	42098369,68.2,15.8,1207	GSM774294: ThyDP PU.1 sample1	source_name=ThyDP	strain=C57BL/6	genetic background=TCRa -/-	cell type=Adult thymic DP (pre-positive selection)	chip antibody=PU.1 (Santa cruz sc-352)
+SRX091676	Gata3	Blood	CD4 CD8 double negative cells	NA	56176379,73.3,11.1,3854	GSM774295: FLDN1 GATA3 sample1	source_name=FLDN1	strain=C57BL/6	genetic background=wildtype	cell type=Fetal liver precursor derived DN1	chip antibody=GATA3 (Santa cruz sc-268)
+SRX091677	Gata3	Blood	CD4 CD8 double negative cells	NA	48363330,51.2,10.5,3009	GSM774296: FLDN2b GATA3 sample1	source_name=FLDN2b	strain=C57BL/6	genetic background=wildtype	cell type=Fetal liver precursor derived DN2b	chip antibody=GATA3 (Santa cruz sc-268)
+SRX091678	Gata3	Blood	CD4 CD8 double positive cells	NA	19603771,60.0,16.5,1268	GSM774297: ThyDP GATA3 sample1	source_name=ThyDP	strain=C57BL/6	genetic background=TCRa -/-	cell type=Adult thymic DP (pre-positive selection)	chip antibody=GATA3 (Santa cruz sc-268)

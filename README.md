@@ -10,7 +10,7 @@ A ChIP-Atlas-ról elérhető ExperimentList.tab a [filter_experimentList.py](htt
 
 ### 2.2 Szövet minőség szűrés
  A további szövet-minőség szűrést a [filter_native_tissues.py script](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_native_tissues.py) végzi:
-   - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő fájlok tartalmazzák azokat a kulcsszavakat, amelyek ki vannak szűrve az adott oszlopokból. A sejtvonalak nevei a [BRENDA Tissue Ontology-n](https://www.ebi.ac.uk/ols4/ontologies/bto)-ról és a https://www.cellosaurus.org -ról származnak. a hg38_added_cell_lines.txt és mm10_added_cell_lines.txt -ben található sejtvonalak manuálisan lettek összegyűjtve az alapján, hogy a kezdeti szűrés után mely sejtvonalak nem voltak szűrve. 
+   - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő fájlok tartalmazzák azokat a kulcsszavakat, amelyek ki vannak szűrve az adott oszlopokból. A sejtvonalak nevei a [BRENDA Tissue Ontology](https://www.ebi.ac.uk/ols4/ontologies/bto)-ról és a https://www.cellosaurus.org -ról származnak. A hg38_added_cell_lines.txt és mm10_added_cell_lines.txt fájlokban található sejtvonalak manuálisan lettek összegyűjtve az alapján, hogy a kezdeti szűrés után mely sejtvonalak nem voltak szűrve. 
    - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
   
    Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) történt a szűrés:

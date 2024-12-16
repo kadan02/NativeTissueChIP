@@ -55,12 +55,12 @@ Letöltés beállítások:
 [create_interaction_table.py](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/create_interaction_table.py) - Minden egyedi transzkripciós faktor - target gén interakció megfelelő adatait az [interactions/output_interaction_tables](https://github.com/kadan02/NativeTissueChIP/tree/master/interactions/output_interaction_tables) tsv fájljaiba írja szövetenként.
 
 ## 3. Statisztikák
-Az átszűrt adatok:
+Az átszűrt humán adatok:
 - Összes SRA Experiment: 3090
 - Egyedi TF-ek: 317
 - Különböző sejtcsoport kategóriák: 190
 
-A szűrésen nem átjutott adatok:
+A szűrésen nem humán átjutott adatok:
 - Összes SRA Experiment: 30076
 - Egyedi TF-ek: 1819
 - Különböző sejtcsoport kategóriák: 1034

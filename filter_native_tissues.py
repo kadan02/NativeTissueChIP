@@ -20,8 +20,8 @@ def read_keywords(keyword_file_path):
 
 # kulcsszavak alapján filterelés
 def filter_data(data, column_index, keywords):
-    escaped_keywords = [r'\b' + re.escape(term) + r'\b' for term in keywords] # Teljes szavak megegyezése szűrésnél
-    removed_details = [] # Kiszűrt sorok és a hozzájuk tartozó filter kulcsszó fog ide kerülni
+    escaped_keywords = [r'\b' + re.escape(term) + r'\b' for term in keywords] # Teljes kifejezések megegyezése
+    removed_details = [] # Kiszűrt sorok és a hozzájuk tartozó filter kulcsszavak ide fognak kerülni
 
     for keyword, escaped_keyword in zip(keywords, escaped_keywords):
         mask = data[column_index].astype(str).str.contains(escaped_keyword, case=False, na=False)

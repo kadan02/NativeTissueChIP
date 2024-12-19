@@ -1,12 +1,12 @@
-Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq kísérletek adatainak összegyűjtése és elemzése a TFLink adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak olyan szövetekben, amelyek a normál élettani körülményeket a legjobban tükrözik (betegség, génmanipuláció, vagy gyógyszeres kezelés, stb. nélküli minták).
+Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq kísérletek adatainak összegyűjtése és elemzése a (TFLink)[https://tflink.net/] adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak olyan szövetekben, amelyek a normál élettani körülményeket a legjobban tükrözik (betegség, génmanipuláció, vagy gyógyszeres kezelés, stb. nélküli minták).
 
 ## 1. Adatgyűjtés
-A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázatából lettek szűrve. A szűrés a BRENDA Tissue Ontology-n található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában találhatóak. 
+A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázata. A szűrés a BRENDA Tissue Ontology és Cellosaurus adatbázisokban található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában találhatóak. 
 
 ## 2. Feldolgozás
 
 ### 2.1 filter_experimentList.py - kezdeti szűrés
-A ChIP-Atlas-ról elérhető ExperimentList.tab a [filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)-al van szűrve a "hg38" és "TF and others" értékekkel rendelkező sorokra. Az output: [hg38_TF_filtered_experiments_relevant_columns.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
+A ChIP-Atlas-ról elérhető ExperimentList.tab sorai a "hg38" és "TF and others" értékekkel rendelkező sorokra vannak szűrve ([filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)) Az output: [hg38_TF_filtered_experiments_relevant_columns.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
 
 ### 2.2 Szövet minőség szűrés
  A további szövet-minőség szűrést a [filter_native_tissues.py script](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_native_tissues.py) végzi:

@@ -1,4 +1,5 @@
-Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq kísérletek adatainak összegyűjtése és elemzése a (TFLink)[https://tflink.net/] adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak olyan szövetekben, amelyek a normál élettani körülményeket a legjobban tükrözik (betegség, génmanipuláció, vagy gyógyszeres kezelés, stb. nélküli minták).
+Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq kísérletek adatainak összegyűjtése és elemzése a [TFLink](https://tflink.net/) adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak olyan szövetekben, amelyek a normál élettani körülményeket ("natív") a legjobban tükrözik.
+
 
 ## 1. Adatgyűjtés
 A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázata. A szűrés a BRENDA Tissue Ontology és Cellosaurus adatbázisokban található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában találhatóak. 
@@ -9,7 +10,10 @@ A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](ht
 A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others" értékekkel rendelkező sorokra vannak szűrve ([filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)) Az output: [hg38_TF_filtered_experiments_relevant_columns.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
 
 ### 2.2 Szövet minőség szűrés
- A további szövet-minőség szűrést a [filter_native_tissues.py script](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_native_tissues.py) végzi:
+
+A nagy kihívás a betegség, génmanipuláció, gyógyszeres vagy egyéb kezeléssel végrehajtott kísérletek/sequenceing run-ok kiszűrése és a "natív" szövetkeben végrehajtottak megtartása.
+
+ A kezdeti szövet-minőség szűrést a [filter_native_tissues.py script](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_native_tissues.py) végzi:
    - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő fájlok tartalmazzák azokat a kulcsszavakat, amelyek ki vannak szűrve az adott oszlopokból. A sejtvonalak nevei a [BRENDA Tissue Ontology](https://www.ebi.ac.uk/ols4/ontologies/bto)-ról és a https://www.cellosaurus.org -ról származnak. A hg38_added_cell_lines.txt és mm10_added_cell_lines.txt fájlokban található sejtvonalak manuálisan lettek összegyűjtve az alapján, hogy a kezdeti szűrés után mely sejtvonalak nem voltak szűrve. 
    - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
   
@@ -23,11 +27,11 @@ Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wi
 
 A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
 
-### 2.3 Bed fájl szűrése
+### 2.3 BED fájlok
 A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a [ChIP-Atlas Peak Browser](https://chip-atlas.org/peak_browser)-en felületén keresztül lettek letöltve. A [filter_bed_single_run.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed_single_run.py) szűri ki azokat az Experiment ID-vel rendelkező sorokat ebből a bed fájlból, amelyek a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv)-ben megtalálhatóak. Egy könyvtárrendszert hoz létre a szövet kategóriáknak (Cell type class) megfelelően, és a filtered_SZÖVETNÉV_.bed fájlokba kerül az output.
 
 ### 2.4 Peak - promoter overlapping
-A csak natív-sejtekre szűrt BED fájlok és a hg38 genom promóterjeit tartalmazó hg38promoters.bed fájl a BEDTools csomag segítségével van feldolgozva.
+A csak natív-szövetekre szűrt BED fájlok és a hg38 genom promóterjeit tartalmazó hg38promoters.bed fájl a BEDTools csomag segítségével van feldolgozva.
 A tüdő példájával:
 ```
 bedtools intersect -a hg38promoters.bed -b Lng/filtered_Lng.bed -wa -wb > Lng/intersected_Lng.bed

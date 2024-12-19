@@ -13,13 +13,13 @@ A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others"
    - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő fájlok tartalmazzák azokat a kulcsszavakat, amelyek ki vannak szűrve az adott oszlopokból. A sejtvonalak nevei a [BRENDA Tissue Ontology](https://www.ebi.ac.uk/ols4/ontologies/bto)-ról és a https://www.cellosaurus.org -ról származnak. A hg38_added_cell_lines.txt és mm10_added_cell_lines.txt fájlokban található sejtvonalak manuálisan lettek összegyűjtve az alapján, hogy a kezdeti szűrés után mely sejtvonalak nem voltak szűrve. 
    - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
   
-   Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) történt a szűrés:
-    - Track type
-     - Szűrve: "GFP", "Epitope tags"
-    - Cell type class
-     - Szűrve: "Placenta", "Embryo", "Pluripotent stem cell", "No description"
-    - Cell type 
-     - Szűrve: embrionális, beteg és kulturált sejtvonalak nevei. Lásd cell_lines mappát.
+Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) történt a szűrés:
+- Track type
+    - Szűrve: "GFP", "Epitope tags"
+- Cell type class
+    - Szűrve: "Placenta", "Embryo", "Pluripotent stem cell", "No description"
+- Cell type 
+    - Szűrve: embrionális, beteg és kulturált sejtvonalak nevei. Lásd cell_lines mappát.
 
 A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
 

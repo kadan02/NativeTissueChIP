@@ -1,4 +1,4 @@
-Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq kísérletek összegyűjtése és elemzése (work in progress) a TFLink adatbázis bővítéseként, amelyek transzkripciós faktorokat vizsgálnak natív (nem kulturált és betegséggel, vagy egyéb génmanipulációval nem rendelkező) sejtekben. Egyelőre csak humán adatok állnak rendelkezésre.
+Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq kísérletek adatainak összegyűjtése és elemzése a TFLink adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak olyan szövetekben, amelyek a normál élettani körülményeket a legjobban tükrözik (betegség, génmanipuláció, vagy gyógyszeres kezelés, stb. nélküli minták).
 
 ## 1. Adatgyűjtés
 A kísérletek adatai a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázatából lettek szűrve. A szűrés a BRENDA Tissue Ontology-n található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában találhatóak. 

@@ -14,9 +14,12 @@ A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others"
    - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
   
    Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) történt a szűrés:
-    - Cell type (embrionális, betegséggel rendelkező és valamilyen mesterséges sejtvonal névvel ellátott sorok)
-    - Track type (GFP, Epitope tags)
-    - Cell type class (Placenta, Gonad, Embryo, Pluripotent stem cell, No description)
+    - Track type
+     - Szűrve: "GFP", "Epitope tags"
+    - Cell type class
+     - Szűrve: "Placenta", "Embryo", "Pluripotent stem cell", "No description"
+    - Cell type 
+     - Szűrve: embrionális, beteg és kulturált sejtvonalak nevei. Lásd cell_lines mappát.
 
 A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
 

@@ -1,5 +1,5 @@
 ### A táblázatok értékei
-A fájlokban minden sor 1-1 szekvenálás adatait tartalmazza. Kísérletenként lehet több szekvenálás is.
+A fájlokban minden sor 1-1 szekvenálás metaadatait tartalmazza. Kísérletenként lehet több szekvenálás is.
 
 [Az oszlopok részletes leírása](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files). Az eredeti táblázatból a 2. és 3. oszlopok törölve vannak a kisebb méret érdekében. 
 

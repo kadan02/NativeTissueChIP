@@ -9,16 +9,15 @@ A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](ht
 
 A ChIP-Atlas experiment listájából a releváns sorok kiválasztása (hg38 genom, TF kategória).
 
-A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others" értékekkel rendelkező sorokra vannak szűrve ([filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)) Az output: [hg38_TF_filtered_experiments_relevant_columns.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
+A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others" értékekkel rendelkező sorokra vannak szűrve ([filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)) Az [output](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
 
 ### 2.2 Szövet minőség szűrés
 
-A nagy kihívás a betegség, génmanipuláció, gyógyszeres vagy egyéb kezeléssel végrehajtott kísérletek/sequenceing run-ok kiszűrése és a "natív" szövetkeben végrehajtottak megtartása.
+A jelentős kihívás a betegség, génmanipuláció, gyógyszeres vagy egyéb kezeléssel végrehajtott kísérletek/sequencing run-ok kiszűrése és a "natív" szövetkeben végrehajtottak megtartása.
 
  A kezdeti szövet-minőség szűrést a [filter_native_tissues.py script](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_native_tissues.py) végzi:
-   - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő fájlok tartalmazzák azokat a kulcsszavakat, amelyek ki vannak szűrve az adott oszlopokból. A sejtvonalak nevei a [BRENDA Tissue Ontology](https://www.ebi.ac.uk/ols4/ontologies/bto)-ról és a https://www.cellosaurus.org -ról származnak. A hg38_added_cell_lines.txt és mm10_added_cell_lines.txt fájlokban található sejtvonalak manuálisan lettek összegyűjtve az alapján, hogy a kezdeti szűrés után mely sejtvonalak nem voltak szűrve. 
-   - A kulturált sejtvonalak nevein kívül a további kulcsszavak a [keywords.txt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/cell_lines/keywords.txt) fájlban találhatóak.
-  
+   - A [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában lévő fájlok tartalmazzák azokat a kulcsszavakat, amelyek ki vannak szűrve az adott oszlopokból. [Több információ a kulcsszavakról.](https://github.com/kadan02/NativeTissueChIP/blob/master/cell_lines/README.md)  
+
 Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) történt a szűrés:
 - Track type
     - Szűrve: "GFP", "Epitope tags"
@@ -27,7 +26,7 @@ Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wi
 - Cell type 
     - Szűrve: embrionális, beteg és kulturált sejtvonalak nevei. Lásd cell_lines mappát.
 
-A sejt/szövet-minőségi szűrés eredményei a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) fájlban találhatóak.
+A sejt/szövet-minőségi szűrés eredményei [itt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) találhatóak.
 
 ### 2.3 BED fájlok
 
@@ -39,7 +38,7 @@ A tüdő példájával:
 ```
 bedtools intersect -a hg38promoters.bed -b Lng/filtered_Lng.bed -wa -wb > Lng/intersected_Lng.bed
 ```
-Az [intersect_beds.sh](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/intersect_beds.sh) minden bed/ alatt található almappába elhelyezett filtered_${tissue_name}.bed (filter_bed.py-al létrehozott) fájlt feldolgoz ilyen módon automatikusan.
+Az [intersect_beds.sh](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/intersect_beds.sh) minden bed/ alatt található almappába elhelyezett filtered_${tissue_name}.bed ([ezzel a scripttel](https://github.com/kadan02/NativeTissueChIP/blob/master/filter_bed_single_run.py) létrehozott) fájlt feldolgoz ilyen módon automatikusan.
 
 A feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue_chip-seq_experiments/releases) linkről tölthetőek le.
 

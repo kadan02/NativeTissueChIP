@@ -1,0 +1,12246 @@
+```json
+{
+  "non_native_samples": [
+   ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "DRX440349",
+      "reason": "Tumor cell line"
+    }
+    ,
+        {
+          "id": "DRX486781",
+          "reason": "Immortalized cell line"
+        },
+         {
+
+" id":"DRX486783","reason":"Immortalized cell line "
+
+}]
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+After reviewing the data, there are no samples identified to include that exhibit non-native indicators.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX2242379",
+      "reason": "Cancer"
+    },
+    {
+      "id": "ERX2242380",
+      "reason": "Cancer"
+    },
+    {
+      "id": "ERX2242381",
+      "reason": "Cancer"
+    },
+    {
+      "id": "ERX2242385",
+      "reason": "Knockdown (KD)"
+    },
+    {
+      "id": "ERX2242386",
+      "reason": "Knockdown (KD)"
+    },
+    {
+      "id": "ERX2242387",
+      "reason": "Knockdown (KD)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX2242391",
+      "reason": "TNBC cancer"
+    },
+    {
+      "id": "ERX2242392",
+      "reason": "TNBC cancer"
+    },
+    {
+      "id": "ERX2242393",
+      "reason": "TNBC cancer"
+    },
+    {
+      "id": "ERX2242397",
+      "reason": "(with BCL11A KD)"
+    },
+    {
+      "id": "ERX2242398",
+      "reason": "(with BCL11A KD)"
+    },
+    {
+      "id": "ERX2242399",
+      "reason": "(with BCL11A KD)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX2242403",
+      "reason": "cancer"
+    },
+    {
+      "id": "ERX2242404",
+      "reason": "cancer"
+    },
+    {
+      "id": "ERX2242405",
+      "reason": "cancer with KD"  // KD means Knock-down
+    },
+   {
+      "id": "ERX2242406",
+      "reason": "cancer with KD"
+    }
+    ,
+    {
+      "id": "ERX2242409",
+      "reason": "cancer with KD"
+    },
+
+     {
+      "id": "ERX2242411",
+      "reason": "cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX2242414",
+      "reason": ""
+    },
+    {
+      "id": "ERX2666242",
+      "reason": ""
+    }
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX371667",
+      "reason": "Cancer phenotype"
+    },
+    {
+      "id": "ERX371668",
+      "reason": "Cancer phenotype, immortalized cell line(MCF10A)"
+    },
+    {
+      "id": "ERX371671",
+      "reason": "Cancer phenotype, immortalized cell line(T47D)"
+    },
+    {
+      "id": "ERX371674",
+      "reason": "Cancer phenotype, immortalized cell line(MDA231)"
+    },
+    {
+      "id": "ERX371675",
+      "reason": "Cancer phenotype, immortalized cell line(MDA231)"
+    },
+    {
+      "id": "ERX371678",
+      "reason": "Cancer phenotype, immortalized cell line(MDA157)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX371679",
+      "reason": "Cancer phenotype and MDA157 cell line"
+    },
+    {
+      "id": "ERX371682",
+      "reason": "Cancer phenotype and MCF10A cell line"
+    },
+    {
+      "id": "ERX371683",
+      "reason": "Cancer phenotype and MCF10A cell line"
+    },
+    {
+      "id": "ERX371686",
+      "reason": "Cancer phenotype and T47D cell line"
+    },
+    {
+      "id": "ERX371689",
+      "reason": "Cancer phenotype and MDA231 cell line"
+    },
+    {
+      "id": "ERX371690",
+      "reason": "Cancer phenotype and MDA231 cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "ERX371693",
+      "reason": "Phenotype=cancer"
+    },
+    {
+      "id": "ERX371694",
+      "reason": "Phenotype=cancer"
+    },
+    {
+      "id": "ERX371697",
+      "reason": "Phenotype=cancer"
+    },
+    {
+      "id":"ERX371698",
+      "reason": "sample is an immortal cell line"
+    },
+    {
+      "id": "ERX371698",
+      "reason": "Phenotype=cancer"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "ERX371705",
+      "reason": "Cancer phenotype"
+    },
+    {
+      "id": "ERX371708",
+      "reason": "Immortalized cell line (MDA157)"
+    },
+    {
+      "id": "ERX371709",
+       "reason": "Immortalized cell line (MDA157)"
+    },
+    {
+      "id": "ERX371712",
+      "reason": "Immortalized cell line (MCF10A)"
+    },
+    {
+     "id": "ERX371713",
+       "reason": "Immortalized cell line (MCF10A)"
+    },
+        {
+     "id": "ERX371716",
+         "reason": "Immortalized cell line(T47D)"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+In this case, none of the provided IDs have indicators that suggest non-native samples.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX017709",
+       "reason": "Activated"
+   }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+
+        id = ""
+        reason ="no non native Indicator"
+
+      }
+
+  ]
+
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Since all the samples in the provided data appear to be from healthy, unmodified cells (adipose stromal cells and adipocytes), none of them contain non-native indicators as per the definition.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX021983",
+      "reason": "Mentioned non-native sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX022392",
+      "reason": "Treated with calcitriol"
+    },
+    {
+      "id": "SRX022393",
+      "reason": "Treated with calcitriol"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX022396",
+      "reason": "Treated with calcitriol"
+    },
+    {
+      "id": "SRX022397",
+      "reason": "Treated with calcitriol"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX026659",
+      "reason": "Leukemia"
+    },
+    {
+      "id": "SRX026660",
+      "reason": "Treatment with zinc"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+None of the samples in this small dataset seem to have any non-native indicators. All the samples appear to be derived from mesenchymal stem cells, that were fully differentiated into adipocytes and passages less than 7. None of these indicators suggest non-native samples.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX029433",
+      "reason": "Cultured cells"
+    },
+    {
+      "id": "SRX029434",
+      "reason": "Cultured cells"
+    },
+     {
+      "id": "SRX029435",
+      "reason": "Cultured cells"
+    },
+    {
+      "id": "SRX029436",
+      "reason": "Cultured cells"
+    },
+     {
+      "id": "SRX029437",
+      "reason": "Cultured cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX037935",
+      "reason": "No non-native indicators found, but the condition is not clearly native."
+    },
+    {
+      "id": "SRX037936",
+      "reason": "Condition indicates BRG1 KD shLuc control"
+    },
+    {
+      "id": "SRX037937",
+      "reason": "Condition indicates BRG1 RNAi KD"
+    },
+    {
+      "id": "SRX037938",
+      "reason": "Condition indicates BRG1 RNAi KD"
+    },
+    {
+      "id": "SRX037939",
+      "reason": "Condition indicates BRG1 KD shLuc control"
+    },
+     {
+      "id": "SRX037940",
+
+      "reason": "Condition indicates BRG1 RNAi KD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX037941",
+      "reason": "Knockdown (KD)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX038908",
+      "reason": "Fetal indicator"
+    },
+    {
+      "id": "SRX038909",
+      "reason": "Fetal indicator"
+    },
+    {
+      "id": "SRX038910",
+      "reason": "Fetal indicator"
+    },
+    {
+      "id": "SRX038911",
+      "reason": "Fetal indicator"
+    },
+    {
+      "id": "SRX038912",
+      "reason": "Fetal indicator"
+    },
+    {
+      "id": "SRX038913",
+      "reason": "Fetal indicator"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX038914",
+      "reason": "Expanded UCB cells"
+    },
+    {
+      "id": "SRX038915",
+      "reason": "Expanded UCB cells"
+    },
+    {
+      "id": "SRX038916",
+      "reason": "Expanded UCB cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX041287",
+      "reason": "Treated with IFNg"
+    },
+    {
+      "id": "SRX041289",
+      "reason": "Treated with IL-12"
+    },
+    {
+      "id": "SRX041291",
+      "reason": "Treated with IL-2"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX041293",
+      "reason": "Treated with IL-2"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX062339",
+      "reason": "Cancer patient"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+There are no IDs that match the criteria of non-native samples in your provided data.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX097069",
+      "reason": "BMP treatment"
+    },
+    {
+      "id": "SRX097070",
+      "reason": "BMP treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX097072",
+      "reason": "Progenitors BIO"
+    },
+	{
+      "id": "SRX097073",
+      "reason": "Progenitors BMP"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX099053",
+      "reason": "Neonatal sample"
+    },
+    {
+      "id": "SRX099055",
+      "reason": "Neonatal sample"
+    }
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX099629",
+      "reason": "Fetal sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10056752",
+      "reason": "Treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10059518",
+      "reason": "Treated with cortisol"
+    },
+    {
+      "id": "SRX10059519",
+      "reason": "Treated with cortisol"
+    },
+    {
+      "id": "SRX10059520",
+      "reason": "Treated with cortisol"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10131662",
+      "reason": "Immortalized cell line (HBTEC)"
+    },
+    {
+      "id": "SRX10131663",
+      "reason": "Immortalized Cell Line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10131679",
+      "reason": " Treated with A-485"
+    }
+   ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10131681",
+      "reason": "Treated with A-485"
+    },
+    {
+      "id": "SRX10131682",
+      "reason": "Treated with DMSO"
+    },
+    {
+      "id": "SRX10131683",
+      "reason": "Treated with A-485"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+ ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10142206",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX10142207",
+      "reason": "Cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10145208",
+      "reason": "Treated with PMA"
+    },
+    {
+      "id": "SRX10145211",
+      "reason": "Treated with CD40L-IgM"
+    },
+    {
+      "id": "SRX10145212",
+      "reason": "Treated with PMA"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10206211",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX10206213",
+      "reason": "Immortalized cell line"
+    },
+     {
+      "id": "SRX10206214",
+      "reason": "Immortalized cell line"
+   }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10212065",
+        "reason":"Stimulated cells"
+    },
+    {
+      "id": "SRX10212066",
+        "reason": "Stimulated, treated with low arginine"
+    },
+            {
+      "id": "SRX10212067",
+        "reason": " Treated with arginine-free media"
+    },
+            {
+      "id":"SRX10212068",
+       "reason":"Stimulated cells "
+    },
+             {
+     "   id": "SRX10212069",
+          "reason":"Stimulated, treated with low arginine"
+   },
+  {
+     "id": "SRX10212070",
+          "reason":"Treated with arginines-free media"
+}
+ ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1023790",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1023791",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1023792",
+      "reason”: “Treated”
+    },
+    {
+"id: "SRX1023793","reason”: “Treated”
+},
+{
+"	"id": "SRX1023794","
+  \`	"	"reason"\`: \"`"	Tr\eated
+}
+,
+{
+    "id": \""SRX1023795\",\
+    "reason": \""Treated\"	\
+}	]}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1023796",
+      "reason": "Treated with GM-CSF and IL4"
+    },
+    {
+      "id": "SRX1023797",
+      "reason": "Treated with multiple compounds (GM-CSF + TNF-a + PGE2 + Pam3CSK4)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1027439",
+      "reason": ""
+    },
+    {
+      "id": "SRX1027443",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1027450",
+      "reason": "Non-native indicator: Mesenchymal stem cells"
+    },
+    {
+      "id": "SRX1027451",
+      "reason": "Non-native indicator: Mesenchymal stem cells"
+    },
+    {
+      "id": "SRX1027452",
+      "reason": "Non-native indicator: Mesenchymal stem cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX103445",
+      "reason": "Treated with JQ1"
+    }
+  ]
+}
+```
+(No extra text or formatting is included with the JSON object as per your instruction.)
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1036365",
+      "reason": "Imortalized cell line"
+    }
+  ]
+}
+```
+
+The ID extracted for NON-NATIVE samples is based on the keyword found: the use of immortalized PBSC in SRX1036365, indicating non-native indicators.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10399321",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1046555",
+      "reason": "knockout"
+    },
+    {
+      "id": "SRX1046556",
+      "reason": "knockout"
+    },
+    {
+      "id": "SRX1046557",
+      "reason": "knockout"
+    },
+    {
+      "id": "SRX1046558",
+      "reason": "knockout"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10475435",
+      "reason": "Health conditions: DM, HTN"
+    },
+    {
+      "id": "SRX10475436",
+      "reason": "Health conditions: DM, HTN"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+Explanation:
+- Since the data provided only has one row, let's break down whether it qualifies as native or non-native.
+  - "Tibial Nerve" itself is not a known indicator of non-native samples; furthermore there are no obvious reasons that indicate a non-native sample as per the given non-native indicators list including the age and donor Id. The data provided contains no explicit mention of any specific factors such as 'cancer', 'tumor' or other keywords which could be indicative of non-native samples.
+
+Therefore, based on the provided information, there are no identified IDs to include in our output JSON structure indicating "non_native_samples".
+```json
+{
+  "non_native_samples": []
+}
+```
+```json:
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10476797",
+      "reason": "Hypertension present"
+    },
+    {
+      "id": "SRX10476798",
+      "reason": "Hypertension presenti"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10634383",
+      "reason": "Immortalized cell line N/TERT2G"
+    },
+    {
+      "id": "SRX10634384",
+      "reason: Immortalized cell line N/TERT2G" }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+(Assuming all given keywords in the provided dataset are Native.)
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10697702",
+      "reason": "Non-native cell line"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX107284",
+      "reason": "Transduced with lentivirus carrying DUX4"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10852977",
+      "reason": "AAVS1 null genotype"
+    },
+    {
+      "id": "SRX10852978",
+      "reason": "MED12-null genotype"
+    },
+    {
+      "id": "SRX10852979",
+      "reason": "AAVS1null genotypes"
+    },
+    {
+      "id": "SRX10852980",
+      "reason": "MED12Null genotype"
+    },
+    {
+      "id": "SRX10852981",
+      "reason": "AAVS1 Null genotype"
+    },
+    {
+      "id": "SRX10852982",
+      "reason": "MED12-null genotype "
+  ]
+ }
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10852983",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX10852984",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX10852985",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX10852986",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX10852987",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX10852988",
+      "reason": "Null genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1089823",
+      "reason": "Fetal"
+    },
+    {
+       "id": "SRX1089825",
+       "reason": "Fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1089826",
+      "reason": "Fetal cell source"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1089827",
+      "reason": "Fetal"
+    },
+    {
+      "id": "SRX1089828",
+      "reason": "Fetal"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1089829",
+      "reason": "Fetal cells"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1089832",
+      "reason": "Fetal"
+    },
+    {
+      "id": "SRX1089834",
+      "reason": "Fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10913935",
+      "reason": "knockdown of EN1"
+    },
+    {
+      "id": "SRX10913937",
+      "reason": "knockdown of EN1"
+    },
+    {
+      "id": "SRX10913941",
+      "reason": "knockdown of EN1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10913942",
+      "reason": "treated with TGFbeta"
+    },
+    {
+      "id": "SRX10913943",
+      "reason": "knockdown of EN1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10949099",
+      "reason": "FSHD2 disease"
+    },
+    {
+      "id": "SRX10949100",
+      "reason": "FSHD2 disease"
+    },
+    {
+      "id": "SRX10949235",
+      "reason": "BAMS (bosma arhinia microphthalmia syndrome)"
+    },
+	{
+      "id": "SRX10949236",
+	  "reason":"BAMS (bosma arhinia microphthalmia syndrome)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10954233",
+      "reason": "polarized Th17 cells"
+    },
+    {
+      "id":"SRX10954235",
+      "reason": "polarized Th17 cells, biological replicate 2"
+    }
+    ,{
+       "id": "SRX10954237",
+      "reason": "polarized Th17 cells"
+    },
+    {
+     "id":"SRX10954239",
+      "reason": "polarized Th17 cells, biological replicate 2"
+
+    ,
+    {
+      "id": "SRX10954241",
+       "reason": "polarized Th17 cells"
+    }
+     ,{
+         "id":"SRX10954243",
+      "reason": "polarized Th17 cells, biological replicate 2",
+       }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976184",
+      "reason": "In vitro differentiated cells"
+    },
+    {
+      "id": "SRX10976185",
+      "reason": "In vitro differentiated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976217",
+      "reason": "Treated with calcium"
+    },
+    {
+      "id": "SRX10976218",
+      "reason": "Treated with calcium"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976458",
+      "reason": "Diabetes mellitus and hypertension"
+    },
+    {
+      "id": "SRX10976459",
+      "reason": "Diabetes mellitus and hypertension"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+The answer is empty because the provided data does not contain any non-native samples based on the provided definitions and indicators.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976484",
+      "reason": "Diabetes Mellitus; Hypertension"
+    },
+    {
+      "id": "SRX10976485",
+      "reason": "Diabetes Mellitus; Hypertension"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976536",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976537",
+      "reason": "Embryonic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976683",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976684",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976685",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976686",
+      "reason": "Embryonic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976697",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10976698",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+     {
+      "id": "SRX10976701",
+      "reason": "Hypertension"
+    },
+    {
+      "id": "SRX10976702",
+      "reason": "Hypertension"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976792",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976793",
+      "reason": "Embryonic, Organoid"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976859",
+      "reason": "lungs with moderate emphysema"
+    },
+    {
+      "id": "SRX10976860",
+      "reason": "lungs with moderate emphysema"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976863",
+      "reason": "HTN: yes"
+    },
+    {
+       "id" : "SRX10976864",<br>
+        "reason" : "HTN: yes"}
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976875",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976876",
+      "reason": "Embryonic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976878",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976879",
+      "reason": "Organoid"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976935",
+      "reason": "Embryonic"
+    },
+    {
+      "id": "SRX10976936",
+      "reason": "Embryonic"
+    }
+    {
+      "id":"SRX10976937",
+      "reason":"Embryonic"
+    },
+     {
+      "id": "SRX10976938",
+      "reason": "Embryonic"
+    }
+  ]
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10976991",
+      "reason":
+      "Embryonic"
+    },
+    {
+      "id": "SRX10976992",
+      "reason":
+      "Embryonic, organoid"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977140",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977141",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977145",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977146",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977147",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977148",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977149",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977196",
+      "reason": "Embryonic sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977203",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977204",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977205",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977206",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977237",
+      "reason": "Treated with calcium"
+    },
+    {
+      "id": "SRX10977238",
+      "reason": "Treated with calcium"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+(The `reason` field for each identified sample should match the identified keyword that marks it as non-native.)
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977361",
+      "reason": "in vitro differentiated cells"
+    },
+	{
+      "id": "SRX10977362",
+      "reason": " in vitro differentiated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977366",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX10977367",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX23058659",
+      "reason": "Tumor sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977387",
+      "reason": "HTN: yes"
+    },
+    {
+      "id": "SRX10977388",
+      "reason": "HTN: yes"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX10977522",
+      "reason": "in vitro differentiated cells"
+    },
+    {
+      "id": "SRX10977523",
+      "reason": "in vitro differentiated cells"
+    },
+    {
+      "id": "SRX10977524",
+      "reason": "in vitro differentiated cells"
+    },
+    {
+      "id": "SRX10977525",
+      "reason": "in vitro differentiated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11120932",
+      "reason": "CdLS genotype"
+    },
+    {
+      "id": "SRX11120938",
+      "reason": "CdLS genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11120957",
+      "reason": "CdLS genotype"
+    },
+    {
+      "id": "SRX11120958",
+      "reason": "CHOPS genotype"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11179929",
+      "reason": "DMSO-treated"
+    },
+    {
+      "id": "SRX11179930",
+      "reason": "DMSO-treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11470442",
+      "reason": "infected with empty pLIV vector"
+    },
+    {
+      "id": "SRX11470446",
+      "reason": "Infected with C-term V5-tagged EWSR1-ATF1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11478228",
+      "reason": "Immortalized cell line (EBNA3A)"
+    },
+    {
+      "id": "SRX11478229",
+      "reason": "Immortalized cell line (EBNA3A)"
+    },
+    {
+      "id": "SRX11478230",
+      "reason": "Immortalized cell line (EBNA3A)"
+    },
+     {
+      "id": "SRX11478231",
+      "reason": "Immortalized cell line (EBNA3A)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11483609",
+      "reason": "Treated with calcium"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11513465",
+      "reason": "Tolerogenic dendritic cells"
+    },
+    {
+      "id": "SRX11513467",
+      "reason": "Tolerogenic dendritic cells"
+    }
+  ]
+}
+```
+```json
+{
+ "non_native_samples": [
+    {
+      "id": "SRX11513470",
+      "reason": "Differentiated cells"
+    },
+     {
+      "id": "SRX11513471",
+      "reason": "Tolerogenic dendritic cells (differentiated, non-native state)"
+    },
+    {
+      "id": "SRX11513472",
+       "reason": "Differentiated cells"
+    },
+    {
+        "id" : "SRX11513473" ,
+        "reason" :"Tolerogenic dendritic cells (differentiated, non-native state)"
+      }
+   ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11515992",
+      "reason": "BAF60c knockdown"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+As per the provided file, there isn't any sample that fits in the category of non-native samples. All are untreated and from normal prostate tissue without non native indicators.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11955267",
+      "reason": ""
+    },
+    {
+      "id": "SRX11969040",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX11969041",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX11969042",,
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX11969043",
+      "reason": "HPV positive"
+    },
+    {
+      "id": "SRX11969044",
+      "reason": "HPV positive"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12118507",
+      "reason": "Cell type indicates non-native"
+    },
+    {
+      "id": "SRX12118508",
+      "reason": "Cell type indicates non-native"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12118509",
+      "reason": "knock out"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12129503",
+      "reason": "Treated with DMSO"
+    },
+    {
+      "id": "SRX12129506",
+      "reason": "Treated with PLX"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12151157",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX12151158",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX12151159",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX12151160",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12209231",
+      "reason": "Stimulated CD4+ T cells"
+    },
+    {
+      "id": "SRX12209232",
+      "reason": "Stimulated CD4+ T cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12209237",
+      "reason": "Treated with CD3/CD28"
+    },
+    {
+      "id": "SRX12209238",
+      "reason": "Treated with CD3/CD28"
+    },
+    {
+      "id": "SRX12209239",
+      "reason": "Treated with CD3/CD28"
+    },
+    {
+      "id": "SRX12209240",
+      "reason": "Treated with CD3/CD28"
+    },
+    {
+      "id": "SRX12209241",
+      "reason": "Treated with CD3/CD28"
+    },
+    {
+      "id": "SRX12209242",
+     "reason": "Treated with CD3/CD28"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12357929",
+      "reason": "treated"
+    },
+    {
+      "id": "SRX12357931",
+      "reason": "treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "<none>",
+      "reason": "<none>"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12412434",
+      "reason": "Adipogenic induction"
+    },
+    {
+      "id": "SRX12412435",
+      "reason": "Adipogenic induction"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id":"SRX12567782",
+  	   "reason":"Condition is low salt"
+     }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12622730",
+      "reason": "Treated with hydrocortisone and CORT108297"
+    },
+    {
+      "id": "SRX12622732",
+      "reason": "Treated with CORT108297 and EtOH"
+    },
+    {
+      "id": "SRX12622734",
+      "reason": "Treated with hydrocortisone and DMSO"
+    },
+    {
+      "id": "SRX12622736",
+      "reason": "Treated with DMSO and EtOH"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12698892",
+      "reason": "Stimulated"
+    },
+    {
+      "id": "SRX12698893",
+      "reason": "Stimulated"
+    },
+    {
+      "id": "SRX12698894",
+      "reason": "Stimulated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12698895",
+      "reason": "Treated with R848"
+    },
+    {
+      "id": "SRX12698900",
+      "reason": "Treated with R848"
+    },
+   {
+     "id": "SRX12698890",
+   "reason": "Not found in the data"
+  }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX12698908",
+      "reason": "R848 stimulated"
+    },
+    {
+      "id": "SRX12698909",
+      "reason": "R848 stimulated"
+    },
+    {
+      "id": "SRX12698910",
+      "reason": "R848 stimulated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+
+      "id": "",
+      "reason:" ""
+    }
+
+
+  ]
+}
+```
+In this case, none of the samples contain any indication of non-native indicators based on your definition and guidelines. If you have more samples or additional data, please provide them for further analysis.
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13006636",
+      "reason": "DM, HTN"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13006678",
+      "reason": "Ischemic heart condition"
+    },
+    {
+      "id": "SRX13006679",
+      "reason": "Ischemic heart condition"}
+
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13006718",
+      "reason": "HTN condition"
+    },
+    {
+      "id": "SRX13006719",
+      "reason": "HTN condition"
+    },
+    {
+      "id": "SRX13006720",
+      "reason": "HTN condition"
+    },
+    {
+      "id": "SRX13006721",
+      "reason": "HTN condition"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13006772",
+      "reason": "ischemic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13007592",
+      "reason": "ischemic condition"
+    },
+    {
+      "id": "SRX13007593",
+      "reason": "ischemic condition"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+
+      "id":"SRX130076xx",
+       "reason" :"All the IDs here have 'tumor'"
+    }
+
+ ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13007981",
+      "reason": "Ischemic condition"
+    },
+    {
+      "id": "SRX13007982",
+      "reason": "Ischemic condition"
+    },
+    {
+      "id": "SRX13007993",
+      "reason": "Severe dysfunction, nonischemic condition"
+    },
+    {
+      "id": "SRX13007994",
+      "reason": "Severe dysfunction, nonischemic condition"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+{
+  "non_native_samples": []
+}
+```python
+{ "non_native_samples": [] }
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13008747",
+	   "reason":"Ischaemic Heart"
+	},
+    {
+      "id": "SRX13008748",
+	  "reason":"Ischaemic Heart"
+	}
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13008809",
+       "reason":"ischemic"
+    },
+     {
+      "id": "SRX13008810",
+      "reason":"ischemic"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13008860",
+      "reason": "Lungs with moderate emphysema"
+    },
+    {
+      "ID": "SRX13008861",
+      "Reason", "Lungs with moderate emphysema"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13009098",
+      "reason": "child (indicates non-native developmental stage)"
+    },
+    {
+      "id": "SRX13009099",
+      "reason": "child (indicates non-native developmental stage)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id":"",
+      "reason":""
+    }
+  ]
+}
+```
+No non-native indicators are present in the provided data.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13009141",
+      "reason": "Non-native sample"
+    },
+    {
+      "id": "SRX13009142",
+      "reason": "Non-native sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13009184",
+      "reason": "DM"
+    },
+    {
+      "id": "SRX13009185",
+      "reason": "DM, HTN"
+    },
+  	{
+      "id": "SRX13009190",
+      "reason": "Nonischemic disease"    },
+    {
+      "id": "SRX13009191",
+      "reason": "Nonischemic disease"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13009235",
+      "reason": "Child tissue"
+    }
+  ]
+}
+```
+I have identified the sample  SRX13009235 as non-native due because it mentions a child tissue, an embryonic or fetal development stage.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+There are no NON-NATIVE samples in the provided DATA.
+{
+  "non_native_samples": []
+}
+```json
+
+{
+  "non_native_samples": [
+    { }
+   ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13150017",
+      "reason": "No reason provided."
+    },
+    {
+      "id": "SRX13150018",
+      "reason": "No reason provided."
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13183650",
+      "reason": "Transduced with EKLF-GATA1 medium"
+    },
+    {
+      "id": "SRX13183651",
+      "reason": "Transduced with EKLF-GATA1 long"
+    },
+    {
+      "id": "SRX13183649",
+      "reason": "Transduced with GATA1"
+    },
+    {
+      "id": "SRX13183653",
+      "reason": "Transduced with GATA1"
+    },
+    {
+      "id": "SRX13183654",
+      "reason": "Transduced with EKLF-GATA1 medium"
+    },
+    {
+      "id": "SRX13183655",
+      "reason": "Transduced with EKLF-GATA1 long"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13183657",
+      "reason": "Treated with GATA1"
+    },
+    {
+      "id": "SRX13183658",
+      "reason": "Treated with EKLF-GATA1 medium"
+    },
+    {
+      "id": "SRX13183659",
+      "reason": "Treated with EKLF-GATA1 long"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1318615",
+      "reason": "embryonic"
+    },
+    {
+      "id": "SRX1318617",
+      "reason": "embryonic"
+    },
+    {
+      "id": "SRX1318619",
+      "reason": "embryonic"
+    },
+    {
+      "id": "SRX1318620",
+      "reason": "embryonic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1322299",
+      "reason": "Immortalized cell line (LCL)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13262055",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13273914",
+      "reason": "KO genotype"
+    },
+    {
+      "id": "SRX13273917",
+      "reason": "KO genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13318154",
+      "reason": "Genetic mutation (Lmna R527C)"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13602612",
+      "reason": "Disease state: ATR-X syndrome"
+    },
+    {
+      "id": "SRX13602613",
+      "reason": "Disease state: ATR-X syndrome"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13681293",
+      "reason": "Lymphoblastoid cell line"
+    },
+    {
+      "id": "SRX13681294",
+      "reason": "Lymphoblastoid cell line"
+    },
+    {
+      "id": "SRX13681295",
+      "reason": "Lymphoblastoid cell line"
+    },
+	{
+	  "id": "SRX13681296",
+	  "reason": "Lymphoblastoid cell line"
+	},
+	{
+	  "id": "SRX13681297",
+	  "reason": "Lymphoblastoid cell line"
+	  },
+	 {
+      "id": "SRX13681298",
+      "reason": "Lymphoblastoid cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX13681305",
+      "reason": "Lymphoblastoid Cell Line"
+    },
+    {
+      "id": "SRX13681306",
+      "reason": "Lymphoblastoid Cell Line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1397384",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397385",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397386",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397389",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397390",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397391",
+      "reason": "Treated with BMP4"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1397395",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1397396",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1397397",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1397401",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1397402",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX1397403",
+      "reason": "Treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1397407",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397408",
+      "reason": "Treated with BMP4"
+    },
+    {
+      "id": "SRX1397412",
+      "reason": "Treated with BMP4"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1425809",
+      "reason": " Activated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX14280059",
+      "reason": "NAFLD"
+    },
+    {
+      "id": "SRX14280060",
+      "reason": "NAFLD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX14280085",
+      "reason": "Disease state NAFLD"
+    },
+    {
+      "id": "SRX14280086",
+      "reason": "Disease state NAFLD"
+    },
+    {
+      "id": "SRX14280090",
+      "reason": "Disease state NAFLD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1435941",
+      "reason": "Cell line name: stromal cells."
+    }
+  ]
+}
+```
+The data provided is incomplete, but assuming that `Endometrial stromal cells` refers to a primary cell line or human cells in general the format might change once the full description.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX144520",
+      "reason": "Treated with SFN"
+    },
+    {
+      "id": "SRX144521",
+      "reason": "Treated with SFN"
+    },
+    {
+      "id": "SRX144523",
+      "reason": "Treated with SFN"
+    },
+    {
+      "id": "SRX144524",
+      "reason": "Vehile treated"
+    },
+    {
+      "id": "SRX144525",
+      "reason": "Vehicle treated"
+    },
+    {
+      "id": "SRX144527",
+      "reason": "Vehicle treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1456193",
+      "reason": "Immortalized LCL cell line"
+    },
+    {
+      "id": "SRX1456195",
+      "reason": "Immortalized LCL cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1460847",
+      "reason": "Treated with PMA/ionomycin, DMSO"
+    },
+    {
+      "id": "SRX1460848",
+      "reason": "Treated with PMA/ionomycin, BAY 11-7082"
+    },
+    {
+      "id": "SRX1460849",
+      "reason": "Treated with PMA/ionomycin, DMSO"
+    },
+    {
+      "id": "SRX1460850",
+      "reason": "Treated with PMA/ionomycin, BAY 11-7082"
+    },
+    {
+      "id": "SRX1460851",
+      "reason": "Treated with PMA/ionomycin, DMSO"
+    },
+    {
+      "id": "SRX1460852",
+      "reason": "Treated with PMA/ionomycin, BAY 11-7082"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1460853",
+      "reason": "treated (in vitro differentiated)"
+    },
+    {
+      "id": "SRX1460854",
+      "reason": "treated (BAT-7, PMA/ionomycin)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1478537",
+      "reason": "Fetal stage"
+    },
+    {
+      "id": "SRX1478538",
+      "reason": "Fetal stage"
+    },
+    {
+      "id": "SRX1478539",
+      "reason": "Fetal stage"
+    },
+    {
+      "id": "SRX1478540",
+      "reason": "Fetal stage"
+    },
+    {
+      "id": "SRX1478541",
+      "reason": "Fetal stage"
+    },
+    {
+      "id": "SRX1478542",
+      "reason": "Fetal stage"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1478543",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX1478544",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX14812503",
+      "reason": "Activated p53"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Based on the provided data and definitions, none of the samples in the given DATA seem to be non-native.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX14853139",
+      "reason": "Treated with E2+MPA"
+    },
+    {
+      "id": "SRX14853140",
+      "reason": "Treated with E2+MPA"
+    },
+    {
+      "id": "SRX14853141",
+      "reason": "Treated with E2+MPA"
+    },
+    {
+      "id": "SRX14853142",
+      "reason": "Treated with E2+MPA"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX14888587",
+      "reason": "Immortalized cell line M2"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX15036323",
+      "reason": "Immortalized cell line: Myla CD4+"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX151229",
+      "reason": "Immortalized cell line: Lymphoblastoid cells"
+    },
+     {
+      "id": "SRX151230",
+      "reason": "Immortalized cell line: Lymphoblastoid cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason":""
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1547996",
+      "reason": "Treated with DMSO"
+    },
+    {
+      "id": "SRX1547998",
+      "reason": "Treated with Nutlin-3a 10 μM"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX15600233",
+      "reason": "Treated with TCDD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX15710554",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX15710555",
+      "reason": "Null genotype"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX15710556",
+      "reason": ""
+    },
+     {
+      "id": "SRX15710557",
+      "reason": ""
+    },
+      {
+      "id": "SRX15710558",
+      "reason": ""
+    },
+
+       {
+      "id": "SRX15710559",
+      "reason": ""
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX15891788",
+      "reason": "Immortalized cell line"
+    },
+    {
+        "id":"SRX15891708",
+        ""
+            }
+	]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1603678",
+      "reason": "Differentiated keratinocytes"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX160843",
+      "reason": "Fetal cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1614803",
+      "reason": "Treated with R848"
+    },
+    {
+      "id": "SRX1614804",
+      "reason": "Treated with R848"
+    },
+  ]
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1614809",
+      "reason": "Treated with R848"
+    },
+    {
+      "id": "SRX1614810",
+      "reason": "Treated with R848"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16495545",
+      "reason": "No non-native indicators found"
+    },
+    {
+      "id": "SRX16495546",
+      "reason": "No non native indicators found"
+    },
+    {
+      "id": "SRX16495547",
+     "reason":"No non native indicators found"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+     }
+  ]
+}
+```
+
+All samples listed are PRIMARY CELL LINES or NOT SPECIFICALLY INDICATED as non-native.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16495588",
+      "reason": "ischemic"
+    },
+    {
+      "id": "SRX16495589",
+      "reason": "ischemic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16495663",
+      "reason": "not a drug-free"
+    },
+    {
+      "id": "SRX16495630",
+      "reason": "not from an healthy specimen or donor."
+    }
+  ]
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16495761",
+      "reason": "Activated CD8-positive T Cell"
+    },
+    {
+      "id": "SRX16495762",
+      "reason": "Activated CD8-positive T Cell"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{"non_native_samples": [
+  {"id":"SRX16498460","reason":"Severe emphysema"}
+]}
+```
+
+I reviewed the data and identified "emphysema" as potentially non-native because it deviates from healthy, normal physiological conditions. The sample type "tissue" is not considered inherently native when associated with a medical condition such as severe emphysema. If lung tissue is to be considered 'native', then samples obtained from lungs with conditions like emphysema would likely need to be excluded.
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16499729",
+      "reason": "Activated CD4-positive cell indicates non-native state"
+    },
+    {
+      "id": "SRX16499730",
+      "reason": "Activated CD4-positive cell indicates non-native state"
+    },
+     "id": "SRX16499731","reason":  "Activated CD4-positive cell indicates non-native state"
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16499828",
+      "reason": "Organoid"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16499925",
+      "reason": "Ischenamic heart disease"
+    },
+    {
+      "id": "SRX16499926",
+      "reason": "Ischenamic heart disease"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16499968",
+      "reason": "child sample"
+    },
+    {
+      "id": "SRX16499969",
+      "reason": "child sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The provided data does not contain any non-native indicators based on the given definitions and keywords. Therefore, no IDs are extracted for non-native samples.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16500059",
+      "reason": "embryonic"
+    },
+    {
+      "id": "SRX16500060",
+      "reason": "embryonic"
+    },
+    {
+      "id": "SRX16500061",
+      "reason": "embryonic"
+    },
+    {
+      "id": "SRX16500062",
+      "reason": "embryonic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX16500149",
+      "reason": "Diseased (severe emphysema)"
+    },
+    {
+      "id": "SRX16500150",
+      "reason": "Diseased (severe emphysema)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1690216",
+      "reason": "Neuroblastoma"
+    },
+    {
+      "id": "SRX1690217",
+      "reason": "Neuroblastoma"
+    },
+    {
+      "id": "SRX1690218",
+      "reason": "DOX treament"
+    },
+    {
+      "id": "SRX1690222",
+      "reason": "DOX treatment"
+    },
+    {
+      "id": "SRX1690226",
+      "reason": "DOX treatment"
+    },
+    {
+      "id": "SRX1690227",
+      "reason": "DOX treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1690255",
+      "reason": "Neuroblastoma cancer line SHEP-21N"
+    },
+    {
+      "id": "SRX1690259",
+      "reason": "Neuroblastoma cancer line SHEP-21N treated with DOX for 24HR"
+    },
+    {
+      "id": "SRX1690263",
+      "reason": "Neuroblastoma cancer line SHEP-21N treated with DOX for 2HR"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+The provided data does not contain any non-native indicators, so the list of non-native samples is empty.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id":"SRX170356",
+      "reason":"Cell type B cells"
+     }
+   ]
+}
+>
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1733648",
+      "reason": "Treated with IL10"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+ ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX17491426",
+      "reason": "Transfected"
+    },
+    {
+      "id": "SRX17491428",
+      "reason": "Transfected"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1759186",
+      "reason": "overexpressed ATF3"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+Based on the provided definitions, all the samples in the provided data appear to be native. None of the rows contain any non-native indicators as per your specified criteria. Therefore, the JSON object returned is empty apart from the structure prescribed.
+
+If there are more specific guidelines or additional context that could classify these samples as non-native I'd be happy to revisit this!
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1781649",
+      "reason": "Mutation present"
+    },
+    {
+      "id": "SRX1781653",
+      "reason": "Mutation found in genotype"
+    },
+    {
+        "id": "SRX1781655",
+        "reason": "LMNA p.R482W mutation"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1781659",
+      "reason": "Genetic mutation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX17834083",
+      "reason": "Co-cultured with tumor cells"
+    },
+    {
+      "id": "SRX17834084",
+      "reason": "Co-cultured with tumor cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX17966409",
+      "reason": "Knockdown of Let-7"
+    },
+    {
+      "id": "SRX17966411",
+      "reason": "Knockdown of Let-7"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX17966415",
+      "reason": "Let-7 Knockdown"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1799522",
+      "reason": "Treated cells"
+    },
+    {
+      "id": "SRX1799528",
+      "reason": "Treated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1799591",
+      "reason": "In vitro differentiated"
+    },
+    {
+      "id": "SRX1799593",
+      "reason": "In vitro differentiated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    },
+    {
+      "id": '',
+      'reason': ''
+     }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX18119380",
+      "reason": "Tumor"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX18156222",
+      "reason": "NAFLD"
+    },
+    {
+      "id": "SRX18156223",
+      "reason": "NAFLD"
+    },
+    {
+      "id": "SRX18156224",
+      "reason": "NAFLD"
+    },
+    {
+      "id": "SRX18156225",
+      "reason": "NAFLD"
+    },
+    {
+      "id": "SRX18156226",
+      "reason": "NAFLD"
+    },
+    {
+      "id": "SRX18156227",
+      "reason": "NAFLD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1823797",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823798",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823799",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823800",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823801",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823802",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1823809",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823810",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823811",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823812",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823813",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX1823814",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1823815",
+      "reason": "Fetal cells, immortalized"
+    },
+    {
+      "id": "SRX1823816",
+      "reason": "Fetal cells, immortalized"
+    },
+    {
+      "id": "SRX1823817",
+      "reason": "Fetal cells, immortalized"
+    },
+    {
+      "id": "SRX1823818",
+      "reason": "Fetal cells, immortalized"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1829883",
+      "reason": 'Mention of immortalized cell line'
+}
+]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1842780",
+      "reason": "Neuroblastoma"
+    },
+    {
+      "id": "SRX1842781",
+      "reason": "Neuroblastoma"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX18517819",
+      "reason": "Treated with DMSO"
+    },
+    {
+      "id": "SRX18517820",
+      "reason": "Treated with ROM"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX18517821",
+      "reason": "Treated with SAHA"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id":"SRX186666",
+        "reason":"No reason found"
+    },
+      {
+	"id":"SRX186670",
+	"reason":"None found"
+}
+]
+ }
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The provided data does not contain any non-native indicators as per the given definitions and keywords.
+```json
+{
+  "non_native_samples": []
+}
+```
+In this case there is no non-native sample in provided metadata.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX18672592",
+      "reason": "CTCF-KD treatment"
+    },
+    {
+      "id": "SRX18672593",
+      "reason": "CTCF-KD treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1878943",
+      "reason": "Immortalized cell line"
+    }
+    {
+      "reversed id:" SRX187944,
+       "reason":"Immortalized cell line with vector added"
+    }
+
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX188959",
+      "reason": "Immortalized cell line 'Lung'"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX188970",
+      "reason": "Medullo cells mentioned"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+It seems you've provided only one row. But based on given metadata the sample is native.  CD34+ cells are haematopoietic stem cells that can be found in the blood.
+
+Please provide more rows to accurately extract non-native samples sequencing IDs as per given definitions
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19123211",
+      "reason": "Disease state - C9HRE ALS/FTD"
+    },
+    {
+      "id": "SRX19123214",
+      "reason": "Disease state - C9HRE ALS/FTD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX1920486",
+      "reason": "Treated with IL-2"
+    },
+    {
+      "id": "SRX1920488",
+      "reason": "Treated with IL-2 and HODHBt"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19304507",
+      "reason": "Adipose derived stem cells"
+    },
+    {
+      "id": "SRX19304509",
+      "reason": "Adipose derived stem cells"
+    },
+    {
+      "id": "SRX19304518",
+      "reason": "Adipose derived stem cells"
+    },
+    {
+      "id": "SRX19304527",
+      "reason": "Adipose derived stem cells"
+    },
+    {
+      "id": "SRX19304538",
+      "reason": "Adipose derived stem cells"
+    },
+    {
+      "id": "SRX19304546",
+      "reason": "Adipose derived stem cells"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19487526",
+      "reason": "Treated w/ L2HG"
+    },
+    {
+      "id": "SRX19487527",
+      "reason": "Treated w/ L2HG"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19495644",
+      "reason": "Treated with TCDD"
+    },
+    {
+      "id": "SRX19495645",
+      "reason": "Treated with TCDD"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19538281",
+      "reason": "Mutated p53 genotype"
+    },
+    {
+      "id": "SRX19538282",
+      "reason": "Mutated p53 genotype"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19664486",
+      "reason": "Immortalized cell line"
+    },
+     {
+      "id": "SRX19664487",
+      "reason": "Immortalized cell line"
+    },
+     {
+      "id": "SRX19664488",
+      "reason": "Immortalized cell line"
+    },
+            {
+      "id": "SRX19664489",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX19738542",
+      "reason": "Treated with CRISPRa system"
+    },
+    {
+      "id": "SRX19738543",
+      "reason": "Treated with CRISPRa system"
+    },
+    {
+      "id": "SRX19738544",
+      "reason": "Treated with CRISPRa system for HOXDeRNA activation"
+    },
+    {
+      "id": "SRX19738545",
+      "reason": "Treated with CRISPRa system for HOXDeRNA activation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX198034",
+      "reason": "JQ1 treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX200050",
+      "reason": "Hutchinson-Gilford progeria syndrome"
+    },
+    {
+      "id": "SRX200052",
+      "reason": "Hutchinson-Gilford progeria syndrome"
+    }
+  ]
+}
+```
+```{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    },
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+Based on the provided metadata, it doesn't appear there are any non-native indicators in the given data. Please provide more sample rows or correct the given row to reflect an accurate data entry format.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20097676",
+      "reason": "treated with 1,25D3"
+    },
+    {
+      "id": "SRX20097677",
+      "reason": treated with 1,25D3
+    }
+]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20097681",
+      "reason": "Treated with 1,25D3"
+    },
+    {
+      "id": "SRX20097682",
+      "reason": "Treated with 1,25D3"
+    },
+    {
+      "id": "SRX20097683",
+      "reason": "Treated with 1,25D3"
+    },
+    {
+      "id": "SRX20097684",
+      "reason": "Treated with 1,25D3"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20097685",
+      "reason": "Treated with 1,25D3"
+    },
+   {
+      "id": "SRX20097686",
+      "reason": "Treated with 1,25D3"
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20140869",
+      "reason": "Null genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20140870",
+      "reason": "Non-wild genotype (INTS10HET2)"
+    }
+}
+```
+```{
+  "non_native_samples": [
+    {
+      "id": "SRX20140891",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX20140892",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX20140896",
+      "reason": "Null genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX203387",
+      "reason": "Diagnosis: Multiple myeloma, treatment with JQ1"
+    },
+    {
+      "id": "SRX203389",
+      "reason": "Diagnosis: Multiple myeloma, treatment with JQ1"
+    },
+{
+      "id": "SRX203390",
+      "reason": "Diagnosis:Multiple myeloma , treatment with JQ1"
+   },
+   {
+     "id" : "SRX203388",
+    "reason":"Diagnosis:multiple  myeloma, treatment with DMSO "
+    },
+{
+     "id": "SRX203391",
+         "reason": "Diagnosis:Multiple myelamoa ,treatment with DMSO "
+}
+,
+{
+      "id" : "SRX203304 ",
+          "reason":  Diagnostic: multiple myelama, treatment with JQ1"
+}
+ ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX203395",
+      "reason": "Cancer-related diagnosis"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [ ]
+}
+```
+
+In this case it does not seem there are any non-native samples. The primary human neonatal keratinocytes were derived from a healthy, unmodified, and drug-free specimen. They also come from normal physiological conditions as they are cells from the skin of a newborn baby (neonatal) and thus can be considered native samples.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20420564",
+      "reason": "knockin"
+    },
+    {
+      "id": "SRX20420565",
+      "reason": "knockin"
+    },
+    {
+      "id": "SRX20420566",
+      "reason": "knockin"
+    }
+	 ,{
+      "id": "SRX20420567",
+      "reason": "knockin"
+    }
+   ,{
+      "id": "SRX20420568",
+      "reason": "knockin"
+    },
+ {
+      "id": "SRX20420569",
+      "reason": "knockin"
+	  }]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20420570",
+      "reason": "TFAP4 knockin"
+    },
+    {
+      "id": "SRX20420571",
+      "reason": "tNGFR knockin"
+    },
+    {
+      "id": "SRX20420572",
+      "reason": "BATF-TFAP4 knockin"
+    }
+    {
+       "id":"SRX20420573",
+       "reason":"BATF knockin"
+    }
+    ,
+    {
+      "id": "SRX20420574",
+      "reason": "TFAP4 knockin"
+    },
+            {
+                    "id": "SRX20420575",
+                         "reason": "tNGFR knockin"
+                                    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20420576",
+      "reason": "Null genotype"
+    },
+     {
+     "id":"SRX20420579",
+     "reason":"Null genotype"
+   }
+ ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20420582",
+      "reason": "BATF-TFAP4 knockin"
+    },
+     {   "id": "SRX20420583",
+      "reason": "tNGFR knockin"
+
+     }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20440536",
+      "reason": "Neonatal tissue"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX205164",
+      "reason": "Cell culture"
+    },
+    {
+      "id": "SRX205165",
+      "reason": "Cell culture"
+    },
+    {
+      "id": "SRX205166",
+      "reason": "Cell culture"
+    },
+    {
+      "id": "SRX205167",
+      "reason": "Cell culture"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+  ]
+}
+{
+  "non_native_samples": [
+    {
+      "id": "SRX20662341",
+      "reason": "Adapted to growth media"
+    },
+    {
+      "id": "SRX20662345",
+      "reason" : "Primary cells cultured in 15% FBS instead of the regular 10% growth media"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "
+      id"
+      ": "SRX20971022",
+      "reason": "KAT6A, not wild-type or control"
+    },
+    {
+      "id": "SRX20971023",
+      "reason": "KAT6A, not wild-type or control"
+    },
+    {
+      "id": "SRX20971024",
+      "reason": "KAT6A, not wild-type or control"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2109209",
+      "reason": "Immortalized cell line"
+    }
+    ,
+    {
+      "id": "SRX2109214",
+      "reason": "Immortalized cell line"
+     },
+    {
+      "id": "SRX2109219",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212182",
+      "reason": "Fetal cells indicate embryonic origin"
+    },
+    {
+      "id": "SRX212183",
+      "reason": "Treated with TNF-α (10ng/mL) 1hr"
+    },
+    {
+      "id": "SRX212184",
+      "reason": "Fetal cells indicate embryonic origin"
+    },
+    {
+      "id": "SRX212185",
+      "reason": "Treated with TNF-α (10ng/mL) 1hr"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+ "non_native_samples": [
+    {
+      "id": "SRX212319",
+      "reason": "Monocyte-derived macrophages"
+    },
+    {
+      "id": "SRX212353",
+      "reason": "Hypoxic treatment"
+    },
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212357",
+      "reason": "Hypoxia treatment"
+    },
+    {
+      "id": "SRX212358",
+      "reason": "Hypoxia treatment"
+    },
+   {
+      "id": "SRX212360",
+      "reason": "Interleukin-Treatement "
+    },
+   {
+     "id": "SRX212359",
+      "reason":  "Treatment with interleukin-10 "
+    }
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212362",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX212363",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX212364",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX212365",
+      "reason": "Treated, Hypoxy"
+    },
+    {
+      "id": "SRX212366",
+      "reason": "Treated, Hypoxy"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212440",
+      "reason": "Expanded conventional T cells"
+    },
+    {
+      "id": "SRX212441",
+      "reason": "Expanded conventional T cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212442",
+      "reason":"Immortalized cell line name"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212443",
+      "reason": "Non-native cell line"
+    },
+	 {
+      "id": "SRX212444",
+      "reason":  Non native cell line
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212445",
+      "reason": "Expanded cells"
+    },
+   {
+      "id": "SRX212446",
+      "reason": "Expanded cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212447",
+      "reason": "Treated with a non native method"
+    },
+    {
+      "id": "SRX212448",
+      "reason": "CD4+CD25- expanded"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212647",
+      "reason": "Treated with MCSF"
+    },
+    {
+      "id": "SRX212648",
+      "reason": "Treated with MCSF and IFN-gamma"
+    },
+    {
+      "id": "SRX212649",
+      "reason": "Treated with MCSF and LPS "
+    },
+    {
+      "id": "SRX212650",
+      "reason": "Treated with MCSF, IFN-gamma and LPS"
+    },
+    {
+      "id": "SRX212651",
+      "reason": "Treated with MCSF and IFN-gamma"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX212661",
+      "reason": "Treated with MCSF"
+    },
+    {
+      "id": "SRX212662",
+      "reason": "Treated with MCSF and IFN-gamma"
+    },
+    {
+      "id": "SRX212663",
+      "reason": "Treated with MCSF and LPS"
+    },
+    {
+      "id": "SRX212664",
+      "reason": "Treated with MCSF, IFN-gamma and LPS"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2166885",
+      "reason": "Fetal Week"
+    },
+     {
+      "id": "SRX2166886",
+      "reason": "Fetal Week"
+    },
+     {
+      "id": "SRX2166887",
+      "reason": "Fetal Week"
+    },
+  {
+      "id": "SRX21668885",
+      "reason": "Retinoblastoma"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2166894",
+      "reason": "Disease state: retinoblastoma"
+    },
+	{
+	  "id":"SRX2166895",
+	  "reason":"Treatment was a xenograft (not unmodified)",
+       }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+``
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX21849426",
+      "reason": "Treated with ACLR"
+    }
+  ]
+}
+```
+```json
+{
+ "non_native_samples": [
+   {
+     "id" : "SRX22037065",
+     "reason": "Immortalized cell line E14TG2a.IV mouse ES cells"
+    },
+    {
+      "id": "SRX22037066",
+      "reason": "Immortalized cell line E14TG2a.IV mouse ES cells"
+   },
+    {
+     "id": "SRX22037065",
+     "reason": "Immortalized cell line E14TG2a.IV mouse ES cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2253219",
+      "reason": "Diagnosis is CLL"
+    },
+    {
+      "id": "SRX2253220",
+      "reason": "Diagnosis is CLL"
+    },
+    {
+      "id": "SRX2253222",
+      "reason": "Diagnosis is CLL"
+    },
+    {
+      "id": "SRX2253223",
+      "reason": "Diagnosis is CLL"
+    },
+    {
+      "id": "SRX2253225",
+      "reason": "Diagnosis is CLL"
+    },
+    {
+      "id": "SRX2253226",
+      "reason": "Diagnosis is CLL"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2253228",
+      "reason": "CLL diagnosis"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX22532981",
+      "reason": "Potential non-native indicator 'knockout'"
+    }
+   ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2254716",
+      "reason": "viral transduction"
+    },
+    {
+      "id":"SRX2254717",
+      "reason": "viral transduction"
+    },
+    {
+      "id":"SRX2254718",
+      "reason": "viral transduction"
+    },
+    {
+      "id": "SRX2254719",
+      "reason": "viral transduction"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2268290",
+      "reason": "Adipocyte differentiation"
+    },
+    {
+      "id": "SRX2268291",
+      "reason": "Osteoblast differentiation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2268292",
+      "reason": "Fetal cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2281258",
+			"reason":"Fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2281260",
+      "reason": "Fetal bone marrow"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX23045263",
+      "reason": "treated with TGFb"
+    },
+    {
+      "id": "SRX23045264",
+      "reason": "treated with TGFb"
+    },
+    {
+      "id": "SRX23045265",
+      "reason": "treated with TGFb"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX23045266",
+      "reason": "Treated with TGFb and Adropin34-76"
+    },
+    {
+      "id": "SRX23045267",
+      "reason": "Treated with TGFb and Adropin34-76"
+    },
+    {
+      "id": "SRX23045268",
+      "reason": "Treated with TGFb and Adropin34-76"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX23335286",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX23335287",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2343922",
+      "reason": "passage >0"
+    },
+    {
+      "id": "SRX2343923",
+      "reason": "passage >0"
+    },
+    {
+      "id": "SRX2343924",
+      "reason": "passage >0"
+    },
+    {
+      "id": "SRX2343925",
+      "reason": "passage >0"
+    },
+    {
+      "id": "SRX2343934",
+      "reason": "passage >0"
+
+    },
+     {
+      "id": "SRX2343935",
+      "reason": "passage >0"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2343937",
+      "reason": "Has passages"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX23548770",
+      "reason": "miR-1204 overexpression"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2367969",
+      "reason": "LPS treatment"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX237289",
+      "reason": "Activated with antibodies"
+    },
+    {
+      "id": "SRX237290",
+      "reason": "Activated with antibodies"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2388757",
+      "reason": "Immortalized cell line/Myofibroblasts"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX24330007",
+      "reason": "Spleen-injury"
+    },
+    {
+      "id": "SRX24330009",
+      "reason": "Portal hypertension combined with hypersplensim (PHcH)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX24545853",
+      "reason": "IL-10 treatment"
+    },
+    {
+      "id": "SRX24545857",
+      "reason": "IL-10 treatment and transfection with Heat4-encoding plasmid"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX24545864",
+      "reason": "Treatment with plasmid and IL-10"
+    },
+       {
+      "id": "SRX24545863",
+      "reason": "Not in data but needed for correct formatting."
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2464017",
+      "reason": "Treated through CD3/CD28 signaling"
+    },
+    {
+       "id": "SRX2464018",
+        "reason": "Treated through CD3/CD28 signaling"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+        "id":"",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+The data provided does not contain any non-native indicators based on the given definitions.
+```json
+
+{
+  "non_native_samples": []
+}
+
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX25037647",
+      "reason": "Differentiation from pluripotent stem cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX25331425",
+      "reason": "Cell line ICR_CXJ_046"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX25501804",
+      "reason": "AR silencing treatment"
+    },
+    {
+      "id": "SRX25501807",
+      "reason": "AR silencing treatment"
+    },
+    {
+      "id": "SRX25501808",
+      "reason": "HDF-1 cell line"
+    },
+    {
+      "id": "SRX25501811",
+      "reason": "AR silencing treatment"
+    },
+    {
+      "id": "SRX25501812",
+      "reason": "AR silencing treatment"
+    },
+    {
+      "id": "SRX25501815",
+      "reason": "HDF-2 cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX25501818",
+      "reason": "Immortalized cell line (HDF-2)"
+    },
+	 {
+      "id": "SRX25501819",
+	"reason":"Treated with AR silencing"
+  }
+    ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+The data provided does not contain any non-native indicators based on the given definitions. Therefore, the JSON object returned is empty as per your instructions and requirements.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX256993",
+      "reason": "Immortalized cell line: Lymphoblastoid"
+    },
+    {
+      "id": "SRX256994",
+      "reason": "Immortalized cell line: Lymphoblastoid"
+    },
+    {
+      "id": "SRX256995",
+      "reason": "Immortalized cell line: Lymphoblastoid"
+    },
+    {
+      "id": "SRX256996",
+      "reason": "Immortalized cell line: Lymphoblastoid"
+    },
+    {
+      "id": "SRX256997",
+      "reason": "Immortalized cell line: Lymphoblastoid"
+    },
+    {
+      "id": "SRX256998",
+      "reason": "Immortalized cell line: Lymphoblastoid"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX256999",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX257000",
+      "reason":"EtOH Treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2630137",
+      "reason": "Non-obstructive CAD"
+    },
+    {
+      "id": "SRX2630138",
+      "reason": "Non-obstructive CAD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2635806",
+      "reason": "CAD mention"
+    },
+    {
+      "id": "SRX2635807",
+      "reason": "CAD mention"
+    }
+ ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2635902",
+      "reason": "CAD"
+    },
+     {
+       "id": "SRX2635903",
+       "reason": "CAD"
+    },
+        {
+     "id": "SRX2635951",
+     "reason":" CAD"
+       }
+           ,
+                {
+                    "id": "SRX2635952",
+                     "reason":
+                      "CAD"
+
+                  }
+
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2635955",
+      "reason": "Healthy with CAD"
+    },
+    {
+      "id": "SRX2635956",
+      "reason": "Healthy with CAD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2636084",
+      "reason": "Has Coronory artery disease"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2636092",
+      "reason": "In vitro differentiated cells"
+    },
+	{
+	  "id": "SRX2636093",
+      "reason": "In vitro differentiated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2636234",
+      "reason": "Coronary artery disease"
+    },
+    {
+      "id": "SRX2636235",
+      "reason": "Coronary artery disease"
+    },
+    {
+      "id": "SRX2636352",
+      "reason": "Coronary artery disease"
+    },
+    {
+      "id": "SRX2636353",
+      "reason": "Coronary artery disease"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2636404",
+      "reason": "In vitro differentiated cells"
+    },
+    {
+      "id": "SRX2636405",
+      "reason": "In vitro differentiated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2642968",
+      "reason": "Not a non-native indicator"
+	}
+]
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": "Not enough detail to determine non-native indicator"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "<SRX2671799>",
+      "reason": "<endothelial cell passage>"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+There are no non-native indicators in the provided data.
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2731772",
+      "reason": "Non-native cell line: SHEP-21N"
+    },
+    {
+      "id": "SRX2731775",
+      "reason": "Non-native cell line: SHEP-21N"
+    },
+    {
+      "id": "SRX2731778",
+      "reason": "Non-native cell line SHEP-21N, Doxycycline Treatment "
+    },
+    {
+      "id": "SRX2731783",
+      "reason": "Non-native cell line: tetracycline MYCN"
+    },
+    {
+        "id": "SRX2731786",
+        "reason": "Non-native cell line:tetracycline MYCN"
+     },
+    {
+        "id":"SRX2731789",
+        "reason":"Non-Native Cell line :SHEP with tetracycline inducible MYCN"
+      }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2765967",
+      "reason": "Fetal cells"
+    },
+    {
+      "id": "SRX2765968",
+      "reason": "Fetal cells"
+    }
+  ]
+}
+```
+```{
+  "non_native_samples": [
+    {
+      "id": "SRX2770844",
+      "reason": "IF Ngamma treated"
+    },
+    {
+        "id" : "SRX2770845",
+        "reason":"IFN-gamma"
+      },
+    {
+        "id":"SRX2770850",
+        "reason":"MAF IFN-treatment"
+    }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2770854",
+      "reason": "Treated with IFN-gamma"
+    },
+    {
+      "id": "SRX2770855",
+      "reason": "Treated with IFN-gamma"
+    },
+    {
+      "id": "SRX2770856",
+      "reason":"None given, but further confirmation of no treatment required as the sample is treated as native based on untreated conditions."
+    }
+    {
+      "id": "SRX2770859",
+      "reason" ": This too would be considered a null reason if it is mentioned as control and wild type."
+      },
+     {
+       "id": "SRX2770860",
+      "reason" : "sample with fetal origin might not be confirmed unless the other data states that it is indeed a native sample."
+    }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2778384",
+      "reason": "Immortalized lymphoblastoid cell line"
+    },
+    {
+      "id": "SRX2778385",
+      "reason": "YY1-mutated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2778388",
+      "reason": "Lymphoblastoid cell line"
+    },
+    {
+      "id": "SRX2778389",
+      "reason": "Lymphoblastoid cell line"
+    },
+    {
+      "id": "SRX2778390",
+      "reason": "Lymphoblastoid cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2778394",
+      "reason": "Immortalized lymphoblastoid cell line (LC)"
+    },
+    {
+      "id": "SRX2778395",
+      "reason": "Immortalized lymphoblastoid cell line (LC)"
+    },
+    {
+      "id": "SRX2778396",
+      "reason": "YY1-mutated"
+    },
+    {
+      "id": "SRX2778397",
+      "reason": "YY1-mutated"
+    },
+    {
+      "id": "SRX2778398",
+      "reason": "YY1 hemizygous deletion"
+    },
+    {
+      "id": "SRX2778399",
+      "reason": "YY1-mutated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX278504",
+      "reason": "treated with nutlin-3"
+    },
+    {
+     "id": "SRX278506",
+     "reason": "treated with doxo"
+    },
+    {
+       "id": "SRX278510",
+       "reason": " treated with IR"
+   }
+ ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2791697",
+      "reason": "Gene mutation"
+    },
+    {
+      "id": "SRX2791698",
+      "reason": "Gene mutation"
+    },
+    {
+      "id": "SRX2791699",
+      "reason": "Gene mutation"
+    },
+    {
+      "id": "SRX2791700",
+      "reason": "Gene mutation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2821738",
+      "reason": "Stimulated treatment, non-native"
+    },
+    {
+      "id": "SRX2821739",
+      "reason": "Stimulated treatment, non-native"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX286018",
+      "reason": "Treated with IFNg"
+                    "and GMCSF."
+    },
+                  {
+
+      "id": "SRX286019",
+
+       reason":" TREADed with IL4.
+                   and GMCSf."
+
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2867628",
+      "reason": "Non-native cell line + treated with chemicals"
+    },
+    {
+      "id": "SRX2867629",
+      "reason": "Non-native cell line + treated with chemicals"
+    },
+      {
+      "id":"SRX2867630",
+      "reason": "Non-Native cell line and treated with DMSO"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2966968",
+      "reason": "fetal"
+    },
+    {
+      "id": "SRX2966969",
+      "reason": "fetal"
+    },
+    {
+      "id": "SRX2966972",
+      "reason": "fetal"
+    },
+	{
+      "id": "SRX2966973",
+      "reason": "fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX2990553",
+      "reason": "Chondrosarcoma"
+    },
+    {
+      "id": "SRX2990554",
+      "reason": "Chondrosarcoma"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3010015",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX3010016",
+      "reason": "Embryonic stage"
+    },
+    {
+      "id": "SRX3010017",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3010190",
+      "reason": "In vitro differentiated cells"
+    },
+    {
+      "id": "SRX3010191",
+      "reason": "in vitro differentiated neurons"
+    }
+ ,	{
+      "id": "SRX3010194",
+      "reason": "in vitro differentiated cells"
+    },
+  .   {
+      "id": "SRX3010195",
+      "reason": "in vitro differentiated cells"
+    }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+There are no indicators of non-native samples in the provided data.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3010297",
+      "reason": "Embryonic stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Here is my reasoning:
+None of the samples in the given DATA matches any of the criteria for NON-NATIVE indicators. The cells used are primary cells (not immortalized), there are no mentions of diseases or treatments, and cell names do not indicate non-native conditions.
+
+Thus, there are no non-native sample sequencings and an empty format is provided
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3056625",
+      "reason": "Fetal"
+    },
+    {
+      "id": "SRX3056626",
+      "reason": "Fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3083285",
+      "reason": "treament"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3100755",
+      "reason": "Immortalized cell line (HK) mentioned"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+
+      "id": "SRX3195440",
+      "reason": "cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX323565",
+      "reason": "C57BL/6 strain"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3240987",
+      "reason": "hMSC-TERT4 cell line"
+    },
+    {
+      "id": "SRX3240988",
+      "reason": "hMSC-TERT Cell line "
+    },
+   {
+      "id":"SRX3240989",
+     91.5 reason": "hMSC-TERT cell line"
+    },
+    {
+      "id": "SRS3240990",
+      "reason": "hMSC-TERT Cell line"
+    },
+   {
+      "id":"SRX32408471",
+
+reason  non-native": "Non-cancer indication but not wild type or untreated "
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3240993",
+      "reason": "Immortalized cell line hMSC-TERT4"
+    },
+    {
+      "id": "SRX3240994",
+      "reason": "Immortalized cell line hMSC-TERT4"
+    },
+    {
+      "id": "SRX3240995",
+      "reason": "Immortalized cell line hMSC-TERT4"
+    },
+    {
+      "id": "SRX3240996",
+      "reason": "Immortalized cell line hMSC-TERT4"
+    },
+    {
+      "id": "SRX3240997",
+      "reason": "Immortalized cell line hMSC-TERT4"
+    },
+    {
+      "id": "SRX3240998",
+      "reason": "Immortalized cell line hMSC-TERT4"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+
+There are no non-native samples in the given data. All the samples mentioned use monocyte primary cells, which as per the defintion above dont indicate non native samples
+```json
+{
+  "non_native_samples": [
+    {
+      // Add samples when found.
+    }
+  ]
+}
+```
+There are no non-native indicators in this data
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+   }
+ ]
+}
+```
+
+This problem needs a little bit of context. The above is only a snippet, so the data might be different as well.
+
+1. It's best to create regular expressions for each 'non-native' keyword
+2. A regex engine could be used or even Python to read data and then output it.
+3. Each row would need to be searched for these keywords which means we also check for false positives.
+4. The output must be exactly as specified in the format above.
+
+Unfortunately, without a context as to how this function works (e.g. does this come from a file?, or is this data given dynamically?) it's hard to write anything.
+
+But I might be using Python for this kind of data, if that's the plan then feel free to message me!
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3321881",
+      "reason": "Unknown non-native indicator"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+This is because the provided DATA does not contain any non-native indicators as mentioned in the definitions.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Explanation:
+Upon reviewing the provided data, there are no explicit keywords or indicators that suggest the sample is non-native. The mention of 'tissue,' 'age,' and 'donor ID' do not directly imply any non-native characteristics as defined by our criteria. Therefore, based on the given information which describes EP300 from a donor's ovary tissue with no further details of non native indicators the data does not suggest any sequencing is non-native.
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322106",
+      "reason": "Digestive tract"
+    }
+  ]
+}
+```
+
+In this response, I have extracted the sample with an ID because it indicates 'Digestive tract' which may include conditions mimicking non-native samples.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+ ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322140",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+No non-native indicators were found in the provided data.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+Only the row provided was checked and there are no non-native indicators. To find IDs of sequencings, please provide more rows from the TSV file or confirm this is all we have to work with so I can return an accurate response.
+```json
+{
+  "non_native_samples": [
+    {"id": "", "reason": ""}
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322233",
+      "reason": "Health state indicates coronary artery disease"
+    },
+    {
+      "id": "SRX3322234",
+      "reason": "Health state indicates coronary artery disease"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+(As there is no information that indicates any non-native indicators from the provided dataset.)
+```json
+{
+  "non_native_samples": []
+
+```
+
+Since the provided data does not contain any of the non-native indicators specified, the list of non-native samples is empty.
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322334",
+      "reason": "Non-native sample from healthy tissue, upper lobe of left lung"
+
+   }
+ ]
+}
+```
+{
+  "non_native_samples": []
+}
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Explanation:  The data provided does not contain any non-native indicators as defined.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{"non_native_samples": []}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      **"id": "SRX3322437",
+      **"reason":"None"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322453",
+      "reason": "Not clear but age is significant"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322476",
+      "reason": "Adult sample"
+    }
+  ]
+}
+```
+
+The above JSON object lists the ID of the non-native samples and a short reason for their classification. If you have any additional data or need further clarification, feel free to ask!
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+
+   ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "<not applicable>"
+    }
+  ]
+}
+```
+
+The data provided does not contain any keywords that would indicate the samples can be non-native. In other words, none of them show non-native indicators.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+
+    }
+  ]
+}
+```
+In this case, none of the keywords or indicators are present in the description. Thus the JSON object with no data for non-ntaive sequencings is returned.
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322609",
+      "reason": "Colon, Transverse"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322641",
+      "reason": "None specified but adult stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [ ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322772",
+      "reason": "sample has non-native tissue specific 'Leg skin'"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+The provided `SRX3322785` does not indicate non-native indicators based on the definition and criteria given. Therefore, it will not be included in this output.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": null,
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322808",
+      "reason": "Prostate gland (possibly cancer or other pathology)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322847",
+      "reason": ""
+    }
+  ]
+}
+```
+In this example the reason field has been left empty because no clear non-native keyword appeared. Usually that field should be completed based on the exact evidence found (e.g., 'contains "TREATMENT"')
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322855",
+      "reason": "Cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322907",
+      "reason": "Tissue type is tumor and adult cells, the donor Id has disease."
+    }
+
+   ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": ""
+      ,
+     }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+    "non_native_samples": [
+    {
+      "id": "SRX3322975",
+      "reason": "Donor age over 40"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Explanation: The provided data does not contain any non-native indicators as per the definition.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3322998",
+      "reason": "adult tissue"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3323014",
+      "reason": "NA"
+    }
+  ]
+}
+```
+```json {
+  "non_native_samples": []
+}
+```
+
+Based on the provided data, there are no non-native indicators present.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3323031",
+      "reason": "CAD"
+    },
+    {
+      "id": "SRX3323032",
+      "reason": "CAD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3323072",
+      "reason": "No non-native indicators detected"
+    }
+  ]
+}
+```
+
+This output follows the specified JSON format and indicates that based on the provided data, there are no visible non-native indicators for the sample sequencing listed.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3345973",
+      "reason": "fetal"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3367137",
+      "reason": "Passaged cell line"
+    },
+    {
+      "id": "SRX3367138",
+      "reason": "Passaged cell line"
+    }
+  ]
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX338979",
+      "reason": "Knockout"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3408800",
+      "reason": "Blood-derived cell"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+`
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3445722",
+      "reason": "Immortalized cell line: EBV-transformed"
+    },
+    {
+      "id": "SRX3445723",
+      "reason": "Immortalized cell line: EBV-transformed"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3460916",
+      "reason": "Pre-B cell line"
+    },
+    {
+      "id": "SRX3460917",
+      "reason": "Pre-B cell line"
+    },
+    {
+      "id": "SRX3460918",
+      "reason": "Pre-B cell line"
+    },
+    {
+      "id": "SRX3460919",
+      "reason": "Pre-B cell line"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3460920",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3460921",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3468047",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3468052",
+      "reason": "shRNA targeting SS18"
+    },
+    {
+      "id": "SRX3468053",
+      "reason": "shRNA targeting SUZ12-SSX1 or SUU"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX346921",
+      "reason": "Infection with lentivirus"
+    },
+    {
+      "id": "SRX346922",
+      "reason": "BRAFV600E overexpression"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3511907",
+      "reason": "Treated with TGFb1"
+    },
+    {
+      "id": "SRX3511908",
+      "reason": "Treated with TGFb1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX352046",
+      "reason": "Treated with menadione"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3545872",
+      "reason": "Cancer sample"
+    },
+        {
+      "id": "SRX3545876",
+      "reason": "Cancer sample"
+    },
+
+     {
+      "id": "SRX3545880",
+      "reason": "Cancer sample"
+    }
+  ]
+}
+```
+```
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX356482",
+      "reason": "Immortalized cell line used"
+    },
+    {
+      "id": "SRX356483",
+      "reason": "Immortalized cell line used"
+    },
+    {
+      "id": "SRX356484",
+      "reason": "Immortalized cell line used"
+    },
+    {
+      "id": "SRX356499",
+      "reason": "Immortalized cell line used"
+    },
+     {
+      "id": "SRX356500",
+      "reason": "Immortalized cell line used"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX356546",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356547",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356559",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356560",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356712",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356713",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX356714",
+      "reason": "Lymphoblastoid cell line name indicated"
+    },
+    {
+      "id": "SRX356728",
+      "reason": "Lymphoblastoid cell line name indicated"
+    },
+    {
+      "id": "SRX356729",
+      "reason": "Lymphoblastoid cell line name indicated"
+    },
+    {
+      "id": "SRX356730",
+      "reason": "Lymphoblastoid cell line name indicated"
+    },
+    {
+      "id": "SRX356731",
+      "reason": "Lymphoblastoid cell line name indicated"
+    },
+    {
+      "id": "SRX356732",
+      "reason": "Lymphoblastoid cell line name indicated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX356746",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356747",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356748",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356749",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356750",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356764",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX356765",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356766",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356767",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356768",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX356782",
+      "reason":"Immortalized cell line"
+     },
+       {
+      "id": "SRX356783",
+      "reason": "Immortalized cell line"
+     }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3585704",
+      "reason": "Fetal cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+There are no non-native samples found in your input.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3586365",
+      "reason": "BCP-ALL patient"
+    },
+    {
+      "id": "SRX3586366",
+      "reason": "BCP-ALL patient"
+    },
+    {
+      "id": "SRX3586367",
+      "reason": "BCP-ALL patient"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3642946",
+      "reason": "Expressing HA-PRMT1"
+    },
+    {
+      "id": "SRX3642947",
+      "reason": "Expressing HA-PRMT1"
+    },
+    {
+      "id": "SRX3642948",
+      "reason": "Expressing HA-PRMT1"
+    },
+    {
+      "id": "SRX3642949",
+      "reason": "Expressing HA-PRMT1"
+    }
+  ]
+}
+```
+```json
+{"non_native_samples": []}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3666488",
+      "reason": "Stimulated with PHA"
+    },
+    {
+      "id": "SRX3666490",
+      "reason": "Stimulated with PHA"
+    },
+    {
+      "id": "SRX3666492",
+      "reason": "Stimulated with PHA"
+    },
+    {
+      "id": "SRX3666494",
+      "reason": "Stimulated with PHA"
+    },
+    {
+      "id": "SRX3666496",
+      "reason": "Stimulated with PHA"
+    },
+    {
+      "id": "SRX3666498",
+      "reason": "Stimulated with PHA"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3666500",
+      "reason": "Pha-activated, treated with PHA"
+    },
+    {
+      "id": "SRX3666502",
+      "reason": "PHA-stimulated (treated with PHA)"
+    },
+     {
+        "id":"SRX366   6504",
+
+       }
+
+     }
+    ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3679898",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX3679900",
+      "reason": "Null genotype"
+    },
+    {
+      "id": "SRX3679902",
+      "reason": "Null genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3703140",
+      "reason": "Immortalized Cell Line"
+    },
+     {
+      "id": "SRX3703142",
+       "reason":"Immortalized Cell Line"
+	}
+ ]
+}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The data provided does not contain any non-native indicators as per the definition given.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3734301",
+      "reason": "treated with Nutin3A"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3734319",
+      "reason": "Treated with Nutlin3A"
+    },
+    {
+      "id": "SRX3734320",
+      "reason": "Treatment unspecified but non DMSO"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3768715",
+      "reason": "No reason found"
+    },
+    {
+      "id":"SRX3768714",
+      "reason": "No reason found"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3768736",
+      "reason": "Overexpression"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX381543",
+      "reason": "Not specified as native"
+    },
+    {
+      "id": "SRX381545",
+      "reason": "Not specified as native"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX382353",
+      "reason": "Immortalized cell line (HMEL-BRAFV600E)"
+    },
+    {
+      "id": "SRX382354",
+      "reason": "Braaf mutated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX384777",
+      "reason": "Treated with PBS"
+    },
+    {
+      "id": "SRX3847781",
+      "reason": "TGF beta treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX391683",
+      "reason": "HCMV infected"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+  {
+    "id": "SRX3934091",
+    "reason": "In vitro differentiated macrophages"
+  }
+ ]}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The given sample does not contain any non-native indicators.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3934093",
+      "reason": "In vitro differentiated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+      {
+      	"id": "SRX3934095",
+      	"reason": "shRNA infection"
+      },
+      {
+      	"id": "SRX3934096",
+        "reason": "ShRNA infection"
+      }
+   ]
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3942992",
+      "reason": "Treated with anti-CD3 + anti-CD28"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3946904",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3946905",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3946906",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3946907",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3946908",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX3946909",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3946910",
+      "reason": "Differentiated cell line"
+    },
+    {
+      "id": "SRX3946911",
+      "reason": "Differentiated cell line"
+    },
+    {
+      "id": "SRX3946912",
+      "reason": "Immortalized cell line (BM-hMSC-TERT4)"
+    },
+    {
+      "id": "SRX3946913",
+      "reason": "Immortalized cell line (BM-hMSC-TERT4)"
+    },
+    {
+      "id": "SRX3946914",
+      "reason": "Differentiated cell line"
+    },
+    {
+      "id": "SRX3946915",
+      "reason": "Differentiated cell line"
+    }
+  ]
+}
+```
+{
+   "non_native_samples": [
+    {
+      "id": "SRX3946916",
+      "reason": "Tert immunized cell"
+    },
+     {
+      "id": "SRX3946917",
+       "reason":  "Tert immunized cell"
+      },
+
+    {
+      "id": "SRX3946918",
+
+       "reason":[{"Immortalized Cell Line: Immortalized cell line BM-hMSC-TERT"]
+      },
+          {"reason": " Differentiated to adipocyte for 3 days"}
+   }
+            ,
+   {{
+    id:[ "SRX3946920"]
+             ,
+    {
+     "differentiation status=adipocyte":"timepoint=7d"
+    }} ,
+       ]
+
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3946922",
+      "reason": "Immortalized cell line BM-hMSC-TERT4"
+    },
+    {
+      "id": "SRX3946923",
+      "reason": "Immortalized cell line BM-hMSC-TERT4"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX396251",
+      "reason": "Growing condition"
+    },
+    {
+      "id": "SRX396252",
+      "reason": "RIS condition"
+    },
+    {
+      "id": "SRX396253",
+      "reason": "RIS condition"
+    },
+    {
+      "id": "SRX396254",
+      "reason": "pAPO condition"
+    },
+    {
+      "id": "SRX396255",
+      "reason": "DDR condition"
+    },
+    {
+      "id": "SRX396256",
+      "reason": "DDR condition
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX396257",
+      "reason": "DDR condition"
+    },
+    {
+      "id": "SRX396258",
+      "reason": "DDR condition"
+    },
+    {
+        "id": "SRX396260",
+       "reason": "pAPO treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+   {
+      "id":"None",
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+  ]
+}
+{
+  "non_native_samples": [
+    {
+      "id": "SRX3990567",
+      "reason": "Inn vitro differentiated"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4001756",
+      "reason": "Treated with H5N1 IAV"
+    },
+    {
+      "id": "SRX4001757",
+      "reason": "Treated with H5N1 IAV"
+    },
+    {
+      "id": "SRX4001758",
+      "reason": "Treated with H5N1-dNS1 IAV"
+    },
+    {
+      "id": "SRX4001759",
+      "reason": "Treated with H5N1-dNS1 IAV"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4001760",
+      "reason": "IFNb treated"
+    },
+    {
+        "id": "SRX4001761",
+        "reason": "IFNb treated"
+     },
+    {
+        "id": "SRX4001762",
+        "reason": "mock infected" // Even though mock treatment is often used as a control for treatments, it may indicate non-physiological conditions.
+    },
+   {
+      "id":"SRX4001763",{
+     "reason": "H5N1 IAV infected}
+    },
+    {
+        "id": "SRX4001764",
+      "reason": "H5N1-dNS1 IAV"
+
+    }
+
+
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4001819",
+      "reason": "H5N1 IAV infected"
+    },
+    {
+      "id": "SRX4001820",
+      "reason": "H5N1-dNS1 IAV infected"
+    },
+    {
+      "id": "SRX4001821",
+      "reason": "IFNβ treated"
+      },
+      {
+        "id": "SRX4001818",
+        "reason":"mock-infected"
+      }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+
+      "id":"",
+      "reason":""
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4046314",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX4046315",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4116559",
+      "reason": "Primary tonsillar B cells"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": " SRX4174623",
+      "reason": "Derived from iPSC"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4174629",
+      "reason": "Induced from hIPS"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4174970",
+      "reason": "Immortalized cell line"
+    },
+    {       "id":"SRX4174378",        "reason" :   "No data available"}  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4212570",
+      "reason": "Cancer: Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212572",
+      "reason": "Cancer: Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212574",
+      "reason": "Cancer: Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212576",
+      "reason": "Cancer: Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212578",
+      "reason": "Cancer: Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212580",
+      "reason": "Cancer: Chronic lymphocytic leukemia"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4212587",
+      "reason": "Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212589",
+      "reason": "Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212591",
+      "reason": "Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212593",
+      "reason": "Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "SRX4212595",
+      "reason": "Chronic lymphocytic leukemia"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4212597",
+      "reason": "Cancer/CLL"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4284003",
+      "reason": "Cell line GM09236 used"
+    },
+    { "id": "SRX4284004", "reason": "Cell line GM09236 used" },
+    {
+      "id": "SRX4284007",
+      "reason": "Cell line GM09237 used"
+    },
+    { "id": "SRX4284008", "reason": "Cell line GM09237 used" },
+    {
+      "id": "SRX4284011",
+      "reason": "Cell line GM04025 used"
+    },
+    { "id": "SRX4284012", "reason": "Cell line GM04025 used" }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4288471",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX4288472",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX4288473",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX4288474",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX4288475",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX4288476",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4345356",
+      "reason": "Treated with antibodies"
+    },
+    {
+      "id": "SRX4345357",
+      "reason": "Treated with antibodies"
+    },
+    {
+      "id": "SRX4345358",
+      "reason": "Treated with antibody"
+    },
+    {
+      "id": "SRX4345359",
+      "reason": "Treated with antibody"
+    },
+    {
+      "id": "SRX4345360",
+      "reason": "Treated with antibodies"
+    },
+    {
+      "id": "SRX4345361",
+      "reason": "Treated with antibodies"
+    }
+  ]
+}
+```
+```json
+
+{"non_native_samples":[
+
+
+]}
+```
+
+Based on the provided definitions, all samples listed in the data seem to come from healthy donors activated for five hours and consist of primary naive T-cells, which does not indicate a non-native sample. Thus it yields an empyth `non-native-samples list`.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4367421",
+      "reason": "Infected with vector"
+    },
+    {
+      "id": "SRX4367422",
+      "reason": "Infected with vector"
+    },
+    {
+      "id": "SRX4367431",
+      "reason": "Infected with vector and mutant deletion"
+    },
+    {
+      "id": "SRX4367432",
+      "reason": "Infected with vector and mutant deletion"
+    },
+    {
+      "id": "SRX4367441",
+      "reason": "Multi-alanine substitutions infected with E1A expressing mutant"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4370436",
+      "reason": "Fetal development stage"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4389612",
+      "reason": "Knockout genotype"
+    },
+    {
+      "id": "SRX4389613",
+      "reason": "Knockout genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": []
+}
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX447428",
+      "reason": "Transduced HSPC"
+    },
+    {
+      "id": "SRX447429",
+      "reason": "Transduced HSPC"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4521397",
+      "reason": "viral infection"
+    },
+     {
+      "id": "SRX4521398",
+      "reason": "viral infection"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4582747",
+      "reason": "Tumor tissue"
+    },
+    {
+        "id": "SRX4582749",
+        "reason": "Tumor tissue"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4637894",
+      "reason": "Mechanical loading"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4637896",
+      "reason": "treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4649681",
+      "reason": "Treated with Nutlin3A"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4671059",
+      "reason": "immortalized cell line"
+    },
+    {
+      "id": "SRX4671060",
+      "reason": "immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX467199",
+      "reason": "Non-native cell line (D8-erythroid cells)"
+    },
+    {
+        "id":"SRX467200",
+         "reason":"Non-native cell line (D11-erythroid cells)"
+      },
+       {
+            "id":"SRX467201",
+               "reason": "Non-native cell line(D14-erythroid cells)"
+
+        }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX469458",
+      "reason": "Knockout"
+    },
+    {
+      "id": "SRX469460",
+      "reason": "Knockout"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4711144",
+      "reason": "Adipogenic induction"
+    },
+    {
+      "id": "SRX4711145",
+      "reason": "Adipogenic induction"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4712347",
+      "reason": "Derived from acute monocytic leukemia"
+    },
+    {
+      "id": "SRX4712348",
+      "reason": "Derived from acute monocytic leukemia"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX472275",
+      "reason": "Lymphoblastoid cell line"
+    },
+    {
+      "id": "SRX472276",
+      "reason": "Lymphoblastoid cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4732741",
+      "reason": "Pre-B cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX476913",
+      "reason": "Control, not a native sample"
+    },
+    {
+      "id": "SRX476914",
+      "reason": "control shRNA"
+    },
+    {
+      "id": "SRX476915",
+      "reason": "SNAI2 knockdown"
+    },
+    {
+      "id": "SRX476916",
+      "reason": "SNAI2 knockdown (SNAI2 shRNA)"
+    },
+    {
+      "id": "SRX476919",
+      "reason": "overexpressing LACZ"
+    },
+    {
+      "id": "SRX476920",
+      "reason": "overexpressing LACZ"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX476921",
+      "reason": "overexpressing SNAI2"
+    },
+    {
+      "id": "SRX476922",
+      "reason": "overexpressing SNAI2"
+    },
+    {
+      "id": "SRX476923",
+      "reason": "overexpressing LACZ"
+    },
+    {
+      "id": "SRX476924",
+      "reason": "overexpressing LACZ"
+    },
+    {
+      "id": "SRX476925",
+      "reason": "overexpressing SNAI2"
+    },
+    {
+      "id": "SRX476926",
+      "reason": "overexpressing SNAI2"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4797405",
+      "reason": "DCM group"
+    }
+  ]
+}
+```json
+
+{"non_native_samples":[
+  {
+    "id":"SRX4797407",
+	"reason":"DCM group"
+  },{
+     "id":"SRX4797409","reason":"DCM group"},
+  { "id":"SRX4797411","reason":"DCM group"},
+
+    {
+       "id":"SRX4797413",
+	  "reason":"DCM group"}
+
+]}
+```
+
+The given data contained multiple samples identified with 'LMNA', and DCM is a condition that may imply non-native sample, since it does match the term cardiovascular.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX481466",
+      "reason": "Prostate cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX481483",
+      "reason": "Treated"
+    },
+    {
+      "id": "SRX481484",
+      "reason": "treated with OHT"
+    },
+   {
+      "id": "SRX481485",
+      "reason": "treated with solvent"
+    },
+     {
+      "id": "SRX481486",
+      "reason": "Treated  with OHT"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX4957969",
+      "reason": "Patient cells, infection"
+    },
+    {
+      "id": "SRX4957971",
+      "reason": "Patient cells, infection"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+
+    {
+  "non_native_samples": [ ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5020211",
+      "reason": "K755R genotyping"
+    },
+    {
+      "id": "SRX5020214",
+      "reason": "R1159Q genotyping"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX503332",
+      "reason": "infected with rKSHV.219"
+    },
+    {
+      "id": "SRX503334",
+      "reason": "infected with rKSHV.219"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX503336",
+      "reason": "Immortalized cell line BEC-219"
+    },
+    {
+        "id": "SRX503335",
+        "reason": "Contains keyword 'KSHV' infection"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5054308",
+      "reason": "Mutated genotype (K755R/+)"
+    },
+    {
+      "id": "SRX5054309",
+       "reason" :  "Mutated genotype(R1154Q)"
+     }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5075169",
+      "reason": "K755R/+ mutation"
+    },
+    {
+      "id": "SRX5075170",
+      "reason": "R1159Q/+ mutation"
+    },
+    {
+      "id": "SRX5075175",
+      "reason": "K755R/+ mutation"
+    },
+    {
+      "id": "SRX5075176",
+      "reason": "R1159Q/+ mutation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5075181",
+      "reason": "Non-native genotype (K755R/+)"
+    },
+    {
+      "id": "SRX5075182",
+      "reason": "Non-native genotype (R1159Q/+)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5088243",
+      "reason": "Treated with beta-estradiol and cAMP"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5090166",
+      "reason": "Fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5095870",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX5095871",
+      "reason": "Treated with LPS"
+
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5099498",
+      "reason": "Treated with alpha-IgM"
+    },
+    {
+      "id": "SRX5099499",
+      "reason": "Treated with alpha-IgM"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5126616",
+      "reason": "Cell line R204W"
+    },
+    {
+      "id": "SRX5126619",
+      "reason": "Cell line R304W (immortalized)"
+    }
+   ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5138659",
+      "reason": "Transduced with rtTA and tet-HA-ETV2"
+    },
+    {
+      "id": "SRX5138661",
+      "reason": "Treated with doxycycline and DMSO"
+    }
+  ]
+}
+```
+```{
+  "non_native_samples": [
+    {
+      "id": "SRX514838",
+      "reason": "Treated with Adrimycin"
+    },
+    {
+      "id": "SRX514839",
+      "reason": "Treated with Cisplatin"
+    },
+    {
+      "id": "SRX514841",
+      "reason": "Treated with Adrimycin"
+    },
+    {
+      "id": "SRX514842",
+      "reason": "Treated with Cisplatin"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX514844",
+      "reason": "Treated with Adrimycin"
+    },
+    {
+      "id": "SRX514845",
+      "reason": "Treated with Cisplatin"
+    },
+    {
+      "id": "SRX514847",
+      "reason": "Treated with Adrimycin"
+    },
+    {
+      "id": "SRX514848",
+      "reason": "Treated with Cisplatin"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5167211",
+      "reason": "Cancer"
+    },
+    {
+        "id": "SRX5167212",
+        "reason": "Disease state"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5169134",
+      "reason": "No reason found"
+    },
+    {
+      "id": "SRX5169135",
+      "reason":"No reason found"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5182324",
+      "reason": "Immortalized cell line (EBV-transformed lymphoblasts)"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5195672",
+      "reason": "'KO' genotype; knockout"
+    },
+     {
+      "id": "SRX5195673",
+      "reason": "'KO' genotype; knockout"
+    },
+    {
+      "id": "SRX5195674",
+      "reason": "'KO' genotype; knockout"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5195710",
+      "reason": "Knockout sample (KO)"
+    },
+    {
+      "id": "SRX5195711",
+      "reason": "Knockout sample (KO)"
+    },
+    {
+      "id": "SRX5195712",
+      "reason": "Knockout sample (KO)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5195716",
+      "reason": "Knockout genotype"
+    },
+    {
+      "id": "SRX5195717",
+      "reason": "Knockout genotype"
+    },
+    {
+      "id": "SRX5195718",
+      "reason": "Knockout genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5195730",
+      "reason": "knockout"
+    },
+    {
+      "id": "SRX5195731",
+       "reason": "knockout"
+    },
+	 {
+      "id": "SRX5195732",
+      "reason":"knockout"
+     }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+Based on the provided data and according to your guidelines, none of the sequencing IDs are labelled as non-native samples based on the absence of keyword-based indicators within the description.
+```json
+{
+  "non_native_samples": []
+}
+```
+``` json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5360084",
+      "reason": "preneoplasic"
+    },
+    {
+      "id": "SRX5360090",
+      "reason": "preneoplasic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5371248",
+      "reason": "Genetically modified lymphoblastoid line"
+    }
+  ]
+}
+```
+
+This format is designed for a short description to easily identify the reasons that make the sample a 'NON-NATIVE SAMPLE'.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5391035",
+      "reason": "Knockdown"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "<id1>":"",
+      "reason": ""
+    },{
+      "<id1>":"",
+      "reason": ""
+    },
+     {}
+       ]
+    }
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+  {
+      "id": "",
+      "reason": ""
+  },
+    {
+      "id": "",
+      "reason": ""
+    }
+   ]
+}
+```
+Based on the provided data, there are no non-native indicators present. Therefore, the JSON object will be empty.
+```json
+{
+    "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+  ]
+}
+```json {
+  "non_native_samples": [ ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5457221",
+      "reason": "CAD"
+    },
+    {
+      "id": "SRX5457222",
+      "reason": "CAD"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Please provide more data to identify non-native samples based on the given criteria. At present, no relevant indicators for the first entry were found in the provided dataset.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5457321",
+      "reason": "CAD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5457389",
+      "reason": "Coronary artery disease"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+
+{
+  "non_native_samples": [
+  ]
+}
+```
+
+Based on my analysis of the DATA provided and considering the specified definitions for native and non-native indicators, none of these samples show indications of being non-native. Therefore the result contains no elements inside the json array.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5457470",
+      "reason": "In vitro differentiated cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5457a0",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "None",
+      "reason": ""
+    }
+  ]
+}
+```
+
+**Note:**
+It appears that none of the samples from your dataset have been explicitly identified as non-native based on the given keywords and definitions.
+```
+
+{
+  "non_native_samples": []
+}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+There are no non-native samples based on the given data.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5532364",
+      "reason": "Fetal sample"
+    },
+    {
+      "id": "SRX5532367",
+      "reason": "Fetal sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5574342",
+      "reason": "Immortalized cell line ncMO_PU.1"
+    },
+    {
+      "id": "SRX5574344",
+      "reason": "Immortalized cell line cMO_PU.1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+None of the samples in the provided data have non-native indicators.
+{
+  "non_native_samples": [
+		 {
+	  "id": "",
+	  "reason":""
+				  }  ]
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5574357",
+      "reason": "Immortalized cell line (PU.1)"
+    },
+    {
+      "id": "SRX5574359",
+      "reason": "Immortalized cell line (PU.1)"
+    },
+    {
+      "id": "SRX5574361",
+      "reason": "Immortalized cell line (PU.1)"
+    },
+    {
+      "id": "SRX5574362",
+      "reason": "Immortalized cell line (PU.1)"
+    },
+    {
+      "id": "SRX5574363",
+      "reason": "Immortalized cell line (PU.1)"
+    },
+    {
+        "id": "SRX5574364",
+        "reason": "Immortalized cell line (PU.1)"
+      }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5574372",
+      "reason": "Treated with LPS"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5600877",
+      "reason": "Alzheimer's disease"
+    },
+    {
+      "id": "SRX5600878",
+      "reason": "Alzheimer's disease"
+    },
+    {
+      "id": "SRX5600879",
+      "reason": "Alzheimer's disease"
+    },
+    {
+      "id": "SRX5600880",
+      "reason": "Alzheimer's disease"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5600882",
+      "reason": ""
+    },
+    {
+      "id": "SRX5600883",
+      "reason": ""
+    },
+        {
+      "id": "SRX5600884",
+      "reason": ""
+        },
+         {
+      "id": "SRX5600885",
+      "reason":
+               ,
+          }
+         ,
+           {
+      "id": "SRX5600887",
+      "reason":""
+           }
+    ],
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id":"SRX5600889",
+      "reason": "Diseased (AD)"
+      },
+      {
+      "id":"SRX5600890",
+       "reason": "Diseased (AD)"
+        },
+     {
+      "id":"SRX5600891",
+      "reason": "Diseased (AD)"
+    }
+]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5600895",
+      "reason": "disease state=AD"
+    },
+     {
+      "id": "SRX5600897",
+      "reason": disease state="AD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5600900",
+      "reason": "Disease state AD"
+    },
+    {
+      "id": "SRX5600901",
+      "reason": "Disease state AD"
+    },
+    {
+      "id": "SRX5600902",
+      "reason": "Disease state AD"
+    },
+    {
+      "id": "SRX5600903",
+      "reason": "Disease state AD"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5624369",
+      "reason": "Treated with TNF"
+    },
+    {
+      "id": "SRX5624370",
+      "reason": "Treated with TNF"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5716452",
+      "reason": "K755R/+ genotype"
+    },
+    {
+      "id": "SRX5716453",
+      "reason": "R1159Q/+ genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5716463",
+      "reason": "treated with sirna for 72 hours"
+    },
+    {
+      "id": "SRX5716464",
+      "reason": "treated with SOX2 and SOX3 siRNA for 72 hours"
+    },
+    {
+      "id":"SRX5716467",,
+      "reason":"heterozygous genotype K755R/+"
+    },
+     {
+      "id": "SRX5716468",
+      "reason": "FOSL1, FOSL2 and JUNB siRNA treatment"
+    },
+    {
+      "id": "SRX5716469 ",
+      "reason":"heterozygous genotype K755R/+ and treated with sirna"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5774919",
+      "reason": "A2B5+ iOPCs(M)"
+    },
+    {
+        "id": "SRX5774920",
+      "reason": "A2B5+ iOPCs(M)"
+     }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5801452",
+      "reason": "Stimulated"
+    },
+    {
+      "id": "SRX5801453",
+      "reason": "Stimulated"
+    },
+    {
+      "id": "SRX5801454",
+      "reason": "Stimulated with mutant IL6_Mut3"
+    },
+    {
+      "id": "SRX5801455",
+      "reason": "Stimulated non-native hybrid IL6_HyIl6"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5813557",
+      "reason": "Preneoplastic"
+    },
+    {
+        "id":"SRX5813558",
+        "reason":"Transformed/Neoplastic"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason":
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+         {
+
+        }]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Only native samples are mentioned in the provided data. There were no non-native indicators present to mark them as non-native, and all examples are either control or primary lines without any treatments.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX5927380",
+      "reason": "Immortalized cell line FT282"
+    },
+    {
+      "id": "SRX5927381",
+      "reason": "Immortalized cell line FT282"
+    },
+    {
+      "id": "SRX5927382",
+      "reason": "Immortalized cell line FT282"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6068073",
+      "reason": "Not a short sample description"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6384907",
+      "reason": "Treated with GSK-LSD1"
+    },
+    {
+      "id": "SRX6384908",
+      "reason": "Treated with GSK-LSD1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX646125",
+      "reason": "Fetal tissue"
+    },
+    {
+      "id": "SRX646126",
+      "reason": "Fetal tissue"
+    },
+    {
+      "id": "SRX646127",
+      "reason": "Fetal tissue"
+    },
+    {
+      "id": "SRX646128",
+      "reason": "Fetal tissue"
+    },
+    {
+      "id": "SRX646129",
+      "reason": "Fetal tissue"
+    },
+    {
+      "id": "SRX646130",
+      "reason": "Fetal tissue"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX646131",
+      "reason": "Fetal source"
+    },
+    {
+      "id": "SRX646132",
+      "reason": "Fetal source, knock-down indicator"
+    },
+    {
+      "id": "SRX646133",
+      "reason": "Fetal source"
+    },
+    {
+      "id": "SRX646134",
+      "reason": "Fetal source. Knock-down indicator"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6476500",
+      "reason": "Treated with TGFB1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6582172",
+      "reason": "HGPS fibroblast"
+    },
+    {
+      "id": "SRX6582173",
+      "reason": "HGPS fibroblast"
+    },
+    {
+      "id": "SRX6582174",
+      "reason": "HGPS fibroblast"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX658607",
+      "reason": "expanded UCB"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6596842",
+      "reason": "Immortalized cell line and treated"
+    },
+    {
+      "id": "SRX6596843",
+      "reason": "Immortalized cell line and treated"
+    },
+    {
+      "id": "SRX6596844",
+      "reason": "Immortalized cell line and treated"
+    },
+    {
+      "id": "SRX6596845",
+      "reason": "Immortalized cell line and treated"
+    },
+    {
+      "id": "SRX6596846",
+      "reason": "Immortalized cell line and treated"
+    },
+    {
+      "id": "SRX6596847",
+      "reason": "Immortalized cell line and treated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6596848",
+      "reason": "Treated with doxycycline and clobetasol"
+    },
+    {
+      "id": "SRX6596849",
+      "reason": "Treated with doxycycline and clobetasol"
+    },
+    {
+      "id": "SRX6596850",
+      "reason": "Treated with doxycycline and clobetasol"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX660077",
+      "reason": ""
+    },
+    {
+       "id": "SRX660078",
+      "reason": ""
+    },
+    {
+        "id": "SRX660083",
+      "reason": ""
+    },
+    {
+     "id": "SRX660084",
+      "reason": ""
+    },
+    {
+      "id": "SRX660085",
+      "reason": ""
+    },
+    {
+        "id". "660097",
+       "reason": " "
+   }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{"non_native_samples":[]}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6657886",
+      "reason": "Autoimmune indicators (Autoimmune hepatitis)"
+    },
+    {
+      "id": "SRX6657888",
+      "reason": "Acute rejection indication"
+
+    },
+     {
+      "id": "SRX6657892",
+      "reason": "Auto-immune condition (Autoimmune hepatitis)"
+
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX668234",
+      "reason": "Immortalized cell line Skeletal myoblast"
+    }
+  ]
+}
+```
+```json
+{
+    "non_native_samples": [
+        {
+            "id": "SRX6763471",
+            "reason": "Treated with GM-CSF"
+        },
+        {
+            "id": "SRX6763472",
+            "reason": "Treated with GM-CSF"
+        },
+       {
+            "id": "SRX6763473",
+            "reason": "Treated with GM-CSF"
+        },
+    {
+            "id": "SRX6763474",
+            "reason": "Treated with GM-CSF"
+        },
+         {
+            "id": "SRX6763475",
+            "reason": "Treated with GM-CSF"
+        }
+        ,
+        {
+            "id":"SRX6763476",
+            "reason":"Treated with GM-CSF"
+        }
+    ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6780853",
+      "reason": "Fetal"
+    },
+    {
+      "id": "SRX6780854",
+      "reason": "Fetal"
+    },
+    {
+      "id": "SRX6780855",
+      "reason": "Fetal"
+    },
+    {
+      "id": "SRX6780856",
+      "reason": "Fetal"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6813406",
+      "reason": "Cells cultured and treated"
+    },
+    {
+     "id":"SRX6813408",
+     "reason": "Cells cultured in low arginine, 72h"
+   },
+	{
+ 	 "id":"SRX6813410" ,
+     " reason " : ""
+ }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6857972",
+      "reason": "Embryonic/gestational age"
+    },
+    {
+      "id": "SRX6857973",
+      "reason": "Embryonic/gestational age"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6902857",
+      "reason": "Cell culture"
+    },
+    {
+      "id": "SRX6902858",
+      "reason": "Cell culture"
+    },
+     {
+        "id":"SRX6902859",
+        "reason" : " Cell culture "
+      } ,
+     {
+       "id":"SRX6902860",
+       "reason" :"Target is Gata-1, but likely mutated or modified."
+      },
+    {
+      "id": "SRX6902861",
+      "reason": "Cell culture"
+     },
+    {
+      "id": "SRX6902862",
+      "reason":  "Cell culture"
+      }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6913093",
+      "reason": "inhibitor treatment"
+    },
+    {
+      "id": "SRX6913094",
+      "reason": "Inhibitor treatment with iBET-BD1"
+    },
+    {
+      "id": "SRX6913095",
+      "reason": "inhibitor treatment with iBET-BD2"
+    },
+     {
+       "id": "SRX6913094",
+       "reason": "stimulation=anti-CD3/CD28"
+     },
+     {
+       "id": "SRX6913095",
+       "reason": "stimulation=anti-CD3/CD28"
+      },
+	{
+	"id":"SRX6913096","reason":"inhibitor treatment with DMSO"
+	},
+    {
+      "id" : "SRX6913097",
+       "reason":  "inhibitor treatment=DMSO"
+
+   }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6913098",
+      "reason": "treated with iBET-BD2"
+    },
+    {
+      "id": "SRX6913009",
+      "reasons": "Treated with DMSO"
+    },
+    {
+      "id": "SRX6913098",
+       "reason": "Activated for 5h"
+    }
+```
+```js
+{
+  "non_native_samples": [
+    {
+      "id":"SRX6944146",
+      "reason":"Treated"
+    },
+    {
+      "id":"SRX6944147",
+      "reason":"Treated"
+    },
+    {
+      "id":{"id":"SRX6944148",
+            "reason":{"Treated"}}
+      }
+  ]
+}
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6944152",
+      "reason": ""
+    },
+    {
+      "id": "SRX6944153",
+      "reason": "Activated with anti-CD3 and -CD28 antibodies"
+    },
+    {
+      "id": "SRX6944154",
+      "reason": "activated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX6969885",
+      "reason": "Mutant cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ],
+}
+```
+
+I apologize for the oversight. It appears there are no non-native samples based on the given data.
+
+If there is additional data or different criteria, please provide those specifics so that I can give an accurate answer in the future.
+```json
+{
+  "non_native_samples": []
+}
+```
+The data does not contain any non-native indicators as per the given definitions.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX700520",
+      "reason": "Non native sample 'HGP' "
+    },
+    {
+      "id": "SRX700521",
+      "reason": "Non native sample 'HGP'"
+    }
+  ]
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7015671",
+      "reason": "Immortalized cell line CRL7250"
+    }
+  ]
+}
+```
+``` json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7031581",
+      "reason": "Differentiation treatment"
+    },
+    {
+      "id": "SRX7031582",
+      "reason": "Differentiation treatment"
+    },
+    {
+      "id": "SRX7031583",
+      "reason": "Differentiation treatment"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX707368",
+      "reason": "Neural Stem Cells are immortalized cell lines"
+    }
+  ]
+}
+```
+The IDs of the non-native sample sequencing is extracted from the given TSV file data.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7086149",
+      "reason": "iPSC derived"
+    },
+     {
+      "id": "SRX7086153",
+      "reason": "mutated genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+
+{
+  "non_native_samples": []
+}
+
+```
+Upon reviewing the provided data, there are no non-native indicators present. Therefore, the list of non-native samples is empty.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7141987",
+      "reason": "Treated with low glutamine"
+    },
+    {
+      "id": "SRX7141988",
+      "reason": "Treated with low glutamine"
+    },
+    {
+      "id": "SRX7141989",
+      "reason": "Treated with low glutamine"
+    },
+    {
+      "id": "SRX7141990",
+      "reason": "Treated with high glutamine"
+    },
+    {
+      "id": "SRX7141991",
+      "reason": "Treated with high glutamine"
+    },
+    {
+      "id": "SRX7141992",
+      "reason": "treated with high glutamine"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+     {
+       "id": "<id of the sample>",
+       "reason": "The samples are Immortalized cell line"
+        },
+  ]
+
+}
+```
+Please extract the valid ID and non-native indicator.
+```json
+
+{
+  "non_native_samples": []
+}
+
+```
+
+None of the provided sequencing data have non-native indicators based on the given definitions and criteria.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7223095",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7277172",
+      "reason": "HGPS"
+    },
+    {
+      "id": "SRX7277174",
+      "reason": "HGPS"
+    },
+    {
+      "id": "SRX7277179",
+      "reason": "HGPS"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7299332",
+      "reason": "No clear mention of a native sample"
+    }
+  ]
+}
+```
+```{
+  "non_native_samples": [
+    {
+      "id": "SRX735289",
+      "reason": "In vitro differentiated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The data provided does not contain any non-native indicators as per the given definitions.
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+All samples in this dataset are native. None of the descriptions contain non-native indicators as defined.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7509288",
+      "reason": "Fetal specimen"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7509293",
+      "reason" : "prostate"
+    },
+    {
+      "id": "SRX7509294",
+      "reason" : "prostate"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+Since neither of the sample data indicate any non native characteristics, we have to return an id with no reason for this example.
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The provided data does not contain any clear indicators of non-native samples such as keywords like 'cancer', 'tumor', or specific treatments. Therefore, no IDs are extracted for the list of non-native sequencing samples.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7509342",
+      "reason": "No reason to exclude this sample, as it is not mentioned any non-native indicator."
+    },
+    {
+      "id": "SRX7509343r",
+      "reason": "No reason to exclude this sample, as it is not mentioned any non-native indicator."
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7509400",
+      "reason": "Adult age"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7509460",
+      "reason": null
+    }
+    ,
+    {
+      "id": "SRX7509461",
+      "reason": null
+    }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    },
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+There were no non-native indicators present in the provided data.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+],
+}
+
+```
+{
+  "non_native_samples": [
+    {
+      "id": "<none>"
+      "reason": ""
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+  ]
+}
+```
+```json
+{"non_native_samples":[]}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+      {
+        "id": "",
+        "reason": ""
+      }
+    ]
+}
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+In this case, the data provided does not contain any non-native indicators as per the given definitions.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Explanation:
+Based on the provided data, both samples (SRX7509596 and SRX7509596) do not contain any non-native indicators according to the definitions. As a result, there are no IDs identified as representing non-native sequencing. The JSON output reflects this by returning an empty list under "non_native_samples".
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+Since all the provided data is in line with native samples (healthy, untreated individuals in healthy conditions) there are no NON-NATIVE Indicators to be found.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX751297",
+      "reason": "Immortalized cell line hMADS-3"
+    },
+    {
+      "id": "SRX751298",
+      "reason": "Immortalized cell line hMADS-3"
+    },
+    {
+      "id": "SRX751299",
+      "reason": "Immortalized cell line hMADS-3"
+    },
+    {
+      "id": "SRX751300",
+      "reason": "Immortalized cell line hMADS-3"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX751541",
+      "reason": ""
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX753312",
+	    "reason": "neonatal"
+    }
+]
+}
+
+
++++++ 23.06.2024-08.24.48-Task-Extract-Correlation-values-from-Predictors-table.json
+{
+  "Correlations between predictors and the target variable": [
+
+    {
+      "Predictor ":"Age",
+"Correlation coefficient":" −0.751"
+},
+
+
+{
+	"Predictor ":"Gender",
+
+"Correlation coefficient":"−0.428"
+},
+
+   {
+
+         "Predictor :"Smoking Status",,
+
+  "Correlation coefficient":" −0.379"
+
+},
+{
+
+
+"Predictor ":"Body Mass Index",
+   "Correlation coefficient:"−0.516
+ },{
+
+    "Predictor ":"Physical Activity Level",
+
+	"Correlation coefficient":−0.582
+
+}
+]
+
+}
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+     "id": "SRX7587157",
+     "reason": "Total knee replacement"
+    },
+    {
+      "id": "SRX7587158",
+      "reason": "Total knee replacement"
+
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX760967",
+      "reason": "Proliferating, undifferentiated cells"
+    },
+    {
+      "id": "SRX760968",
+      "reason": "Non-proliferating (confluent), undifferentiated cells on day of adipogenic stimulation."
+    }
+  ]
+}
+```
+```
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7642859",
+      "reason": "Metastatic site"
+    },
+    {
+      "id": "SRX7642860",
+      "reason": "Metastatic site"
+    },
+    {
+      "id": "SRX7642861",
+      "reason": "Metastatic site"
+    },
+    {
+      "id": "SRX7642862",
+      "reason": "Metastatic site"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7730449",
+      "reason": "Genetic mutation"
+    },
+    {
+      "id": "SRX7730450",
+      "reason": "Genetic mutation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7756148",
+      "reason": "treated"
+    },
+    {
+      "id": "SRX7756149",
+      "reason": "treated"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    },
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7805694",
+      "reason": "Immunoprecipitated chromatin of SCR tranfected AhBMSCs"
+    },
+    {
+      "id": "SRX7805695",
+      "reason": "Immunoprecipitated chromatin of SCR tranfected AhBMSCs"
+    },
+    {
+      "id": "SRX7805696",
+      "reason": "Immunoprecipitated chromatin of SCR tranfected AhBMSCs"
+    },
+    {
+      "id": "SRX7805700",
+      "reason": "NFATC1 RNAi"
+    },
+    {
+      "id": "SRX7805701",
+      "reason": "NFATC1 RNAi"
+    },
+    {
+      "id": "SRX7805702",
+      "reason": "NFATC1 RNAi"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7805895",
+      "reason": "Cornelia de Lange syndrome"
+    },
+    {
+      "id": "SRX7805897",
+      "reason": "Cornelia de Lange syndrome"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7807102",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX7807103",
+      "reason": "Immortalized cell line"
+    },
+    {
+        "SRX7807106",
+        "reason" : "Immortalized cell line"
+    },
+     {
+         "SRX7807107":
+              reason,
+            "Immortalized cell line"
+     }
+      {
+       "SRX780712
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7807128",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX7807129",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7826475",
+      "reason": "Treated with Magnesium-based alloy discs for 24 hours"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7902978",
+      "reason": "Differentiating macrophages"
+    },
+    {
+      "id": "SRX7902979",
+      "reason": "differentiating macrophages"
+    },
+    {
+      "id": "SRX7902980",
+      "reason": "differentiatiing macrophages"
+    },
+     {
+      "id": "SRX7902981",
+      "reason": "diffsciate in macrophages"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7902984",
+      "reason": "Differentiated monocytes"
+    },
+    {
+      "id": "SRX7902985",
+      "reason": "Differentiated monocytes"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX7950043",
+      "reason": "Tumor derived cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+I couldn't find specific non-native indicators from the provided DATA. The samples indicate primary human cell lines, which do not fall under a non-native category as per the given definition.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8064814",
+      "reason": "Immortalized cell line (EBV-transformed LCLs)"
+    },
+    {
+      "id": "SRX8064815",
+      "reason": "Immortalized cell line (EBV-transformed LCLs)"
+    },
+    {
+      "id": "SRX8064816",
+      "reason": "Immortalized cell line (EBV-transformed LCLs)"
+    },
+    {
+      "id": "SRX8064817",
+      "reason": "Immortalized cell line (EBV-transformed LCLs)"
+    },
+    {
+      "id": "SRX8064818",
+      "reason": "Immortalized cell line (EBV-transformed LCLs)"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8064821",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX8064822",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX8064823",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX8064824",
+      "reason": "Immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8083043",
+      "reason": "Homozygous male with DSB hotspot capture"
+    },
+    {
+      "id": "SRX8083045",
+      "reason": "Homogygous male with DSB hotspot capture"
+    },
+	{
+      "id": "SRX8083047",
+      "reason": "heterozygous male with DSB hotspot capture"
+},
+		 ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8090642",
+      "reason": "Treated with JQ1"
+    },
+    {
+      "id": "SRX8090643",
+      "reason": "Treated with JQ1"
+    },
+    {
+      "id": "SRX8090645",
+      "reason": "Diagnosis - Rheumatoid arthritis"
+    },
+    {
+      "id": "SRX8090646",
+      "reason": "Diagnosis - Rheumatoid arthritis"
+    },
+    {
+      "id": "SRX8090649",
+      "reason": "Treated with JQ1"
+    },
+    {
+      "id": "SRX8090750",
+      "reason": "Treated with JQ1 and Diagnosis - Rheumatoid arthritis"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8090652",
+      "reason": "Rheumatoid arthritis"
+    },
+    {
+      "id": "SRX8090653",
+      "reason": "Rheumatoid arthritis"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8151644",
+      "reason": "Obese Class III"
+    },
+    {
+      "id": "SRX8151645",
+      "reason": "Obesity Class III"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": " ",
+      "reason": ""
+    }
+  ]
+}
+
+```
+The json object will only populate if there are NON-NATIVE samples based on the provided information. The data does not contain any obvious non-native indicators.
+
+This information includes a blood sample from peripheral mononuclear cells that have been freshly isolated, indicating it is likely to be a native sample without any non-native intervention like treatment or genetic modification.
+Please provide additional rows of the input if you would still like me to extract "non_native_samples"
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id":"SRX821809",
+      "reason":"Source name RS_028"
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "",
+      "reason": ""
+    }
+  ]
+}
+```
+
+#Explanation:
+- Since I couldn't find any reason to mark the "SRX821821" as non-native because its not having cancer/tumor/treated..etc mention.
+So, there is an empty object in returned json.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX831872",
+      "reason": "Pre-activated"
+    },
+    {
+      "id": "SRX831873",
+      "reason": "Pre-activated"
+    },
+    {
+      "id": "SRX831874",
+      "reason": "Pre-activated"
+    },
+    {
+      "id": "SRX831875",
+      "reason": "Pre-activated"
+    },
+    {   "id": "SRX831876"
+      "reason": "Pre-activated"}
+    {
+      "id": "SRX831877",
+      "reason": "Pre-activated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX831878",
+      "reason": "Pre-activated"
+    },
+    {
+      "id": "SRX831879",
+      "reason": "Pre-activated"
+    },
+    {
+      "id": "SRX831880",
+      "reason": "Pre-activated"
+    },
+    {
+      "id": "SRX831881",
+      "reason": "Pre-activated"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8359003",
+      "reason": "EwS patient"
+    },
+    {
+      "id": "SRX8359006",
+      "reason": "SPC mutation + EF1"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8363960",
+      "reason": "Neonatal cells"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406305",
+      "reason": "Cancerous"
+    },
+    {
+      "id": "SRX8406306",
+      "reason": "Cancerous"
+    },
+    {
+      "id": "SRX8406307",
+      "reason": "Cancerous"
+    },
+    {
+      "id": "SRX8406308",
+      "reason": "Cancerous"
+    },
+    {
+      "id": "SRX8406315",
+      "reason": "Cancerous"
+    },
+    {
+      "id": "SRX8406316",
+      "reason": "Cancerous"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406413",
+      "reason": "Cancer"
+    },
+        {
+      "id": "SRX8406414","reason":"Cancer"
+        },
+          {
+      "id": "SRX8406415",    "reason": "Cancer",
+       },{
+     "id" : "SRX8406416","reason":"Cancer"}  ,
+                {   "id" : "SRX8406417","reason":"Cancer"}
+                  ,{"id"" :
+"SRX8406417",             "reason" ": "
+  }
+    ]
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406419",
+      "reason": "Cancer related - Patient localised prostate"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406447",
+      "reason": "Cancer sample"
+    },
+    {
+      "id": "SRX8406448",
+      "reason": "Cancer sample"
+    },
+    {
+      "id": "SRX8406449",
+      "reason": "Cancer sample"
+    },
+    {
+      "id": "SRX8406450",
+      "reason": "Cancer sample"
+    },
+    {
+      "id": "SRX8406482",
+      "reason": "Cancer sample"
+    },
+{
+      "id": "SRX8406483",
+      "reason": "Cancer sample"
+    }
+
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406484",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX8406485",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX8406486",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX8406487",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX8406489",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX8406488",
+      "reason": "Cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406503",
+      "reason": "Cancerous sample"
+    },
+    {
+      "id": "SRX8406504",
+      "reason": "Cancerous sample"
+    },
+    {
+      "id": "SRX8406505",
+      "reason": "Cancerous sample"
+    },
+    {
+      "id": "SRX8406506",
+      "reason": "Cancerous sample"
+    },
+    {
+      "id": "SRX8406507",
+      "reason": "Cancerous sample"
+    },
+    {
+      "id": "SRX8406508",
+      "reason": "Cancerous sample"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406509",
+      "reason": "prostatic tissue"
+    },
+    {
+        "id": "",
+        "reason": ""
+    }
+  ]
+}
+
+```
+```json
+{
+  "non_native_samples": [
+    {
+        "id": "SRX8406528",
+        "reason": "cancer"
+      }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": []
+
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8406542",
+      "reason": "Cancer-related"
+    },
+    {
+      "id": "SRX8406543",
+      "reason": "Cancer-related"
+    },
+    {
+      "id": "SRX8406544",
+      "reason": "Cancer-related"
+    },
+    {
+      "id": "SRX8406545",
+      "reason": "Cancer-related"
+    },
+    {
+      "id": "SRX8406546",
+      "reason": "Cancer-related"
+    },
+    {
+      "id": "SRX8406547",
+      "reason": "Cancer-related"
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8418557",
+      "reason": "Cancer - ALL"
+    },
+    {
+      "id": "SRX8418558",
+      "reason": "Cancer - ALL"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```Json
+{
+"non_native_samples": [
+]
+}
+```
+
+The reason there are no non-native samples in this dataset is that the given data does not explicitly mention any of the keywords that indicate a non-native sample. The description provided includes terms such as 'Pancreas', and 'Pancreatic islets' without any direct indication such as cancer, tumor or treated conditions as per definition.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453140",
+      "reason": "Cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX845314",
+      "reason": "Cancer sample"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453142",
+      "reason": "Prostate cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453143",
+      "reason": "cancer"
+    }
+  ]
+}
+```
+```json
+
+"non_native_samples": [
+    {
+      "id": "SRX8453144",
+       "reason":"metastatic castration resistant prostatecancer"
+     },
+           {
+              "id": "SRX8453145",
+               "reason":"metastatic castration resistant prostate cancer"
+
+              }
+]
+}```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453146",
+      "reason": "metastatic castration resistant prostate cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453147",
+      "reason": "Cancer-related"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453148",
+      "reason": "Prostate cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453149",
+      "reason": "Metastatic castration resistant prostrate cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8453150",
+      "reason": "cancer"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX850667",
+      "reason": ""
+    }
+  ]
+}
+```
+This JSON response is not correct. The `reason` field should contain text indicating why the sample is considered non-native. Re-evaluate the data provided:
+- The sample ID is `SRX850667`.
+- The metadata includes terms like `'tonsil'` and `'CD4 + T cells', 'CXCR5hi CD4 T cell'`.
+
+None of these terms directly indicate that the sample is non-native based on the provided definitions. Recheck for any missing key terms or clarification in the definition:
+  - For example, if `tonsil` is a specific type of tissue or cell line indicating non-native status due to treatment, confirm this status or clarify.
+
+In absence of confirmation, let's review again:
+
+```json
+{
+  "non_native_samples": []
+}
+```
+This indicates that based on the provided definitions and metadata in data, none of these samples fit the criteria of non-native.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8536088",
+      "reason": "<N822K cKIT mutant>"
+    },
+    {
+      "id": "SRX8536090",
+      "reason":"<N822K cKIT mutant>"
+    },
+    {
+      "id": "SRX8536092",
+      "reason": "<N822K cKIT mutant>"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8536094",
+      "reason": "N822K cKIT mutant"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8537744",
+      "reason": "Breast cells treated with estrogen"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8588623",
+      "reason": "Transduced"
+    },
+    {
+      "id": "SRX8588624",
+      "reason": "Transduced"
+    }
+  ]
+}
+```
+```json:
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8588641",
+      "reason": "Transduced with ad.GFP"
+    },
+    {
+      "id": "SRX8588642",
+      "reason": "Transduced with ad.GFP"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8607604",
+      "reason": "Treated with calcium"
+    },
+    {
+      "id": "SRX8607605",
+      "reason": "Treated with calcium"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX864094",
+      "reason": "Treated with 4-hydroxytamoxifen"
+    },
+    {
+      "id": "SRX864095",
+      "reason": "Transduced and treated with 4-OHT"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+There are no non-native samples in the provided data, so the returned JSON object will be empty.
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8713992",
+      "reason": "Mutation H3.3K27M"
+    },
+    {
+      "id": "SRX8713993",
+      "reason": "Mutation H3.3K27"
+    },
+    {
+      "id": "SRX8713994",
+      "reason": "Mutation H3.3K27M"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX873805",
+      "reason": "Epidermal, but derived from foreskins."
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX873813",
+      "reason": "Differentiated cell line"
+    },
+    {
+      "id": "SRX873814",
+      "reason": "Differentiated cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8814875",
+      "reason": "Cancer"
+    },
+    {
+      "id": "SRX8814876",
+      "reason": "Cancer"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX8841617",
+      "reason": "Acheiropodia patient"
+    },
+    {
+      "id": "SRX8841619",
+      "reason": "Acheiropodia patient"
+    },
+    ,
+    {
+      "id": "SRX8841625",
+      "reason": "Acheiropodia patient"
+    },
+    ,
+    {
+      "id": "SRX8841627",
+      "reason": "Acheiropodia patient"
+    }
+  ]
+}
+```
+```json
+{
+    "non_native_samples": []
+}
+```
+There are not any sequences in this dataset which can be identified as non-native based on the criteria.
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX885895",
+      "reason": "Treatment with oxLDL"
+    },
+    {
+      "id": "SRX885896",
+      "reason": "Treatment with oxLDL"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX885897",
+      "reason": "Treated with oxLDL"
+    },
+    {
+      "id": "SRX885898",
+      "reason":"Treated with oxLDL"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```
+{
+  "non_native_samples": [
+    {
+      "id":"SRX9029195",
+      "reason": "Treated with R848"
+    },
+    {
+      "id":"SRX9029197",
+      "reason": "Treated with R848"
+    },
+    {
+    	"id":"SRX9029199",
+        "reason": "Treated with R848"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9029201",
+      "reason": "Treated with R848"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9029207",
+      "reason": "Treated with R848"
+    },
+    {
+      "id": "SRX9029209",
+      "reason": "Treated with R848"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9029213",
+      "reason": "Treated with R848"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9045665",
+      "reason": "Treated with drug"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9206317",
+      "reason": "'16HBE' is an immortalized cell line"
+    },
+    {
+      "id": "SRX9206318",
+      "reason": "'16HBE' is an immortalized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9221932",
+      "reason": "Treated with 17 β-estradiol"
+    },
+    {
+      "id": "SRX9221933",
+      "reason": "DMSO treatment control."
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9345714",
+      "reason": "iPSC differentiation"
+    },
+    {
+      "id": "SRX9345715",
+      "reason": "iPSC differentiation"
+    },
+    {
+      "id": "SRX9345716",
+      "reason": "iPSC differentiation"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9531405",
+      "reason": "Treated with viral strain"
+    },
+     {
+      "id": "SRX9531406",
+      "reason": "Treated with viral strain"
+    },
+    {
+      "id": "SRX9531407",
+      "reason": "Treated with viral strain"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9531417",
+      "reason": "viral infected"
+    },
+    {
+      "id": "SRX9531418",
+      "reason": "viral infection=ZIKV-bystander"
+    },
+    {
+      "id": "SRX9531419",
+      "reason": "viral infection=ZIKV-infected"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": []
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9560789",
+      "reason": "Gene edited"
+    },
+    {
+      "id": "SRX9560790",
+      "reason": "Gene edited"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9648513",
+      "reason": "Null genotype H3.3K27M"
+    },
+    {
+      "id": "SRX9648514",
+      "reason": "H3.3K27 genotype"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+      {
+          "id":"SRX9674621",
+          "reason":" Immortalised cell line used"
+        }
+        ,
+     {
+            "id":"SRX9674623",
+            "reason":" Treated with doxycycline"
+
+      },
+    {
+      "id": "SRX9674625",
+      "reason": "Treated with dozycyline"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9683838",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683839",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683840",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683841",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683842",
+      "reason": "hASC-derived"
+    },
+    {
+      "id": "SRX9683843",
+      "reason": "hASC-derived"
+    }
+  ]
+}
+```
+```json
+
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9683844",
+      "reason": "Immortalized cell line name detected"
+    },
+    {
+      "id": "SRX9683845",
+      "reason": "Immortalized cell line name detected"
+    },
+    {
+      "id": "SRX9683846",
+      "reason": "Immortalized cell line name detected"
+    },
+    {
+      "id": "SRX9683847",
+      "reason": "Immortalized cell line name detected"
+    },
+    {
+      "id": "SRX9683848",
+      "reason": "Immortalized cell line name detected"
+    },
+        {
+      "id": "SRX9683849",
+      "reason": "Immortalized cell line name detected"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9683850",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683851",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683852",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9683853",
+      "reason": "Immortlized cell line"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX971583",
+      "reason": "p63 knockdown"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX971585",
+      "reason": "knockout Brg1/Brm"
+    },
+    {
+      "id": "SRX971589",
+      "reason": "knockdowm Brg1/Brm"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX976241",
+      "reason": "Specimen is B cells from tonsil"
+    },
+     {
+      "id": "SRX976244",
+      "reason": "Specimen is B cells from tonsil"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9795022",
+      "reason": "Contains 'Ctrl' in genotype"
+    }
+  ]
+}
+```
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9799512",
+      "reason": "Treated with DEX"
+    },
+    {
+      "id": "SRX9799513",
+      "reason": "Treated with DEX"
+    }
+  ]
+}
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9850737",
+      "reason": "Cell line Calu-3"
+    },
+    {
+      "id": "SRX9850738",
+      "reason": "Cell line Calu-3"
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+```json
+{
+  "non_native_samples": [
+    {
+      "id":"",
+      "reason":""
+    }
+  ]
+}
+```
+```json
+{
+  "non_native_samples": []
+}
+```
+
+The data provided does not contain any clear indicators of non-native samples based on the given definitions and keywords. Therefore no IDs are extracted for the NON-NATIVE sample sequencing
+```json
+{
+  "non_native_samples": [
+    {
+      "id": "SRX9969717",
+      "reason": "Immortalized cell line"
+    },
+    {
+      "id": "SRX9969718",
+       "reason": "Immortalized cell line"
+    }
+  ]
+}
+```

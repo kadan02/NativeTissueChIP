@@ -1,5 +1,4 @@
-0	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17
-DRX044425	CTCF	Blood	T cells	sample_name=003_ED_ChIP_CTCF_1	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 1										
+DRX044425	CTCF	Blood	T cells	sample_name=003_ED_ChIP_CTCF_1	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 1
 DRX044426	CTCF	Blood	T cells	sample_name=004_ED_ChIP_CTCF_2	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 2										
 DRX440344	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of hCD4	age=not applicable	cell_type=CD4 positive T cell	isolate=not applicable	tissue=PBMC									
 DRX440349	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of TL-Om1	age=not applicable	cell_type=CD4 positive T cell	isolate=not applicable	tissue=not applicable									

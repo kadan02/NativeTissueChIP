@@ -1,0 +1,1409 @@
+ID	Reason
+DRX440349	Tumor cell line
+DRX486781	Immortalized cell line
+ERX2242379	Cancer
+ERX2242380	Cancer
+ERX2242381	Cancer
+ERX2242385	Knockdown (KD)
+ERX2242386	Knockdown (KD)
+ERX2242387	Knockdown (KD)
+ERX2242391	TNBC cancer
+ERX2242392	TNBC cancer
+ERX2242393	TNBC cancer
+ERX2242397	(with BCL11A KD)
+ERX2242398	(with BCL11A KD)
+ERX2242399	(with BCL11A KD)
+ERX2242403	cancer
+ERX2242404	cancer
+ERX2242405	cancer with KD
+ERX2242406	cancer with KD
+ERX2242409	cancer with KD
+ERX2242411	cancer
+ERX371667	Cancer phenotype
+ERX371668	Cancer phenotype, immortalized cell line(MCF10A)
+ERX371671	Cancer phenotype, immortalized cell line(T47D)
+ERX371674	Cancer phenotype, immortalized cell line(MDA231)
+ERX371675	Cancer phenotype, immortalized cell line(MDA231)
+ERX371678	Cancer phenotype, immortalized cell line(MDA157)
+ERX371679	Cancer phenotype and MDA157 cell line
+ERX371682	Cancer phenotype and MCF10A cell line
+ERX371683	Cancer phenotype and MCF10A cell line
+ERX371686	Cancer phenotype and T47D cell line
+ERX371689	Cancer phenotype and MDA231 cell line
+ERX371690	Cancer phenotype and MDA231 cell line
+ERX371693	Phenotype=cancer
+ERX371694	Phenotype=cancer
+ERX371697	Phenotype=cancer
+ERX371698	sample is an immortal cell line
+ERX371698	Phenotype=cancer
+ERX371705	Cancer phenotype
+ERX371708	Immortalized cell line (MDA157)
+ERX371709	Immortalized cell line (MDA157)
+ERX371712	Immortalized cell line (MCF10A)
+ERX371713	Immortalized cell line (MCF10A)
+ERX371716	Immortalized cell line(T47D)
+SRX017709	Activated
+SRX021983	Mentioned non-native sample
+SRX022392	Treated with calcitriol
+SRX022393	Treated with calcitriol
+SRX022396	Treated with calcitriol
+SRX022397	Treated with calcitriol
+SRX026659	Leukemia
+SRX026660	Treatment with zinc
+SRX029433	Cultured cells
+SRX029434	Cultured cells
+SRX029435	Cultured cells
+SRX029436	Cultured cells
+SRX029437	Cultured cells
+SRX037935	No non-native indicators found, but the condition is not clearly native.
+SRX037936	Condition indicates BRG1 KD shLuc control
+SRX037937	Condition indicates BRG1 RNAi KD
+SRX037938	Condition indicates BRG1 RNAi KD
+SRX037939	Condition indicates BRG1 KD shLuc control
+SRX037940	Condition indicates BRG1 RNAi KD
+SRX037941	Knockdown (KD)
+SRX038908	Fetal indicator
+SRX038909	Fetal indicator
+SRX038910	Fetal indicator
+SRX038911	Fetal indicator
+SRX038912	Fetal indicator
+SRX038913	Fetal indicator
+SRX038914	Expanded UCB cells
+SRX038915	Expanded UCB cells
+SRX038916	Expanded UCB cells
+SRX041287	Treated with IFNg
+SRX041289	Treated with IL-12
+SRX041291	Treated with IL-2
+SRX041293	Treated with IL-2
+SRX062339	Cancer patient
+SRX097069	BMP treatment
+SRX097070	BMP treatment
+SRX097072	Progenitors BIO
+SRX097073	Progenitors BMP
+SRX099053	Neonatal sample
+SRX099055	Neonatal sample
+SRX099629	Fetal sample
+SRX10056752	Treated
+SRX10059518	Treated with cortisol
+SRX10059519	Treated with cortisol
+SRX10059520	Treated with cortisol
+SRX10131662	Immortalized cell line (HBTEC)
+SRX10131663	Immortalized Cell Line
+SRX10131679	 Treated with A-485
+SRX10131681	Treated with A-485
+SRX10131682	Treated with DMSO
+SRX10131683	Treated with A-485
+SRX10142206	Cancer
+SRX10142207	Cancer
+SRX10145208	Treated with PMA
+SRX10145211	Treated with CD40L-IgM
+SRX10145212	Treated with PMA
+SRX10206211	Immortalized cell line
+SRX10206213	Immortalized cell line
+SRX10206214	Immortalized cell line
+SRX10212065	Stimulated cells
+SRX10212066	Stimulated, treated with low arginine
+SRX10212067	 Treated with arginine-free media
+SRX10212068	Stimulated cells 
+SRX10212070	Treated with arginines-free media
+SRX1023790	Treated
+SRX1023791	Treated
+SRX1023796	Treated with GM-CSF and IL4
+SRX1023797	Treated with multiple compounds (GM-CSF + TNF-a + PGE2 + Pam3CSK4)
+SRX1027450	Non-native indicator: Mesenchymal stem cells
+SRX1027451	Non-native indicator: Mesenchymal stem cells
+SRX1027452	Non-native indicator: Mesenchymal stem cells
+SRX103445	Treated with JQ1
+SRX1036365	Imortalized cell line
+SRX1046555	knockout
+SRX1046556	knockout
+SRX1046557	knockout
+SRX1046558	knockout
+SRX10475435	Health conditions: DM, HTN
+SRX10475436	Health conditions: DM, HTN
+SRX10476797	Hypertension present
+SRX10476798	Hypertension presenti
+SRX10634383	Immortalized cell line N/TERT2G
+SRX10697702	Non-native cell line
+SRX107284	Transduced with lentivirus carrying DUX4
+SRX10852977	AAVS1 null genotype
+SRX10852978	MED12-null genotype
+SRX10852979	AAVS1null genotypes
+SRX10852980	MED12Null genotype
+SRX10852981	AAVS1 Null genotype
+SRX10852982	MED12-null genotype 
+SRX10852983	Null genotype
+SRX10852984	Null genotype
+SRX10852985	Null genotype
+SRX10852986	Null genotype
+SRX10852987	Null genotype
+SRX10852988	Null genotype
+SRX1089823	Fetal
+SRX1089825	Fetal
+SRX1089826	Fetal cell source
+SRX1089827	Fetal
+SRX1089828	Fetal
+SRX1089829	Fetal cells
+SRX1089832	Fetal
+SRX1089834	Fetal
+SRX10913935	knockdown of EN1
+SRX10913937	knockdown of EN1
+SRX10913941	knockdown of EN1
+SRX10913942	treated with TGFbeta
+SRX10913943	knockdown of EN1
+SRX10949099	FSHD2 disease
+SRX10949100	FSHD2 disease
+SRX10949235	BAMS (bosma arhinia microphthalmia syndrome)
+SRX10949236	BAMS (bosma arhinia microphthalmia syndrome)
+SRX10954233	polarized Th17 cells
+SRX10954235	polarized Th17 cells, biological replicate 2
+SRX10954237	polarized Th17 cells
+SRX10954239	polarized Th17 cells, biological replicate 2
+SRX10954241	polarized Th17 cells
+SRX10954243	polarized Th17 cells, biological replicate 2
+SRX10976184	In vitro differentiated cells
+SRX10976185	In vitro differentiated cells
+SRX10976217	Treated with calcium
+SRX10976218	Treated with calcium
+SRX10976458	Diabetes mellitus and hypertension
+SRX10976459	Diabetes mellitus and hypertension
+SRX10976484	Diabetes Mellitus; Hypertension
+SRX10976485	Diabetes Mellitus; Hypertension
+SRX10976536	Embryonic
+SRX10976537	Embryonic
+SRX10976683	Embryonic
+SRX10976684	Embryonic
+SRX10976685	Embryonic
+SRX10976686	Embryonic
+SRX10976697	Embryonic stage
+SRX10976698	Embryonic stage
+SRX10976701	Hypertension
+SRX10976702	Hypertension
+SRX10976792	Embryonic
+SRX10976793	Embryonic, Organoid
+SRX10976859	lungs with moderate emphysema
+SRX10976860	lungs with moderate emphysema
+SRX10976863	HTN: yes
+SRX10976875	Embryonic
+SRX10976876	Embryonic
+SRX10976878	Embryonic
+SRX10976879	Organoid
+SRX10976935	Embryonic
+SRX10976936	Embryonic
+SRX10976937	Embryonic
+SRX10976938	Embryonic
+SRX10976991	Embryonic
+SRX10976992	Embryonic, organoid
+SRX10977140	Embryonic stage
+SRX10977141	Embryonic stage
+SRX10977145	Embryonic stage
+SRX10977146	Embryonic stage
+SRX10977147	Embryonic stage
+SRX10977148	Embryonic stage
+SRX10977149	Embryonic stage
+SRX10977196	Embryonic sample
+SRX10977203	Embryonic stage
+SRX10977204	Embryonic stage
+SRX10977205	Embryonic stage
+SRX10977206	Embryonic stage
+SRX10977237	Treated with calcium
+SRX10977238	Treated with calcium
+SRX10977361	in vitro differentiated cells
+SRX10977362	 in vitro differentiated cells
+SRX10977366	Embryonic stage
+SRX10977367	Embryonic stage
+SRX23058659	Tumor sample
+SRX10977387	HTN: yes
+SRX10977388	HTN: yes
+SRX10977522	in vitro differentiated cells
+SRX10977523	in vitro differentiated cells
+SRX10977524	in vitro differentiated cells
+SRX10977525	in vitro differentiated cells
+SRX11120932	CdLS genotype
+SRX11120938	CdLS genotype
+SRX11120957	CdLS genotype
+SRX11120958	CHOPS genotype
+SRX11179929	DMSO-treated
+SRX11179930	DMSO-treated
+SRX11470442	infected with empty pLIV vector
+SRX11470446	Infected with C-term V5-tagged EWSR1-ATF1
+SRX11478228	Immortalized cell line (EBNA3A)
+SRX11478229	Immortalized cell line (EBNA3A)
+SRX11478230	Immortalized cell line (EBNA3A)
+SRX11478231	Immortalized cell line (EBNA3A)
+SRX11483609	Treated with calcium
+SRX11513465	Tolerogenic dendritic cells
+SRX11513467	Tolerogenic dendritic cells
+SRX11513470	Differentiated cells
+SRX11513471	Tolerogenic dendritic cells (differentiated, non-native state)
+SRX11513472	Differentiated cells
+SRX11513473	Tolerogenic dendritic cells (differentiated, non-native state)
+SRX11515992	BAF60c knockdown
+SRX11969040	Immortalized cell line
+SRX11969041	Immortalized cell line
+SRX11969043	HPV positive
+SRX11969044	HPV positive
+SRX12118507	Cell type indicates non-native
+SRX12118508	Cell type indicates non-native
+SRX12118509	knock out
+SRX12129503	Treated with DMSO
+SRX12129506	Treated with PLX
+SRX12151157	Immortalized cell line
+SRX12151158	Immortalized cell line
+SRX12151159	Immortalized cell line
+SRX12151160	Immortalized cell line
+SRX12209231	Stimulated CD4+ T cells
+SRX12209232	Stimulated CD4+ T cells
+SRX12209237	Treated with CD3/CD28
+SRX12209238	Treated with CD3/CD28
+SRX12209239	Treated with CD3/CD28
+SRX12209240	Treated with CD3/CD28
+SRX12209241	Treated with CD3/CD28
+SRX12209242	Treated with CD3/CD28
+SRX12357929	treated
+SRX12357931	treated
+none	<none>
+SRX12412434	Adipogenic induction
+SRX12412435	Adipogenic induction
+SRX12567782	Condition is low salt
+SRX12622730	Treated with hydrocortisone and CORT108297
+SRX12622732	Treated with CORT108297 and EtOH
+SRX12622734	Treated with hydrocortisone and DMSO
+SRX12622736	Treated with DMSO and EtOH
+SRX12698892	Stimulated
+SRX12698893	Stimulated
+SRX12698894	Stimulated
+SRX12698895	Treated with R848
+SRX12698900	Treated with R848
+SRX12698890	Not found in the data
+SRX12698908	R848 stimulated
+SRX12698909	R848 stimulated
+SRX12698910	R848 stimulated
+SRX13006636	DM, HTN
+SRX13006678	Ischemic heart condition
+SRX13006679	Ischemic heart condition
+SRX13006718	HTN condition
+SRX13006719	HTN condition
+SRX13006720	HTN condition
+SRX13006721	HTN condition
+SRX13006772	ischemic
+SRX13007592	ischemic condition
+SRX13007593	ischemic condition
+SRX130076xx	All the IDs here have 'tumor'
+SRX13007981	Ischemic condition
+SRX13007982	Ischemic condition
+SRX13007993	Severe dysfunction, nonischemic condition
+SRX13007994	Severe dysfunction, nonischemic condition
+SRX13008747	Ischaemic Heart
+SRX13008748	Ischaemic Heart
+SRX13008809	ischemic
+SRX13008810	ischemic
+SRX13008860	Lungs with moderate emphysema
+SRX13009098	child (indicates non-native developmental stage)
+SRX13009099	child (indicates non-native developmental stage)
+SRX13009141	Non-native sample
+SRX13009142	Non-native sample
+SRX13009184	DM
+SRX13009185	DM, HTN
+SRX13009190	Nonischemic disease
+SRX13009191	Nonischemic disease
+SRX13009235	Child tissue
+SRX13150017	No reason provided.
+SRX13150018	No reason provided.
+SRX13183650	Transduced with EKLF-GATA1 medium
+SRX13183651	Transduced with EKLF-GATA1 long
+SRX13183649	Transduced with GATA1
+SRX13183653	Transduced with GATA1
+SRX13183654	Transduced with EKLF-GATA1 medium
+SRX13183655	Transduced with EKLF-GATA1 long
+SRX13183657	Treated with GATA1
+SRX13183658	Treated with EKLF-GATA1 medium
+SRX13183659	Treated with EKLF-GATA1 long
+SRX1318615	embryonic
+SRX1318617	embryonic
+SRX1318619	embryonic
+SRX1318620	embryonic
+SRX1322299	Immortalized cell line (LCL)
+SRX13262055	Immortalized cell line
+SRX13273914	KO genotype
+SRX13273917	KO genotype
+SRX13318154	Genetic mutation (Lmna R527C)
+SRX13602612	Disease state: ATR-X syndrome
+SRX13602613	Disease state: ATR-X syndrome
+SRX13681293	Lymphoblastoid cell line
+SRX13681294	Lymphoblastoid cell line
+SRX13681295	Lymphoblastoid cell line
+SRX13681296	Lymphoblastoid cell line
+SRX13681297	Lymphoblastoid cell line
+SRX13681298	Lymphoblastoid cell line
+SRX13681305	Lymphoblastoid Cell Line
+SRX13681306	Lymphoblastoid Cell Line
+SRX1397384	Treated with BMP4
+SRX1397385	Treated with BMP4
+SRX1397386	Treated with BMP4
+SRX1397389	Treated with BMP4
+SRX1397390	Treated with BMP4
+SRX1397391	Treated with BMP4
+SRX1397395	Treated
+SRX1397396	Treated
+SRX1397397	Treated
+SRX1397401	Treated
+SRX1397402	Treated
+SRX1397403	Treated
+SRX1397407	Treated with BMP4
+SRX1397408	Treated with BMP4
+SRX1397412	Treated with BMP4
+SRX1425809	 Activated
+SRX14280059	NAFLD
+SRX14280060	NAFLD
+SRX14280085	Disease state NAFLD
+SRX14280086	Disease state NAFLD
+SRX14280090	Disease state NAFLD
+SRX1435941	Cell line name: stromal cells.
+SRX144520	Treated with SFN
+SRX144521	Treated with SFN
+SRX144523	Treated with SFN
+SRX144524	Vehile treated
+SRX144525	Vehicle treated
+SRX144527	Vehicle treated
+SRX1456193	Immortalized LCL cell line
+SRX1456195	Immortalized LCL cell line
+SRX1460847	Treated with PMA/ionomycin, DMSO
+SRX1460848	Treated with PMA/ionomycin, BAY 11-7082
+SRX1460849	Treated with PMA/ionomycin, DMSO
+SRX1460850	Treated with PMA/ionomycin, BAY 11-7082
+SRX1460851	Treated with PMA/ionomycin, DMSO
+SRX1460852	Treated with PMA/ionomycin, BAY 11-7082
+SRX1460853	treated (in vitro differentiated)
+SRX1460854	treated (BAT-7, PMA/ionomycin)
+SRX1478537	Fetal stage
+SRX1478538	Fetal stage
+SRX1478539	Fetal stage
+SRX1478540	Fetal stage
+SRX1478541	Fetal stage
+SRX1478542	Fetal stage
+SRX1478543	Embryonic stage
+SRX1478544	Embryonic stage
+SRX14812503	Activated p53
+SRX14853139	Treated with E2+MPA
+SRX14853140	Treated with E2+MPA
+SRX14853141	Treated with E2+MPA
+SRX14853142	Treated with E2+MPA
+SRX14888587	Immortalized cell line M2
+SRX15036323	Immortalized cell line: Myla CD4+
+SRX151229	Immortalized cell line: Lymphoblastoid cells
+SRX151230	Immortalized cell line: Lymphoblastoid cells
+SRX1547996	Treated with DMSO
+SRX1547998	Treated with Nutlin-3a 10 μM
+SRX15600233	Treated with TCDD
+SRX15710554	Null genotype
+SRX15710555	Null genotype
+SRX15891788	Immortalized cell line
+SRX1603678	Differentiated keratinocytes
+SRX160843	Fetal cells
+SRX1614803	Treated with R848
+SRX1614804	Treated with R848
+SRX1614809	Treated with R848
+SRX1614810	Treated with R848
+SRX16495545	No non-native indicators found
+SRX16495546	No non native indicators found
+SRX16495547	No non native indicators found
+SRX16495588	ischemic
+SRX16495589	ischemic
+SRX16495663	not a drug-free
+SRX16495630	not from an healthy specimen or donor.
+SRX16495761	Activated CD8-positive T Cell
+SRX16495762	Activated CD8-positive T Cell
+SRX16498460	Severe emphysema
+SRX16499729	Activated CD4-positive cell indicates non-native state
+SRX16499730	Activated CD4-positive cell indicates non-native state
+SRX16499731	Activated CD4-positive cell indicates non-native state
+SRX16499828	Organoid
+SRX16499925	Ischenamic heart disease
+SRX16499926	Ischenamic heart disease
+SRX16499968	child sample
+SRX16499969	child sample
+SRX16500059	embryonic
+SRX16500060	embryonic
+SRX16500061	embryonic
+SRX16500062	embryonic
+SRX16500149	Diseased (severe emphysema)
+SRX16500150	Diseased (severe emphysema)
+SRX1690216	Neuroblastoma
+SRX1690217	Neuroblastoma
+SRX1690218	DOX treament
+SRX1690222	DOX treatment
+SRX1690226	DOX treatment
+SRX1690227	DOX treatment
+SRX1690255	Neuroblastoma cancer line SHEP-21N
+SRX1690259	Neuroblastoma cancer line SHEP-21N treated with DOX for 24HR
+SRX1690263	Neuroblastoma cancer line SHEP-21N treated with DOX for 2HR
+SRX170356	Cell type B cells
+SRX1733648	Treated with IL10
+SRX17491426	Transfected
+SRX17491428	Transfected
+SRX1759186	overexpressed ATF3
+SRX1781649	Mutation present
+SRX1781653	Mutation found in genotype
+SRX1781655	LMNA p.R482W mutation
+SRX1781659	Genetic mutation
+SRX17834083	Co-cultured with tumor cells
+SRX17834084	Co-cultured with tumor cells
+SRX17966409	Knockdown of Let-7
+SRX17966411	Knockdown of Let-7
+SRX17966415	Let-7 Knockdown
+SRX1799522	Treated cells
+SRX1799528	Treated cells
+SRX1799591	In vitro differentiated
+SRX1799593	In vitro differentiated
+SRX18119380	Tumor
+SRX18156222	NAFLD
+SRX18156223	NAFLD
+SRX18156224	NAFLD
+SRX18156225	NAFLD
+SRX18156226	NAFLD
+SRX18156227	NAFLD
+SRX1823797	Immortalized cell line
+SRX1823798	Immortalized cell line
+SRX1823799	Immortalized cell line
+SRX1823800	Immortalized cell line
+SRX1823801	Immortalized cell line
+SRX1823802	Immortalized cell line
+SRX1823809	Immortalized cell line
+SRX1823810	Immortalized cell line
+SRX1823811	Immortalized cell line
+SRX1823812	Immortalized cell line
+SRX1823813	Immortalized cell line
+SRX1823814	Immortalized cell line
+SRX1823815	Fetal cells, immortalized
+SRX1823816	Fetal cells, immortalized
+SRX1823817	Fetal cells, immortalized
+SRX1823818	Fetal cells, immortalized
+SRX1842780	Neuroblastoma
+SRX1842781	Neuroblastoma
+SRX18517819	Treated with DMSO
+SRX18517820	Treated with ROM
+SRX18517821	Treated with SAHA
+SRX186666	No reason found
+SRX186670	None found
+SRX18672592	CTCF-KD treatment
+SRX18672593	CTCF-KD treatment
+SRX1878943	Immortalized cell line
+SRX188959	Immortalized cell line 'Lung'
+SRX188970	Medullo cells mentioned
+SRX19123211	Disease state - C9HRE ALS/FTD
+SRX19123214	Disease state - C9HRE ALS/FTD
+SRX1920486	Treated with IL-2
+SRX1920488	Treated with IL-2 and HODHBt
+SRX19304507	Adipose derived stem cells
+SRX19304509	Adipose derived stem cells
+SRX19304518	Adipose derived stem cells
+SRX19304527	Adipose derived stem cells
+SRX19304538	Adipose derived stem cells
+SRX19304546	Adipose derived stem cells
+SRX19487526	Treated w/ L2HG
+SRX19487527	Treated w/ L2HG
+SRX19495644	Treated with TCDD
+SRX19495645	Treated with TCDD
+SRX19538281	Mutated p53 genotype
+SRX19538282	Mutated p53 genotype
+SRX19664486	Immortalized cell line
+SRX19664487	Immortalized cell line
+SRX19664488	Immortalized cell line
+SRX19664489	Immortalized cell line
+SRX19738542	Treated with CRISPRa system
+SRX19738543	Treated with CRISPRa system
+SRX19738544	Treated with CRISPRa system for HOXDeRNA activation
+SRX19738545	Treated with CRISPRa system for HOXDeRNA activation
+SRX198034	JQ1 treated
+SRX200050	Hutchinson-Gilford progeria syndrome
+SRX200052	Hutchinson-Gilford progeria syndrome
+SRX20097676	treated with 1,25D3
+SRX20097681	Treated with 1,25D3
+SRX20097682	Treated with 1,25D3
+SRX20097683	Treated with 1,25D3
+SRX20097684	Treated with 1,25D3
+SRX20097685	Treated with 1,25D3
+SRX20097686	Treated with 1,25D3
+SRX20140869	Null genotype
+SRX20140870	Non-wild genotype (INTS10HET2)
+SRX20140891	Null genotype
+SRX20140892	Null genotype
+SRX20140896	Null genotype
+SRX203387	Diagnosis: Multiple myeloma, treatment with JQ1
+SRX203389	Diagnosis: Multiple myeloma, treatment with JQ1
+SRX203390	Diagnosis:Multiple myeloma , treatment with JQ1
+SRX203388	Diagnosis:multiple  myeloma, treatment with DMSO 
+SRX203391	Diagnosis:Multiple myelamoa ,treatment with DMSO 
+SRX203395	Cancer-related diagnosis
+SRX20420564	knockin
+SRX20420565	knockin
+SRX20420566	knockin
+SRX20420567	knockin
+SRX20420568	knockin
+SRX20420569	knockin
+SRX20420570	TFAP4 knockin
+SRX20420571	tNGFR knockin
+SRX20420572	BATF-TFAP4 knockin
+SRX20420573	BATF knockin
+SRX20420574	TFAP4 knockin
+SRX20420575	tNGFR knockin
+SRX20420576	Null genotype
+SRX20420579	Null genotype
+SRX20420582	BATF-TFAP4 knockin
+SRX20420583	tNGFR knockin
+SRX20440536	Neonatal tissue
+SRX205164	Cell culture
+SRX205165	Cell culture
+SRX205166	Cell culture
+SRX205167	Cell culture
+SRX20662341	Adapted to growth media
+SRX20662345	Primary cells cultured in 15% FBS instead of the regular 10% growth media
+SRX20971023	KAT6A, not wild-type or control
+SRX20971024	KAT6A, not wild-type or control
+SRX2109209	Immortalized cell line
+SRX2109214	Immortalized cell line
+SRX2109219	Immortalized cell line
+SRX212182	Fetal cells indicate embryonic origin
+SRX212183	Treated with TNF-α (10ng/mL) 1hr
+SRX212184	Fetal cells indicate embryonic origin
+SRX212185	Treated with TNF-α (10ng/mL) 1hr
+SRX212319	Monocyte-derived macrophages
+SRX212353	Hypoxic treatment
+SRX212357	Hypoxia treatment
+SRX212358	Hypoxia treatment
+SRX212360	Interleukin-Treatement 
+SRX212359	Treatment with interleukin-10 
+SRX212362	Treated
+SRX212363	Treated
+SRX212364	Treated
+SRX212365	Treated, Hypoxy
+SRX212366	Treated, Hypoxy
+SRX212440	Expanded conventional T cells
+SRX212441	Expanded conventional T cells
+SRX212442	Immortalized cell line name
+SRX212443	Non-native cell line
+SRX212445	Expanded cells
+SRX212446	Expanded cells
+SRX212447	Treated with a non native method
+SRX212448	CD4+CD25- expanded
+SRX212647	Treated with MCSF
+SRX212648	Treated with MCSF and IFN-gamma
+SRX212649	Treated with MCSF and LPS 
+SRX212650	Treated with MCSF, IFN-gamma and LPS
+SRX212651	Treated with MCSF and IFN-gamma
+SRX212661	Treated with MCSF
+SRX212662	Treated with MCSF and IFN-gamma
+SRX212663	Treated with MCSF and LPS
+SRX212664	Treated with MCSF, IFN-gamma and LPS
+SRX2166885	Fetal Week
+SRX2166886	Fetal Week
+SRX2166887	Fetal Week
+SRX21668885	Retinoblastoma
+SRX2166894	Disease state: retinoblastoma
+SRX2166895	Treatment was a xenograft (not unmodified)
+SRX21849426	Treated with ACLR
+SRX22037065	Immortalized cell line E14TG2a.IV mouse ES cells
+SRX22037066	Immortalized cell line E14TG2a.IV mouse ES cells
+SRX22037065	Immortalized cell line E14TG2a.IV mouse ES cells
+SRX2253219	Diagnosis is CLL
+SRX2253220	Diagnosis is CLL
+SRX2253222	Diagnosis is CLL
+SRX2253223	Diagnosis is CLL
+SRX2253225	Diagnosis is CLL
+SRX2253226	Diagnosis is CLL
+SRX2253228	CLL diagnosis
+SRX22532981	Potential non-native indicator 'knockout'
+SRX2254716	viral transduction
+SRX2254717	viral transduction
+SRX2254718	viral transduction
+SRX2254719	viral transduction
+SRX2268290	Adipocyte differentiation
+SRX2268291	Osteoblast differentiation
+SRX2268292	Fetal cells
+SRX2281258	Fetal
+SRX2281260	Fetal bone marrow
+SRX23045263	treated with TGFb
+SRX23045264	treated with TGFb
+SRX23045265	treated with TGFb
+SRX23045266	Treated with TGFb and Adropin34-76
+SRX23045267	Treated with TGFb and Adropin34-76
+SRX23045268	Treated with TGFb and Adropin34-76
+SRX23335286	Immortalized cell line
+SRX23335287	Immortalized cell line
+SRX2343922	passage >0
+SRX2343923	passage >0
+SRX2343924	passage >0
+SRX2343925	passage >0
+SRX2343934	passage >0
+SRX2343935	passage >0
+SRX2343937	Has passages
+SRX23548770	miR-1204 overexpression
+SRX2367969	LPS treatment
+SRX237289	Activated with antibodies
+SRX237290	Activated with antibodies
+SRX2388757	Immortalized cell line/Myofibroblasts
+SRX24330007	Spleen-injury
+SRX24330009	Portal hypertension combined with hypersplensim (PHcH)
+SRX24545853	IL-10 treatment
+SRX24545857	IL-10 treatment and transfection with Heat4-encoding plasmid
+SRX24545864	Treatment with plasmid and IL-10
+SRX24545863	Not in data but needed for correct formatting.
+SRX2464017	Treated through CD3/CD28 signaling
+SRX2464018	Treated through CD3/CD28 signaling
+SRX25037647	Differentiation from pluripotent stem cells
+SRX25331425	Cell line ICR_CXJ_046
+SRX25501804	AR silencing treatment
+SRX25501807	AR silencing treatment
+SRX25501808	HDF-1 cell line
+SRX25501811	AR silencing treatment
+SRX25501812	AR silencing treatment
+SRX25501815	HDF-2 cell line
+SRX25501818	Immortalized cell line (HDF-2)
+SRX25501819	Treated with AR silencing
+SRX256993	Immortalized cell line: Lymphoblastoid
+SRX256994	Immortalized cell line: Lymphoblastoid
+SRX256995	Immortalized cell line: Lymphoblastoid
+SRX256996	Immortalized cell line: Lymphoblastoid
+SRX256997	Immortalized cell line: Lymphoblastoid
+SRX256998	Immortalized cell line: Lymphoblastoid
+SRX256999	Immortalized cell line
+SRX257000	EtOH Treatment
+SRX2630137	Non-obstructive CAD
+SRX2630138	Non-obstructive CAD
+SRX2635806	CAD mention
+SRX2635807	CAD mention
+SRX2635902	CAD
+SRX2635903	CAD
+SRX2635951	 CAD
+SRX2635952	CAD
+SRX2635955	Healthy with CAD
+SRX2635956	Healthy with CAD
+SRX2636084	Has Coronory artery disease
+SRX2636092	In vitro differentiated cells
+SRX2636093	In vitro differentiated cells
+SRX2636234	Coronary artery disease
+SRX2636235	Coronary artery disease
+SRX2636352	Coronary artery disease
+SRX2636353	Coronary artery disease
+SRX2636404	In vitro differentiated cells
+SRX2636405	In vitro differentiated cells
+SRX2642968	Not a non-native indicator
+SRX2671799	<endothelial cell passage>
+SRX2731772	Non-native cell line: SHEP-21N
+SRX2731775	Non-native cell line: SHEP-21N
+SRX2731778	Non-native cell line SHEP-21N, Doxycycline Treatment 
+SRX2731783	Non-native cell line: tetracycline MYCN
+SRX2731786	Non-native cell line:tetracycline MYCN
+SRX2731789	Non-Native Cell line :SHEP with tetracycline inducible MYCN
+SRX2765967	Fetal cells
+SRX2765968	Fetal cells
+SRX2770844	IF Ngamma treated
+SRX2770845	IFN-gamma
+SRX2770850	MAF IFN-treatment
+SRX2770854	Treated with IFN-gamma
+SRX2770855	Treated with IFN-gamma
+SRX2770856	None given, but further confirmation of no treatment required as the sample is treated as native based on untreated conditions.
+SRX2770860	sample with fetal origin might not be confirmed unless the other data states that it is indeed a native sample.
+SRX2778384	Immortalized lymphoblastoid cell line
+SRX2778385	YY1-mutated
+SRX2778388	Lymphoblastoid cell line
+SRX2778389	Lymphoblastoid cell line
+SRX2778390	Lymphoblastoid cell line
+SRX2778394	Immortalized lymphoblastoid cell line (LC)
+SRX2778395	Immortalized lymphoblastoid cell line (LC)
+SRX2778396	YY1-mutated
+SRX2778397	YY1-mutated
+SRX2778398	YY1 hemizygous deletion
+SRX2778399	YY1-mutated
+SRX278504	treated with nutlin-3
+SRX278506	treated with doxo
+SRX278510	 treated with IR
+SRX2791697	Gene mutation
+SRX2791698	Gene mutation
+SRX2791699	Gene mutation
+SRX2791700	Gene mutation
+SRX2821738	Stimulated treatment, non-native
+SRX2821739	Stimulated treatment, non-native
+SRX286018	Treated with IFNg
+SRX2867628	Non-native cell line + treated with chemicals
+SRX2867629	Non-native cell line + treated with chemicals
+SRX2867630	Non-Native cell line and treated with DMSO
+SRX2966968	fetal
+SRX2966969	fetal
+SRX2966972	fetal
+SRX2966973	fetal
+SRX2990553	Chondrosarcoma
+SRX2990554	Chondrosarcoma
+SRX3010015	Embryonic stage
+SRX3010016	Embryonic stage
+SRX3010017	Embryonic stage
+SRX3010190	In vitro differentiated cells
+SRX3010191	in vitro differentiated neurons
+SRX3010194	in vitro differentiated cells
+SRX3010195	in vitro differentiated cells
+SRX3010297	Embryonic stage
+SRX3056625	Fetal
+SRX3056626	Fetal
+SRX3083285	treament
+SRX3100755	Immortalized cell line (HK) mentioned
+SRX3195440	cancer
+SRX323565	C57BL/6 strain
+SRX3240987	hMSC-TERT4 cell line
+SRX3240988	hMSC-TERT Cell line 
+SRS3240990	hMSC-TERT Cell line
+SRX3240993	Immortalized cell line hMSC-TERT4
+SRX3240994	Immortalized cell line hMSC-TERT4
+SRX3240995	Immortalized cell line hMSC-TERT4
+SRX3240996	Immortalized cell line hMSC-TERT4
+SRX3240997	Immortalized cell line hMSC-TERT4
+SRX3240998	Immortalized cell line hMSC-TERT4
+SRX3321881	Unknown non-native indicator
+SRX3322106	Digestive tract
+SRX3322233	Health state indicates coronary artery disease
+SRX3322234	Health state indicates coronary artery disease
+SRX3322334	Non-native sample from healthy tissue, upper lobe of left lung
+SRX3322453	Not clear but age is significant
+SRX3322476	Adult sample
+SRX3322609	Colon, Transverse
+SRX3322641	None specified but adult stage
+SRX3322772	sample has non-native tissue specific 'Leg skin'
+SRX3322808	Prostate gland (possibly cancer or other pathology)
+SRX3322855	Cancer
+SRX3322907	Tissue type is tumor and adult cells, the donor Id has disease.
+SRX3322975	Donor age over 40
+SRX3322998	adult tissue
+SRX3323014	NA
+SRX3323031	CAD
+SRX3323032	CAD
+SRX3323072	No non-native indicators detected
+SRX3345973	fetal
+SRX3367137	Passaged cell line
+SRX3367138	Passaged cell line
+SRX338979	Knockout
+SRX3408800	Blood-derived cell
+SRX3445722	Immortalized cell line: EBV-transformed
+SRX3445723	Immortalized cell line: EBV-transformed
+SRX3460916	Pre-B cell line
+SRX3460917	Pre-B cell line
+SRX3460918	Pre-B cell line
+SRX3460919	Pre-B cell line
+SRX3460920	Immortalized cell line
+SRX3460921	Immortalized cell line
+SRX3468047	Immortalized cell line
+SRX3468052	shRNA targeting SS18
+SRX3468053	shRNA targeting SUZ12-SSX1 or SUU
+SRX346921	Infection with lentivirus
+SRX346922	BRAFV600E overexpression
+SRX3511907	Treated with TGFb1
+SRX3511908	Treated with TGFb1
+SRX352046	Treated with menadione
+SRX3545872	Cancer sample
+SRX3545876	Cancer sample
+SRX3545880	Cancer sample
+SRX356482	Immortalized cell line used
+SRX356483	Immortalized cell line used
+SRX356484	Immortalized cell line used
+SRX356499	Immortalized cell line used
+SRX356500	Immortalized cell line used
+SRX356546	Immortalized cell line
+SRX356547	Immortalized cell line
+SRX356559	Immortalized cell line
+SRX356560	Immortalized cell line
+SRX356712	Immortalized cell line
+SRX356713	Immortalized cell line
+SRX356714	Lymphoblastoid cell line name indicated
+SRX356728	Lymphoblastoid cell line name indicated
+SRX356729	Lymphoblastoid cell line name indicated
+SRX356730	Lymphoblastoid cell line name indicated
+SRX356731	Lymphoblastoid cell line name indicated
+SRX356732	Lymphoblastoid cell line name indicated
+SRX356746	Immortalized cell line
+SRX356747	Immortalized cell line
+SRX356748	Immortalized cell line
+SRX356749	Immortalized cell line
+SRX356750	Immortalized cell line
+SRX356764	Immortalized cell line
+SRX356765	Immortalized cell line
+SRX356766	Immortalized cell line
+SRX356767	Immortalized cell line
+SRX356768	Immortalized cell line
+SRX356782	Immortalized cell line
+SRX356783	Immortalized cell line
+SRX3585704	Fetal cells
+SRX3586365	BCP-ALL patient
+SRX3586366	BCP-ALL patient
+SRX3586367	BCP-ALL patient
+SRX3642946	Expressing HA-PRMT1
+SRX3642947	Expressing HA-PRMT1
+SRX3642948	Expressing HA-PRMT1
+SRX3642949	Expressing HA-PRMT1
+SRX3666488	Stimulated with PHA
+SRX3666490	Stimulated with PHA
+SRX3666492	Stimulated with PHA
+SRX3666494	Stimulated with PHA
+SRX3666496	Stimulated with PHA
+SRX3666498	Stimulated with PHA
+SRX3666500	Pha-activated, treated with PHA
+SRX3666502	PHA-stimulated (treated with PHA)
+SRX3679898	Null genotype
+SRX3679900	Null genotype
+SRX3679902	Null genotype
+SRX3703140	Immortalized Cell Line
+SRX3703142	Immortalized Cell Line
+SRX3734301	treated with Nutin3A
+SRX3734319	Treated with Nutlin3A
+SRX3734320	Treatment unspecified but non DMSO
+SRX3768715	No reason found
+SRX3768714	No reason found
+SRX3768736	Overexpression
+SRX381543	Not specified as native
+SRX381545	Not specified as native
+SRX382353	Immortalized cell line (HMEL-BRAFV600E)
+SRX382354	Braaf mutated
+SRX384777	Treated with PBS
+SRX3847781	TGF beta treatment
+SRX391683	HCMV infected
+SRX3934091	In vitro differentiated macrophages
+SRX3934093	In vitro differentiated
+SRX3934095	shRNA infection
+SRX3934096	ShRNA infection
+SRX3942992	Treated with anti-CD3 + anti-CD28
+SRX3946904	Immortalized cell line
+SRX3946905	Immortalized cell line
+SRX3946906	Immortalized cell line
+SRX3946907	Immortalized cell line
+SRX3946908	Immortalized cell line
+SRX3946909	Immortalized cell line
+SRX3946910	Differentiated cell line
+SRX3946911	Differentiated cell line
+SRX3946912	Immortalized cell line (BM-hMSC-TERT4)
+SRX3946913	Immortalized cell line (BM-hMSC-TERT4)
+SRX3946914	Differentiated cell line
+SRX3946915	Differentiated cell line
+SRX3946916	Tert immunized cell
+SRX3946917	Tert immunized cell
+SRX3946922	Immortalized cell line BM-hMSC-TERT4
+SRX3946923	Immortalized cell line BM-hMSC-TERT4
+SRX396251	Growing condition
+SRX396252	RIS condition
+SRX396253	RIS condition
+SRX396254	pAPO condition
+SRX396255	DDR condition
+SRX396256	DDR condition
+    }
+  ]
+}
+```
+```json
+{
+  
+SRX396257	DDR condition
+SRX396258	DDR condition
+SRX396260	pAPO treatment
+SRX3990567	Inn vitro differentiated
+SRX4001756	Treated with H5N1 IAV
+SRX4001757	Treated with H5N1 IAV
+SRX4001758	Treated with H5N1-dNS1 IAV
+SRX4001759	Treated with H5N1-dNS1 IAV
+SRX4001760	IFNb treated
+SRX4001761	IFNb treated
+SRX4001762	mock infected
+SRX4001764	H5N1-dNS1 IAV
+SRX4001819	H5N1 IAV infected
+SRX4001820	H5N1-dNS1 IAV infected
+SRX4001821	IFNβ treated
+SRX4001818	mock-infected
+SRX4046314	Immortalized cell line
+SRX4046315	Immortalized cell line
+SRX4116559	Primary tonsillar B cells
+SRX4174623	Derived from iPSC
+SRX4174629	Induced from hIPS
+SRX4174970	Immortalized cell line
+SRX4174378	No data available
+SRX4212570	Cancer: Chronic lymphocytic leukemia
+SRX4212572	Cancer: Chronic lymphocytic leukemia
+SRX4212574	Cancer: Chronic lymphocytic leukemia
+SRX4212576	Cancer: Chronic lymphocytic leukemia
+SRX4212578	Cancer: Chronic lymphocytic leukemia
+SRX4212580	Cancer: Chronic lymphocytic leukemia
+SRX4212587	Chronic lymphocytic leukemia
+SRX4212589	Chronic lymphocytic leukemia
+SRX4212591	Chronic lymphocytic leukemia
+SRX4212593	Chronic lymphocytic leukemia
+SRX4212595	Chronic lymphocytic leukemia
+SRX4212597	Cancer/CLL
+SRX4284003	Cell line GM09236 used
+SRX4284004	Cell line GM09236 used
+SRX4284007	Cell line GM09237 used
+SRX4284008	Cell line GM09237 used
+SRX4284011	Cell line GM04025 used
+SRX4284012	Cell line GM04025 used
+SRX4288471	Immortalized cell line
+SRX4288472	Immortalized cell line
+SRX4288473	Immortalized cell line
+SRX4288474	Immortalized cell line
+SRX4288475	Immortalized cell line
+SRX4288476	Immortalized cell line
+SRX4345356	Treated with antibodies
+SRX4345357	Treated with antibodies
+SRX4345358	Treated with antibody
+SRX4345359	Treated with antibody
+SRX4345360	Treated with antibodies
+SRX4345361	Treated with antibodies
+SRX4367421	Infected with vector
+SRX4367422	Infected with vector
+SRX4367431	Infected with vector and mutant deletion
+SRX4367432	Infected with vector and mutant deletion
+SRX4367441	Multi-alanine substitutions infected with E1A expressing mutant
+SRX4370436	Fetal development stage
+SRX4389612	Knockout genotype
+SRX4389613	Knockout genotype
+SRX447428	Transduced HSPC
+SRX447429	Transduced HSPC
+SRX4521397	viral infection
+SRX4521398	viral infection
+SRX4582747	Tumor tissue
+SRX4582749	Tumor tissue
+SRX4637894	Mechanical loading
+SRX4637896	treated
+SRX4649681	Treated with Nutlin3A
+SRX4671059	immortalized cell line
+SRX4671060	immortalized cell line
+SRX467199	Non-native cell line (D8-erythroid cells)
+SRX467200	Non-native cell line (D11-erythroid cells)
+SRX467201	Non-native cell line(D14-erythroid cells)
+SRX469458	Knockout
+SRX469460	Knockout
+SRX4711144	Adipogenic induction
+SRX4711145	Adipogenic induction
+SRX4712347	Derived from acute monocytic leukemia
+SRX4712348	Derived from acute monocytic leukemia
+SRX472275	Lymphoblastoid cell line
+SRX472276	Lymphoblastoid cell line
+SRX4732741	Pre-B cell line
+SRX476913	Control, not a native sample
+SRX476914	control shRNA
+SRX476915	SNAI2 knockdown
+SRX476916	SNAI2 knockdown (SNAI2 shRNA)
+SRX476919	overexpressing LACZ
+SRX476920	overexpressing LACZ
+SRX476921	overexpressing SNAI2
+SRX476922	overexpressing SNAI2
+SRX476923	overexpressing LACZ
+SRX476924	overexpressing LACZ
+SRX476925	overexpressing SNAI2
+SRX476926	overexpressing SNAI2
+SRX4797405	DCM group
+SRX4797407	DCM group
+SRX4797409	DCM group
+SRX4797411	DCM group
+SRX4797413	DCM group
+SRX481466	Prostate cancer
+SRX481483	Treated
+SRX481484	treated with OHT
+SRX481485	treated with solvent
+SRX481486	Treated  with OHT
+SRX4957969	Patient cells, infection
+SRX4957971	Patient cells, infection
+SRX5020211	K755R genotyping
+SRX5020214	R1159Q genotyping
+SRX503332	infected with rKSHV.219
+SRX503334	infected with rKSHV.219
+SRX503336	Immortalized cell line BEC-219
+SRX503335	Contains keyword 'KSHV' infection
+SRX5054308	Mutated genotype (K755R/+)
+SRX5054309	Mutated genotype(R1154Q)
+SRX5075169	K755R/+ mutation
+SRX5075170	R1159Q/+ mutation
+SRX5075175	K755R/+ mutation
+SRX5075176	R1159Q/+ mutation
+SRX5075181	Non-native genotype (K755R/+)
+SRX5075182	Non-native genotype (R1159Q/+)
+SRX5088243	Treated with beta-estradiol and cAMP
+SRX5090166	Fetal
+SRX5095870	Immortalized cell line
+SRX5095871	Treated with LPS
+SRX5099498	Treated with alpha-IgM
+SRX5099499	Treated with alpha-IgM
+SRX5126616	Cell line R204W
+SRX5126619	Cell line R304W (immortalized)
+SRX5138659	Transduced with rtTA and tet-HA-ETV2
+SRX5138661	Treated with doxycycline and DMSO
+SRX514838	Treated with Adrimycin
+SRX514839	Treated with Cisplatin
+SRX514841	Treated with Adrimycin
+SRX514842	Treated with Cisplatin
+SRX514844	Treated with Adrimycin
+SRX514845	Treated with Cisplatin
+SRX514847	Treated with Adrimycin
+SRX514848	Treated with Cisplatin
+SRX5167211	Cancer
+SRX5167212	Disease state
+SRX5169134	No reason found
+SRX5169135	No reason found
+SRX5182324	Immortalized cell line (EBV-transformed lymphoblasts)
+SRX5195672	'KO' genotype; knockout
+SRX5195673	'KO' genotype; knockout
+SRX5195674	'KO' genotype; knockout
+SRX5195710	Knockout sample (KO)
+SRX5195711	Knockout sample (KO)
+SRX5195712	Knockout sample (KO)
+SRX5195716	Knockout genotype
+SRX5195717	Knockout genotype
+SRX5195718	Knockout genotype
+SRX5195730	knockout
+SRX5195731	knockout
+SRX5195732	knockout
+SRX5360084	preneoplasic
+SRX5360090	preneoplasic
+SRX5371248	Genetically modified lymphoblastoid line
+SRX5391035	Knockdown
+SRX5457221	CAD
+SRX5457222	CAD
+SRX5457321	CAD
+SRX5457389	Coronary artery disease
+SRX5457470	In vitro differentiated cells
+SRX5532364	Fetal sample
+SRX5532367	Fetal sample
+SRX5574342	Immortalized cell line ncMO_PU.1
+SRX5574344	Immortalized cell line cMO_PU.1
+SRX5574357	Immortalized cell line (PU.1)
+SRX5574359	Immortalized cell line (PU.1)
+SRX5574361	Immortalized cell line (PU.1)
+SRX5574362	Immortalized cell line (PU.1)
+SRX5574363	Immortalized cell line (PU.1)
+SRX5574364	Immortalized cell line (PU.1)
+SRX5574372	Treated with LPS
+SRX5600877	Alzheimer's disease
+SRX5600878	Alzheimer's disease
+SRX5600879	Alzheimer's disease
+SRX5600880	Alzheimer's disease
+SRX5600889	Diseased (AD)
+SRX5600890	Diseased (AD)
+SRX5600891	Diseased (AD)
+SRX5600895	disease state=AD
+SRX5600900	Disease state AD
+SRX5600901	Disease state AD
+SRX5600902	Disease state AD
+SRX5600903	Disease state AD
+SRX5624369	Treated with TNF
+SRX5624370	Treated with TNF
+SRX5716452	K755R/+ genotype
+SRX5716453	R1159Q/+ genotype
+SRX5716463	treated with sirna for 72 hours
+SRX5716464	treated with SOX2 and SOX3 siRNA for 72 hours
+SRX5716468	FOSL1, FOSL2 and JUNB siRNA treatment
+SRX5716469	heterozygous genotype K755R/+ and treated with sirna
+SRX5774919	A2B5+ iOPCs(M)
+SRX5774920	A2B5+ iOPCs(M)
+SRX5801452	Stimulated
+SRX5801453	Stimulated
+SRX5801454	Stimulated with mutant IL6_Mut3
+SRX5801455	Stimulated non-native hybrid IL6_HyIl6
+SRX5813557	Preneoplastic
+SRX5813558	Transformed/Neoplastic
+SRX5927380	Immortalized cell line FT282
+SRX5927381	Immortalized cell line FT282
+SRX5927382	Immortalized cell line FT282
+SRX6068073	Not a short sample description
+SRX6384907	Treated with GSK-LSD1
+SRX6384908	Treated with GSK-LSD1
+SRX646125	Fetal tissue
+SRX646126	Fetal tissue
+SRX646127	Fetal tissue
+SRX646128	Fetal tissue
+SRX646129	Fetal tissue
+SRX646130	Fetal tissue
+SRX646131	Fetal source
+SRX646132	Fetal source, knock-down indicator
+SRX646133	Fetal source
+SRX646134	Fetal source. Knock-down indicator
+SRX6476500	Treated with TGFB1
+SRX6582172	HGPS fibroblast
+SRX6582173	HGPS fibroblast
+SRX6582174	HGPS fibroblast
+SRX658607	expanded UCB
+SRX6596842	Immortalized cell line and treated
+SRX6596843	Immortalized cell line and treated
+SRX6596844	Immortalized cell line and treated
+SRX6596845	Immortalized cell line and treated
+SRX6596846	Immortalized cell line and treated
+SRX6596847	Immortalized cell line and treated
+SRX6596848	Treated with doxycycline and clobetasol
+SRX6596849	Treated with doxycycline and clobetasol
+SRX6596850	Treated with doxycycline and clobetasol
+SRX6657886	Autoimmune indicators (Autoimmune hepatitis)
+SRX6657888	Acute rejection indication
+SRX6657892	Auto-immune condition (Autoimmune hepatitis)
+SRX668234	Immortalized cell line Skeletal myoblast
+SRX6763471	Treated with GM-CSF
+SRX6763472	Treated with GM-CSF
+SRX6763473	Treated with GM-CSF
+SRX6763474	Treated with GM-CSF
+SRX6763475	Treated with GM-CSF
+SRX6763476	Treated with GM-CSF
+SRX6780853	Fetal
+SRX6780854	Fetal
+SRX6780855	Fetal
+SRX6780856	Fetal
+SRX6813406	Cells cultured and treated
+SRX6813408	Cells cultured in low arginine, 72h
+SRX6857972	Embryonic/gestational age
+SRX6857973	Embryonic/gestational age
+SRX6902857	Cell culture
+SRX6902858	Cell culture
+SRX6902859	 Cell culture 
+SRX6902860	Target is Gata-1, but likely mutated or modified.
+SRX6902861	Cell culture
+SRX6902862	Cell culture
+SRX6913093	inhibitor treatment
+SRX6913094	Inhibitor treatment with iBET-BD1
+SRX6913095	inhibitor treatment with iBET-BD2
+SRX6913094	stimulation=anti-CD3/CD28
+SRX6913095	stimulation=anti-CD3/CD28
+SRX6913096	inhibitor treatment with DMSO
+SRX6913097	inhibitor treatment=DMSO
+SRX6913098	treated with iBET-BD2
+SRX6913098	Activated for 5h
+SRX6944146	Treated
+SRX6944147	Treated
+SRX6944153	Activated with anti-CD3 and -CD28 antibodies
+SRX6944154	activated
+SRX6969885	Mutant cell line
+SRX700520	Non native sample 'HGP' 
+SRX700521	Non native sample 'HGP'
+SRX7015671	Immortalized cell line CRL7250
+SRX7031581	Differentiation treatment
+SRX7031582	Differentiation treatment
+SRX7031583	Differentiation treatment
+SRX707368	Neural Stem Cells are immortalized cell lines
+SRX7086149	iPSC derived
+SRX7086153	mutated genotype
+SRX7141987	Treated with low glutamine
+SRX7141988	Treated with low glutamine
+SRX7141989	Treated with low glutamine
+SRX7141990	Treated with high glutamine
+SRX7141991	Treated with high glutamine
+SRX7141992	treated with high glutamine
+id of the sample	The samples are Immortalized cell line
+SRX7223095	Immortalized cell line
+SRX7277172	HGPS
+SRX7277174	HGPS
+SRX7277179	HGPS
+SRX7299332	No clear mention of a native sample
+SRX735289	In vitro differentiated
+SRX7509288	Fetal specimen
+SRX7509293	prostate
+SRX7509294	prostate
+SRX7509342	No reason to exclude this sample, as it is not mentioned any non-native indicator.
+SRX7509343r	No reason to exclude this sample, as it is not mentioned any non-native indicator.
+SRX7509400	Adult age
+SRX751297	Immortalized cell line hMADS-3
+SRX751298	Immortalized cell line hMADS-3
+SRX751299	Immortalized cell line hMADS-3
+SRX751300	Immortalized cell line hMADS-3
+SRX753312	neonatal
+SRX7587157	Total knee replacement
+SRX7587158	Total knee replacement
+SRX760967	Proliferating, undifferentiated cells
+SRX760968	Non-proliferating (confluent), undifferentiated cells on day of adipogenic stimulation.
+SRX7642859	Metastatic site
+SRX7642860	Metastatic site
+SRX7642861	Metastatic site
+SRX7642862	Metastatic site
+SRX7730449	Genetic mutation
+SRX7730450	Genetic mutation
+SRX7756148	treated
+SRX7756149	treated
+SRX7805694	Immunoprecipitated chromatin of SCR tranfected AhBMSCs
+SRX7805695	Immunoprecipitated chromatin of SCR tranfected AhBMSCs
+SRX7805696	Immunoprecipitated chromatin of SCR tranfected AhBMSCs
+SRX7805700	NFATC1 RNAi
+SRX7805701	NFATC1 RNAi
+SRX7805702	NFATC1 RNAi
+SRX7805895	Cornelia de Lange syndrome
+SRX7805897	Cornelia de Lange syndrome
+SRX7807102	Immortalized cell line
+SRX7807103	Immortalized cell line
+SRX7807128	Immortalized cell line
+SRX7807129	Immortalized cell line
+SRX7826475	Treated with Magnesium-based alloy discs for 24 hours
+SRX7902978	Differentiating macrophages
+SRX7902979	differentiating macrophages
+SRX7902980	differentiatiing macrophages
+SRX7902981	diffsciate in macrophages
+SRX7902984	Differentiated monocytes
+SRX7902985	Differentiated monocytes
+SRX7950043	Tumor derived cells
+SRX8064814	Immortalized cell line (EBV-transformed LCLs)
+SRX8064815	Immortalized cell line (EBV-transformed LCLs)
+SRX8064816	Immortalized cell line (EBV-transformed LCLs)
+SRX8064817	Immortalized cell line (EBV-transformed LCLs)
+SRX8064818	Immortalized cell line (EBV-transformed LCLs)
+SRX8064821	Immortalized cell line
+SRX8064822	Immortalized cell line
+SRX8064823	Immortalized cell line
+SRX8064824	Immortalized cell line
+SRX8083043	Homozygous male with DSB hotspot capture
+SRX8083045	Homogygous male with DSB hotspot capture
+SRX8083047	heterozygous male with DSB hotspot capture
+SRX8090642	Treated with JQ1
+SRX8090643	Treated with JQ1
+SRX8090645	Diagnosis - Rheumatoid arthritis
+SRX8090646	Diagnosis - Rheumatoid arthritis
+SRX8090649	Treated with JQ1
+SRX8090750	Treated with JQ1 and Diagnosis - Rheumatoid arthritis
+SRX8090652	Rheumatoid arthritis
+SRX8090653	Rheumatoid arthritis
+SRX8151644	Obese Class III
+SRX8151645	Obesity Class III
+SRX821809	Source name RS_028
+SRX831872	Pre-activated
+SRX831873	Pre-activated
+SRX831874	Pre-activated
+SRX831875	Pre-activated
+SRX831877	Pre-activated
+SRX831878	Pre-activated
+SRX831879	Pre-activated
+SRX831880	Pre-activated
+SRX831881	Pre-activated
+SRX8359003	EwS patient
+SRX8359006	SPC mutation + EF1
+SRX8363960	Neonatal cells
+SRX8406305	Cancerous
+SRX8406306	Cancerous
+SRX8406307	Cancerous
+SRX8406308	Cancerous
+SRX8406315	Cancerous
+SRX8406316	Cancerous
+SRX8406413	Cancer
+SRX8406414	Cancer
+SRX8406415	Cancer
+SRX8406416	Cancer
+SRX8406417	Cancer
+SRX8406419	Cancer related - Patient localised prostate
+SRX8406447	Cancer sample
+SRX8406448	Cancer sample
+SRX8406449	Cancer sample
+SRX8406450	Cancer sample
+SRX8406482	Cancer sample
+SRX8406483	Cancer sample
+SRX8406484	Cancer
+SRX8406485	Cancer
+SRX8406486	Cancer
+SRX8406487	Cancer
+SRX8406489	Cancer
+SRX8406488	Cancer
+SRX8406503	Cancerous sample
+SRX8406504	Cancerous sample
+SRX8406505	Cancerous sample
+SRX8406506	Cancerous sample
+SRX8406507	Cancerous sample
+SRX8406508	Cancerous sample
+SRX8406509	prostatic tissue
+SRX8406528	cancer
+SRX8406542	Cancer-related
+SRX8406543	Cancer-related
+SRX8406544	Cancer-related
+SRX8406545	Cancer-related
+SRX8406546	Cancer-related
+SRX8406547	Cancer-related
+SRX8418557	Cancer - ALL
+SRX8418558	Cancer - ALL
+SRX8453140	Cancer
+SRX845314	Cancer sample
+SRX8453142	Prostate cancer
+SRX8453143	cancer
+SRX8453144	metastatic castration resistant prostatecancer
+SRX8453145	metastatic castration resistant prostate cancer
+SRX8453146	metastatic castration resistant prostate cancer
+SRX8453147	Cancer-related
+SRX8453148	Prostate cancer
+SRX8453149	Metastatic castration resistant prostrate cancer
+SRX8453150	cancer
+SRX8536088	<N822K cKIT mutant>
+SRX8536090	<N822K cKIT mutant>
+SRX8536092	<N822K cKIT mutant>
+SRX8536094	N822K cKIT mutant
+SRX8537744	Breast cells treated with estrogen
+SRX8588623	Transduced
+SRX8588624	Transduced
+SRX8588641	Transduced with ad.GFP
+SRX8588642	Transduced with ad.GFP
+SRX8607604	Treated with calcium
+SRX8607605	Treated with calcium
+SRX864094	Treated with 4-hydroxytamoxifen
+SRX864095	Transduced and treated with 4-OHT
+SRX8713992	Mutation H3.3K27M
+SRX8713993	Mutation H3.3K27
+SRX8713994	Mutation H3.3K27M
+SRX873805	Epidermal, but derived from foreskins.
+SRX873813	Differentiated cell line
+SRX873814	Differentiated cell line
+SRX8814875	Cancer
+SRX8814876	Cancer
+SRX8841617	Acheiropodia patient
+SRX8841619	Acheiropodia patient
+SRX8841625	Acheiropodia patient
+SRX8841627	Acheiropodia patient
+SRX885895	Treatment with oxLDL
+SRX885896	Treatment with oxLDL
+SRX885897	Treated with oxLDL
+SRX885898	Treated with oxLDL
+SRX9029195	Treated with R848
+SRX9029197	Treated with R848
+SRX9029199	Treated with R848
+SRX9029201	Treated with R848
+SRX9029207	Treated with R848
+SRX9029209	Treated with R848
+SRX9029213	Treated with R848
+SRX9045665	Treated with drug
+SRX9206317	'16HBE' is an immortalized cell line
+SRX9206318	'16HBE' is an immortalized cell line
+SRX9221932	Treated with 17 β-estradiol
+SRX9221933	DMSO treatment control.
+SRX9345714	iPSC differentiation
+SRX9345715	iPSC differentiation
+SRX9345716	iPSC differentiation
+SRX9531405	Treated with viral strain
+SRX9531406	Treated with viral strain
+SRX9531407	Treated with viral strain
+SRX9531417	viral infected
+SRX9531418	viral infection=ZIKV-bystander
+SRX9531419	viral infection=ZIKV-infected
+SRX9560789	Gene edited
+SRX9560790	Gene edited
+SRX9648513	Null genotype H3.3K27M
+SRX9648514	H3.3K27 genotype
+SRX9674621	 Immortalised cell line used
+SRX9674623	 Treated with doxycycline
+SRX9674625	Treated with dozycyline
+SRX9683838	Immortalized cell line
+SRX9683839	Immortalized cell line
+SRX9683840	Immortalized cell line
+SRX9683841	Immortalized cell line
+SRX9683842	hASC-derived
+SRX9683843	hASC-derived
+SRX9683844	Immortalized cell line name detected
+SRX9683845	Immortalized cell line name detected
+SRX9683846	Immortalized cell line name detected
+SRX9683847	Immortalized cell line name detected
+SRX9683848	Immortalized cell line name detected
+SRX9683849	Immortalized cell line name detected
+SRX9683850	Immortalized cell line
+SRX9683851	Immortalized cell line
+SRX9683852	Immortalized cell line
+SRX9683853	Immortlized cell line
+SRX971583	p63 knockdown
+SRX971585	knockout Brg1/Brm
+SRX971589	knockdowm Brg1/Brm
+SRX976241	Specimen is B cells from tonsil
+SRX976244	Specimen is B cells from tonsil
+SRX9795022	Contains 'Ctrl' in genotype
+SRX9799512	Treated with DEX
+SRX9799513	Treated with DEX
+SRX9850737	Cell line Calu-3
+SRX9850738	Cell line Calu-3
+SRX9969717	Immortalized cell line
+SRX9969718	Immortalized cell line

@@ -23,8 +23,8 @@ def get_priority_uniprot_ids(mapping_table):
     )
     return prioritized_uniprot
 
-uniprot_mapping_table = pd.read_csv('mapped_ids.tsv', sep="\t", names=["From", "Entry", "GeneID", "Reviewed"])
-input_folder = 'tf_target_lists'
+uniprot_mapping_table = pd.read_csv('../data/processed/id_mapping/mapped_ids.tsv', sep="\t", names=["From", "Entry", "GeneID", "Reviewed"])
+input_folder = '../data/processed/tf_target_lists'
 prioritized_mapping = get_priority_uniprot_ids(uniprot_mapping_table)
 
 # tf_target_lists mappában lévő fájlokon iterálás, mapping table-ök szövetenkénti létrehozása
@@ -68,5 +68,5 @@ for file_name in os.listdir(input_folder):
     # nem fehérjekódoló target géneket (amelyek nem rendelkeznek uniprot ID-kkel) tartalmazó sorok kihagyása
     output = output.dropna(subset=["UniprotID.Target"])
 
-    output_file = 'output_interaction_tables/'f'interaction_table_{tissue_name}.tsv'
+    output_file = '../results/interactions/'f'interaction_table_{tissue_name}.tsv'
     output.to_csv(output_file, sep="\t", index=False)

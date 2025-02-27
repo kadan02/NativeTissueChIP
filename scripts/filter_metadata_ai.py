@@ -162,7 +162,7 @@ def process_responses(input_tsv, output_log):
 if __name__ == '__main__':
     timestamp = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
 
-    input_tsv_path = "../data/processed/human_cleaned_keywords.tsv"  # az összes metaadatot tartalmazó fájl
+    input_tsv_path = "../data/processed/metadata/human_cleaned_keywords.tsv"  # az összes metaadatot tartalmazó fájl
     api_response_path = f"data/logs/ai_responses/{timestamp}_mistral-small24b.json"      # API válaszok
     native_table_path = f"results/{timestamp}_native_ids.tsv"              # Csak natív ID-s metaadatok
     non_native_table_path = f"results/{timestamp}_non_native_ids.tsv"      # Csak nem-natív ID-s metaadatok

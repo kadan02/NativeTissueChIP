@@ -1,0 +1,44 @@
+tumor 
+tumors 
+tumours
+tumour
+cancer
+Neoplasm
+Neoplasms
+Sarcoma
+Liposarcoma
+Fibrosarcoma
+leukemia
+adenocarcinoma
+glioma
+Glioblastoma
+Glioblstoma
+lymphoma
+melanoma
+Rhabdomyosarcoma
+Osteosarcoma
+Polycystic
+leiomyoma
+myeloma
+organoid
+organoids
+Unclassified
+carcinoma
+Neurofibromatosis
+Aneurysm
+Fetal
+Fetus
+Embryo
+Neural crest
+hESC
+hESCs
+iPSC
+iPS
+xenograft
+iTreg
+iSLK
+Trophoblast stem cells
+leukemic
+ASZ001
+NPLCs
+Erythroleukemia cells

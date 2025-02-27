@@ -77,8 +77,8 @@ def process_all_beds(input_dir, output_dir, combined_file):
 
 
 if __name__ == '__main__':
-    input_bed_folder = "bed"
-    output_interactions_folder = "../interactions/tf_target_lists"
-    combined_genes_file = "../interactions/combined_gene_names.txt"
+    input_bed_folder = "../data/processed/bed"
+    output_interactions_folder = "../data/processed/tf_target_lists"
+    combined_genes_file = "../data/processed/id_mapping/combined_gene_names.txt"
     process_all_beds(input_bed_folder, output_interactions_folder, combined_genes_file)
 

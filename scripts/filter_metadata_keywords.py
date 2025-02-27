@@ -65,7 +65,7 @@ data, removed_cell_type = filter_data(data, 3, filter_out_cell_type)
 
 # Törölt adatok mentése
 removed_lines = pd.concat([removed_cell_type_class, removed_track_type, removed_cell_type],ignore_index=True)
-removed_lines.to_csv('../data/processed/human_removed_keywords.tsv', index=False, sep='\t')
+removed_lines.to_csv('../data/processed/metadata/human_removed_keywords.tsv', index=False, sep='\t')
 
 # Megtartott adatok mentése
-data.to_csv('../data/processed/human_cleaned_keywords.tsv', index=False, sep='\t')
+data.to_csv('../data/processed/metadata/human_cleaned_keywords.tsv', index=False, sep='\t')

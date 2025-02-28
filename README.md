@@ -1,7 +1,7 @@
 Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq adatok gyűjtése és elemzése a [TFLink](https://tflink.net/) adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak a normál élettani körülményekhez leginkább közeli ("natív") szövetekben.
 
 ## 1. Adatgyűjtés
-A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázata. A szűrés a BRENDA Tissue Ontology és Cellosaurus adatbázisokban található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/native_tissue_chip-seq_experiments/tree/master/cell_lines) mappában találhatóak. 
+A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázata. A szűrés a BRENDA Tissue Ontology és Cellosaurus adatbázisokban található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/NativeTissueChIP/tree/master/data/raw/cell_lines) mappában találhatóak. 
 
 ## 2. Feldolgozás
 
@@ -9,7 +9,7 @@ A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](ht
 
 A ChIP-Atlas experiment listájából a releváns sorok kiválasztása (hg38 genom, TF kategória).
 
-A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others" értékekkel rendelkező sorokra vannak szűrve ([filter_experimentList.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_experimentList.py)) Az [output](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
+A ChIP-Atlas-on elérhető ExperimentList.tab sorai a "hg38" és "TF and others" értékekkel rendelkező sorokra vannak szűrve ([filter_experiments.py](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/filter_experiments.py)) Az [output](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_TF_filtered_experiments_relevant_columns.tsv)
 
 ### 2.2 Szövet minőség szűrés
 
@@ -26,11 +26,12 @@ Lényegében a következő [oszlopokra](https://github.com/inutano/chip-atlas/wi
 - Cell type 
     - Szűrve: embrionális, beteg és kulturált sejtvonalak nevei. Lásd cell_lines mappát.
 
-A sejt/szövet-minőségi szűrés eredményei [itt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) találhatóak.
+A sejt/szövet-minőségi kulcszavas szűréses eredményei [itt](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) találhatóak.
+Az [LLM-el feldolgozott szűrés]() eredményei itt találhatóak.
 
 ### 2.3 BED fájlok
 
-A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a [ChIP-Atlas Peak Browser](https://chip-atlas.org/peak_browser)-en felületén keresztül lettek letöltve. A cél csak azoknak a kísérleteknek a kiválasztása, amelyek megfelelnek a natív szűrés kritériumainak a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv) alapján. A [filter_bed_single_run.py](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/filter_bed_single_run.py) szűri ki azokat az Experiment ID-vel rendelkező sorokat ebből a bed fájlból, amelyek a [hg38_native_experiments.tsv](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/tsv/hg38_native_experiments.tsv)-ben megtalálhatóak. Egy könyvtárrendszert hoz létre a szövet kategóriáknak (Cell type class) megfelelően, és a filtered_SZÖVETNÉV_.bed fájlokba kerül az output.
+A "Cell type class"-onkénti nagyobb (minden TF-et és Cell type-ot tartalmazó) BED fájlok a [ChIP-Atlas Peak Browser](https://chip-atlas.org/peak_browser)-en felületén keresztül lettek letöltve. A cél csak azoknak a kísérleteknek a kiválasztása, amelyek megfelelnek a natív szűrés kritériumainak a [ez alapján](https://github.com/kadan02/NativeTissueChIP/blob/master/results/metadata/2025_02_27_16_59_46_native_ids.tsv). A [filter_beds.py](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/filter_beds.py) szűri ki azokat az Experiment ID-vel rendelkező sorokat ebből a bed fájlból, amelyek az előbbi táblázatban megtalálhatóak. Egy könyvtárrendszert hoz létre a szövet kategóriáknak (Cell type class) megfelelően, és a filtered_SZÖVETNÉV_.bed fájlokba kerül az output.
 
 ### 2.4 Peak - promoter overlapping
 A csak natív-szövetekre szűrt BED fájlok és a hg38 genom promóterjeit tartalmazó hg38promoters.bed fájl a BEDTools csomag segítségével van feldolgozva.
@@ -38,16 +39,16 @@ A tüdő példájával:
 ```
 bedtools intersect -a hg38promoters.bed -b Lng/filtered_Lng.bed -wa -wb > Lng/intersected_Lng.bed
 ```
-Az [intersect_beds.sh](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/intersect_beds.sh) minden bed/ alatt található almappába elhelyezett filtered_${tissue_name}.bed ([ezzel a scripttel](https://github.com/kadan02/NativeTissueChIP/blob/master/filter_bed_single_run.py) létrehozott) fájlt feldolgoz ilyen módon automatikusan.
+Az [intersect_beds.sh](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/intersect_beds.sh) minden bed/ alatt található almappába elhelyezett filtered_${tissue_name}.bed ([ezzel a scripttel](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/filter_beds.py) létrehozott) fájlt feldolgoz ilyen módon automatikusan.
 
 A feldolgozott BED fájlok a [releases](https://github.com/kadan02/native_tissue_chip-seq_experiments/releases) linkről tölthetőek le.
 
 ### 2.5 Kötőhely szekvenciák
 
-[all_tissue_bedtools_to_fasta.sh](https://github.com/kadan02/NativeTissueChIP/blob/master/all_tissue_bedtools_to_fasta.sh) - Szintén minden bed/ alatt található almappába elhelyezett intersected_${tissue_name}.bed fájl koordinátáiból előállítja a transzkripciós faktor kötőhely szekvenciáit a fasta mappába.
+[all_tissue_bedtools_to_fasta.sh](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/all_tissue_bedtools_to_fasta.sh) - Szintén minden bed/ alatt található almappába elhelyezett intersected_${tissue_name}.bed fájl koordinátáiból előállítja a transzkripciós faktor kötőhely szekvenciáit a fasta mappába.
 
 ### 2.6 ID Mapping
- Az [extract_gene_names.py](https://github.com/kadan02/NativeTissueChIP/blob/master/extract_gene_names.py) az intersected_TISSUE_NAME.bed fájlokból előállít szövetenként egy .txt fájlt, amelyek csak a Transzkripciós faktor - Target gén interakciók génneveit tartalmazzák. Készít egy [másik txt fájlt](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/combined_gene_names.txt) is, amely minden egyedi génnevet tartalmaz az összes bed fájlból. 
+ Az [extract_gene_names.py](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/extract_gene_names.py) az intersected_TISSUE_NAME.bed fájlokból előállít szövetenként egy .txt fájlt, amelyek csak a Transzkripciós faktor - Target gén interakciók génneveit tartalmazzák. Készít egy [másik txt fájlt](combined_gene_names.txt) is, amely minden egyedi génnevet tartalmaz az összes bed fájlból. 
 
 Az ID mappelés a [Uniprot 'ID Mapping' tool-jával]((https://www.uniprot.org/id-mapping)) történt. A bemeneti adatok a [combined_gene_names.txt](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/combined_gene_names.txt) sorai, az alábbi beállításokkal:
 
@@ -61,7 +62,7 @@ Letöltés beállítások:
    - Columns: GeneID, Reviewed
 
 ### 2.7 Interakciós table előállítása
-[create_interaction_table.py](https://github.com/kadan02/NativeTissueChIP/blob/master/interactions/create_interaction_table.py) - Minden egyedi transzkripciós faktor - target gén interakció megfelelő adatait az [interactions/output_interaction_tables](https://github.com/kadan02/NativeTissueChIP/tree/master/interactions/output_interaction_tables) tsv fájljaiba írja szövetenként.
+[create_interaction_table.py](https://github.com/kadan02/NativeTissueChIP/blob/master/scripts/create_interaction_table.py) - Minden egyedi transzkripciós faktor - target gén interakció megfelelő adatait tsv fájlokba írja szövetenként. [Eredmény itt.](https://github.com/kadan02/NativeTissueChIP/tree/master/results/interactions)
 
 ## 3. Statisztikák
 Az átszűrt humán adatok:
@@ -73,11 +74,6 @@ A szűrésen nem humán átjutott adatok:
 - Összes SRA Experiment: 30076
 - Egyedi TF-ek: 1819
 - Különböző sejtcsoport kategóriák: 1034
-
-
-![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_tf.png)
-![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_cell_type_class.png)
-![](https://github.com/kadan02/native_tissue_chip-seq_experiments/blob/master/figures/figure_cell_type.png)
 
 ## 4. Credits
 This project was made possible using data from [ChIP-Atlas](https://chip-atlas.org).

@@ -1,4 +1,13 @@
-Ez a repository célja olyan szövet-/szervspecifikus ChIP-Seq adatok gyűjtése és elemzése a [TFLink](https://tflink.net/) adatbázis bővítéseként, amelyek transzkripciós faktorokat és target géneket vizsgálnak a normál élettani körülményekhez leginkább közeli ("natív") szövetekben.
+# TFLink 2.0 szövetspecifikus ChIP-seq Pipeline
+
+Ez a repository szövet-/szervspecifikus ChIP-Seq adatok elemzésére használatos scriptek gyűjteményéül szolgál. A projekt [TFLink](https://tflink.net/) adatbázis bővítésének része.
+
+A scriptek a következő feladatokra használatosak:
+- metaadatokat tartalmazó táblázatok formázása és szűrése kulccszavak/kifejezések alapján
+- kísérleti minták körülményeire utaló információk szűrése Large Language Model-en keresztül
+- Bed fájlok felhasználásával:
+ - kötőhely szekvenciák előállítása
+ - Transzkripciós faktor - Target gén interakciókat tartalmazó táblázatok formázása Uniprot és NCBI Gene ID használatával
 
 ## 1. Adatgyűjtés
 A ChIP-Seq kísérletek kiindulópontja a [ChIP-Atlas-on elérhető metaadat](https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files) táblázata. A szűrés a BRENDA Tissue Ontology és Cellosaurus adatbázisokban található sejtvonalak segítségével, valamint kulcsszavak manuális megadásával történt. A szűrt sejtvonalak nevei és egyéb kulcsszavak a [cell_lines](https://github.com/kadan02/NativeTissueChIP/tree/master/data/raw/cell_lines) mappában találhatóak. 

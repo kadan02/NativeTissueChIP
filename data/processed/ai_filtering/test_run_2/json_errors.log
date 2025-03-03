@@ -1,0 +1,17 @@
+Invalid JSON:
+{
+  "native_ids": [
+    {
+      "id":"SRX037935"
+    }
+Expecting ',' delimiter: line 5 column 6 (char 54)
+
+Invalid JSON:
+{
+    return {"native_ids": [""]}
+Expecting property name enclosed in double quotes: line 2 column 5 (char 6)
+
+Invalid JSON:
+{"native_ids": native_ids}
+Expecting value: line 1 column 16 (char 15)
+

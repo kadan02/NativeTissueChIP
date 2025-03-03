@@ -1,37 +1,51 @@
 import pandas as pd
 import re
 
-# TODO: a fileList.tab-ból (https://github.com/inutano/chip-atlas/wiki#tables-summarizing-metadata-and-files)
-# először kiszűrni a sejtvonalakat, és utána csak azokat felhasználni ebben a kódban
 
-# metaadatok beolvasása
-def read_data(tsv_path):
+def filter_experiment_list(input_path, genome_type, track_type='TFs and others'):
+    """
+    input_path: ExperimentList.tab útvonala (ami az összes experiment metaadatait tartalmazza a Chip-Atlas adatbázisban)
+    genome_type: Az adott faj genom assembly-jének neve (pl. hg38, mm10)
+    track type: pl. 'TFs and others', 'Input control', 'Histone', 'ATAC-seq', lásd: https://chip-atlas.org/peak_browser
+    """
     rows = []
-    with open(tsv_path, 'r', encoding='utf-8') as infile:
+    with open(input_path, 'r', encoding='utf-8') as infile:
         for line in infile:
             rows.append(line.strip().split('\t'))
-    data = pd.DataFrame(rows)
-    data = data.replace('"', '', regex=True)
-    return data
+    df = pd.DataFrame(rows)
+    df_filtered = df[(df[1] == genome_type) & (df[2] == track_type)].copy()
+    df_filtered.drop(columns=[1, 2], inplace=True)
+    return df_filtered
 
 
-# szűrendő kulcsszavak beolvasása
 def read_keywords(*file_paths):
-    keywords = []
+    """
+    Beolvassa tetszőleges számú fájlból a kulcsszavakat egy halmazba.
+    A fájlokban soronként egy kifejezésnek kell lennie.
+    """
+    keywords = set()
     for path in file_paths:
         print("loading path: " + path)
-        with open(path, 'r') as f:
+        with open(path, 'r', encoding='utf-8') as f:
             for line in f:
-                keywords.append(line.strip())
+                keywords.add(line.strip())
     return keywords
 
 
 def filter_data(data, column_index, keywords):
     """
-    DataFrame sorait szűri a kulcsszavak alapján. Azokat a sorokat törli, ahol a "column_index" oszlop értéke megyezik
-    az adott kulcsszóval. Külön visszaadja a megtartott és törölt soroknak megfelelő Dataframe-eket is.
+    DataFrame sorait szűri a kulcsszavak alapján. Azokat a sorokat törli, ahol az adott oszlop értéke megyezik
+    az adott kulcsszóval.
+
+    data (df): az adatokat tartalmazó DataFrame
+    column_index (int): adott oszlop, amire szűrűnk
+    keywords (list): Stringekből álló list, amiket szűrünk az adott oszlopban
+
+    Return: Megtartott és Törölt soroknak megfelelő Dataframe-ek
     """
-    keywords_regex = r'\b(?:' + '|'.join(map(re.escape, keywords)) + r')\b' # csak a teljes kifejezések matchelése
+
+    # Reguláris expresszió a csak a teljes szavak match-elésére
+    keywords_regex = r'\b(?:' + '|'.join(map(re.escape, keywords)) + r')\b'
     mask = data[column_index].astype(str).str.contains(keywords_regex, case=False, na=False)
     removed_rows = data[mask].copy()
     data = data[~mask]
@@ -42,30 +56,51 @@ def filter_data(data, column_index, keywords):
     return data, removed_rows
 
 
-metadata_path = '../data/raw/metadata/mouse_only_tf.tsv'
-data = read_data(metadata_path)
-cell_lines_brenda = '../data/raw/cell_lines/cell_lines_brenda.txt'
-cell_lines_mm10 = '../data/raw/cell_lines/mm10_added_cell_lines.txt'
-other_keywords = '../data/raw/cell_lines/keywords.txt'
-cellosaurus_mm10 = '../data/raw/cell_lines/cellosaurus_mouse.tsv'
+if __name__ == "__main__":
 
-# Kulcszavak
-filter_out_track_type = ['Epitope tags', 'GFP']
-filter_out_cell_type_class = ['Placenta', 'Embryo', 'Pluripotent stem cell', 'No description', 'Embryonic fibroblast']
-filter_out_cell_type = read_keywords(cell_lines_brenda, other_keywords, cellosaurus_mm10)
+    # 1. ExperimentList.tab filterelése, DataFrame létrehozása
+    experiment_list_path = '../data/raw/metadata/experimentList.tab'
+    filtered_df = filter_experiment_list(experiment_list_path, 'hg38')
 
-# Először a track type oszlop alapján szűrűnk, mert az a legeffektívebb.
-# Cell type utoljára, mert ott van a legtöbb kulcsszó. Ez hosszabb ideig is futhat
-print("filtering track type column...")
-data, removed_track_type = filter_data(data, 1, filter_out_track_type)
-print("filtering cell type class column...")
-data, removed_cell_type_class = filter_data(data, 2, filter_out_cell_type_class)
-print("filtering cell type column...")
-data, removed_cell_type = filter_data(data, 3, filter_out_cell_type)
+    # 2. Kulcsszavak betöltése. Egyelőre itt manuálisan kell megadni a fájlokat a cell lines mappából
+    keyword_files = [
+        '../data/raw/cell_lines/cellosaurus_human.tsv',
+        '../data/raw/cell_lines/hg38_added_cell_lines.txt',
+        '../data/raw/cell_lines/cell_lines_brenda.txt',
+        '../data/raw/cell_lines/keywords.txt',
+    ]
 
-# Törölt adatok mentése
-removed_lines = pd.concat([removed_cell_type_class, removed_track_type, removed_cell_type],ignore_index=True)
-removed_lines.to_csv('../data/processed/metadata/human_removed_keywords.tsv', index=False, sep='\t')
+    filter_out_track_type = {'Epitope tags', 'GFP'}
+    filter_out_cell_type_class = {'Placenta', 'Embryo', 'Pluripotent stem cell', 'No description', 'Embryonic fibroblast'}
+    filter_out_cell_type = read_keywords(*keyword_files)
 
-# Megtartott adatok mentése
-data.to_csv('../data/processed/metadata/human_cleaned_keywords.tsv', index=False, sep='\t')
+    # 3. Szűrés alkalmazása
+    # Először a track type oszlop alapján szűrűnk, mert az a legeffektívebb.
+    # Cell type utoljára, mert ott van a legtöbb kulcsszó. Ez hosszabb ideig is futhat.
+
+    # A DataFrame (releváns) oszlopai:
+    # TODO: oszlopneves dolgot átnézni (működik, ahogy most van, de kell-e egyáltalán kiírni a fájlokba?
+        # 0 - SRX ID
+        # 1 és 2 - Törölve (filter_experiment_list miatt)
+        # 3 - Track type
+        # 4 - Cell type class
+        # 5 - Cell type)
+    filters = [
+        (3, filter_out_track_type, "track type"),
+        (4, filter_out_cell_type_class, "cell type class"),
+        (5, filter_out_cell_type, "cell type")
+    ]
+    removed_data = []
+    for col_idx, keyword_set, name in filters:
+        print(f"Rows before filtering {name}: {len(filtered_df)}")
+        filtered_df, removed = filter_data(filtered_df, col_idx, keyword_set)
+        print(f"Rows after filtering {name}: {len(filtered_df)}")
+        removed_data.append(removed)
+
+
+    # 4. Törölt adatok mentése
+    removed_lines = pd.concat(removed_data, ignore_index=True)
+    removed_lines.to_csv('../data/processed/metadata/human_removed_keywords_TEST.tsv', index=False, sep='\t')
+
+    # 5. Megtartott adatok mentése
+    filtered_df.to_csv('../data/processed/metadata/human_cleaned.tsv', index=False, sep='\t')

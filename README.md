@@ -10,6 +10,8 @@ A scriptek fő funkciói:
 - BED fájlok feldolgozása
    - Transzkripciós faktor kötőhelyek szekvenciáinak előállítása
    - Traszkripciós faktor - Target gén interakciók azonosítása és táblázatok formázása Uniprot és NCBI keresztlinkekkel
+ 
+(Részletes dokumentáció itt.)[https://github.com/kadan02/NativeTissueChIP/wiki]
 
 ## Credits
 This project was made possible using data from [ChIP-Atlas](https://chip-atlas.org).

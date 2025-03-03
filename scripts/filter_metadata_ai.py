@@ -3,6 +3,7 @@ from openai import OpenAI
 import distance
 import re
 import json
+import os
 
 
 # https://doc.genai.science-cloud.hu/api/
@@ -56,10 +57,9 @@ def group_rows(tsv_file, max_distance=6, max_rows=6):
     return groups
 
 
-def api_request(group, output_log):
+def api_request(group, output_log, output_prompt):
     instructions = (
-        "TASK:\n"
-        "Extract the IDs of NATIVE sample sequencings from the DATA.\n"
+        "TASK: Extract the IDs of NATIVE sample sequencings from the DATA.\n"
         "The DATA consists of ChIP-Seq metadata from a TSV file. Each row is one sequencing. The first column is the id.\n\n"
 
         "DEFINITION OF NATIVE SAMPLES:\n"
@@ -78,17 +78,21 @@ def api_request(group, output_log):
         "   - 'fetal'\n"
         "   - 'embryonic'\n"
         "- and any of their synonyms or abbreviations.\n\n"
-        "- Mention of a regular human cell line (e.g., 'ED cells') or primary cell line is NOT a non-native indicator.\n"
+        "Mention of a regular human cell line (e.g., 'ED cells') or primary cell line is NOT a non-native indicator.\n\n"
         #"- Breast cells' is NOT A NON-NATIVE INDICATOR by itself.\n"
         #"- Note: 'Differentiated' is NOT A NON-NATIVE INDICATOR by itself.\n\n" (Kommentelve mert egyáltalán nem  hatásos)
         
-        "IMPORTANT: Return only the JSON object, exactly in the format specified below, with no extra text or formatting.\n"
+        "IMPORTANT: Return only the JSON object, exactly in the format specified below, with no extra text or formatting.\n\n"
         'ANSWER FORMAT:  {"native_ids": ["<id1>", "<id2>"]}\n'
         'Answer example 1: {"native_ids": []}\n'
         'Answer example 2: {"native_ids": ["DRX044425", "DRX044426"]}\n\n'
         
         "DATA:\n"
     )
+
+    # Prompt írása külön fájlba az adatok nélkül
+    with open(output_prompt,'w', encoding='utf-8') as p:
+        p.write(instructions)
 
     prompt = instructions + "\n".join(group)
 
@@ -107,7 +111,7 @@ def api_request(group, output_log):
     print(response)
 
 
-def write_new_tables(api_response_file, metadata, native_metadata, non_native_metadata):
+def write_new_tables(api_response_file, metadata, error_log, native_metadata, non_native_metadata):
     """
     A JSON tömbön belüli "native_ids":  kulcsokhoz tartozó értékeket egy új fájlba írja az API response fájlból.
 
@@ -124,6 +128,7 @@ def write_new_tables(api_response_file, metadata, native_metadata, non_native_me
     json_objects = re.findall(r'\{.*?\}', content, re.DOTALL)
 
     native_ids = set()
+    errors = open(error_log, 'w', encoding='utf-8')
 
     for obj in json_objects:
         try:
@@ -134,8 +139,10 @@ def write_new_tables(api_response_file, metadata, native_metadata, non_native_me
                     if clean_id:
                         native_ids.add(clean_id)
         except json.JSONDecodeError as e:
-            print(f"Skipping invalid JSON:\n{obj}\n{e}\n")   # Hibás sorokat debugolni kell
+            print(f"Skipping invalid JSON:\n{obj}\n{e}\n")             # Hibás sorokat debugolni kell
+            errors.write(f"Invalid JSON:\n{obj}\n{e}\n\n")
 
+    errors.close()
     print(f"{len(native_ids)} unique native IDs found in API responses.")
 
     # 2 új táblázat létrehozása. Egyikbe csak a natívok íródnak, másikba a nem natívok
@@ -150,22 +157,39 @@ def write_new_tables(api_response_file, metadata, native_metadata, non_native_me
     print(f"Created tables: {native_metadata} and {non_native_metadata}")
 
 
-def process_responses(input_tsv, output_log):
+def process_responses(input_tsv, output_log, output_prompt):
     groups = group_rows(input_tsv, max_distance=6, max_rows=6)
     print(f"Total groups created: {len(groups)}")
 
     for i, group in enumerate(groups):
         print(f"Sending group {i + 1}/{len(groups)} with {len(group)} rows to API...")
-        api_request(group, output_log)
+        api_request(group, output_log, output_prompt)
 
 
 if __name__ == '__main__':
-    timestamp = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
 
-    input_tsv_path = "../data/processed/human_cleaned_keywords.tsv"  # az összes metaadatot tartalmazó fájl
-    api_response_path = f"data/logs/ai_responses/{timestamp}_mistral-small24b.json"      # API válaszok
-    native_table_path = f"results/{timestamp}_native_ids.tsv"              # Csak natív ID-s metaadatok
-    non_native_table_path = f"results/{timestamp}_non_native_ids.tsv"      # Csak nem-natív ID-s metaadatok
+    # Output fájlok ebbe a mappába fognak íródni
+    # run_name = "" ha timestamp-et szeretnénk használni
+    run_name = input("Output directory name (Leave empty for name based on current time): ")
 
-    process_responses(input_tsv_path, api_response_path)
-    write_new_tables(api_response_path, input_tsv_path, native_table_path, non_native_table_path)
+    if run_name == "":
+        run_name = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    dir_name = "../data/processed/ai_filtering/" + run_name
+    try:
+        os.mkdir(dir_name)
+        print(f"Directory '{dir_name}' created successfully.")
+    except FileExistsError:
+        print(f"Directory '{dir_name}' already exists.")
+    except PermissionError:
+        print(f"Permission denied: Unable to create '{dir_name}'.")
+
+    # Fájlok útvonalai
+    input_tsv_path = "../data/processed/metadata/API_TEST_human_cleaned_trimmed.tsv"    # Az összes metaadatot tartalmazó fájl
+    api_response_path = f"{dir_name}/responses.json"                            # API válaszok
+    prompt_path = f"{dir_name}/prompt.txt"                                      # A prompt ide íródik
+    error_log_path = f"{dir_name}/json_errors.log"                              # JSONDecodeErrors
+    native_table_path = f"{dir_name}/native_ids.tsv"                            # Csak natív ID-s metaadatok
+    non_native_table_path = f"{dir_name}/non_native_ids.tsv"                    # Csak nem-natív ID-s metaadatok
+
+    # process_responses(input_tsv_path, api_response_path, prompt_path)
+    write_new_tables(api_response_path, input_tsv_path, error_log_path, native_table_path, non_native_table_path)

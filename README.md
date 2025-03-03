@@ -5,7 +5,7 @@ Ez a repository a szövet- és szervspecifikus ChIP-Seq adatok elemzésére szol
 A scriptek fő funkciói:
 - Metaadatok előfeldolgozása és szűrése
    - Nagy méretű metaadat-táblázatok formázása és szűrése kulcsszavak/kifejezések alapján
-   - Kísérleti minták minőségi ellenőrzése: natív és manipulált sejttípusok elkülönítése Large Language Model (LLM) alapú szűrés segítségével
+   - Kísérleti minták minőségi ellenőrzése: natív és manipulált minták elkülönítése Large Language Model (LLM) alapú szűrés segítségével
 
 - BED fájlok feldolgozása
    - Transzkripciós faktor kötőhelyek szekvenciáinak előállítása

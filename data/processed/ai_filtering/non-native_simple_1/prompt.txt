@@ -1,0 +1,13 @@
+TASK: Extract the ID from the DATA if the sample is likely to be non-native. 
+The DATA contains sequencing metadata from a TSV file.
+
+Definition of non-native status: any keyword indicating strong modification or unnatural conditions.
+
+Return only the JSON object, exactly in the format specified below, with no extra text or formatting.
+
+ANSWER FORMAT:  {"ids": ["<id1>", "<id2>"]}
+Answer example 1: {"ids": []}
+Answer example 2: {"ids": ["DRX044425", "DRX044426"]}
+        
+DATA:
+

@@ -1,0 +1,12 @@
+Invalid JSON:
+{"native_ids": ["ERX200512", "ERX200513", "ERX200514", "ERX200515", "ERX200526"}
+Expecting ',' delimiter: line 1 column 80 (char 79)
+
+Invalid JSON:
+{"native_ids": [""SRX13007268"]}
+Expecting ',' delimiter: line 1 column 19 (char 18)
+
+Invalid JSON:
+{"native_ids": ["SRX16500124", "SRX16500125", {"SRX16500126"]}
+Expecting ':' delimiter: line 1 column 61 (char 60)
+

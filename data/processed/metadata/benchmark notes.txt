@@ -1,0 +1,12 @@
+1 Regular human cell line 
+2,3 regular human cell line vs. rákos cell line
+4 Mellszövet
+5 őssejtek
+6,7 pre-adipocyte vs adipocyte
+8 activated
+9 lymphoblastoid
+10,11 WT vs kd
+12,13 - in vitro differentiation
+14 - naive blood cell
+15 - stimulated immune cell (CD3/CD28 stimulated CD4+ T cells)
+16 - Primary cell line (HDFa)

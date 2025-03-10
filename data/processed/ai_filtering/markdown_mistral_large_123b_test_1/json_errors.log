@@ -1,0 +1,13 @@
+Invalid JSON:
+{"native_ids": ["
+{"native_ids": ["ERX200512", "ERX200513", "ERX200514", "ERX200515", "ERX200526", "ERX200532"]}
+Invalid control character at: line 1 column 18 (char 17)
+
+Invalid JSON:
+{&quot;native_ids&quot;: [&quot;SRX029598&quot;]}
+Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+
+Invalid JSON:
+{'native\_ids": ["SRX10142198", "SRX10142199", "SRX10142200", "SRX10142201"]}
+Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+

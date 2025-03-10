@@ -1,0 +1,16 @@
+DRX044425	CTCF	Blood	T cells	sample_name=003_ED_ChIP_CTCF_1	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 1
+DRX440344	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of hCD4	age=not applicable	cell_type=CD4 positive T cell	isolate=not applicable	tissue=PBMC									
+DRX440349	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of TL-Om1	age=not applicable	cell_type=CD4 positive T cell	isolate=not applicable	tissue=not applicable									
+ERX2242375	BCL11A	Breast	Breast cells	ArrayExpress-OrganismPart=BREAST	sample description=ChIPSeq_BCL11A												
+SRX1027446	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC	cell type=Human Mesenchymal Stem Cells												
+SRX019498	CTCF	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP	cell type=Adipose stromal cell (ASC) pre-adipocyte	chip epitope=CTCF											
+SRX019505	CTCF	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP	cell type=Adipose stromal cell (ASC) adipocyte	chip epitope=CTCF											
+SRX017709	KAT5	Blood	CD4+ T cells	source_name=CD4+ T cell	cell type=activated CD4+ T cell	sirna=n/a	treatment=n/a										
+SRX022390	VDR	Blood	Lymphoblastoid cell line	source_name=lymphoblastoid, GM10855, unstimulated	cell line=GM10855	cell type=lymphoblastoid	treatment=unstimulated	antibody name=VDR (C-20)									
+SRX037935	CTCF	Blood	CD34+	source_name=CD34	condition=CD34 WT												
+SRX037941	GATA1	Blood	CD36+	source_name=CD36	condition=BRG1 KD shLuc control												
+SRX11513472	MAFB	Blood	Dendritic Cells	source_name=Dendritic cells differentiated from monocytes 24 hours (replicate B)	cell type=DC	individual=donor B	time=24 hours differentiation										
+SRX10977525	CTCF	Neural	Excitatory neuron	sample type=in vitro differentiated cells	dev stage=adult	age=53 year	donor ID=ENCDO336AAA	cell type=excitatory neuron									
+SRX12118509	POU2F2	Blood	Naive B cells	source_name=naïve B-cells	treatment=NA	tissue=tonsil	cell type=naive B-cells	knock down=NA									
+SRX12209241	NFKB1	Blood	CD4+ T cells	source_name=CD3/CD28 stimulated CD4+ T cells	cell type=CD4+ T cells	case or control=Control	age=53	ancestry=Caucasian									
+SRX13234470	IRF8	Epidermis	Dermal fibroblast	source_name=adult human dermal fibroblast	cell line=HDFa	cell type=adult human dermal fibroblast	genotype=wildtype										

@@ -1,0 +1,5 @@
+DRX044425	CTCF	Blood	T cells	sample_name=003_ED_ChIP_CTCF_1	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 1
+DRX440344	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of hCD4	age=not applicable	cell_type=CD4 positive T cell	isolate=not applicable	tissue=PBMC									
+SRX1027446	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC	cell type=Human Mesenchymal Stem Cells												
+SRX037941	GATA1	Blood	CD36+	source_name=CD36	condition=BRG1 KD shLuc control												
+SRX11513472	MAFB	Blood	Dendritic Cells	source_name=Dendritic cells differentiated from monocytes 24 hours (replicate B)	cell type=DC	individual=donor B	time=24 hours differentiation										

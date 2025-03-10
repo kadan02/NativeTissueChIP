@@ -1,0 +1,4 @@
+DRX044425	CTCF	Blood	T cells	sample_name=003_ED_ChIP_CTCF_1	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 1
+SRX1027446	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC	cell type=Human Mesenchymal Stem Cells												
+SRX12118509	POU2F2	Blood	Naive B cells	source_name=naïve B-cells	treatment=NA	tissue=tonsil	cell type=naive B-cells	knock down=NA									
+SRX13234470	IRF8	Epidermis	Dermal fibroblast	source_name=adult human dermal fibroblast	cell line=HDFa	cell type=adult human dermal fibroblast	genotype=wildtype										

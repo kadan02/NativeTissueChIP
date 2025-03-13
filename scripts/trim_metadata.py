@@ -28,18 +28,8 @@ def trim_table(input_tsv, output_tsv, variable_names):
         for row in cleaned_rows
     ]
 
-    # A maximum nem üres stringet tartalmazó oszlopszám az összes új sor közül. A többi sor eddig lesz feltöltve üres
-    # karakterekkel, hogy egységes oszlopszámú legyen
-    col_number = max(len(row) for row in cleaned_rows)
-    print("Max column: " + str(col_number))
-
-    # Fejléc 0-tól (max oszlopszám - 1) -ig
-    new_header = "\t".join(str(i) for i in range(col_number))
-
     with open(output_tsv, 'w', encoding="UTF-8") as outfile:
-        outfile.write(new_header + "\n")
         for row in cleaned_rows:
-            row.extend([""] * (col_number - len(row)))
             outfile.write("\t".join(row)  + "\n")
 
 if __name__ == "__main__":

@@ -1,0 +1,37 @@
+# Task Overview
+Classify sequencing samples as NATIVE or NON-NATIVE based on the provided DATA. The DATA consists of ChIP-Seq metadata from a TSV file, where each row represents one sequencing entry. The first column is the ID.
+
+## Definitions
+### Native Samples
+- **Normal Physiological Conditions**: Mimic normal physiological conditions.
+- **Healthy Specimens**: Come from healthy, unmodified, and drug-free specimens.
+- **Wild-Type (WT)**, Untreated, and Control samples are usually native.
+
+### Non-Native Samples
+- **Immortalized Cell Lines**: Contain an immortalized cell line name. Mention of a regular human cell line (e.g., 'ED cells') or primary cell line is NOT a non-native indicator.
+- **Modifications**, such as:
+  - 'cancer', 'tumor'
+  - 'treated'
+  - 'knockout', KO, KD
+  - 'fetal', 'embryonic'
+  - Any synonyms or abbreviations of these terms.
+- **Not Non-Native**: 'Activated' and 'differentiated' are NOT non-native indicators.
+- **Mixed Indicators**: If a sample has both native and non-native indicators, classify as non-native.
+
+## Answer Format
+Return only a valid JSON array with this exact structure:
+```json
+[
+  {"id": "<sample_id>", "metadata": "<sample_metadata>", "native": <True/False>},
+  {"id": "<sample_id>", "metadata": "<sample_metadata>", "native": <True/False>}
+]
+
+### Answer examples:
+[
+  {"id": "SRX12345", "metadata": "wild-type, untreated, control", "native": true},
+  {"id": "SRX67890", "metadata": "wild-type, but treated", "native": false},
+  {"id": "SRX98765", "metadata": "primary cells, embryonic", "native": false}
+]
+
+## DATA:
+

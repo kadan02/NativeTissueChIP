@@ -1,0 +1,901 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+ERX200493	CTCF	Blood	B cells	
+ERX200494	CTCF	Blood	B cells	
+ERX200495	CTCF	Blood	B cells	
+ERX200496	CTCF	Blood	B cells	
+ERX200497	CTCF	Blood	B cells	
+ERX200498	CTCF	Blood	B cells	
+ERX200499	CTCF	Blood	B cells	
+ERX200500	CTCF	Blood	B cells	
+ERX200501	CTCF	Blood	B cells	
+ERX200502	CTCF	Blood	B cells	
+ERX200503	CTCF	Blood	B cells	
+ERX200504	CTCF	Blood	B cells	
+ERX200505	CTCF	Blood	B cells	
+ERX200506	CTCF	Blood	B cells	
+ERX200507	CTCF	Blood	B cells	
+ERX200508	CTCF	Blood	B cells	
+ERX200509	CTCF	Blood	B cells	
+ERX200512	CTCF	Blood	B cells	
+ERX200513	CTCF	Blood	B cells	
+ERX200514	CTCF	Blood	B cells	
+ERX200515	CTCF	Blood	B cells	
+ERX200526	CTCF	Blood	B cells	
+ERX200532	CTCF	Blood	B cells	
+ERX200534	CTCF	Blood	B cells	
+ERX200535	CTCF	Blood	B cells	
+ERX200536	CTCF	Blood	B cells	
+ERX200537	CTCF	Blood	B cells	
+ERX200540	CTCF	Blood	B cells	
+ERX200543	CTCF	Blood	B cells	
+ERX664188	CTCF	Blood	B cells	
+ERX664189	CTCF	Blood	B cells	
+ERX664190	CTCF	Blood	B cells	
+ERX664191	CTCF	Blood	B cells	
+ERX664192	CTCF	Blood	B cells	
+ERX664193	CTCF	Blood	B cells	
+ERX664196	CTCF	Blood	B cells	
+ERX664197	CTCF	Blood	B cells	
+ERX664198	CTCF	Blood	B cells	
+ERX664199	CTCF	Blood	B cells	
+ERX664200	CTCF	Blood	B cells	
+ERX664201	CTCF	Blood	B cells	
+ERX664210	CTCF	Blood	B cells	
+SRX018992	TP63	Epidermis	Keratinocytes	source_name=primary keratinocyte | tissue=epidermis | cell line=primary cells | cell type=keratinocytes
+SRX019512	CTCF	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP | cell type=Adipose stromal cell (ASC) adipocyte
+SRX019519	CTCF	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP | cell type=Adipose stromal cell (ASC) adipocyte
+SRX019521	PPARG	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP | cell type=Adipose stromal cell (ASC) adipocyte
+SRX026720	CTCF	Pancreas	Pancreatic islets	source_name=Pancreatic islets | tissue=Pancreatic islets | sonication cycles=15
+SRX032875	FOXA2	Liver	Liver	source_name=Homogenized Human Liver | cell type=Liver tissue
+SRX032876	FOXA2	Liver	Liver	source_name=Homogenized Human Liver | cell type=Liver tissue
+SRX032877	FOXA2	Liver	Liver	source_name=Homogenized Human Liver | cell type=Liver tissue
+SRX038909	TAL1	Blood	Hematopoietic Stem Cells	source_name=Hematopoietic Stem &amp; Progenitor Cells, TAL1 ChIP | cell type=CD133+ expanded umbilical cord blood (UCB) cells | cell number=3 million
+SRX038911	SPI1	Blood	Hematopoietic Stem Cells	source_name=Hematopoietic Stem &amp; Progenitor Cells, Pu.1 ChIP | cell type=CD133+ expanded umbilical cord blood (UCB) cells | cell number=3 million
+SRX038913	IKZF1	Blood	Hematopoietic Stem Cells	source_name=Hematopoietic Stem &amp; Progenitor Cells, Ikaros ChIP | cell type=CD133+ expanded umbilical cord blood (UCB) cells | cell number=3 million
+SRX038915	MEIS1	Blood	Hematopoietic Stem Cells	source_name=Hematopoietic Stem &amp; Progenitor Cells, MEIS1 ChIP | cell type=CD133+ expanded umbilical cord blood (UCB) cells | cell number=3 million
+SRX038916	MEIS1	Blood	Hematopoietic Stem Cells	source_name=Hematopoietic Stem &amp; Progenitor Cells, MEIS1 ChIP | cell type=CD133+ expanded umbilical cord blood (UCB) cells | cell number=3 million
+SRX093192	EGR2	Blood	Macrophages	source_name=Monocyte-derived macrophage | cell type=Monocyte-derived macrophage
+SRX097068	GATA1	Blood	CD34+	source_name=GATA1 ChIP-seq CD34 erythroid BIO | cell type=Pro-erythroblasts
+SRX097070	GATA1	Blood	CD34+	source_name=GATA1 ChIP-seq CD34 erythroid BMP | cell type=Pro-erythroblasts
+SRX097073	SMAD1	Blood	CD34 Hematopoietic stem cells	source_name=SMAD1 ChIP-seq CD34+ progenitors BMP | cell type=Hematopoietic Stem &amp; Progenitor Cells
+SRX097075	TCF7L2	Blood	CD34 Hematopoietic stem cells	source_name=TCF7L2 ChIP-seq CD34 progenitors BIO | cell type=Hematopoietic Stem &amp; Progenitor Cells
+SRX099055	TP63	Epidermis	Keratinocytes	source_name=p63_IP | cell type=Human neonatal foreskin keratinocytes
+SRX10059516	CEBPD	Others	Fibroblasts	source_name=amnion fibroblasts | cell type=fibroblasts | treatment=untreated | tissue=amnion
+SRX10059517	CEBPD	Others	Fibroblasts	source_name=amnion fibroblasts | cell type=fibroblasts | treatment=untreated | tissue=amnion
+SRX10059519	CEBPD	Others	Fibroblasts	source_name=amnion fibroblasts | cell type=fibroblasts | treatment=treated with cortisol for 12 hours | tissue=amnion
+SRX10059520	CEBPD	Others	Fibroblasts	source_name=amnion fibroblasts | cell type=fibroblasts | treatment=treated with cortisol for 12 hours | tissue=amnion
+SRX1012537	FOXO1	Blood	B cells	source_name=germinal center B cells from tonsil tissues | tissue=Germinal center B cells
+SRX1012539	BCL6	Blood	B cells	source_name=germinal center B cells from tonsil tissues | tissue=Germinal center B cells
+SRX10142207	CTCF	Blood	B cells	source_name=Triple negative breast cancer B cell | cell type=Triple negative breast cancer B
+SRX1027438	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027439	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027444	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027445	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027446	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027449	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027450	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1027452	ATF4	Others	Mesenchymal stem cells	source_name=hMSC | cell type=Human Mesenchymal Stem Cells
+SRX1046556	RAG1	Blood	Thymus	source_name=thymocytes | cell type=thymocytes | genotype=n/a | strain=n/a | age=Mixture: 4 months or 1.5 years
+SRX1046557	RAG1	Blood	Thymus	source_name=thymocytes | cell type=thymocytes | genotype=n/a | strain=n/a | age=Mixture: 4 months or 1.5 years
+SRX10475436	CTCF	Cardiovascular	Left ventricle	sample type=tissue | tissue=heart left ventricle | health state=DM: yes; HTN: yes; CAD: no | dev_stage=adult | age=59 year | donor ID=ENCDO856ZOJ
+SRX10475460	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10475461	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10475462	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10476783	CTCF	Muscle	Gastrocnemius medialis	sample_type=tissue | tissue=gastrocnemius medialis | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10476798	CTCF	Cardiovascular	Left ventricle	sample type=tissue | tissue=heart left ventricle | health state=DM: no; HTN: yes; CAD: no | dev_stage=adult | age=40 year | donor ID=ENCDO392CRK
+SRX10478145	CTCF	Cardiovascular	Left ventricle	sample type=tissue | tissue=heart left ventricle | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=46 year | donor ID=ENCDO411EVD
+SRX10852990	MED12	Blood	T cells	source_name=primary T cells | treatment=unstimulated | genotype=AAVS1-null
+SRX10852991	MED12	Blood	T cells	source_name=primary T cells | treatment=unstimulated | genotype=AAVS1-null
+SRX10852993	MED12	Blood	T cells	source_name=primary T cells | treatment=stimulated | genotype=AAVS1-null
+SRX10852994	MED12	Blood	T cells	source_name=primary T cells | treatment=stimulated | genotype=AAVS1-null
+SRX10949092	CTCF	Muscle	Muscles	source_name=muscle cells | disease=Control
+SRX10949100	CTCF	Muscle	Muscles	source_name=muscle cells | disease=FSHD2
+SRX10949236	CTCF	Muscle	Muscles	source_name=muscle cells | disease=BAMS (bosma arhinia microphthalmia syndrome)
+SRX10954235	BATF	Blood	CD4+ T cells	source_name=BATF ChIP-seq | cell source=Human umbilical cord blood | cell type=Human naive CD4+ T cells polarized to Th17-fate for 72h
+SRX10954239	FOSL1	Blood	CD4+ T cells	source_name=FOSL1 ChIP-seq | cell source=Human umbilical cord blood | cell type=Human naive CD4+ T cells polarized to Th17-fate for 72h
+SRX10954243	FOSL2	Blood	CD4+ T cells	source_name=FOSL2 ChIP-seq | cell source=Human umbilical cord blood | cell type=Human naive CD4+ T cells polarized to Th17-fate for 72h
+SRX10976124	CTCF	Uterus	Uterus	sample_type=tissue | tissue=uterus | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10976185	CTCF	Cardiovascular	Endothelial Cells	sample type=in vitro differentiated cells | dev stage=adult | age=53 year | donor ID=ENCDO336AAA | cell type=endothelial cell
+SRX10976368	CTCF	Uterus	Vagina	sample_type=tissue | tissue=vagina | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10976427	EZH2	Epidermis	Dermal fibroblast	age=53 year | donor ID=ENCDO336AAA | dev stage=adult | sample type=primary cell | cell type=fibroblast of arm
+SRX10976459	CTCF	Pancreas	Pancreas	sample type=tissue | tissue=pancreas | health state=DM: yes; HTN: yes; CAD: no | dev_stage=adult | age=59 year | donor ID=ENCDO856ZOJ
+SRX10976478	EZH2	Epidermis	Dermal fibroblast	age=53 year | donor ID=ENCDO336AAA | dev stage=adult | sample type=primary cell | cell type=fibroblast of arm
+SRX10976485	CTCF	Lung	Lung	sample type=tissue | tissue=lower lobe of left lung | health state=DM: yes; HTN: yes; CAD: no | dev_stage=adult | age=59 year | donor ID=ENCDO856ZOJ
+SRX10976492	CTCF	Others	Thyroid Gland	sample_type=tissue | tissue=thyroid gland | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10976537	CTCF	Others	Mesothelial cells	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=mesothelial cell of epicardium
+SRX10976684	CTCF	Bone	Chondrocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=chondrocyte
+SRX10976685	CTCF	Bone	Chondrocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=chondrocyte
+SRX10976686	CTCF	Bone	Chondrocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=chondrocyte
+SRX10976698	CTCF	Kidney	Nephrons	sample type=organoid | tissue=nephron | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10976702	CTCF	Lung	Lung	sample type=tissue | tissue=lower lobe of left lung | health state=DM: no; HTN: yes; CAD: no; lungs with severe emphysema | dev_stage=adult | age=60 year | donor ID=ENCDO520EJG
+SRX10976745	CTCF	Cardiovascular	Left ventricle	sample_type=tissue | tissue=heart left ventricle | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10976793	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10976836	CTCF	Pancreas	Pancreas	sample type=tissue | tissue=pancreas | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=41 year | donor ID=ENCDO575WHY
+SRX10976860	CTCF	Pancreas	Pancreas	sample type=tissue | tissue=pancreas | health state=DM: no; HTN: no; CAD: no; lungs with moderate emphysema | dev_stage=adult | age=61 year | donor ID=ENCDO186XRB
+SRX10976864	CTCF	Lung	Lung	sample type=tissue | tissue=left lung | health state=DM: no; HTN: yes; CAD: no | dev_stage=adult | age=40 year | donor ID=ENCDO392CRK
+SRX10976876	CTCF	Muscle	Muscle, Smooth	age=5 day | donor ID=ENCDO222AAA | dev stage=embryonic | sample type=in vitro differentiated cells | cell type=smooth muscle cell | health state=healthy
+SRX10976879	CTCF	Kidney	Nephrons	sample type=organoid | tissue=nephron | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10976906	CTCF	Cardiovascular	Right ventricle	sample type=tissue | tissue=heart right ventricle | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=46 year | donor ID=ENCDO411EVD
+SRX10976936	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10976937	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10976938	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10976992	CTCF	Kidney	Nephrons	sample type=organoid | tissue=nephron | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10977141	CTCF	Pancreas	Pancreatic progenitors	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=progenitor cell of endocrine pancreas
+SRX10977146	CTCF	Bone	Osteocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=osteocyte
+SRX10977147	CTCF	Bone	Osteocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=osteocyte
+SRX10977148	CTCF	Bone	Osteocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=osteocyte
+SRX10977149	CTCF	Bone	Osteocytes	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=osteocyte
+SRX10977204	CTCF	Kidney	Nephrons	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=nephron progenitor cell
+SRX10977205	CTCF	Kidney	Nephrons	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=nephron progenitor cell
+SRX10977206	CTCF	Kidney	Nephrons	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=nephron progenitor cell
+SRX10977246	CTCF	Digestive tract	Stomach	sample_type=tissue | tissue=stomach | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10977293	CTCF	Others	Adrenal Glands	sample_type=tissue | tissue=adrenal gland | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX10977362	CTCF	Neural	Astrocytes	sample type=in vitro differentiated cells | dev stage=adult | age=53 year | donor ID=ENCDO336AAA | cell type=astrocyte
+SRX10977367	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10977368	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX10977388	CTCF	Cardiovascular	Right ventricle	sample type=tissue | tissue=heart right ventricle | health state=DM: no; HTN: yes; CAD: no | dev_stage=adult | age=40 year | donor ID=ENCDO392CRK
+SRX10977523	CTCF	Neural	Excitatory neuron	sample type=in vitro differentiated cells | dev stage=adult | age=53 year | donor ID=ENCDO336AAA | cell type=excitatory neuron
+SRX10977524	CTCF	Neural	Excitatory neuron	sample type=in vitro differentiated cells | dev stage=adult | age=53 year | donor ID=ENCDO336AAA | cell type=excitatory neuron
+SRX10977525	CTCF	Neural	Excitatory neuron	sample type=in vitro differentiated cells | dev stage=adult | age=53 year | donor ID=ENCDO336AAA | cell type=excitatory neuron
+SRX11157739	AAV Rep68	Others	Epithelial cells	source_name=Epithelial | tissue=Kidney | cell type=Epithelial
+SRX11157761	AAV Rep68	Others	Epithelial cells	source_name=Epithelial | tissue=Kidney | cell type=Epithelial
+SRX11157762	AAV Rep68	Others	Epithelial cells	source_name=Epithelial | tissue=Kidney | cell type=Epithelial
+SRX11157763	AAV Rep68	Others	Epithelial cells	source_name=Epithelial | tissue=Kidney | cell type=Epithelial
+SRX11157764	AAV Rep68	Others	Epithelial cells	source_name=Epithelial | tissue=Kidney | cell type=Epithelial
+SRX11179930	BRD4	Neural	Microglia cell line	source_name=Microglia cell line | cell line=Microglia cell line C13NJ | treatment=DMSO-treated
+SRX11179932	BRD4	Neural	Microglia cell line	source_name=Microglia cell line | cell line=Microglia cell line C13NJ | treatment=JQ1-treated for 24h
+SRX11955266	AFF1	Epidermis	Keratinocytes	source_name=primary human neonatal keratinocytes | cell type=undifferentiated keratinocytes | treatment=N/A
+SRX11969041	BRD4	Epidermis	Keratinocytes	source_name=Cervical keratinocytes | cell type=Integrated HPV16 positive cervical keratinocytes | cell line=W12-20831 | treatment=Untreated
+SRX11969043	BRD4	Epidermis	Keratinocytes	source_name=Cervical keratinocytes | cell type=Integrated HPV16 positive cervical keratinocytes | cell line=W12-20861 | treatment=Untreated
+SRX11969045	BRD4	Epidermis	Keratinocytes	source_name=Cervical keratinocytes | cell type=Integrated HPV16 positive cervical keratinocytes | cell line=W12-20862 | treatment=Untreated
+SRX11969047	BRD4	Epidermis	Keratinocytes	source_name=Cervical keratinocytes | cell type=Extrachromosomal HPV16 positive cervical keratinocytes | cell line=W12-20863 | treatment=Untreated
+SRX12027421	EBF1	Blood	B-cell (CD19+)	source_name=EBF1 ChIP of CD19+ human primary B cells | cell type=CD19+ B cells
+SRX12027422	EBF1	Blood	B-cell (CD19+)	source_name=EBF1 ChIP of CD19+ human primary B cells | cell type=CD19+ B cells
+SRX12151158	GATA1	Blood	CD34+	source_name=D12_HiChIP_GATA1 | tissue=cord blood | cell type=Day12 CD34+ cells
+SRX12151160	KLF1	Blood	CD34+	source_name=D12_HiChIP_KLF1 | tissue=cord blood | cell type=Day12 CD34+ cells
+SRX12387244	EGR1	Blood	CD34 Hematopoietic stem cells	source_name=CD34+ Hematopoietic and Stem Progenitor Cell | shRNA=NA | days post shrna infection=NA | cell type=CD34+ Hematopoietic and Stem Progenitor Cell
+SRX12387245	EGR1	Blood	CD34 Hematopoietic stem cells	source_name=CD34+ Hematopoietic and Stem Progenitor Cell | shRNA=NA | days post shrna infection=NA | cell type=CD34+ Hematopoietic and Stem Progenitor Cell
+SRX12387246	EGR1	Blood	CD34 Hematopoietic stem cells	source_name=CD34+ Hematopoietic and Stem Progenitor Cell | shRNA=NA | days post shrna infection=NA | cell type=CD34+ Hematopoietic and Stem Progenitor Cell
+SRX12412429	LMNB1	Adipocyte	Adipose stem cells	"source_name=Human primary adipose stem cells | time point=Day -2 (proliferative; ""Pro"") | cell type=Proliferating adipose stem cells (ASCs) in growth medium"
+SRX12412431	LMNB1	Adipocyte	Adipose stem cells	source_name=Human primary adipose stem cells | time point=00 Hours (T00) | cell type=ASCs on the day of differentiation induction
+SRX12412433	LMNB1	Adipocyte	Adipose stem cells	source_name=Human primary adipose stem cells | time point=24 Hours (T24) | cell type=ASCs on 24 hours after adipogenic induction
+SRX12412435	LMNB1	Adipocyte	Adipose stem cells	source_name=Human primary adipose stem cells | time point=72 Hours (T72) | cell type=ASCs on 72 hours after adipogenic induction
+SRX12567779	TBP	Epidermis	Foreskin	source_name=Primary human foreskin fibroblast (HFF) | cell type=HFF | treatment=untreated | condition=Low Salt | exp=5
+SRX13005478	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | dev_stage=adult | age=56 year | donor ID=ENCDO907YUG | health state=PGD
+SRX13005512	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=89 year | donor ID=ENCDO707TUE
+SRX13005554	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=90 or above year | donor ID=ENCDO101GPB
+SRX13006335	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO637GUS
+SRX13006442	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=81 year | donor ID=ENCDO097MEH
+SRX13006466	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=84 year | donor ID=ENCDO461DJY
+SRX13006477	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=88 year | donor ID=ENCDO151OJB
+SRX13006601	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=88 year | donor ID=ENCDO070VNS
+SRX13006635	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=87 year | donor ID=ENCDO940VNT
+SRX13006637	CTCF	Others	Spleen	sample type=tissue | tissue=spleen | health state=DM: yes; HTN: yes; CAD: no | dev_stage=adult | age=59 year | donor ID=ENCDO856ZOJ
+SRX13006666	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=90 or above year | donor ID=ENCDO359XWR
+SRX13006675	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=90 or above year | donor ID=ENCDO672KST
+SRX13006679	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | dev_stage=adult | age=54 year | donor ID=ENCDO039RUH | health state=ischemic (EF 13 %, LVEDD 7.1; RV severe dilation, severe dysfunction)
+SRX13006696	CTCF	Others	Adrenal Glands	sample_type=tissue | tissue=adrenal gland | dev stage=adult | age=41 year | donor ID=ENCDO575WHY | health state=DM: no; HTN: no; CAD: no
+SRX13006697	CTCF	Others	Adrenal Glands	sample_type=tissue | tissue=adrenal gland | dev stage=adult | age=41 year | donor ID=ENCDO575WHY | health state=DM: no; HTN: no; CAD: no
+SRX13006698	CTCF	Others	Adrenal Glands	sample_type=tissue | tissue=adrenal gland | dev stage=adult | age=41 year | donor ID=ENCDO575WHY | health state=DM: no; HTN: no; CAD: no
+SRX13006719	CTCF	Cardiovascular	Left ventricle	sample_type=tissue | tissue=left ventricle myocardium inferior | dev stage=adult | age=60 year | donor ID=ENCDO520EJG | health state=DM: no; HTN: yes; CAD: no; lungs with severe emphysema
+SRX13006720	CTCF	Cardiovascular	Left ventricle	sample_type=tissue | tissue=left ventricle myocardium inferior | dev stage=adult | age=60 year | donor ID=ENCDO520EJG | health state=DM: no; HTN: yes; CAD: no; lungs with severe emphysema
+SRX13006721	CTCF	Cardiovascular	Left ventricle	sample_type=tissue | tissue=left ventricle myocardium inferior | dev stage=adult | age=60 year | donor ID=ENCDO520EJG | health state=DM: no; HTN: yes; CAD: no; lungs with severe emphysema
+SRX13006734	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=83 year | donor ID=ENCDO832DBZ
+SRX13006772	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | dev_stage=adult | age=73 year | donor ID=ENCDO804CLC | health state=ischemic (EF 35%, LVEDD 5.7; RV mildly dilated, moderate dysfunction)
+SRX13006783	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=90 or above year | donor ID=ENCDO201EUI
+SRX13006800	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=88 year | donor ID=ENCDO669IVL
+SRX13006803	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=74 year | donor ID=ENCDO907CMO
+SRX13007270	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=71 year | donor ID=ENCDO570AKP
+SRX13007593	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | health state=ischemic (EF 29% LVEDD 5.4; RV normal size, mild dysfunction) | dev stage=adult | age=66 year | donor ID=ENCDO926KEV
+SRX13007613	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=87 year | donor ID=ENCDO354SJE
+SRX13007629	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO915WZE
+SRX13007635	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=83 year | donor ID=ENCDO592ZWW
+SRX13007648	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | dev_stage=adult | age=43 year | donor ID=ENCDO967KID | health state=nonischemic (EF 23%, LVEDD 6.1; RV moderate dilation, normal function)
+SRX13007678	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO754RFQ
+SRX13007982	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | health state=ischemic (EF 25% LVEDD 5.7; RV mildly dilated, moderate dysfunction) | dev stage=adult | age=69 year | donor ID=ENCDO477WED
+SRX13007994	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | dev_stage=adult | age=61 year | donor ID=ENCDO808ASZ | health state=nonischemic (EF 11% LVEDD 7.7; RV severe dilation, severe dysfunction)
+SRX13008005	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO006DAA
+SRX13008032	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=90 or above year | donor ID=ENCDO660TGP
+SRX13008083	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO847KYQ
+SRX13008136	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=90 or above year | donor ID=ENCDO153NUY
+SRX13008163	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=87 year | donor ID=ENCDO640RUC
+SRX13008276	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO033BMB
+SRX13008421	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=89 year | donor ID=ENCDO830KFO
+SRX13008437	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=90 or above year | donor ID=ENCDO471EKG
+SRX13008452	CTCF	Others	Spleen	sample type=tissue | tissue=spleen | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=26 year | donor ID=ENCDO221IPH
+SRX13008453	CTCF	Others	Spleen	sample type=tissue | tissue=spleen | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=26 year | donor ID=ENCDO221IPH
+SRX13008465	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=78 year | donor ID=ENCDO236YSH
+SRX13008683	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=87 year | donor ID=ENCDO423GGP
+SRX13008748	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | health state=ischemic (EF 35%, LVEDD 5.7; RV mildly dilated, moderate dysfunction) | dev stage=adult | age=73 year | donor ID=ENCDO804CLC
+SRX13008768	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=87 year | donor ID=ENCDO203ASI
+SRX13008777	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO448YMQ
+SRX13008779	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=84 year | donor ID=ENCDO999WDR
+SRX13008807	CTCF	Others	Spleen	sample type=tissue | tissue=spleen | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=41 year | donor ID=ENCDO575WHY
+SRX13008808	CTCF	Others	Spleen	sample type=tissue | tissue=spleen | health state=DM: no; HTN: no; CAD: no | dev_stage=adult | age=41 year | donor ID=ENCDO575WHY
+SRX13008810	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | health state=ischemic (EF 29% LVEDD 5.4; RV normal size, mild dysfunction) | dev stage=adult | age=66 year | donor ID=ENCDO926KEV
+SRX13008814	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=89 year | donor ID=ENCDO697SWU
+SRX13008861	CTCF	Others	Spleen	tissue=spleen | sample type=tissue | dev_stage=adult | age=61 year | donor ID=ENCDO186XRB | health state=DM: no; HTN: no; CAD: no; lungs with moderate emphysema
+SRX13008891	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=86 year | donor ID=ENCDO666UNK
+SRX13008892	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=86 year | donor ID=ENCDO666UNK
+SRX13008917	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=81 year | donor ID=ENCDO077CCP
+SRX13008928	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO250PFZ
+SRX13009055	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=85 year | donor ID=ENCDO080EZF
+SRX13009099	CTCF	Lung	Lung	sample_type=tissue | tissue=left lung | dev stage=child | age=16 year | donor ID=ENCDO575EGL | health state=DM: no; HTN: no; CAD: no
+SRX13009104	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=86 year | donor ID=ENCDO845GYA
+SRX13009116	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=78 year | donor ID=ENCDO623FPG
+SRX13009142	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | health state=PGD | dev stage=adult | age=56 year | donor ID=ENCDO907YUG
+SRX13009161	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=82 year | donor ID=ENCDO407UTA
+SRX13009185	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | dev_stage=adult | age=59 year | donor ID=ENCDO856ZOJ | health state=DM: yes; HTN: yes; CAD: no
+SRX13009191	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | dev_stage=adult | age=61 year | donor ID=ENCDO808ASZ | health state=nonischemic (EF 11% LVEDD 7.7; RV severe dilation, severe dysfunction)
+SRX13009227	CTCF	Neural	Frontal cortex	sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=90 or above year | donor ID=ENCDO634UMA
+SRX13009236	CTCF	Pancreas	Pancreas	sample type=tissue | tissue=pancreas | health state=DM: no; HTN: no; CAD: no | dev stage=child | age=16 year | donor ID=ENCDO575EGL
+SRX13009240	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev stage=adult | age=86 year | donor ID=ENCDO997SGX
+SRX13009256	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=90 or above year | donor ID=ENCDO739EFE
+SRX13009264	CTCF	Cardiovascular	Right ventricle	tissue=heart right ventricle | sample type=tissue | dev_stage=adult | age=43 year | donor ID=ENCDO967KID | health state=nonischemic (EF 23%, LVEDD 6.1; RV moderate dilation, normal function)
+SRX13009282	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=87 year | donor ID=ENCDO776JEI
+SRX13009602	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=83 year | donor ID=ENCDO448ZXP
+SRX13150018	YAP1	Blood	Neutrophils	source_name=Blood | cell type=neutrophils
+SRX1318617	SIX2	Kidney	Kidney Cortex	source_name=human embryonic kidney cortex | developmental stage=17 weeks | strain=NA
+SRX13273920	KDM1A	Cardiovascular	Cardiomyocytes	source_name=Cardiomyocytes | cell type=KDM1A KO rescued with Flag-ubKDM1A | name in the manuscript=KDM1A KO+ubKDM1A
+SRX13602604	ATRX	Blood	CD34+	source_name=CD34 Culture | phenotype=unaffected | disease state=control | cell type=Erythroid | crosslinking=two steps cross-linking
+SRX13602605	ATRX	Blood	CD34+	source_name=CD34 Culture | phenotype=unaffected | disease state=control | cell type=Erythroid | crosslinking=two steps cross-linking
+SRX13602606	ATRX	Blood	CD34+	source_name=CD34 Culture | phenotype=unaffected | disease state=control | cell type=Erythroid | crosslinking=two steps cross-linking
+SRX13602611	GATA1	Blood	CD34+	source_name=CD34 Culture | phenotype=unaffected | disease state=control | cell type=Erythroid | crosslinking=two steps cross-linking
+SRX13602613	GATA1	Blood	CD34+	source_name=CD34 Culture | phenotype=affected | disease state=ATR-X syndrome | cell type=Erythroid | crosslinking=two steps cross-linking
+SRX1424892	POU3F2	Neural	Neural progenitor cells	source_name=NPS_before 2 wks of differentiation | cell type=Human neural progenitor cells (hNPC) | passages=10 | time point=before 2 wks of differentiation
+SRX1424894	POU3F2	Neural	Neural progenitor cells	source_name=NPS_after 2 wks of differentiation | cell type=Human neural progenitor cells (hNPC) | passages=10 | time point=after 2 wks of differentiation
+SRX14280060	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=NAFLD
+SRX14280082	FOXA2	Liver	Liver	source_name=Liver | tissue=liver | disease state=Normal control
+SRX14280083	FOXA2	Liver	Liver	source_name=Liver | tissue=liver | disease state=Normal control
+SRX14280085	FOXA2	Liver	Liver	source_name=Liver | tissue=liver | disease state=NAFLD
+SRX14280086	FOXA2	Liver	Liver	source_name=Liver | tissue=liver | disease state=NAFLD
+SRX14280088	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=Normal control
+SRX14280089	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=Normal control
+SRX1477665	MED12	Blood	CD34 Hematopoietic stem cells	source_name=human CD34+ | cell type=hematopoietis stem and progenitor cells | culture=6 days expanded
+SRX1477666	MED12	Blood	CD34 Hematopoietic stem cells	source_name=human CD34+ | cell type=hematopoietis stem and progenitor cells | culture=6 days expanded
+SRX15003483	HNRNPA2B1	Adipocyte	Adipose-derived stem cells	source_name=GF (gluteofemoral) adipose tissue | tissue=GF (gluteofemoral) adipose tissue | cell line=hASCs | cell type=human adipose derived stem cells | treatment=none
+SRX15003484	HNRNPA2B1	Adipocyte	Adipose-derived stem cells	source_name=GF (gluteofemoral) adipose tissue | tissue=GF (gluteofemoral) adipose tissue | cell line=hASCs | cell type=human adipose derived stem cells | treatment=none
+SRX15003485	HNRNPA2B1	Adipocyte	Adipose-derived stem cells	source_name=GF (gluteofemoral) adipose tissue | tissue=GF (gluteofemoral) adipose tissue | cell line=hASCs | cell type=human adipose derived stem cells | treatment=none
+SRX1503375	HNF1A	Gonad	Caput epididymis	source_name=Caput Human Epididymis Epithelial Cells
+SRX1548205	E2F1	Cardiovascular	Wharton Jelly	source_name=umbilical cord wharton's jelly | number of cells=8 million | cell type=Mesenchymal stem cells | agasga=SGA
+SRX1548206	E2F1	Cardiovascular	Wharton Jelly	source_name=umbilical cord wharton's jelly | number of cells=8 million | cell type=Mesenchymal stem cells | agasga=SGA
+SRX1548208	E2F1	Cardiovascular	Wharton Jelly	source_name=umbilical cord wharton's jelly | number of cells=8 million | cell type=Mesenchymal stem cells | agasga=AGA
+SRX1548209	E2F1	Cardiovascular	Wharton Jelly	source_name=umbilical cord wharton's jelly | number of cells=8 million | cell type=Mesenchymal stem cells | agasga=AGA
+SRX15710551	MAU2	Others	Fibroblasts	source_name=ChIPseq_Fibroblast_Mau2 | treatment=NT | cell line/type=Fibroblast
+SRX15710555	STAG1	Others	Fibroblasts	source_name=ChIPseq_Fibroblast_SA1 | treatment=NT | cell line/type=Fibroblast
+SRX15710557	STAG2	Others	Fibroblasts	source_name=ChIPseq_Fibroblast_SA2 | treatment=NT | cell line/type=Fibroblast
+SRX15710558	STAG2	Others	Fibroblasts	source_name=ChIPseq_Fibroblast_SA2 | treatment=NT | cell line/type=Fibroblast
+SRX15710559	STAG2	Others	Fibroblasts	source_name=ChIPseq_Fibroblast_SA2 | treatment=NT | cell line/type=Fibroblast
+SRX15891789	TP63	Others	Limbal stem cells	source_name=LSC_aberdam | cell line=LSC_aberdam | cell type=Limbal stem cells
+SRX16495312	CTCF	Liver	Liver	age=47 year | sample type=tissue | tissue=right lobe of liver | health state=DM: no; HTN: yes; CAD: no | dev stage=adult | donor ID=ENCDO912EIY
+SRX16495371	CTCF	Digestive tract	Colonic mucosa	sample_type=tissue | tissue=mucosa of descending colon | dev stage=adult | age=40 year | donor ID=ENCDO392CRK | health state=DM: no; HTN: yes; CAD: no
+SRX16495424	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO877NVF
+SRX16495440	CTCF	Blood	B cells	age=22 year | sample type=primary cell | cell type=B cell | dev stage=adult | donor ID=ENCDO383AQS
+SRX16495441	CTCF	Blood	B cells	age=22 year | sample type=primary cell | cell type=B cell | dev stage=adult | donor ID=ENCDO383AQS
+SRX16495546	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO218FFZ
+SRX16495547	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO218FFZ
+SRX16495548	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO218FFZ
+SRX16495582	CTCF	Blood	B cells	age=22 year | sample type=primary cell | cell type=activated B cell | dev stage=adult | donor ID=ENCDO383AQS
+SRX16495583	CTCF	Blood	B cells	age=22 year | sample type=primary cell | cell type=activated B cell | dev stage=adult | donor ID=ENCDO383AQS
+SRX16495589	CTCF	Cardiovascular	Right ventricle	age=55 year | sample type=tissue | tissue=heart right ventricle | health state=ischemic (EF 25% LVEDD 6.9; RV normal size, moderate dysfunction) | dev stage=adult | donor ID=ENCDO439CAZ
+SRX16495662	CTCF	Blood	CD8+ T cells	age=21 year | sample type=primary cell | cell type=CD8-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO781BMZ
+SRX16495663	CTCF	Blood	CD8+ T cells	age=21 year | sample type=primary cell | cell type=CD8-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO781BMZ
+SRX16495698	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO470GFA
+SRX16495699	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO470GFA
+SRX16495700	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO470GFA
+SRX16495716	CTCF	Gonad	Ovary	age=41 year | sample type=tissue | tissue=ovary | health state=DM: no; HTN: no; CAD: no | dev stage=adult | donor ID=ENCDO575WHY
+SRX16495762	CTCF	Blood	CD8+ T cells	age=21 year | sample type=primary cell | cell type=activated CD8-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO781BMZ
+SRX16495802	CTCF	Neural	Frontal cortex	tissue=middle frontal area 46 | sample type=tissue | dev_stage=adult | age=79 year | donor ID=ENCDO609ZOG
+SRX16497621	CTCF	Neural	Frontal cortex	age=89 year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO853VGZ
+SRX16497627	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO258GJF
+SRX16497667	CTCF	Neural	Frontal cortex	age=83 year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO736YJH
+SRX16498393	CTCF	Muscle	Psoas Muscles	age=41 year | sample type=tissue | tissue=psoas muscle | health state=DM: no; HTN: no; CAD: no | dev stage=adult | donor ID=ENCDO575WHY
+SRX16498417	CTCF	Digestive tract	Colonic mucosa	tissue=colonic mucosa | sample type=tissue | dev_stage=adult | age=41 year | donor ID=ENCDO575WHY | health state=DM: no; HTN: no; CAD: no
+SRX16498444	CTCF	Blood	Monocytes-CD14+	age=30 year | sample type=primary cell | cell type=CD14-positive monocyte | dev stage=adult | donor ID=ENCDO544CHQ
+SRX16498445	CTCF	Blood	Monocytes-CD14+	age=30 year | sample type=primary cell | cell type=CD14-positive monocyte | dev stage=adult | donor ID=ENCDO544CHQ
+SRX16498461	CTCF	Lung	Lung	age=60 year | sample type=tissue | tissue=upper lobe of right lung | health state=DM: no; HTN: yes; CAD: no; lungs with severe emphysema | dev stage=adult | donor ID=ENCDO520EJG
+SRX16499683	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO223NTQ
+SRX16499730	CTCF	Blood	CD4+ T cells	age=20 year | sample type=primary cell | cell type=activated CD4-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO394DKX
+SRX16499731	CTCF	Blood	CD4+ T cells	age=20 year | sample type=primary cell | cell type=activated CD4-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO394DKX
+SRX16499812	CTCF	Neural	Frontal cortex	age=89 year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO843TIL
+SRX16499854	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO730UYW
+SRX16499914	CTCF	Neural	Frontal cortex	age=82 year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO290OPS
+SRX16499926	CTCF	Cardiovascular	Left ventricle	tissue=heart left ventricle | sample type=tissue | dev_stage=adult | age=55 year | donor ID=ENCDO439CAZ | health state=ischemic (EF 25% LVEDD 6.9; RV normal size, moderate dysfunction)
+SRX16499969	CTCF	Liver	Liver	age=16 year | sample type=tissue | tissue=right lobe of liver | health state=DM: no; HTN: no; CAD: no | dev stage=child | donor ID=ENCDO575EGL
+SRX16499975	CTCF	Liver	Liver	age=41 year | sample type=tissue | tissue=right lobe of liver | health state=DM: no; HTN: no; CAD: no | dev stage=adult | donor ID=ENCDO575WHY
+SRX16500013	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO597SRH
+SRX16500014	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO597SRH
+SRX16500015	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO597SRH
+SRX16500060	CTCF	Neural	Neural progenitor cells	sample type=in vitro differentiated cells | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=neural progenitor cell
+SRX16500062	CTCF	Neural	Neural progenitor cells	biosample type=in vitro differentiated cells | health state=healthy | dev_stage=embryonic | age=5 day | donor ID=ENCDO222AAA | cell type=neural progenitor cell
+SRX16500097	CTCF	Blood	Natural killer cells	age=33 year | sample type=primary cell | cell type=natural killer cell | dev stage=adult | donor ID=ENCDO195VEA
+SRX16500098	CTCF	Blood	Natural killer cells	age=33 year | sample type=primary cell | cell type=natural killer cell | dev stage=adult | donor ID=ENCDO195VEA
+SRX16500125	CTCF	Blood	CD4+ T cells	age=20 year | sample type=primary cell | cell type=CD4-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO394DKX
+SRX16500126	CTCF	Blood	CD4+ T cells	age=20 year | sample type=primary cell | cell type=CD4-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO394DKX
+SRX16500150	CTCF	Lung	Lung	age=60 year | sample type=tissue | tissue=lower lobe of right lung | health state=DM: no; HTN: yes; CAD: no; lungs with severe emphysema | dev stage=adult | donor ID=ENCDO520EJG
+SRX16500176	CTCF	Neural	Frontal cortex	age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO197QVG
+SRX16608128	NFYB	Blood	B cells	source_name=B cells | cell line=B cells | cell type=Normal
+SRX17658243	UBE2A	Muscle	Skeletal muscle	source_name=Skeletal muscle cell | cell type=Primary Skeletal Muscle Cells, ATCC, PCS-950-010, adapted to 10% FBS in DMEM | chip antibodies=anti-UBE2A polyclonal antibody(PA5-29940) | treatment=untreated
+SRX1781655	LMNA	Epidermis	Dermal fibroblast	source_name=primary dermal fibroblasts | passages=5-7 | genotype=lipodystrophy patient with LMNA p.R482W mutation | cell type=Fibroblasts
+SRX17834084	BATF	Blood	T cells	source_name=blood | tissue=blood | cell type=Primary T cells | genotype=CAR-T WT | treatment=co-culture with NCI-H226-luciferase at E:T=2:1 for 24h
+SRX1799593	TBX21	Blood	Th1 Cells	source_name=In vitro differentiated Th1 cells | cell type=Th1 | treatment/agent=anti-CD3/CD28
+SRX18031709	YAP1	Lung	Bronchial epithelial cells	source_name=Human Bronchial Epithelial Cells
+SRX18031711	TP63	Lung	Bronchial epithelial cells	source_name=Human Bronchial Epithelial Cells
+SRX18156223	FOXA2	Liver	Liver	source_name=Liver | tissue=liver | disease state=Mild NAFLD
+SRX18156224	FOXA2	Liver	Liver	source_name=Liver | tissue=liver | disease state=Mild NAFLD
+SRX18156226	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=Mild NAFLD
+SRX18156227	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=Mild NAFLD
+SRX1823798	BRD4	Bone	Osteoblasts	source_name=DIF_BRD4 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX1823799	BRD4	Bone	Osteoblasts	source_name=DIF_BRD4 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX1823801	BRD4	Bone	Osteoblasts	source_name=UND_BRD4 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=undifferentiated
+SRX1823802	BRD4	Bone	Osteoblasts	source_name=UND_BRD4 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=undifferentiated
+SRX1823810	CEBPB	Bone	Osteoblasts	source_name=DIF_CEBPb | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX1823812	FOSL2	Bone	Osteoblasts	source_name=DIF_FOSL2 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX1823814	JUND	Bone	Osteoblasts	source_name=DIF_JUND | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX1823816	TEAD1	Bone	Osteoblasts	source_name=DIF_TEAD1 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX1823818	STAT3	Bone	Osteoblasts	source_name=DIF_STAT3 | immortalization type=SV40 large T antigen immortalized | cell type=human Fetal Osteoblasts (hFOB) | protocol=differentiated for 5 days into osteoblastic lineage
+SRX18517801	NUP98	Epidermis	Keratinocytes	source_name=human keratinocytes | treatment=None | cell type=primary human neonatal keratinocytes | tissue=Foreskin
+SRX18517814	HDAC1	Epidermis	Keratinocytes	source_name=human keratinocytes | treatment=None | cell type=primary human neonatal keratinocytes | tissue=Foreskin
+SRX18672590	CTCF	Neural	Microglia	source_name=Microglia | cell line=C20 | treatment=untreated
+SRX18672591	CTCF	Neural	Microglia	source_name=Microglia | cell line=C20 | treatment=untreated
+SRX18672593	CTCF	Neural	Microglia	source_name=Microglia | cell line=C20 | treatment=CTCF-KD
+SRX18768994	LMNA	Adipocyte	Adipose stem cells	source_name=Adipose | cell type=Human primary adipose stem cells | tissue=Adipose | time=Day 0
+SRX18768996	LMNA	Adipocyte	Adipose stem cells	source_name=Adipose | cell type=Human primary adipose stem cells | tissue=Adipose | time=Day 1
+SRX18768998	LMNA	Adipocyte	Adipose stem cells	source_name=Adipose | cell type=Human primary adipose stem cells | tissue=Adipose | time=Day 3
+SRX19123214	DAXX	Blood	B cells	source_name=Human B lymphocytes | cell line=Human B lymphocytes | disease state=C9HRE ALS/FTD
+SRX19304538	CTCF	Adipocyte	Adipose stem cells	source_name=subcutaneous gluteofemoral fat | tissue=subcutaneous gluteofemoral fat | cell line=adipose derived stem cells (ASC) | cell type=stem cells
+SRX19304559	CTCF	Adipocyte	Adipose stem cells	source_name=subcutaneous abdominal fat | tissue=subcutaneous abdominal fat | cell line=adipose derived stem cells (ASC) | cell type=stem cells
+SRX19304625	CTCF	Adipocyte	Adipose stem cells	source_name=subcutaneous gluteofemoral fat | tissue=subcutaneous gluteofemoral fat | cell line=adipose derived stem cells (ASC) | cell type=stem cells
+SRX19304635	CTCF	Adipocyte	Adipose stem cells	source_name=subcutaneous gluteofemoral fat | tissue=subcutaneous gluteofemoral fat | cell line=adipose derived stem cells (ASC) | cell type=stem cells
+SRX19304655	CTCF	Adipocyte	Adipose stem cells	source_name=subcutaneous abdominal fat | tissue=subcutaneous abdominal fat | cell line=adipose derived stem cells (ASC) | cell type=stem cells
+SRX19487525	NFE2L2	Blood	Erythroid progenitors	source_name=Day-12 cultured erythroid progenitors from SCD patient | age=2-3 month | treatment=PBS
+SRX19487527	NFE2L2	Blood	Erythroid progenitors	source_name=Day-12 cultured erythroid progenitors from SCD patient | age=2-3 month | treatment=L2HG
+SRX19538280	TP53	Bone	Osteoblasts	source_name=Osteoblast | cell line=Osteoblast | cell type=Osteoblast | genotype=p53 WT/WT
+SRX19538282	TP53	Bone	Osteoblasts	source_name=Osteoblast | cell line=Osteoblast | cell type=Osteoblast | genotype=p53 WT/A347D
+SRX19664487	BANF1	Others	Mesenchymal stem cells	source_name=hBM-MSC-TERT4 | cell line=hBM-MSC-TERT4 | time=0 hrs | treatment=undifferentiated
+SRX19738543	EZH2	Neural	Astrocytes	source_name=Immortalized human astrocytes (Sanoda 2001) | treatment=treated with CRISPRa system with Control sgRNAs for 14 days | cell type=Immortalized human astrocytes (Sanoda 2001)
+SRX19738545	EZH2	Neural	Astrocytes	source_name=Immortalized human astrocytes (Sanoda 2001) | treatment=treated with CRISPRa system with sgRNAs for HOXDeRNA activation for 14 days | cell type=Immortalized human astrocytes (Sanoda 2001)
+SRX200048	LMNA	Epidermis	Forearm skin	source_name=normal forearm skin biopsy, lamin ChIP | disease status=normal | tissue=forearm skin biopsy | cell type=fibroblasts | gender=male | cell line=HGFDFN168 | passage=16
+SRX200052	LMNA	Epidermis	Forearm skin	source_name=patient forearm skin biopsy, lamin ChIP | disease status=Hutchinson-Gilford progeria syndrome | tissue=forearm skin biopsy | cell type=fibroblasts | gender=male | cell line=HGADFN167 | passage=16
+SRX20093962	LMNA	Epidermis	Dermal fibroblast	source_name=HDF1 | cell line=HDF1 | cell type=Human dermal fibroblasts
+SRX20097674	VDR	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=Vehicle
+SRX20097675	VDR	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=Vehicle
+SRX20097677	VDR	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=1,25D3
+SRX20097678	VDR	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=1,25D3
+SRX20097680	TP63	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=Vehicle
+SRX20097682	TP63	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=1,25D3
+SRX20097684	CTCF	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=1,25D3
+SRX20097686	MED1	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell type=cultured keratinocyte | treatment=1,25D3
+SRX2013091	MYCN	Blood	CD34 Hematopoietic stem cells	source_name=bone marrow CD34+ cells, untreated | cell type=human bone marrow hematopoietic stem and progenitor cells
+SRX2013092	MYCN	Blood	CD34 Hematopoietic stem cells	source_name=bone marrow CD34+ cells, untreated | cell type=human bone marrow hematopoietic stem and progenitor cells
+SRX2013093	MYCN	Blood	CD34 Hematopoietic stem cells	source_name=bone marrow CD34+ cells, untreated | cell type=human bone marrow hematopoietic stem and progenitor cells
+SRX20140861	SOX2	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=wt | treatment=No treatment
+SRX20140862	SOX2	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=wt | treatment=No treatment
+SRX20140868	INTS10	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=wt | treatment=No treatment
+SRX20140870	INTS10	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=INTS10HET2 | treatment=No treatment
+SRX20140880	CPSF3L	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=wt | treatment=No treatment
+SRX20140882	CPSF3L	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=INTS10HET2 | treatment=No treatment
+SRX20140891	SOX2	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=INTS10HET2 | treatment=No treatment
+SRX20140892	SOX2	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=INTS10HET2 | treatment=No treatment
+SRX20140895	INTS13	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=wt | treatment=No treatment
+SRX20140897	INTS13	Neural	Neural progenitor cells	source_name=NPC | cell line=NPC | cell type=neuronal progenitor cell differentated from pluripotent stem cells | genotype=INTS10HET2 | treatment=No treatment
+SRX20419391	HDAC1	Epidermis	Keratinocytes	source_name=human keratinoctyes | treatment=none | cell type=primary human neonatal keratinocytes | tissue=Foreskin
+SRX205165	TAL1	Blood	Erythroid Cells	source_name=Erythroid cells | cell type=Erythroid cells | culture=Two-phase culture system as from Pope SH et al Two-phase liquid culture system models normal human adult erythropoiesis at the molecular level. Eur J Haematol. 2000;64:292-303 | time=10 days | individual=C1
+SRX205167	TAL1	Blood	Erythroid Cells	source_name=Erythroid cells | cell type=Erythroid cells | culture=Two-phase culture system as from Pope SH et al Two-phase liquid culture system models normal human adult erythropoiesis at the molecular level. Eur J Haematol. 2000;64:292-303 | time=10 days | individual=C2
+SRX20517422	HDAC1	Epidermis	Keratinocytes	source_name=human keratinoctyes | treatment=none | cell type=primary human neonatal keratinocytes | tissue=Foreskin
+SRX20662342	CBFB	Muscle	Skeletal muscle	source_name=Skeletal muscle cell | cell type=Primary Skeletal Muscle Cells, ATCC, PCS-950-010, adapted to 10% FBS in DMEM | chip antibodies=CBFβ (D4N2N) Rabbit mAb (#62184S) | treatment=untreated
+SRX20871833	IRX2	Cardiovascular	Cardiac fibroblasts	source_name=Human cardiac fibroblast | cell type=Human cardiac fibroblast
+SRX20995042	MTA2	Epidermis	Keratinocytes	source_name=skin | tissue=skin | cell type=Keratinocytes
+SRX20995043	MTA2	Epidermis	Keratinocytes	source_name=skin | tissue=skin | cell type=Keratinocytes
+SRX20995045	MTA2	Epidermis	Keratinocytes	source_name=skin | tissue=skin | cell type=Keratinocytes
+SRX20995046	MTA2	Epidermis	Keratinocytes	source_name=skin | tissue=skin | cell type=Keratinocytes
+SRX20995047	MTA2	Epidermis	Keratinocytes	source_name=skin | tissue=skin | cell type=Keratinocytes
+SRX2166895	CTCF	Neural	Retina	source_name=retina | disease state=retinoblastoma xenograft
+SRX22001610	CTCF	Uterus	Myometrium	source_name=Myometrium | pregnancy day=Term not in labor
+SRX22001613	CTCF	Uterus	Myometrium	source_name=Myometrium | pregnancy day=Term not in labor
+SRX2253220	CD74	Blood	B cells	source_name=Cll cells | diagnosis=CLL | patient number=p1 | patient age=71 | patient sex=Male | disease level=Binet B | activation=CD74 | cell type=B cells
+SRX2253223	CD74	Blood	B cells	source_name=Cll cells | diagnosis=CLL | patient number=p2 | patient age=70 | patient sex=Male | disease level=Binet B | activation=CD74 | cell type=B cells
+SRX2253226	CD74	Blood	B cells	source_name=Cll cells | diagnosis=CLL | patient number=p4 | patient age=75 | patient sex=Male | disease level=Binet B | activation=CD74 | cell type=B cells
+SRX23045261	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=Vehicle
+SRX23045262	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=Vehicle
+SRX23045264	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=TGFb
+SRX23045265	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=TGFb
+SRX23045267	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=TGFb+Adropin34-76
+SRX23045268	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=TGFb+Adropin34-76
+SRX23335287	EZH2	Epidermis	Foreskin	source_name=foreskin fibroblasts | cell type=foreskin fibroblasts | age=0 | passage number=2
+SRX23335293	EZH2	Blood	CD4+ T cells	source_name=CD4 T-cells | cell type=CD4 T-cells | age=17 | passage number=None
+SRX23383575	TP63	Epidermis	Keratinocytes	source_name=epidermis | tissue=epidermis | cell line=primary, neonatal keratinocytes | cell type=progenitor
+SRX23383577	TP63	Epidermis	Keratinocytes	source_name=epidermis | tissue=epidermis | cell line=primary, neonatal keratinocytes | cell type=differentiated
+SRX2339193	CREBBP	Blood	B cells	source_name=germinal center B cells from human reactive tonsil | tissue=tonsil | cell type=germinal center B cell
+SRX2343923	NOTCH1	Cardiovascular	Large pulmonary artery endothelial cells	source_name=Large pulmonary artery endothelial cells | tissue=Large pulmonary artery endothelial cells | passages=7
+SRX2343924	NOTCH1	Cardiovascular	Large pulmonary artery endothelial cells	source_name=Large pulmonary artery endothelial cells | tissue=Large pulmonary artery endothelial cells | passages=7
+SRX2343925	NOTCH1	Cardiovascular	Large pulmonary artery endothelial cells	source_name=Large pulmonary artery endothelial cells | tissue=Large pulmonary artery endothelial cells | passages=7
+SRX2343935	EP300	Cardiovascular	Large pulmonary artery endothelial cells	source_name=Large pulmonary artery endothelial cells | tissue=Large pulmonary artery endothelial cells | passages=6
+SRX2343936	EP300	Cardiovascular	Large pulmonary artery endothelial cells	source_name=Large pulmonary artery endothelial cells | tissue=Large pulmonary artery endothelial cells | passages=6
+SRX2343937	EP300	Cardiovascular	Large pulmonary artery endothelial cells	source_name=Large pulmonary artery endothelial cells | tissue=Large pulmonary artery endothelial cells | passages=6
+SRX24727518	STAT6	Blood	Monocytes	source_name=blood | tissue=blood | cell type=monocyte
+SRX24727519	STAT6	Blood	Monocytes	source_name=blood | tissue=blood | cell type=monocyte
+SRX24727520	STAT6	Blood	Monocytes	source_name=blood | tissue=blood | cell type=monocyte
+SRX24727521	STAT6	Blood	Monocytes	source_name=blood | tissue=blood | cell type=monocyte
+SRX25399425	REST	Epidermis	Foreskin	source_name=neonatal foreskin | tissue=neonatal foreskin | cell type=NHEM | disease stage=normal
+SRX25399426	REST	Epidermis	Foreskin	source_name=neonatal foreskin | tissue=neonatal foreskin | cell type=NHEM | disease stage=normal
+SRX25399427	REST	Epidermis	Foreskin	source_name=neonatal foreskin | tissue=neonatal foreskin | cell type=NHEM | disease stage=normal
+SRX25399428	REST	Epidermis	Foreskin	source_name=neonatal foreskin | tissue=neonatal foreskin | cell type=NHEM | disease stage=normal
+SRX25501808	LMNA	Epidermis	Dermal fibroblast	source_name=skin | tissue=skin | cell line=HDF-1 | cell type=Human dermal fibroblasts | treatment=With AR silencing
+SRX25501811	LMNA	Epidermis	Dermal fibroblast	source_name=skin | tissue=skin | cell line=HDF-1 | cell type=Human dermal fibroblasts | treatment=With AR silencing
+SRX25501812	LMNA	Epidermis	Dermal fibroblast	source_name=skin | tissue=skin | cell line=HDF-1 | cell type=Human dermal fibroblasts | treatment=With AR silencing
+SRX25501818	LMNA	Epidermis	Dermal fibroblast	source_name=skin | tissue=skin | cell line=HDF-2 | cell type=Human dermal fibroblasts | treatment=With AR silencing
+SRX25501819	LMNA	Epidermis	Dermal fibroblast	source_name=skin | tissue=skin | cell line=HDF-2 | cell type=Human dermal fibroblasts | treatment=With AR silencing
+SRX25605817	DNA-RNA hybrid	Epidermis	Foreskin	source_name=Foreskin | tissue=Foreskin | cell line=HFKs | cell type=Keratinocytes | treatment=None
+SRX2630138	GABPA	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2630287	NR2F2	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2630319	JUND	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2630359	RAD21	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2630361	ATF3	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2630463	TAF1	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2635807	NR2F2	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2635822	ZBTB33	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2635826	GABPA	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2635878	FOXA1	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2635903	YY1	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2635952	ATF3	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2635956	ZBTB33	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2635980	MAX	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2636009	HNF4A	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2636084	HNF4A	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2636093	CTCF	Neural	Bipolar spindle neurons	age=53 year | donor ID=ENCDO336AAA | dev stage=adult | sample type=in vitro differentiated cells | cell type=bipolar spindle neuron
+SRX2636235	FOXA1	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2636353	JUND	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2636405	SMARCA4	Neural	Bipolar spindle neurons	age=53 year | donor ID=ENCDO336AAA | dev stage=adult | sample type=in vitro differentiated cells | cell type=bipolar spindle neuron
+SRX2636489	RAD21	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX2636588	YY1	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2636602	MAX	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX2661481	STAT3	Blood	Th17 Cells	source_name=Th17_STAT3 | tissue=healthy neonates | tissue=Umbilical cord blood | cell type=primary human CD4+ T cells
+SRX2661483	STAT3	Blood	Th17 Cells	source_name=Th17_STAT3 | tissue=healthy neonates | tissue=Umbilical cord blood | cell type=primary human CD4+ T cells
+SRX2731775	CTCF	Neural	Neuroblastoma	source_name=Neuroblastoma | cell line=SHEP-21N | input=SHEP21_0HR_INPUT | treatment=None | growth protocol=10% Tet-Free FBS, RPMI
+SRX2731786	MYCN	Neural	Neuroblastoma	source_name=Neuroblastoma | cell line=SHEP with tetracycline inducible MYCN | input=SHEP_INPUT | treatment=0.2ug/ml doxycycline | growth protocol=10% Tet-Free FBS, RPMI
+SRX2731789	MYCN	Neural	Neuroblastoma	source_name=Neuroblastoma | cell line=SHEP with tetracycline inducible MYCN | input=SHEP_INPUT | treatment=0.2ug/ml doxycycline | growth protocol=10% Tet-Free FBS, RPMI
+SRX2770845	CEBPB	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, IFN-γ, C/EBPB ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=IFN-gamma
+SRX2770847	CEBPB	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, untreated, C/EBPB ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=none
+SRX2770855	SPI1	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, IFN-γ, PU.1 ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=IFN-gamma
+SRX2770857	SPI1	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, untreated, PU.1 ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=none
+SRX2770860	SMC1A	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, untreated, SMC1 ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=none
+SRX2821737	FOSL1	Blood	CD4+ T cells	source_name=blood | tissue=blood | cell type=CD4+ T cells | treatment=resting | fixation=fixed
+SRX2821739	FOSL1	Blood	CD4+ T cells	source_name=blood | tissue=blood | cell type=CD4+ T cells | treatment=stimulated | fixation=fixed
+SRX2941476	PBXIP1	Bone	Chondrocytes	source_name=Cartilage | cell type=Chondrocytes | passages=Primary
+SRX2966969	POU5F1	Gonad	Testis	source_name=Fetal testis | cell type=2nd trimester human fetal testis
+SRX3010016	CTCF	Liver	Hepatocytes	age=5 day | donor ID=ENCDO222AAA | dev stage=embryonic | sample type=in vitro differentiated cells | cell type=hepatocyte | health state=healthy
+SRX3010017	CTCF	Liver	Hepatocytes	age=5 day | donor ID=ENCDO222AAA | dev stage=embryonic | sample type=in vitro differentiated cells | cell type=hepatocyte | health state=healthy
+SRX3010191	CTCF	Neural	Bipolar spindle neurons	age=53 year | donor ID=ENCDO336AAA | dev stage=adult | sample type=in vitro differentiated cells | cell type=bipolar spindle neuron
+SRX3010195	EZH2	Neural	Bipolar spindle neurons	age=53 year | donor ID=ENCDO336AAA | dev stage=adult | sample type=in vitro differentiated cells | cell type=bipolar spindle neuron
+SRX3010220	CTCF	Blood	Neutrophils	dev stage=unknown | cell type=neutrophil | sample type=primary cell | donor ID=ENCDO055UKA | age=unknown
+SRX3010298	EZH2	Liver	Hepatocytes	age=5 day | donor ID=ENCDO222AAA | dev stage=embryonic | sample type=in vitro differentiated cells | cell type=hepatocyte | health state=healthy
+SRX3056629	CTCF	Blood	Erythroblasts	source_name=Adult erythroblasts_CTCF_ChIP | tissue=Adult peripheral blood | cell type=CD34+ derived erythroblasts | differentiation stage=Day 11
+SRX3089968	NCOA4	Blood	Erythroblasts	source_name=erythroblasts | cell type=erythroblasts
+SRX3240988	MED1	Others	Mesenchymal stem cells	source_name=hMSC-TERT4_MED1_D0 | cell line=hMSC-TERT4 | differentiation stage=D0
+SRX3240990	MED1	Others	Mesenchymal stem cells	source_name=hMSC-TERT4_MED1_4h | cell line=hMSC-TERT4 | differentiation stage=4h
+SRX3240992	MED1	Others	Mesenchymal stem cells	source_name=hMSC-TERT4_MED1_D1 | cell line=hMSC-TERT4 | differentiation stage=D1
+SRX3240994	MED1	Others	Mesenchymal stem cells	source_name=hMSC-TERT4_MED1_D3 | cell line=hMSC-TERT4 | differentiation stage=D3
+SRX3240996	MED1	Others	Mesenchymal stem cells	source_name=hMSC-TERT4_MED1_D7 | cell line=hMSC-TERT4 | differentiation stage=D7
+SRX3240998	MED1	Others	Mesenchymal stem cells	source_name=hMSC-TERT4_MED1_D14 | cell line=hMSC-TERT4 | differentiation stage=D14
+SRX3244993	CEBPB	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes
+SRX3288978	IRF3	Lung	Bronchial tracheal epithelial cells	source_name=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | cell type=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | passage=&lt;10
+SRX3288979	IRF3	Lung	Bronchial tracheal epithelial cells	source_name=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | cell type=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | passage=&lt;10
+SRX3288980	IRF3	Lung	Bronchial tracheal epithelial cells	source_name=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | cell type=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | passage=&lt;10
+SRX3288981	IRF3	Lung	Bronchial tracheal epithelial cells	source_name=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | cell type=Primary Human Bronchial/Tracheal Epithelial Cells (HBTEC) | passage=&lt;10
+SRX3321880	FOXA2	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX3322104	CTCF	Prostate	Prostate epithelial cells	cell type=epithelial cell of prostate | sample_type=primary cell | age=unknown | donor ID=ENCDO569WSJ | dev_stage=unknown
+SRX3322185	HNF4G	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX3322234	FOXA2	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX3323032	REST	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX3323082	REST	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX3445723	ZNF341	Blood	B cells	source_name=ZNF341_ChIPSeq, EBV-transformed B cells | cell type=EBV-transformed B cells
+SRX3511908	YAP1	Epidermis	Dermal fibroblast	source_name=HDF | cell type=Dermal fibroblast (LONZA CC-2511) | passage=Passage 9 | treatment=5 ng TGFb1/mL for 24h
+SRX3511910	YAP1	Epidermis	Dermal fibroblast	source_name=HDF | cell type=Dermal fibroblast (LONZA CC-2511) | passage=Passage 9 | treatment=control
+SRX3584193	AR	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584194	AR	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584195	AR	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584197	RUNX1	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584198	RUNX1	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584199	RUNX1	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584201	CEBPB	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584202	CEBPB	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3584203	CEBPB	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3586330	NR3C1	Blood	Macrophages	source_name=Adult Human Peripheral Blood | tissue=Adult Human Peripheral Blood | cell type=Macrophages | donor=Buffycoat 11
+SRX3586332	NR3C1	Blood	Macrophages	source_name=Adult Human Peripheral Blood | tissue=Adult Human Peripheral Blood | cell type=Macrophages | donor=Buffycoat 45
+SRX3586366	RUNX1	Blood	Pre-B lymphoblast cells	source_name=Pre-B lymphoblast cells | cell type=Blast from BCP-ALL patient | tissue=Bone marrow | disease state=Human BCP-ALL
+SRX3586367	RUNX1	Blood	Pre-B lymphoblast cells	source_name=Pre-B lymphoblast cells | cell type=Blast from BCP-ALL patient | tissue=Bone marrow | disease state=Human BCP-ALL
+SRX3642947	PRMT1	Epidermis	Keratinocytes	source_name=human keratinoctyes expressing HA-PRMT1 | cell type=primary human neonatal keratinocytes
+SRX3642948	PRMT1	Epidermis	Keratinocytes	source_name=human keratinoctyes expressing HA-PRMT1 | cell type=primary human neonatal keratinocytes
+SRX3642949	PRMT1	Epidermis	Keratinocytes	source_name=human keratinoctyes expressing HA-PRMT1 | cell type=primary human neonatal keratinocytes
+SRX3655131	PBX1	Blood	Natural Killer T-Cells	source_name=Decidua NK cells | tissue=decidua tissue | cell type=CD56+CD3- NK cells
+SRX3666490	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 45 | subject id=45 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666492	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 45 | subject id=45 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666496	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 90 | subject id=90 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666498	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 90 | subject id=90 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666502	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 104 | subject id=104 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666504	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 104 | subject id=104 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666508	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 116 | subject id=116 | cell type=PHA-stimulated human T-lymphocytes
+SRX3666510	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 116 | subject id=116 | cell type=PHA-stimulated human T-lymphocytes
+SRX3703142	MEF2B	Blood	B cells	source_name=germinal center B cells | tissue=tonsil
+SRX3768714	MLLT3	Blood	CD34 Hematopoietic stem cells	source_name=human FL CD34+CD38-/lowCD90+ | cell type=FL-HSPC
+SRX3768715	MLLT3	Blood	CD34 Hematopoietic stem cells	source_name=human FL CD34+CD38-/lowCD90+ | cell type=FL-HSPC
+SRX3768721	MLLT3	Blood	Erythroblasts	source_name=human FL CD34-CD71+CD235a+ | cell type=FL-Erythroblasts
+SRX382354	RNF2	Epidermis	Melanocytes	source_name=Hmel human melanocytes, RNF2 ChIP | cell line=HMEL-BRAFV600E | cell type=immortalized melanocytes
+SRX3946905	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteoblast diff 7d | cell line=BM-hMSC-TERT4 | differentiation status=osteoblast | timepoint=7d
+SRX3946907	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteoblast diff 3d | cell line=BM-hMSC-TERT4 | differentiation status=osteoblast | timepoint=3d
+SRX3946909	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteoblast diff 1d | cell line=BM-hMSC-TERT4 | differentiation status=osteoblast | timepoint=1d
+SRX3946911	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteoblast diff 4h | cell line=BM-hMSC-TERT4 | differentiation status=osteoblast | timepoint=4h
+SRX3946913	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 undifferentiated | cell line=BM-hMSC-TERT4 | differentiation status=undifferentiated | timepoint=n/a
+SRX3946915	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteAdlast diff 4h | cell line=BM-hMSC-TERT4 | differentiation status=adipocyte | timepoint=4h
+SRX3946917	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteAdlast diff 1d | cell line=BM-hMSC-TERT4 | differentiation status=adipocyte | timepoint=1d
+SRX3946919	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteAdlast diff 3d | cell line=BM-hMSC-TERT4 | differentiation status=adipocyte | timepoint=3d
+SRX3946921	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteAdlast diff 7d | cell line=BM-hMSC-TERT4 | differentiation status=adipocyte | timepoint=7d
+SRX3946923	MED1	Others	Mesenchymal stem cells	source_name=BM-hMSC-TERT4 osteAdlast diff 14d | cell line=BM-hMSC-TERT4 | differentiation status=adipocyte | timepoint=14d
+SRX396253	TP53	Others	Fibroblasts	source_name=diploid fibroblast | factor=p53 | condition=RIS
+SRX396256	TP53	Others	Fibroblasts	source_name=diploid fibroblast | factor=p53 | condition=DDR
+SRX396257	TP53	Others	Fibroblasts	source_name=diploid fibroblast | factor=p53 | condition=DDR
+SRX396258	TP53	Others	Fibroblasts	source_name=diploid fibroblast | factor=p53 | condition=DDR
+SRX4046303	CXXC1	Blood	Erythroblasts	source_name=erythroblast | cell type=Adult erythroblasts | number of sonications=1
+SRX4174971	PPARG	Adipocyte	Adipocytes	source_name=Adipocytes | agent=none | cell type=hASC-derived adipocytes
+SRX4174972	PPARG	Adipocyte	Adipocytes	source_name=Adipocytes | agent=none | cell type=hASC-derived adipocytes
+SRX4174973	PPARG	Adipocyte	Adipocytes	source_name=Adipocytes | agent=none | cell type=hASC-derived adipocytes
+SRX4174974	PPARG	Adipocyte	Adipocytes	source_name=Adipocytes | agent=none | cell type=hASC-derived adipocytes
+SRX4212572	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Mutated CLL | ngs seq=ChIP seq
+SRX4212574	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Mutated CLL | ngs seq=ChIP seq
+SRX4212578	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Unmutated CLL | ngs seq=ChIP seq
+SRX4212580	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Unmutated CLL | ngs seq=ChIP seq
+SRX4212589	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Unmutated CLL | ngs seq=ChIP seq
+SRX4212591	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Unmutated CLL | ngs seq=ChIP seq
+SRX4212595	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Mutated CLL | ngs seq=ChIP seq
+SRX4212597	EZH2	Blood	Peripheral blood mononuclear cells	source_name=Peripheral blood mononuclear cell | tumor type=Chronic lymphocytic leukemia | tumor classification=IGHV Mutated CLL | ngs seq=ChIP seq
+SRX4284004	CTCF	Blood	B cells	source_name=B-lymphocytes | cell line=GM09236 | tissue=B-lymphocytes
+SRX4284008	CTCF	Blood	B cells	source_name=B-lymphocytes | cell line=GM09237 | tissue=B-lymphocytes
+SRX4284012	CTCF	Blood	B cells	source_name=B-lymphocytes | cell line=GM04025 | tissue=B-lymphocytes
+SRX4345357	NFATC2	Blood	CD4+ T cells	source_name=ChIP-seq_NFAT1_Act.5 h | subject status=healthy donor | tissue=peripheral blood | cell type=primary naive CD4 T cells | activation=Act. 5 h with anti-CD3 and -CD28 antibodies
+SRX4345359	NFATC2	Blood	CD4+ T cells	source_name=ChIP-seq_NFAT1_Act.5 h_without_CD28 | subject status=healthy donor | tissue=peripheral blood | cell type=primary naive CD4 T cells | activation=Act. 5 h with anti-CD3 antibody
+SRX4345361	NFATC1	Blood	CD4+ T cells	source_name=ChIP-seq_NFAT2_Act.5 h | subject status=healthy donor | tissue=peripheral blood | cell type=primary naive CD4 T cells | activation=Act. 5 h with anti-CD3 and -CD28 antibodies
+SRX4345366	NFKB1	Blood	CD4+ T cells	source_name=ChIP-seq_NFƘB_Act.5 h | subject status=healthy donor | tissue=peripheral blood | cell type=primary naive CD4 T cells | activation=Act. 5 h with anti-CD3 and -CD28 antibodies
+SRX4389613	CBX4	Others	Mesenchymal stem cells	source_name=CBX4-/- hMSC induced with lentiviruses expressing Flag-CBX4, sample incubated with Flag antibody | cell type=MSC | passages=p8
+SRX447388	LMNA	Epidermis	Dermal fibroblast	source_name=normal primary dermal fibroblasts | cell line=-- | cell type=normal primary dermal fibroblasts | passages=5-7
+SRX469460	EBF1	Adipocyte	Adipose stromal cell	source_name=hASC_anti_EBF1 | cell type=Adipose stromal cell (ASC) adipocyte
+SRX4712348	LDB1	Blood	Macrophages	source_name=differentiated macrophages - acute monocytic leukemia derived | cell type=differentiated macrophages - acute monocytic leukemia derived
+SRX476914	SNAI2	Epidermis	Keratinocytes	source_name=keratinocytes_control shRNA_growth medium_SNAI2-ChIPseq | cell type=Human keratinocytes | genotype/variation=control shRNA | culture medium=growth medium
+SRX476916	SNAI2	Epidermis	Keratinocytes	source_name=keratinocytes_SNAI2 knockdown_growth medium_SNAI2-ChIPseq | cell type=Human keratinocytes | genotype/variation=SNAI2 knockdown (SNAI2 shRNA) | culture medium=growth medium
+SRX476920	SNAI2	Epidermis	Keratinocytes	source_name=keratinocytes_overexpressing LACZ_growth medium_SNAI2-ChIPseq | cell type=Human keratinocytes | genotype/variation=overexpressing LACZ | culture medium=growth medium
+SRX476922	SNAI2	Epidermis	Keratinocytes	source_name=keratinocytes_overexpressing SNAI2_growth medium_SNAI2-ChIPseq | cell type=Human keratinocytes | genotype/variation=overexpressing SNAI2 | culture medium=growth medium
+SRX476924	SNAI2	Epidermis	Keratinocytes	source_name=keratinocytes_overexpressing LACZ_differentiation medium_SNAI2-ChIPseq | cell type=Human keratinocytes | genotype/variation=overexpressing LACZ | culture medium=differentiation medium
+SRX476926	SNAI2	Epidermis	Keratinocytes	source_name=keratinocytes_overexpressing SNAI2_differentiation medium_SNAI2-ChIPseq | cell type=Human keratinocytes | genotype/variation=overexpressing SNAI2 | culture medium=differentiation medium
+SRX4796926	PPARG	Adipocyte	Adipose Tissue	source_name=Adipose tissue | tissue=Adipose
+SRX4796927	PPARG	Adipocyte	Adipose Tissue	source_name=Adipose tissue | tissue=Adipose
+SRX4796928	PPARG	Adipocyte	Adipose Tissue	source_name=Adipose tissue | tissue=Adipose
+SRX4796929	PPARG	Adipocyte	Adipose Tissue	source_name=Adipose tissue | tissue=Adipose
+SRX4911599	FOXA2	Uterus	Endometrium	source_name=endometrium | phase=proliferative
+SRX4911601	FOXA2	Uterus	Endometrium	source_name=endometrium | phase=mid-secretory
+SRX4976909	TP63	Epidermis	Keratinocytes	source_name=human Keratinocytes | genotype=wild-type | treatment strategy=Day 0 of epidermal differentiation (epidermal keratinocyte)
+SRX4985786	KDM6B	Blood	CD4+ T cells	source_name=peripheral blood of healthy donors | cell type=naive CD4 T cells | time=T0
+SRX4985787	KDM6B	Blood	CD4+ T cells	source_name=peripheral blood of healthy donors | cell type=naive CD4 T cells | time=T0
+SRX4985789	KDM6B	Blood	CD4+ T cells	source_name=peripheral blood of healthy donors | cell type=naive CD4 T cells | time=T8
+SRX4985790	KDM6B	Blood	CD4+ T cells	source_name=peripheral blood of healthy donors | cell type=naive CD4 T cells | time=T8
+SRX4985792	KDM6B	Blood	CD4+ T cells	source_name=peripheral blood of healthy donors | cell type=naive CD4 T cells | time=T24
+SRX4985793	KDM6B	Blood	CD4+ T cells	source_name=peripheral blood of healthy donors | cell type=naive CD4 T cells | time=T24
+SRX4996448	HNRNPK	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes | genotype=wildtype
+SRX4996449	HNRNPK	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes | genotype=wildtype
+SRX502056	AR	Prostate	Prostate	source_name=Patient prostate normal tissue | tissue=prostate normal tissue
+SRX502058	AR	Prostate	Prostate	source_name=Patient prostate normal tissue | tissue=prostate normal tissue
+SRX502060	AR	Prostate	Prostate	source_name=Patient prostate normal tissue | tissue=prostate normal tissue
+SRX502061	AR	Prostate	Prostate	source_name=Patient prostate normal tissue | tissue=prostate normal tissue
+SRX502064	AR	Prostate	Prostate	source_name=Patient prostate normal tissue | tissue=prostate normal tissue
+SRX502068	AR	Prostate	Prostate	source_name=Patient prostate normal tissue | tissue=prostate normal tissue
+SRX5099499	STAT3	Blood	Naive B cells	source_name=Naïve B cell stimulated by α-IgM 10ug/ml for 24hrs | agent=alpha-IgM | cell type=Naive B cell
+SRX5204040	PRMT3	Others	Mesenchymal stem cells	source_name=mesenchymal stem cell | cell type=mesenchymal stem cell
+SRX5254848	ZBTB16	Others	Mesenchymal stem cells	source_name=Bone marrow derived hMSC | cell type=human Mesenchymal Stem Cells | passages=p4-p10
+SRX5254850	SUZ12	Others	Mesenchymal stem cells	source_name=Bone marrow derived hMSC | cell type=human Mesenchymal Stem Cells | passages=p4-p10
+SRX5254852	RNF2	Others	Mesenchymal stem cells	source_name=Bone marrow derived hMSC | cell type=human Mesenchymal Stem Cells | passages=p4-p10
+SRX5299878	NFE2	Blood	Erythroid Cells	source_name=Erythroid culture | tissue=Erythroid culture | gender=male
+SRX530186	NR1H4	Liver	Hepatocytes	source_name=primary human hepatocytes | tissue=Liver
+SRX534845	CHD8	Neural	Neural Stem Cells	source_name=human Neural Stem Cells | cell type=human Neural Stem Cells (hNSCs)
+SRX5360085	EZH2	Epidermis	Dermal fibroblast	source_name=Dermal Fibroblasts | neoplastic stage=untransformed
+SRX5360090	EZH2	Epidermis	Dermal fibroblast	source_name=Dermal Fibroblasts | neoplastic stage=preneoplastic
+SRX5360095	EZH2	Epidermis	Dermal fibroblast	source_name=Dermal Fibroblasts | neoplastic stage=transformed
+SRX5391680	SMC3	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391681	SMC3	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391683	RAD21	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391684	RAD21	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391685	RAD21	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391687	CTCF	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391688	CTCF	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391689	CTCF	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391690	CTCF	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5391691	CTCF	Blood	Neutrophils	source_name=Peripheral blood neutrophils
+SRX5457222	SP1	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX5457234	RXRA	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX5457276	CTCF	Cardiovascular	Aorta, Thoracic	sample type=tissue | tissue=thoracic aorta | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX5457321	EGR1	Liver	Liver	tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)
+SRX5457411	EGR1	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX5457468	RXRA	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX5457499	SP1	Liver	Liver	age=4 year | dev stage=child | donor ID=ENCDO882MMZ | tissue=liver | health state=healthy | sample type=tissue
+SRX5514007	FOS	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514008	FOS	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514009	FOS	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514010	FOS	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514017	JUN	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514018	JUN	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514019	JUN	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514020	JUN	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514027	CDK8	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514028	CDK8	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514029	CDK8	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514030	CDK8	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514037	MED12	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514038	MED12	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514039	MED12	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5514040	MED12	Uterus	Myometrium	source_name=Uterine muscle tissue | tissue=Myometrium
+SRX5532361	CTCF	Neural	Anterior temporal cortex	source_name=Adult anterior temporal cortex | developmental stage=Adult | tissue=brain (adult anterior temporal cortex)
+SRX5532367	CTCF	Neural	Anterior temporal cortex	source_name=Fetal anterior temporal cortex | developmental stage=Adult | tissue=brain (adult anterior temporal cortex)
+SRX5624368	SREBF2	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes | treatment=none
+SRX5624370	SREBF2	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes | treatment=TNF (10ng/ml) for 16 hours
+SRX5661980	VDR	Kidney	Kidney Cortex	source_name=adult human kidney cortex | tissue=kidney cortex
+SRX5661981	VDR	Kidney	Kidney Cortex	source_name=adult human kidney cortex | tissue=kidney cortex
+SRX5661983	CREB1	Kidney	Kidney Cortex	source_name=adult human kidney cortex | tissue=kidney cortex
+SRX5661984	CREB1	Kidney	Kidney Cortex	source_name=adult human kidney cortex | tissue=kidney cortex
+SRX5774915	POU5F1	Epidermis	Dermal fibroblast	source_name=Foreskin fibroblasts | tissue=Foreskin fibroblasts | cell line=A2B5+ iOPCs(H)
+SRX5774916	POU5F1	Epidermis	Dermal fibroblast	source_name=Foreskin fibroblasts | tissue=Foreskin fibroblasts | cell line=A2B5+ iOPCs(H)
+SRX5774920	POU5F1	Epidermis	Dermal fibroblast	source_name=Foreskin fibroblasts | tissue=Foreskin fibroblasts | cell line=A2B5+ iOPCs(M)
+SRX5821023	CTCF	Blood	CD34 Hematopoietic stem cells	source_name=CD34_Day0_CTCF_ChIP | cell type=Hematopoietic stem/progenitor cells | cell type=Human CD34+ Hematopoietic stem/progenitor cells | erythropoiesis=No
+SRX5821025	CTCF	Blood	CD34+	source_name=CD34_Day12_CTCF_ChIP | cell type=Hematopoietic stem/progenitor cells | cell type=erythroblast | erythropoiesis=12 days
+SRX5821031	GATA1	Blood	CD34+	source_name=CD34_Day12_GATA1_ChIP | cell type=Hematopoietic stem/progenitor cells | cell type=erythroblast | erythropoiesis=12 days
+SRX5839977	CREBBP	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes
+SRX5839978	CREBBP	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes
+SRX5839979	CREBBP	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes
+SRX627430	SPI1	Blood	Dendritic Cells	source_name=Dendritic cells | cell type=Monocyte-derived denditric cells
+SRX6384906	KDM1A	Epidermis	Keratinocytes	source_name=DMSO LSD1 | cell type=Normal Human Epidermal Keratinocyte | passages=6-8 | treatment=DMSO
+SRX6384908	KDM1A	Epidermis	Keratinocytes	source_name=GSK LSD1 | cell type=Normal Human Epidermal Keratinocyte | passages=6-8 | treatment=GSK-LSD1 (2 mM) for 2 days
+SRX646128	EZH1	Blood	Erythroblasts	source_name=Human primary fetal liver proerythroblasts (ProEs), EZH1 ChIP | tissue=fetal liver | cell type=CD34+ HSPC-derived proerythroblasts
+SRX646130	EZH2	Blood	Erythroblasts	source_name=Human primary fetal liver proerythroblasts (ProEs), EZH2 ChIP | tissue=fetal liver | cell type=CD34+ HSPC-derived proerythroblasts
+SRX6578929	CTCF	Blood	T cells	source_name=Peripheral blood T cells | tissue=Peripheral blood | disease state=Healthy T cells | treatment=N/A
+SRX6582174	LMNA	Others	Fibroblasts	source_name=AG11498 HGPS fibroblast | lmna genotype=LMNA G608G | transgene=No | cell sorting=No sorting
+SRX658607	TAL1	Blood	Hematopoietic Stem Cells	source_name=Hematopoietic Stem &amp; Progenitor Cells | cell type=CD133+ expanded UCB | cell number=1 million | library prep protocol=Illumina ChIP-seq
+SRX6596843	EGR1	Others	Fibroblasts	source_name=hBJV600E_ethanol and DMSO_24 hours | cell line=BJ-hTert-B-RAF-V600E | cell type=human fibroblasts | inducer=ethanol | treatment=DMSO
+SRX6596844	EGR1	Others	Fibroblasts	source_name=hBJV600E_ethanol and DMSO_24 hours | cell line=BJ-hTert-B-RAF-V600E | cell type=human fibroblasts | inducer=ethanol | treatment=DMSO
+SRX6596846	EGR1	Others	Fibroblasts	source_name=hBJV600E_doxycycline and DMSO_24 hours | cell line=BJ-hTert-B-RAF-V600E | cell type=human fibroblasts | inducer=doxycycline 1000 ng mL-1 | treatment=DMSO
+SRX6596847	EGR1	Others	Fibroblasts	source_name=hBJV600E_doxycycline and DMSO_24 hours | cell line=BJ-hTert-B-RAF-V600E | cell type=human fibroblasts | inducer=doxycycline 1000 ng mL-1 | treatment=DMSO
+SRX6596849	EGR1	Others	Fibroblasts	source_name=hBJV600E_doxycycline and clobetasol_24 hours | cell line=BJ-hTert-B-RAF-V600E | cell type=human fibroblasts | inducer=doxycycline 1000 ng mL-1 | treatment=clobetasol 2nM
+SRX6596850	EGR1	Others	Fibroblasts	source_name=hBJV600E_doxycycline and clobetasol_24 hours | cell line=BJ-hTert-B-RAF-V600E | cell type=human fibroblasts | inducer=doxycycline 1000 ng mL-1 | treatment=clobetasol 2nM
+SRX660078	CREBBP	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX660084	PPARG	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX660085	PPARG	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX660086	PPARG	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX660088	KLF11	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX660089	KLF11	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX660090	KLF11	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX6602367	ARNTL	Neural	Neural Stem Cells	source_name=Non-malignant Neural Stem Cell | tumor type=n/a
+SRX6602369	ARNTL	Neural	Neural Stem Cells	source_name=Non-malignant Neural Stem Cell | tumor type=n/a
+SRX6602370	ARNTL	Neural	Neural Stem Cells	source_name=Non-malignant Neural Stem Cell | tumor type=n/a
+SRX663441	DMC1	Gonad	Testis	source_name=Testis | genotype=PRDM9A / PRDM9A | sequencing technique=SSDS
+SRX663450	DMC1	Gonad	Testis	source_name=Testis | genotype=PRDM9A / PRDM9B | sequencing technique=SSDS
+SRX666593	RBPJ	Epidermis	Dermal fibroblast	source_name=primary dermal fibroblasts | body site=abdomen skin | passage=4-6
+SRX6763472	CHD4	Blood	Macrophages	source_name=DIFFERENTIATING MACROPHAGE | cell type=DIFFERENTIATING MACROPHAGE | treatment=differentiating macrophages (day 4 of GM-CSF treatment)
+SRX6784063	CTCF	Lung	Lung	sample_type=tissue | tissue=upper lobe of left lung | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX6857971	PGR	Uterus	Myometrium	source_name=Myometrium | Stage=Nonpregnant at the proliferative phase | tissue=myometrial tissue
+SRX6857973	PGR	Uterus	Myometrium	source_name=Myometrium | Stage=38-42 weeks estimated gestational age | tissue=myometrial tissue
+SRX687557	GATA2	Blood	Erythroid progenitors	source_name=Erythroid progenitors | cell type=Erythroid progenitors derived from human CD34+ bone marrow cells
+SRX6976723	TEAD1	Epidermis	Keratinocytes	source_name=Human epidermal keratinocytes | tissue=Neonatal foreskin | cell type=primary keratinocytes
+SRX7089149	CTCF	Cardiovascular	Tibial Arteries	sample_type=tissue | tissue=tibial artery | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7089227	CTCF	Cardiovascular	Right atrium auricular region	sample_type=tissue | tissue=right atrium auricular region | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7089228	CTCF	Cardiovascular	Right atrium auricular region	sample_type=tissue | tissue=right atrium auricular region | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7089255	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7089256	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7089257	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7089340	CTCF	Prostate	Prostate gland	sample_type=tissue | tissue=prostate gland | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7089342	CTCF	Epidermis	Suprapubic skin	sample_type=tissue | tissue=suprapubic skin | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7141988	O-GlcNAc	Adipocyte	Adipocytes	source_name=human in vitro differentiated adipocyte day 11 treated with 0.5 mM of glutamine during differentiation | cell type=in vitro differentiated adipocyte | passages=15-18 | treatment=Low glutamine
+SRX7141989	O-GlcNAc	Adipocyte	Adipocytes	source_name=human in vitro differentiated adipocyte day 11 treated with 0.5 mM of glutamine during differentiation | cell type=in vitro differentiated adipocyte | passages=15-18 | treatment=Low glutamine
+SRX7141991	O-GlcNAc	Adipocyte	Adipocytes	source_name=human in vitro differentiated adipocyte day 11 treated with 10 mM of glutamine during differentiation | cell type=in vitro differentiated adipocyte | passages=15-18 | treatment=High glutamine
+SRX7141992	O-GlcNAc	Adipocyte	Adipocytes	source_name=human in vitro differentiated adipocyte day 11 treated with 10 mM of glutamine during differentiation | cell type=in vitro differentiated adipocyte | passages=15-18 | treatment=High glutamine
+SRX7214022	KLF3	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes
+SRX7214025	CREBBP	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes
+SRX7214026	CREBBP	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes
+SRX7214027	CREBBP	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes
+SRX7277174	LMNA	Others	Fibroblasts	source_name=AG11498 HGPS fibroblast | lmna genotype=LMNA G608G | transgene=No | cell sorting=No sorting
+SRX7509197	CTCF	Digestive tract	Stomach	sample_type=tissue | tissue=stomach | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509220	CTCF	Digestive tract	Esophagus muscularis mucosa	sample_type=tissue | tissue=esophagus muscularis mucosa | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509269	CTCF	Digestive tract	Stomach	dev_stage=adult | tissue=stomach | sample_type=tissue | age=53 year | donor ID=ENCDO793LXB
+SRX7509290	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509291	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509292	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509294	CTCF	Prostate	Prostate gland	sample_type=tissue | tissue=prostate gland | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509298	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=53 year | donor ID=ENCDO793LXB
+SRX7509300	CTCF	Adipocyte	Colon, Transverse	dev_stage=adult | tissue=transverse colon | sample_type=tissue | age=53 year | donor ID=ENCDO793LXB
+SRX7509309	CTCF	Digestive tract	Esophagus squamous epithelium	sample_type=tissue | tissue=esophagus squamous epithelium | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509327	CTCF	Digestive tract	Gastroesophageal sphincter	sample_type=tissue | tissue=gastroesophageal sphincter | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509343	CTCF	Others	Thyroid Gland	dev_stage=adult | tissue=thyroid gland | sample_type=tissue | age=53 year | donor ID=ENCDO793LXB
+SRX7509412	CTCF	Digestive tract	Esophagus muscularis mucosa	sample_type=tissue | tissue=esophagus muscularis mucosa | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509422	CTCF	Lung	Lung	sample_type=tissue | tissue=upper lobe of left lung | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509450	CTCF	Others	Thyroid Gland	dev stage=adult | sample type=tissue | donor ID=ENCDO845WKR | age=37 year | tissue=thyroid gland
+SRX7509461	CTCF	Blood	Peyers Patches	sample_type=tissue | tissue=Peyer's patch | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509470	CTCF	Blood	Peyers Patches	sample_type=tissue | tissue=Peyer's patch | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509476	CTCF	Pancreas	Pancreas	sample_type=tissue | tissue=body of pancreas | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509482	CTCF	Muscle	Gastrocnemius medialis	dev stage=adult | sample type=tissue | donor ID=ENCDO845WKR | age=37 year | tissue=gastrocnemius medialis
+SRX7509484	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509485	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509486	CTCF	Others	Spleen	sample_type=tissue | tissue=spleen | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509489	CTCF	Others	Spleen	dev_stage=adult | tissue=spleen | sample_type=tissue | age=53 year | donor ID=ENCDO793LXB
+SRX7509496	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7509497	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7509498	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7509549	CTCF	Uterus	Uterus	sample_type=tissue | tissue=uterus | dev_stage=adult | age=53 year | donor ID=ENCDO793LXB
+SRX7509551	CTCF	Pancreas	Pancreas	sample_type=tissue | tissue=body of pancreas | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509594	CTCF	Gonad	Testis	sample_type=tissue | tissue=testis | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR
+SRX7509596	CTCF	Digestive tract	Esophagus squamous epithelium	dev stage=adult | sample type=tissue | donor ID=ENCDO793LXB | age=53 year | tissue=esophagus squamous epithelium
+SRX7509633	CTCF	Neural	Tibial Nerve	sample_type=tissue | tissue=tibial nerve | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW
+SRX7509643	CTCF	Digestive tract	Gastroesophageal sphincter	sample_type=tissue | tissue=gastroesophageal sphincter | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509665	CTCF	Digestive tract	Colon, Sigmoid	sample_type=tissue | tissue=sigmoid colon | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX7509673	CTCF	Digestive tract	Colon	sample_type=tissue | tissue=transverse colon | dev_stage=adult | age=54 year | donor ID=ENCDO451RUA
+SRX751298	MED1	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX751299	MED1	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX751300	MED1	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | cell type=human adipose-derived stem cells
+SRX7584818	ATF4	Blood	Erythroblasts	source_name=Primary_erythroblast_ATF4 | tissue=Adult peripheral blood | cell type=CD34+ derived erythroblasts | differentiation=Day 11
+SRX7587158	FOXO1	Bone	Chondrocytes	source_name=FoxO1_ChIP-seq | donor status=total knee replacement surgery patient | cell type=primary chondrocytes
+SRX7587159	FOXO1	Bone	Chondrocytes	source_name=FoxO1_ChIP-seq | donor status=total knee replacement surgery patient | cell type=primary chondrocytes
+SRX7626337	CTCF	Others	Mesenchymal Stromal Cells	source_name=CTCF_ChIPSeq_P2 | tissue=bone marrow | cell type=mesenchymal stromal cells | passage=2
+SRX7626338	CTCF	Others	Mesenchymal Stromal Cells	source_name=CTCF_ChIPSeq_P2 | tissue=bone marrow | cell type=mesenchymal stromal cells | passage=2
+SRX7626341	CTCF	Others	Mesenchymal Stromal Cells	source_name=CTCF_ChIPSeq_P14 | tissue=bone marrow | cell type=mesenchymal stromal cells | passage=14
+SRX7627562	REST	Neural	Hippocampus	source_name=hHipp_REST_ChIP | age=63y | tissue=Hippocampus
+SRX7756143	VDR	Blood	Monocytes	source_name=monocytes (MO) | treatment=none
+SRX7756146	VDR	Blood	Dendritic Cells	source_name=monocyte-derivated Dendritic Cells (DC) | treatment=none
+SRX7756149	VDR	Blood	Dendritic Cells	source_name=tolerogenic monocyte-derivated Dendritic Cells (TL) | treatment=1,25-dihydroxyvitamin D3
+SRX7767645	GATA2	Uterus	Endometrial stromal cells	source_name=Primary endometrial stromal cells | cell type=Isolated stromal cells post-hysterectomy | patient id=Patient 1
+SRX7767648	GATA2	Uterus	Endometrial stromal cells	source_name=Primary endometrial stromal cells | cell type=Isolated stromal cells post-hysterectomy | patient id=Patient 2
+SRX7805695	NFATC1	Others	Mesenchymal stem cells	source_name=Immunoprecipitated chromatin of SCR tranfected AhBMSCs | age=adult | cell type=bone marrow stem cells | transfection=SCR
+SRX7805696	NFATC1	Others	Mesenchymal stem cells	source_name=Immunoprecipitated chromatin of SCR tranfected AhBMSCs | age=adult | cell type=bone marrow stem cells | transfection=SCR
+SRX7805701	NFATC1	Others	Mesenchymal stem cells	source_name=Immunoprecipitated chromatin of NFATC1 RNAi AhBMSCs | age=adult | cell type=bone marrow stem cells | transfection=NFATC1 RNAi
+SRX7805702	NFATC1	Others	Mesenchymal stem cells	source_name=Immunoprecipitated chromatin of NFATC1 RNAi AhBMSCs | age=adult | cell type=bone marrow stem cells | transfection=NFATC1 RNAi
+SRX7805897	SMC1A	Epidermis	Dermal fibroblast	source_name=SMC1A_Patient | subject status=Cornelia de Lange syndrome (CdLS) patient | cell type=primary dermal fibroblasts
+SRX7807103	CEBPB	Adipocyte	Adipocytes	source_name=BM-hMSC-TERT4 | cell type=Adipocyte | Stage=Day 1
+SRX7807107	CTCF	Adipocyte	Adipocytes	source_name=BM-hMSC-TERT4 | cell type=Adipocyte | Stage=Day 1
+SRX7807127	TEAD1	Adipocyte	Adipocytes	source_name=BM-hMSC-TERT4 | cell type=Adipocyte | Stage=Day 1
+SRX7807129	MED1	Adipocyte	Adipocytes	source_name=BM-hMSC-TERT4 | cell type=Adipocyte | Stage=Day 10
+SRX7902979	EGR1	Blood	Macrophages	source_name=DIFFERENTIATING MACROPHAGES | cell type=DIFFERENTIATING MACROPHAGES
+SRX7902980	EGR1	Blood	Macrophages	source_name=DIFFERENTIATING MACROPHAGES | cell type=DIFFERENTIATING MACROPHAGES
+SRX7902981	EGR1	Blood	Macrophages	source_name=DIFFERENTIATING MACROPHAGES | cell type=DIFFERENTIATING MACROPHAGES
+SRX7902982	EGR1	Blood	Macrophages	source_name=DIFFERENTIATING MACROPHAGES | cell type=DIFFERENTIATING MACROPHAGES
+SRX7902985	EGR1	Blood	Monocytes	source_name=DIFFERENTIATING MONOCYTES | cell type=DIFFERENTIATING MONOCYTES
+SRX7971772	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX7971773	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX7971775	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX7971776	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX7971779	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX7971780	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX7971781	STAT3	Blood	Th2 Cells	source_name=primary human TH1 cells | cell type=Human TH1 cells
+SRX8082233	BRD4	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | tissue=Neonatal foreskin | cell type=primary keratinocytes
+SRX8180621	HIF1A	Blood	Peripheral blood mononuclear cells	source_name=PBMCs | cell type=Peripheral blood mononuclear cells | passage=Freshly isolated
+SRX821808	PPARG	Adipocyte	White adipose tissue	source_name=RS_056 | experiment type=PPARG ChIP-seq | tissue=SQ White Adipose Tissue
+SRX821811	PPARG	Adipocyte	White adipose tissue	source_name=RS_070 | experiment type=PPARG ChIP-seq | tissue=SQ White Adipose Tissue
+SRX821814	PPARG	Adipocyte	White adipose tissue	source_name=RS_072 | experiment type=PPARG ChIP-seq | tissue=SQ White Adipose Tissue
+SRX821817	PPARG	Adipocyte	White adipose tissue	source_name=RS_055 | experiment type=PPARG ChIP-seq | tissue=SQ White Adipose Tissue
+SRX831873	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831874	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831875	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831876	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831877	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831878	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831879	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831880	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX831881	STAT5B	Blood	CD8+ T cells	source_name=Pre-activated CD8+ T cells | tissue=Peripheral blood | cell type=Pre-activated CD8+ T cells
+SRX8406300	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406302	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406303	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406304	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406305	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406306	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406307	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406308	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406316	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406413	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406414	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406415	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406416	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406418	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406419	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406420	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406421	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406422	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406423	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406424	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406425	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406426	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406428	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406445	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406446	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406447	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406448	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406449	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406450	AR	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406483	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406484	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406485	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406486	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406488	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406489	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406490	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406491	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406492	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406500	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406501	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406502	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406503	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406504	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406505	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406506	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406507	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406508	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406509	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406510	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406512	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406513	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406514	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406515	FOXA1	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406532	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406533	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406534	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406535	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406537	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406538	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406539	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406540	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406541	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406542	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406543	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406544	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=Patient localized prostate tissue
+SRX8406546	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8406547	HOXB13	Prostate	Prostate	source_name=Patient localized prostate tissue | tissue=localized prostate tissue
+SRX8468848	IRF4	Blood	B cells	source_name=Peripheral blood | cell type=Day3 B-cell
+SRX8588624	SMARCA4	Cardiovascular	Pulmonary artery endothelial cells	source_name=Pulmonary artery endothelial cells | cell type=Pulmonary artery endothelial cells | treatment=ad.caMEK5 transduced
+SRX8588626	SMARCA4	Cardiovascular	Pulmonary artery endothelial cells	source_name=Pulmonary artery endothelial cells | cell type=Pulmonary artery endothelial cells | treatment=ad.GFP transduced
+SRX8588640	KLF4	Cardiovascular	Pulmonary artery endothelial cells	source_name=Pulmonary artery endothelial cells | cell type=Pulmonary artery endothelial cells | treatment=ad.caMEK5 transduced
+SRX8588642	KLF4	Cardiovascular	Pulmonary artery endothelial cells	source_name=Pulmonary artery endothelial cells | cell type=Pulmonary artery endothelial cells | treatment=ad.GFP transduced
+SRX8607605	SUPT6H	Epidermis	Keratinocytes	source_name=Human epidermal keratinocyte | cell type=keratinocyte | treatment=calcium induced differentiation | time point=3 days
+SRX8631029	SMARCA4	Cardiovascular	Aortic smooth muscle cells	source_name=Human aortic smooth muscle cells | cell type=Primary vascular smooth muscle cells | passages=5 | race=Caucasion | age=22 years old
+SRX8707936	CTCF	Epidermis	Keratinocytes	source_name=epidermal keratinocytes from foreskin | cell type=epidermal keratinocytes
+SRX8707937	CTCF	Epidermis	Keratinocytes	source_name=epidermal keratinocytes from foreskin | cell type=epidermal keratinocytes
+SRX8707939	MED1	Epidermis	Keratinocytes	source_name=epidermal keratinocytes from foreskin | cell type=epidermal keratinocytes
+SRX8806011	ZNF410	Blood	CD34+	source_name=Primary CD34+ cell culture | cell type=Three-phase in vitro culture of CD34+ primay human cells | treatment=primary human CD34+ cell at day 9 of differentiation
+SRX8841619	CTCF	Blood	Lymphoblasts	source_name=CTCF-ChIP-seq-Mut | condition=Acheiropodia patient | cell type=Lymphoblast cells
+SRX8841623	CTCF	Blood	Lymphoblasts	source_name=CTCF-ChIP-seq-WT | condition=Normal | cell type=Lymphoblast cells
+SRX8841627	RAD21	Blood	Lymphoblasts	source_name=RAD21-ChIP-seq-Mut | condition=Acheiropodia patient | cell type=Lymphoblast cells
+SRX8841631	RAD21	Blood	Lymphoblasts	source_name=RAD21-ChIP-seq-WT | condition=Normal | cell type=Lymphoblast cells
+SRX885892	CEBPB	Blood	Macrophages	source_name=Macrophage-control | treatment=Control | cell type=Macrophage
+SRX885893	CEBPB	Blood	Macrophages	source_name=Macrophage-control | treatment=Control | cell type=Macrophage
+SRX885894	CEBPB	Blood	Macrophages	source_name=Macrophage-control | treatment=Control | cell type=Macrophage
+SRX885896	CEBPB	Blood	Macrophages	source_name=Macrophage-oxLDL | treatment=oxLDL (50mcg/ml) | cell type=Macrophage
+SRX885897	CEBPB	Blood	Macrophages	source_name=Macrophage-oxLDL | treatment=oxLDL (50mcg/ml) | cell type=Macrophage
+SRX885898	CEBPB	Blood	Macrophages	source_name=Macrophage-oxLDL | treatment=oxLDL (50mcg/ml) | cell type=Macrophage
+SRX8894992	FOXC1	Others	Limbal stem cells	source_name=limbal stem cells | cell type=primary limbal stem cells | genotype=WT | shRNA=none
+SRX9012290	GPS2	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | genotype=WT | timepoint=Day 0
+SRX9012292	GPS2	Adipocyte	Adipose-Derived Mesenchymal Stem Cells	source_name=human adipose-derived stem cells | cell line=hMADS-3 | genotype=WT | timepoint=Day 14
+SRX9163075	TEAD1	Lung	Bronchial epithelial cells	source_name=Human Bronchial Epithelial Cells | cell type=Human Bronchial Epithelial Cells
+SRX9345715	CTCF	Blood	Erythroid Cells	source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=C-SNV allele homozygous
+SRX9345716	CTCF	Blood	Erythroid Cells	source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=C-SNV allele homozygous
+SRX9345718	CTCF	Blood	Erythroid Cells	source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=Wild type
+SRX9345719	CTCF	Blood	Erythroid Cells	source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=Wild type
+SRX9683839	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683840	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683841	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683842	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683843	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683844	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683845	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683846	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683847	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683848	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683849	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683850	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683851	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683852	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683853	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9683854	NR3C1	Adipocyte	Adipocytes	source_name=Adipocyte | cell type=hASC-derived adipocytes
+SRX9850738	KLF5	Lung	Bronchial epithelial cells	source_name=Calu-3 KLF5 ChIP-seq | cell line=Calu-3 | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS
+SRX9850740	KLF5	Lung	Bronchial epithelial cells	source_name=16HBE14o- KLF5 ChIP-seq | cell line=16HBE14o- | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS
+SRX9850742	CEBPB	Lung	Bronchial epithelial cells	source_name=Calu-3 CEBPB ChIP-seq | cell line=Calu-3 | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS
+SRX9969718	BACH1	Others	16HBE14o-	source_name=16HBE14o- | cell line=16HBE14o- | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS

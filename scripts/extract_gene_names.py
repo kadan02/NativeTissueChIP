@@ -20,11 +20,11 @@ def preprocess_bed(input_file, output_file):
         writer = csv.writer(outfile, delimiter='\t')
 
         for row in csv.reader(infile, delimiter='\t'):
-            tf = row[4]
-            target_genes = row[8]
+            tf = row[9]
+            target_genes = row[3]
             target_genes = target_genes.strip(',')
 
-            # Vessző szerint split és ha ven üres string akkor azt töröljük
+            # Vessző szerint split és ha van üres string akkor azt töröljük
             target_genes_list = [target_gene.strip() for target_gene in target_genes.split(',') if target_gene.strip()]
 
             for target_gene in target_genes_list:
@@ -77,8 +77,8 @@ def process_all_beds(input_dir, output_dir, combined_file):
 
 
 if __name__ == '__main__':
-    input_bed_folder = "../data/processed/bed"
-    output_interactions_folder = "../data/processed/tf_target_lists"
+    input_bed_folder = "../data/processed/bed/intersected"
+    output_interactions_folder = "../data/processed/interactions"
     combined_genes_file = "../data/processed/id_mapping/combined_gene_names.txt"
     process_all_beds(input_bed_folder, output_interactions_folder, combined_genes_file)
 

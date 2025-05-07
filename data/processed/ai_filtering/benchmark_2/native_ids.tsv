@@ -1,8 +1,0 @@
-DRX044425	CTCF	Blood	T cells	sample_name=003_ED_ChIP_CTCF_1	cell_line=ED cells	cell_type=T cell	replicate=biological replicate 1
-DRX440349	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of TL-Om1	age=not applicable	cell_type=CD4 positive T cell	isolate=not applicable	tissue=not applicable									
-SRX1027446	CEBPB	Others	Mesenchymal stem cells	source_name=hMSC	cell type=Human Mesenchymal Stem Cells												
-SRX019498	CTCF	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP	cell type=Adipose stromal cell (ASC) pre-adipocyte	chip epitope=CTCF											
-SRX019505	CTCF	Adipocyte	Adipose stromal cell	source_name=hASC, ChIP	cell type=Adipose stromal cell (ASC) adipocyte	chip epitope=CTCF											
-SRX037935	CTCF	Blood	CD34+	source_name=CD34	condition=CD34 WT												
-SRX11513472	MAFB	Blood	Dendritic Cells	source_name=Dendritic cells differentiated from monocytes 24 hours (replicate B)	cell type=DC	individual=donor B	time=24 hours differentiation										
-SRX13234470	IRF8	Epidermis	Dermal fibroblast	source_name=adult human dermal fibroblast	cell line=HDFa	cell type=adult human dermal fibroblast	genotype=wildtype										

@@ -3828,7 +3828,7 @@
 ```
 ```json
 [
-  {"id": "SRX5409709", "metadata": "source_name=human normal CD34+ HSPCs, cell type=human CD34+ HSPCs, transduced with=none", "native": "True"}
+  {"id": "SRX5409709", "metadata": "source_name=human normal CD34+ HSPCs, cell type=human CD34+ HSPCs, transduced with=none", "native": True"}
 ]
 ```
 ```json

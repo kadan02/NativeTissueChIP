@@ -1,6 +1,0 @@
-Invalid JSON:
-{"native_ids": [
-    "SRX10852983",
-  ]}
-Illegal trailing comma before end of array: line 2 column 18 (char 34)
-

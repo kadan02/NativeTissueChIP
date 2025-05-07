@@ -1,8 +1,10 @@
 import pandas as pd
 import os
 
-# tizedesvesszők eltvávolítása, ha csak 1 db Gene ID tartozik a tf/target génhez
 def clean_gene_id(gene_id_str):
+    """
+    Tizedesvesszők eltvávolítása, ha csak 1 db Gene ID tartozik a tf/target génhez
+    """
 
     if pd.isna(gene_id_str):
         return ""
@@ -11,8 +13,10 @@ def clean_gene_id(gene_id_str):
     return ";".join(gene_ids)
 
 
-# Gene name alapján csoportosítás, majd reviewed UniProt ID-k priorizálása. Ha nincsen reviewed, akkor az első unreviewed
 def get_priority_uniprot_ids(mapping_table):
+    """
+    Gene name alapján csoportosítás, majd reviewed UniProt ID-k priorizálása. Ha nincsen reviewed, akkor az első unreviewed
+    """
     reviewed = mapping_table[mapping_table["Reviewed"] == "reviewed"]
     unreviewed = mapping_table[mapping_table["Reviewed"] == "unreviewed"]
 
@@ -24,7 +28,7 @@ def get_priority_uniprot_ids(mapping_table):
     return prioritized_uniprot
 
 uniprot_mapping_table = pd.read_csv('../data/processed/id_mapping/mapped_ids.tsv', sep="\t", names=["From", "Entry", "GeneID", "Reviewed"])
-input_folder = '../data/processed/tf_target_lists'
+input_folder = '../data/processed/interactions'
 prioritized_mapping = get_priority_uniprot_ids(uniprot_mapping_table)
 
 # tf_target_lists mappában lévő fájlokon iterálás, mapping table-ök szövetenkénti létrehozása
@@ -65,7 +69,7 @@ for file_name in os.listdir(input_folder):
     })
 
 
-    # nem fehérjekódoló target géneket (amelyek nem rendelkeznek uniprot ID-kkel) tartalmazó sorok kihagyása
+    # nem fehérjekódoló target géneket (amelyek nem rendelkeznek swiss-prot ID-kkel) tartalmazó sorok kihagyása
     output = output.dropna(subset=["UniprotID.Target"])
 
     output_file = '../results/interactions/'f'interaction_table_{tissue_name}.tsv'

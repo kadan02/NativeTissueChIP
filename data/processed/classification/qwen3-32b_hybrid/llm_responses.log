@@ -1,0 +1,996 @@
+--- LLM Response for ID: DRX440344 ---
+<think>
+Okay, let's look at the sample provided: DRX440344. The metadata includes "Cell_type_class=Blood", "Cell_type=CD4+ T cells", and "Metadata=sample_name=ChIPseq EZH2 of hCD4 | age=not applicable | cell_type=CD4 positive T cell | isolate=not applicable | tissue=PBMC". 
+
+First, I need to check if there are any indicators of non-native. The cell type is CD4+ T cells, which is a primary cell type. The metadata mentions "hCD4" in the sample name, which refers to human CD4. However, "hCD4" could be a specific context, but it's not a modification term like KO or treated. 
+
+Looking for non-native keywords: there's no mention of immortalized cell lines like HeLa, no embryonic or fetal terms, no cancer or tumor, no modifications like knockout or knockdown. The sample is from PBMC (peripheral blood mononuclear cells), which are typically primary cells. 
+
+The sample is for a ChIP-seq experiment on EZH2, which is a protein involved in gene regulation. The presence of "EZH2" here might be part of the experiment's target, but it doesn't indicate any modification unless specified. The metadata doesn't state any treatment or genetic modifications. 
+
+Since the cell type is a primary cell type (CD4+ T cells) and there's no indication of immortalization, modification, or disease, this sample would be considered native. The absence of non-native indicators and the presence of a healthy, unmodified cell type support the classification as native.
+</think>
+
+{"id": "DRX440344", "metadata": "cell_type=CD4+ T cells, tissue=PBMC", "native": true}
+
+--- LLM Response for ID: DRX440349 ---
+<think>
+Okay, let's tackle this. The user provided a sample with the ID DRX440349. The metadata includes cell_type_class as Blood, cell_type as CD4+ T cells, and some other details. The sample name is "ChIPseq EZH2 of TL-Om1". 
+
+First, I need to check if there are any non-native indicators. The cell type is CD4+ T cells, which is a primary cell type. The metadata doesn't mention any immortalized cell lines like HeLa or HEK293. So that's a good point towards native.
+
+Next, looking for modifications. The sample name mentions ChIPseq for EZH2, which is a protein involved in epigenetic regulation. However, the metadata doesn't specify any treatments, knockouts, or knockdowns. The terms like "treated" or "KO" aren't present here. The cell type is just CD4+ T cells, which is a normal cell type. The age is not applicable, which might be because it's a cell line, but the cell line isn't specified as immortalized. 
+
+Wait, the cell type is CD4 positive T cells, which are part of the immune system. The sample name mentions TL-Om1. I'm not sure what TL-Om1 refers to, but if it's a cell line, maybe it's an immortalized one. However, the metadata doesn't explicitly state that. The user's instructions say that if there's a mention of a cell line like HeLa, etc., it's non-native. Since TL-Om1 isn't listed as an immortalized line, maybe it's a primary cell line. But the problem is, the metadata doesn't specify whether TL-Om1 is an immortalized line or primary.
+
+The key here is that the metadata doesn't mention any modifications or immortalized cell lines. The cell type is CD4+ T cells, which are primary. So unless TL-Om1 is an immortalized line, which isn't indicated here, the sample would be considered native. Since the user's definition says that primary cell lines are not non-native unless modified. Since there's no mention of modification, the sample remains native.
+
+Therefore, the classification should be native.
+</think>
+
+{"id": "DRX440349", "metadata": "cell_type=CD4+ T cells, sample_name=ChIPseq EZH2 of TL-Om1", "native": true}
+
+--- LLM Response for ID: SRX017709 ---
+<think>
+Okay, let me try to work through this. The user provided a sample ID and metadata, and I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is CD4+ T cells, and they're activated. The sample is from a blood source. The metadata mentions "activated CD4+ T cell." Now, according to the definitions, "activated" is not considered a non-native indicator. The rules say that 'Activated' and 'Differentiated' are NOT non-native indicators. So even though the cells are activated, that alone doesn't make it non-native.
+
+Next, check if there are any other indicators. The cell type is CD4+ T cells, which is a primary cell type. The metadata doesn't mention any immortalized cell lines like HeLa or HEK293. There's no mention of modifications like knockout, knockdown, or treatment. The sirna and treatment fields are "n/a," so no modifications there. The source is blood, and there's no indication of disease or cancer. Also, no mention of fetal or embryonic cells. 
+
+Since the sample is activated but activation isn't a non-native indicator, and there are no other factors like modifications or immortalized lines, this sample should be classified as native. The key point here is that activation alone doesn't make it non-native. So the native status should be true, with the reason being the presence of "activated CD4+ T cell" but noting that activation isn't a non-native indicator.
+</think>
+
+{"id": "SRX017709", "metadata": "cell type=activated CD4+ T cell", "native": true}
+
+--- LLM Response for ID: SRX037935 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX037935. The metadata includes "Cell_type_class=Blood", "Cell_type=CD34+", "source_name=CD34", and "condition=CD34 WT". 
+
+First, I need to check if there are any non-native indicators. The cell type is CD34+, which are hematopoietic stem cells. They mention "CD34 WT" in the condition. WT stands for wild-type, which is typically native. 
+
+Are there any modifications? The term "WT" suggests it's a wild-type, which is unmodified. There's no mention of knockout, knockdown, treatment, or cell lines like HeLa. The cell type is blood-derived, and CD34+ cells are primary cells unless specified otherwise. The metadata doesn't indicate any disease or modification. 
+
+The user's guidelines say that wild-type, untreated, and control samples are native. DMSO is a control but not non-native. Here, "CD34 WT" aligns with wild-type, so it's native. No non-native keywords like "treated" or "KO" are present. 
+
+Therefore, this sample should be classified as native.
+</think>
+
+{"id": "SRX037935", "metadata": "condition=CD34 WT", "native": true}
+
+--- LLM Response for ID: SRX10977238 ---
+<think>
+Okay, let's tackle this. The user provided a sample with the ID SRX10977238 and a bunch of metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is foreskin keratinocyte, and it's a primary cell. Primary cells are usually from healthy donors and not immortalized, so that's a good sign for native. The health state is listed as Healthy, which aligns with native samples. The age is 2-4 days, which is a newborn. Wait, the definitions mention that very young donors (fetal or newborn) might be non-native. But here, the sample is from a newborn, but the health state is healthy. The dev_stage is newborn, but the sample is a primary cell from a healthy donor. The treatment is calcium, which is a chemical treatment. However, the duration is 5.5 days. Wait, the non-native criteria include modifications like treatments. But the definition says that if the sample is treated, it's non-native. However, in the example given, DMSO is not non-native because it's a control. But calcium here is a treatment. Let me check the definitions again.
+
+Non-native samples include those that are treated. The example says that 'treated' is a modification indicator. So if the sample was treated with calcium, that would make it non-native. But wait, the sample is a primary cell from a healthy donor, but it's been treated. So even though the original cell is primary and healthy, the treatment makes it non-native. But the user mentioned that diseases not affecting the tissue aren't indicators. However, treatment with a chemical is a modification. So in this case, the treatment would make it non-native. However, the sample is from a newborn. The definition says that very young age (fetal or newborn) is non-native. But in this case, the donor is newborn. So both the treatment and the age could be indicators. But according to the mixed indicators rule, if there are both native and non-native indicators, it's non-native. Wait, but the age here is newborn, which is a non-native indicator. The treatment is also a non-native indicator. So both are present. Therefore, the sample should be non-native. However, the health state is healthy. But the presence of treatment and newborn age would override that. So the answer is non-native. Let me verify again. The treatment term is calcium, which is a chemical treatment. The duration is 5.5 days. Since the sample was treated, that's a modification, so non-native. Also, the dev_stage is newborn, which is a non-native indicator. So even though the cell is primary and healthy, the treatment and newborn age make it non-native. Therefore, the classification is false (non-native).
+</think>
+
+{"id": "SRX10977238", "metadata": "treatment_term_id: CHEBI:86158 (calcium) and dev_stage=newborn", "native": false}
+
+--- LLM Response for ID: SRX11513464 ---
+<think>
+Okay, let's tackle this. The sample ID is SRX11513464. The metadata mentions "Dendritic cells differentiated from monocytes 24 hours (replicate B)". The key part here is "differentiated". According to the definitions, "differentiated" is not a non-native indicator. Native samples can include differentiated cells as long as they're under normal conditions. The cells are from a donor, but there's no mention of disease, modifications like knockout, or use of cell lines. The time point is 24 hours differentiation, which is part of the process but doesn't indicate any treatment or modification. Since there's no mention of any non-native factors like cancer, treatments, or genetic modifications, this should be native. So the native status is true.
+</think>
+
+{"id": "SRX11513464", "metadata": "differentiated from monocytes", "native": true}
+
+--- LLM Response for ID: SRX11513465 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX11513465 with some metadata. I need to determine if it's native or non-native based on the given rules.
+
+First, looking at the metadata: the source name is "Tolerogenic dendritic cells differentiated from monocytes 24 hours (replicate B)". The cell type is listed as tolDC. The key terms here are "differentiated" and "tolerogenic". 
+
+According to the definitions, "differentiated" is not a non-native indicator. But "tolerogenic" might be a clue. Tolerogenic dendritic cells are typically generated through specific treatments or conditions to induce immune tolerance. This process usually involves modifying the cells, which would make them non-native. 
+
+Also, the metadata mentions "differentiated from monocytes", which is a process that transforms the cells from their original state. Even though "differentiated" isn't a non-native indicator on its own, the context here suggests that the cells were modified to become tolerogenic. 
+
+The cell type "tolDC" is a specific type, and the process of making them tolerogenic likely involves treatments or modifications. So, based on the presence of a modified cell type (tolerogenic DCs), this should be classified as non-native. 
+
+I should check if there are any other indicators. The individual is donor B, but no age is mentioned. The time is 24 hours differentiation, which is part of the process. No mention of cell lines, diseases, or other non-native factors. But the key is the modification through differentiation into a tolerogenic state, which implies treatment or manipulation. Therefore, the sample is non-native.
+</think>
+
+{"id": "SRX11513465", "metadata": "Metadata=source_name=Tolerogenic dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=tolDC", "native": false}
+
+--- LLM Response for ID: SRX12118509 ---
+<think>
+Okay, let's take a look at this sample. The ID is SRX12118509. The metadata includes cell_type_class as Blood, cell_type as Naive B cells, and source_name is naive B-cells. The tissue is tonsil, and there's a mention of knock down=NA. 
+
+First, I need to check if there are any non-native indicators. The key here is the "knock down=NA" part. The definition says that knockdown (KD) or knockout (KO) are non-native indicators. Even though it's listed as "NA" here, the presence of the "knock down" field might be relevant. However, since the value is NA, maybe it's just indicating that there was no knockdown treatment. 
+
+Wait, the user's instruction says to look for any clear synonyms or abbreviations of modification terms. The sample mentions "knock down=NA", which could imply that the sample was not knocked down. But the presence of the term "knock down" in the metadata might not be enough on its own. However, the rules state that if there's a mix of native and non-native indicators, the sample is classified as non-native. 
+
+Wait, the metadata doesn't have any other non-native indicators. The cell type is naive B cells, which isn't an immortalized line. The treatment is NA, so no drugs. The genotype isn't mentioned. The tissue is tonsil, but there's no indication of disease or modification. The only possible non-native indicator is the "knock down" field. But since it's set to NA, maybe it's just indicating that no knockdown was done. However, the mere presence of the "knock down" field might be a red flag. 
+
+Looking back at the definitions, non-native includes modifications like knockdown. The sample's metadata includes "knock down=NA", which could be a way of indicating that there was no knockdown. But according to the rules, if the metadata contains a non-native indicator (like knockdown) even if it's not applied, does that count? The example given for non-native includes "knockout, knockdown, KO, KD". The presence of "knock down" in the metadata, even with NA, might be considered a non-native indicator. 
+
+Alternatively, if the sample was a control without any knockdown, then it's native. But the way the metadata is structured, the presence of the "knock down=NA" might not be an indicator of modification. The key is whether the sample was modified. Since it's NA, perhaps it's just not applicable. 
+
+But the rules state that if the metadata contains any non-native indicators, even if mixed with native ones, classify as non-native. However, in this case, the only possible non-native indicator is the "knock down" field, but since the value is NA, maybe it's not an actual modification. So the sample is native. 
+
+Wait, the example given in the definitions includes "knockout, knockdown, KO, KD" as non-native. The presence of the term "knock down" in the metadata, regardless of the value, could be considered a non-native indicator. Even if the value is NA, the fact that it's listed might imply that the sample is part of an experiment where knockdown was a variable. Therefore, the sample might be considered non-native because it's part of a study involving modifications, even if this particular sample wasn't modified. 
+
+But the problem is that the user's instruction says to look for clear indicators. If the sample was knocked down, it's non-native. If it's NA, maybe it's a control and thus native. However, the presence of the "knock down" field in the metadata might not be an indicator by itself. The key is whether the sample was modified. Since the value is NA, it's likely that the sample wasn't modified, so it's native. 
+
+Therefore, the sample should be classified as native. The metadata includes "knock down=NA", but since it's not a modification, the sample remains native. The cell type is naive B cells, which are primary cells, not immortalized. The tissue is tonsil, and there's no indication of disease or treatment. So the final classification is native.
+</think>
+
+{"id": "SRX12118509", "metadata": "knock down=NA", "native": true}
+
+--- LLM Response for ID: SRX12129506 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX12129506 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is T cells, and the treatment is PLX. The key here is the treatment. The definitions mention that "treated" is a non-native indicator. PLX is likely a drug or treatment, so the presence of treatment=PLX suggests it's non-native. 
+
+But wait, I should check if there are any conflicting indicators. The cell type is T cells, which is a primary cell type. The definitions say that primary cells are not non-native unless modified. Since there's a treatment applied here, the modification via treatment would make it non-native. 
+
+Also, the metadata doesn't mention any immortalized cell lines, embryonic cells, or specific diseases. The main indicator here is the treatment. So according to the rules, treated samples are non-native. Therefore, this sample should be classified as non-native.
+</think>
+
+{"id": "SRX12129506", "metadata": "treatment=PLX", "native": false}
+
+--- LLM Response for ID: SRX13006802 ---
+<think>
+Okay, let's look at this sample. The ID is SRX13006802. The metadata includes cell_type_class=Neural, cell_type=Frontal cortex, sample_type=tissue, tissue=middle frontal area 46, dev stage=adult, age=74 year, and donor ID=ENCDO907CMO.
+
+First, checking for non-native indicators. The cell type is frontal cortex, which is a primary tissue. The donor is 74 years old, an adult. The dev stage is adult, so not fetal or embryonic. There's no mention of any cell lines like HeLa or HEK293. No modifications like KO, KD, treated, or cancer. The sample is from a tissue, not a cell line. The age is 74, which is not young or fetal. The metadata doesn't include any disease terms. So, this seems to be a native sample. The sample is from a healthy adult donor, no modifications. So the classification should be native.
+</think>
+
+{"id": "SRX13006802", "metadata": "cell_type=Frontal cortex, dev stage=adult, age=74 year", "native": true}
+
+--- LLM Response for ID: SRX14280059 ---
+<think>
+Okay, let's look at this sample. The ID is SRX14280059, and the metadata mentions the disease state as NAFLD. NAFLD stands for Non-Alcoholic Fatty Liver Disease. Now, according to the definitions, non-native samples include modifications like disease states. Wait, but there's a note that says diseases not affecting the given tissue or organ aren't non-native. However, in this case, NAFLD is a liver disease. So it does affect the liver tissue. The sample is from a liver with NAFLD, which is a disease state. Since the sample is from a diseased tissue, that should make it non-native. The user's guidelines specify that disease states in the relevant tissue are non-native indicators. So even though the cell type is liver and not an immortalized line, the presence of the disease state (NAFLD) in the liver tissue would classify it as non-native. I need to check if there's any conflicting info. The metadata doesn't mention any other factors like treatment or knockout. The main indicator here is the disease state. So the classification should be non-native.
+</think>
+
+{"id": "SRX14280059", "metadata": "disease state=NAFLD", "native": false}
+
+--- LLM Response for ID: SRX14280087 ---
+<think>
+Okay, let's tackle this. The sample is SRX14280087. The metadata says it's a liver cell, source name is Liver, tissue is liver, and disease state is Normal control. So first, check the definitions.
+
+Native samples are under normal physiological conditions, from healthy, unmodified specimens. Wild-type, untreated, control, or vehicle are native. DMSO is okay too.
+
+Non-native includes immortalized cell lines, embryonic cells, modifications like cancer, treated, knockout, etc. Also, very young donors or certain diseases.
+
+Looking at the metadata: disease state is Normal control. That suggests it's a control, which is native. The cell type is liver, but no indication of modification. No mention of cell lines like HeLa or any modifications like KO. The terms here are all normal, control, and no treatment mentioned. DMSO isn't in the metadata here. So the sample is likely native. The disease state being normal control is a key point. So the answer should be native, true. The reason would be the disease state=Normal control.
+</think>
+
+{"id": "SRX14280087", "metadata": "disease state=Normal control", "native": true}
+
+--- LLM Response for ID: SRX15717771 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX15717771 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is Pancreatic islets, specifically Primary human islets. The source is Human islets, and the treatment is untreated. 
+
+According to the definitions, native samples are from healthy, unmodified specimens. Primary human islets are mentioned here. The key point is whether "primary" implies any modification. The guidelines say that a primary cell line is not non-native unless modified. Since the treatment is untreated, there's no mention of modifications like knockout or cancer. 
+
+Also, there's no indication of using an immortalized cell line here. The cell type is primary, which is considered native if untreated. The treatment being "untreated" supports the native classification. DMSO isn't mentioned, so that's not a factor. 
+
+No keywords like cancer, KO, KD, or embryonic are present. The metadata directly states "untreated," which aligns with native conditions. Therefore, this sample should be classified as native.
+</think>
+
+{"id": "SRX15717771", "metadata": "cell type=Primary human islets | treatment=untreated", "native": true}
+
+--- LLM Response for ID: SRX16495661 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX16495661. The metadata includes cell type as CD8+ T cells, age 21, sample type is primary cell, and donor info. First, I need to check the definitions for native and non-native.
+
+Native samples are from healthy, unmodified specimens under normal conditions. Non-native includes things like cell lines, embryonic cells, modifications (like knockout, treated, etc.), or very young donors.
+
+Looking at the metadata here: the cell type is CD8+ T cells, which is a primary cell type. The sample type is explicitly stated as primary cell. The age is 21, which is an adult and not a fetal or newborn. There's no mention of any modifications like knockout, treatment, or disease. The donor ID is provided, but there's no indication of any modification. The keywords here are "primary cell" and "adult" which align with native conditions. Since there's no mention of any non-native indicators like cell lines or modifications, this should be native. The DMSO note isn't relevant here. So the answer is native.
+</think>
+
+{"id": "SRX16495661", "metadata": "sample type=primary cell | age=21 year | dev stage=adult", "native": true}
+
+--- LLM Response for ID: SRX16495697 ---
+<think>
+Okay, let's tackle this sample classification. The user provided the sample ID SRX16495697 with metadata. First, I need to check the metadata for any indicators that would classify it as native or non-native.
+
+Looking at the metadata: Cell_type is Frontal cortex, sample type is tissue, dev stage is adult, and the age is 90 or above. The donor ID is given but doesn't mention anything about modifications or diseases. The key points here are that the sample is from an adult, not fetal or embryonic. The cell type is a primary tissue (frontal cortex tissue), not an immortalized cell line. There's no mention of any modifications like knockout, knockdown, treatment, or cancer. The age is high, but the rules don't specify that very old age affects the classification. Since the sample is from a healthy adult tissue without any modifications, this should be a native sample. The absence of any non-native indicators (like cell lines, modifications, diseases) supports this. The age being 90 or above isn't a non-native factor here. So the classification should be native.
+</think>
+
+{"id": "SRX16495697", "metadata": "Cell_type=Frontal cortex | sample type=tissue | dev stage=adult | age=90 or above year", "native": true}
+
+--- LLM Response for ID: SRX170349 ---
+<think>
+Okay, let's take a look at this sample. The ID is SRX170349. The metadata includes several key points. First, the cell type class is Blood, and the specific cell type is CD36+. The source name and tissue are both Blood, and the developmental stage is Adult. The genotype/variation is listed as wild type.
+
+According to the definitions, native samples are those under normal physiological conditions, from healthy, unmodified specimens. Wild type is typically native. The metadata here mentions "wild type," which is a strong indicator of a native sample. There's no mention of any modifications like knockout, knockdown, or treatment. The cell type is CD36+, which is a specific cell type but not an immortalized cell line. The developmental stage is adult, so no embryonic or fetal indicators. Since the genotype is wild type and there's no indication of any modifications or disease, this fits the native criteria. The presence of "wild type" alone is enough to classify it as native unless there's conflicting information, which there isn't here. So the answer should be native: true.
+</think>
+
+{"id": "SRX170349", "metadata": "genotype/variation=wild type", "native": true}
+
+--- LLM Response for ID: SRX1738529 ---
+<think>
+Okay, let's see. The user provided the sample SRX1738529 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: Cell_type_class is Blood, Cell_type is Hematopoietic Stem Cells. The source_name is "Human Stem and Progenitor Cell" and cell type is HSPC. 
+
+Native samples are from healthy, unmodified specimens. The metadata doesn't mention any modifications like knockout, knockdown, or treatment. The cell type here is Hematopoietic Stem Cells, which are primary cells, not immortalized cell lines. There's no indication of cancer, tumor, or any other modifications. The source seems to be a normal human cell type. 
+
+Non-native indicators would include terms like HeLa, HEK293, or mentions of modifications. Since none of those are present here, this sample should be considered native. Also, "HSPC" (Hematopoietic Stem and Progenitor Cells) is a primary cell type, not an immortalized line. 
+
+So the conclusion is native. The reason would be that the cell type is Hematopoietic Stem Cells from a human source without any modifications mentioned.
+</think>
+
+{"id": "SRX1738529", "metadata": "cell type=Hematopoietic Stem Cells", "native": true}
+
+--- LLM Response for ID: SRX18672589 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX18672589 with some metadata. I need to determine if it's native or non-native.
+
+Looking at the metadata: the cell type is Microglia, which is a neural cell type. The source name is also Microglia. Now, the key part here is "cell line=C20". The definition says that if the metadata mentions an immortalized cell line like C20, that's a non-native indicator. Even though the cell type is Microglia, which might be a normal cell type, the presence of a specific cell line name (C20) suggests it's an immortalized line. Also, the treatment is untreated, which usually points to native, but the cell line takes precedence here. Since the sample uses an immortalized cell line, it's non-native. The other factors like untreated don't override that. So the answer should be non-native.
+</think>
+
+{"id": "SRX18672589", "metadata": "cell line=C20", "native": false}
+
+--- LLM Response for ID: SRX18672592 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX18672592 with some metadata. I need to determine if it's native or non-native based on the rules.
+
+First, looking at the metadata: cell line=C20. The definition says that if the metadata mentions an immortalized cell line like C20, that's a non-native indicator. So right there, "cell line=C20" is a red flag. Also, the treatment is CTCF-KD, which is a knockdown. The rules mention that knockdown (KD) is a modification and thus non-native. 
+
+But wait, there's a conflict here? The cell type is Microglia, which is a neural cell type. But the cell line is C20, which is an immortalized cell line. The presence of an immortalized cell line alone should make it non-native. Additionally, the treatment is a knockdown, which is another non-native factor. Since the sample has both indicators (cell line and treatment), according to the mixed indicators rule, it should be classified as non-native. 
+
+So the reasons are "cell line=C20" and "treatment=CTCF-KD". Both point to non-native. So the answer is native: false.
+</think>
+
+{"id": "SRX18672592", "metadata": "cell line=C20 and treatment=CTCF-KD", "native": false}
+
+--- LLM Response for ID: SRX18768994 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX18768994. The metadata mentions "Human primary adipose stem cells". First, primary cells are typically from healthy donors and not immortalized, so that's a point towards native. The cell type is Adipose stem cells, which are primary. The source is Adipose tissue, and there's no mention of any modifications like knockout, treatment, or cancer. The time is Day 0, which might just indicate the starting point, not a modification. The replicate is Rep2, which is just a technical note.
+
+Looking at the definitions: Native samples include healthy, unmodified specimens. Since it's primary and no modifications are indicated, this seems native. Non-native indicators would be things like cell lines (like HeLa), modifications, or disease states. Here, there's no mention of a cell line, and the cells are primary. The metadata doesn't list any treatments or genetic modifications. So, based on the given info, it's native. The key part is "Human primary adipose stem cells" which points to a native sample.
+</think>
+
+{"id": "SRX18768994", "metadata": "cell type=Human primary adipose stem cells", "native": true}
+
+--- LLM Response for ID: SRX18768997 ---
+<think>
+Okay, let's tackle this. The user provided a sample with the ID SRX18768997 and some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: "source_name=Adipose", "cell type=Human primary adipose stem cells", "tissue=Adipose", "time=Day 3", "replicate=Rep1". 
+
+The key part here is "Human primary adipose stem cells". The definition says that primary cell lines are not considered non-native unless modified. The term "primary" here might be important. Since the cell type is primary and there's no mention of modifications like knockout, knockdown, treatment, or being an immortalized cell line, this seems like a native sample. 
+
+Also, there's no indication of disease, cancer, or any other modifications. The sample is from adipose tissue, and the cell type is primary, which under the native definition would be considered healthy and unmodified. The time point "Day 3" might just be a time point in an experiment but doesn't indicate any treatment or modification. 
+
+No mention of DMSO or other non-native indicators. So the conclusion is that this is a native sample.
+</think>
+
+{"id": "SRX18768997", "metadata": "cell type=Human primary adipose stem cells", "native": true}
+
+--- LLM Response for ID: SRX19123217 ---
+<think>
+Okay, let's break this down. The user provided a sample ID and metadata. My task is to determine if it's native or non-native based on the given definitions.
+
+The sample ID is SRX19123217. The metadata includes "source_name=Human B lymphocytes", "cell line=Human B lymphocytes", and "disease state=healthy control". 
+
+First, looking at the cell line. The metadata mentions "cell line=Human B lymphocytes". Wait, the definition says that if the metadata contains an immortalized cell line name, it's non-native. But here, it's just "Human B lymphocytes". Are B cells considered an immortalized cell line? No, because the example says that generic human cell types like T cells or fibroblasts are not non-native unless modified. So if it's a primary cell line, that's okay. But the term "cell line" might be a red flag. However, in the case of B cells, unless specified as an immortalized line like HeLa, it's probably primary. 
+
+Next, the disease state is "healthy control", which aligns with the native definition of healthy and unmodified. Also, there's no mention of modifications like knockout, treatment, or cancer. The cell type is B cells, which are normal. 
+
+Wait, but the metadata says "cell line=Human B lymphocytes". The term "cell line" could imply it's an immortalized line. But in reality, primary cells can be cultured as cell lines. However, according to the definitions, if the metadata includes an immortalized cell line name, it's non-native. Since the example mentions "cell_line=C20" as non-native, but here it's "Human B lymphocytes", which isn't a specific immortalized line. So maybe this is a primary cell line, which is considered native. 
+
+Also, the disease state is healthy, and there's no mention of modifications. So the sample should be native. The presence of "cell line" in the metadata might be a point to consider, but since it's not a known immortalized line and the rest of the metadata indicates healthy, I think it's safe to classify as native.
+</think>
+
+{"id": "SRX19123217", "metadata": "cell line=Human B lymphocytes, disease state=healthy control", "native": true}
+
+--- LLM Response for ID: SRX212351 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX212351 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is macrophages under the blood category. The source name is macrophage, donor is 1, stress is normoxy 20% O2, and treatment is none. 
+
+The key points here are the treatment and any modifications. The treatment is listed as "none," which suggests no drugs or treatments were applied. The stress condition is normoxy, which is normal oxygen levels, so that's a normal physiological condition. 
+
+The cell type is macrophages, but the metadata doesn't mention any immortalized cell lines like HeLa or HEK293. It's just a general cell type. The donor is 1, but there's no indication of the donor's age being very young (fetal or newborn). 
+
+The genotype isn't specified here, so no knockout or knockdown terms. The treatment is none, so no modifications through treatments. The stress is normoxy, which is normal. 
+
+Since there's no mention of any modifications, treatments, or non-native indicators like cancer, tumor, or specific cell lines, this sample seems to fit the native category. The absence of any non-native factors and the presence of normal conditions (normoxy, no treatment) support classifying it as native.
+</think>
+
+{"id": "SRX212351", "metadata": "treatment=none and stress=Normoxy 20% O2", "native": true}
+
+--- LLM Response for ID: SRX212353 ---
+<think>
+Okay, let's tackle this classification task. The sample ID is SRX212353. The metadata includes "stress=Hypoxy 1% O2 4 hours" and "treatment=none". 
+
+First, I need to check the definitions. Native samples are under normal conditions, healthy, unmodified. Non-native includes modifications like treatments, stress conditions, etc. 
+
+The "stress=Hypoxy 1% O2 4 hours" part is a stress condition. Hypoxia (low oxygen) is a type of stressor. Even though the treatment is "none", the presence of a stress condition might classify it as non-native. 
+
+Wait, the treatment is none, but the stress is induced. The definition says non-native includes modifications, which stress could be. The key is whether the stress is considered a modification. Since hypoxia is an external condition altering the physiological state, that would make it non-native. 
+
+Also, the cell type is macrophages, which is a primary cell type. But if they're under stress, even if untreated, it's a modification. So the presence of stress here is a non-native indicator. 
+
+Therefore, the sample should be classified as non-native because of the stress condition.
+</think>
+
+{"id": "SRX212353", "metadata": "stress=Hypoxy 1% O2 4 hours", "native": false}
+
+--- LLM Response for ID: SRX2253219 ---
+<think>
+Okay, let's see. The user provided the sample SRX2253219 with metadata. I need to determine if it's native or non-native.
+
+First, looking at the metadata: the cell type is B cells, source name is Cll cells, diagnosis is CLL (Chronic Lymphocytic Leukemia), patient age 71, etc. 
+
+The key part here is the diagnosis=CLL. The rules state that cancer or tumor is a non-native indicator. Even though the sample is from a patient, and the cell type is B cells, the presence of a cancer diagnosis (CLL is a type of B-cell cancer) would make this non-native. 
+
+The user mentioned that if there are both native and non-native indicators, it's non-native. Here, the cell type is just B cells, which isn't inherently non-native, but the diagnosis of CLL (cancer) is a non-native indicator. So the sample should be classified as non-native.
+</think>
+
+{"id": "SRX2253219", "metadata": "diagnosis=CLL (Chronic Lymphocytic Leukemia)", "native": false}
+
+--- LLM Response for ID: SRX23045260 ---
+<think>
+Okay, let's see. The user provided a sample with the ID SRX23045260 and some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is Dermal fibroblast, and the source is Human dermal fibroblasts. The treatment is Vehicle. The definitions say that native samples are healthy, unmodified, and under normal conditions. Vehicle treatment usually means a control, which is native. Also, the cell type here is a primary cell type (fibroblasts) unless specified otherwise. The metadata doesn't mention any modifications like knockout, knockdown, or cancer. There's no mention of an immortalized cell line like HeLa or HEK293. The treatment is Vehicle, which is part of the control, so that's native. Since there are no non-native indicators present, this should be classified as native. The key parts are the cell type and the treatment. So the answer should be native: true.
+</think>
+
+{"id": "SRX23045260", "metadata": "treatment=Vehicle", "native": true}
+
+--- LLM Response for ID: SRX23045263 ---
+<think>
+Okay, let's see. The user provided the sample SRX23045263 with metadata. I need to determine if it's native or non-native based on the definitions.
+
+First, looking at the metadata: "source_name=Human dermal fibroblasts", "cell type=Human dermal fibroblasts", and "treatment=TGFb". 
+
+The cell type is dermal fibroblasts. The definition says that generic human cell types like fibroblasts are not non-native unless modified. So just being a fibroblast doesn't make it non-native. 
+
+Then there's the treatment=TGFb. TGFb is a treatment, which according to the non-native definition includes modifications like treatment. Wait, the non-native criteria mention "treated" as a modification. So if the sample was treated with TGFb, that would make it non-native. 
+
+But wait, I need to check the exact definitions. Under non-native, modifications include "treated". So any sample that has been treated with something (like TGFb) is considered non-native. 
+
+So even though the cell type is a normal dermal fibroblast, the treatment part makes it non-native. Also, the metadata doesn't mention anything about being a cell line (like HeLa), which would also be non-native. The presence of treatment=TGFb is the key here. 
+
+Therefore, the sample should be classified as non-native because it was treated. The reason would be the treatment with TGFb.
+</think>
+
+{"id": "SRX23045263", "metadata": "treatment=TGFb", "native": false}
+
+--- LLM Response for ID: SRX23335286 ---
+<think>
+Okay, let's tackle this. The sample ID is SRX23335286. The metadata mentions "source_name=foreskin fibroblasts" and "cell type=foreskin fibroblasts". The age is 0, which I need to consider. The definitions say that very young donors (fetal or newborn) make it non-native. The age here is 0, so that's a newborn. Also, the cell type is fibroblasts from foreskin. Wait, the rules mention that generic human cell types like fibroblasts aren't non-native indicators unless modified. But the age being 0 is a non-native indicator. Also, the passage number is 2. But passage number itself isn't a non-native factor unless it's part of an immortalized cell line. However, there's no mention of an immortalized cell line here. The metadata doesn't include any modifications like knockout or treatment. But the age being 0 (newborn) is a non-native indicator. So according to the rules, if the metadata has both native and non-native indicators, it's non-native. Wait, but in this case, the age is the main non-native factor. The cell type is a generic one (fibroblasts) which isn't modified. So the presence of age=0 would make it non-native. Therefore, the classification should be non-native.
+</think>
+
+{"id": "SRX23335286", "metadata": "age=0", "native": false}
+
+--- LLM Response for ID: SRX23335288 ---
+<think>
+Okay, let's tackle this classification task. The sample ID is SRX23335288. The metadata provided includes cell type as dermal fibroblast, source name as dermal fibroblasts, age 84, and passage number 2.
+
+First, I need to check if there are any indicators of non-native status. The cell type is dermal fibroblast, which is a primary cell type. The definitions mention that generic human cell types like T cells or fibroblasts are not non-native unless modified. Here, there's no mention of immortalization, like HeLa or HEK293. The age is 84, which is an adult, so not fetal or embryonic. The passage number is 2, which might indicate some culture, but passage number alone doesn't make it non-native. There's no indication of modifications like knockout, knockdown, treatment, or cancer. The metadata doesn't include any of the non-native keywords. Since the sample is a primary cell type without any modifications, it should be classified as native. Also, the absence of terms like treated, KO, KD, or immortalized cell lines supports this. The age is not fetal or newborn, so that's not a factor here. Therefore, the sample is native.
+</think>
+
+{"id": "SRX23335288", "metadata": "cell_type=Dermal fibroblast, age=84", "native": true}
+
+--- LLM Response for ID: SRX23335289 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX23335289 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is dermal fibroblast, and the source is dermal fibroblasts. The age is 97, and passage number is 2. The key points to check are whether there are any non-native indicators.
+
+Non-native indicators include immortalized cell lines, embryonic cells, modifications like cancer, knockout, treatment, etc. The metadata mentions "dermal fibroblasts" but doesn't specify if they're primary or immortalized. However, primary cell lines are considered native unless modified. Since there's no mention of any modifications like KO, KD, treatment, or cancer, and the cell type is a primary one (fibroblasts), this seems to fit the native category. 
+
+Also, the age is 97, but since it's not fetal or newborn, that's fine. The passage number being 2 suggests it's not an immortalized line, which are usually passaged many times. No other non-native terms like HeLa or HEK293 are present. So, the sample is native.
+</think>
+
+{"id": "SRX23335289", "metadata": "source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=97 | passage number=2", "native": true}
+
+--- LLM Response for ID: SRX23335290 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX23335290 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is dermal fibroblast, and the source name is also dermal fibroblasts. The age is 86, and the passage number is 2. 
+
+The key points here are whether the sample is from a healthy, unmodified specimen. Dermal fibroblasts are a primary cell type. The passage number is 2, which is low, so they might still be primary cells. Primary cells are considered native unless modified. 
+
+The metadata doesn't mention any modifications like knockout, knockdown, or treatment. There's no mention of cancer, tumor, or any immortalized cell lines. The age is 86, but the definition says that very young (fetal or newborn) age would be non-native, but an 86-year-old is not considered that young. 
+
+The cell type is a primary dermal fibroblast, which is a healthy, unmodified cell. Since there's no indication of any modifications or use of immortalized lines, this should be a native sample. 
+
+I should check if there's any mention of a cell line. The metadata says "source_name=dermal fibroblasts" and "cell type=dermal fibroblasts". There's no specific immortalized cell line name like HeLa or C20. So it's primary. 
+
+Therefore, the sample is native. The reason would be the presence of primary dermal fibroblasts with no modifications indicated.
+</think>
+
+{"id": "SRX23335290", "metadata": "source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=86 | passage number=2", "native": true}
+
+--- LLM Response for ID: SRX23335291 ---
+<think>
+Okay, let's see. I need to classify the sample SRX23335291 as native or non-native based on the given metadata.
+
+First, looking at the metadata: the cell type is CD4+ T cells, which is a blood cell type. The source name is CD4 T-cells. The age is 23, which is an adult, so not fetal or embryonic. The passage number is None, which might indicate it's not a cultured cell line. 
+
+The definitions say that native samples come from healthy, unmodified, and drug-free specimens. The metadata doesn't mention any modifications like knockout, knockdown, treatment, or cancer. The cell type here is a primary cell type (CD4 T cells) but not an immortalized cell line. The sample doesn't mention any immortalized cell lines like HeLa or HEK293. 
+
+The age is 23, so not a very young donor which would be a non-native indicator. The metadata doesn't have any terms like 'treated' or 'KO'. Also, the passage number is None, which might suggest it's not a cell line. 
+
+So according to the rules, if the sample is from a healthy, unmodified source with no modifications, it's native. Since there's no indication of any non-native factors here, the sample should be classified as native. The metadata doesn't mention any non-native indicators. The cell type is a primary cell type, not an immortalized line. The age is adult. So the answer should be native.
+</think>
+
+{"id": "SRX23335291", "metadata": "cell_type=CD4+ T cells, age=23, passage number=None", "native": true}
+
+--- LLM Response for ID: SRX23548768 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX23548768. The metadata includes "genotype=control". According to the definitions, control samples are usually native. Also, the cell type is vascular smooth muscle cells, which isn't an immortalized line. There's no mention of treatments, knockouts, or diseases. The genotype being control suggests it's a baseline, unmodified sample. So this should be native.
+</think>
+
+{"id": "SRX23548768", "metadata": "genotype=control", "native": true}
+
+--- LLM Response for ID: SRX25152580 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX25152580 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata. The genotype is listed as MED12-KO. The definition says that terms like knockout (KO) or knockdown (KD) make it non-native. MED12-KO clearly indicates a knockout, so that's a strong indicator towards non-native. 
+
+Also, the cell type is CD4+ Teff, which is activated T cells. Wait, but the guidelines say 'activated' is not a non-native indicator. So even though it's activated, that part doesn't affect the classification. The main issue here is the genotype being a knockout. 
+
+Other parts of the metadata: condition is Rest, which is native. But the presence of a knockout overrides that. The donor is D5, but no mention of age or disease. The cell line isn't specified as an immortalized one like HeLa. So the key factor here is the MED12-KO. 
+
+Since the sample has a genetic modification (KO), according to the rules, it's non-native. The answer should be false for native.
+</think>
+
+{"id": "SRX25152580", "metadata": "genotype=MED12-KO", "native": false}
+
+--- LLM Response for ID: SRX25331425 ---
+<think>
+Okay, let's look at this sample. The ID is SRX25331425. The metadata mentions "cell line=ICR_CXJ_046". Wait, the user's guidelines say that if the metadata includes an immortalized cell line name, it's non-native. The example given was HeLa or HEK293. Here, the cell line is ICR_CXJ_046. I'm not sure if that's an immortalized line. But according to the rules, any specific cell line name in the metadata should be considered non-native. Also, the genotype is DHG-G34. The rules mention that modifications like knockout, knockdown, or any abbreviations like KO or KD make it non-native. DHG-G34 might be a specific mutation or modification. So both the cell line and genotype indicators point to non-native. The cell type is Brain, but the presence of a cell line and genotype modification would override that. So the classification should be non-native.
+</think>
+
+{"id": "SRX25331425", "metadata": "cell line=ICR_CXJ_046, genotype=DHG-G34", "native": false}
+
+--- LLM Response for ID: SRX25501815 ---
+<think>
+Okay, let's see. The user provided a sample ID and some metadata. I need to determine if it's native or non-native based on the given rules.
+
+First, looking at the metadata. The cell line is HDF-2. Wait, the user mentioned that "immortalized cell lines" would make it non-native. HDF-2 sounds like a human dermal fibroblast line, which is likely an immortalized cell line. But wait, the definition says "primary cell line" is not non-native unless modified. Hmm, but the example given includes cell_line=C20 as non-native. So if HDF-2 is an immortalized cell line, then that's a non-native indicator.
+
+Also, there's a treatment mentioned: "With AR silencing". AR silencing would be a modification, which is a non-native indicator. So both the cell line and the treatment point to non-native. The rules say that if there are both native and non-native indicators, it's non-native. But here both are non-native. So the sample should be classified as non-native.
+
+The metadata includes cell line=HDF-2 and treatment=With AR silencing. Both are non-native factors. So the answer should be false for native. The reason would be the cell line and the AR silencing treatment.
+</think>
+
+{"id": "SRX25501815", "metadata": "cell line=HDF-2, treatment=With AR silencing", "native": false}
+
+--- LLM Response for ID: SRX2635902 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX2635902. The metadata mentions "health state=healthy with non-obstructive CAD". Wait, the user said that diseases not affecting the given tissue aren't non-native indicators. Here, the tissue is liver, and the disease is coronary artery disease, which affects the heart, not the liver. So according to the rules, that shouldn't make it non-native. The other factors: age is 32, adult, and the sample type is tissue. There's no mention of cell lines, modifications like KO or KD, or treatments. The health state here is considered "healthy" despite CAD, which might be a comorbidity but not affecting the liver. So this should be native. The key part is the health state, but since CAD doesn't affect the liver tissue here, it's still native.
+</think>
+
+{"id": "SRX2635902", "metadata": "health state=healthy with non-obstructive CAD (coronary artery disease)", "native": true}
+
+--- LLM Response for ID: SRX2770856 ---
+<think>
+Okay, let's see. I need to determine if this sample is native or non-native. The sample ID is SRX2770856. The metadata includes "source_name=Primary human monocyte-derived macrophages, untreated, PU.1 ChIP", "disease state=healthy", "tissue=peripheral blood", "cell type=primary human monocyte-derived macrophages", and "treatment=none".
+
+First, looking at the definitions. Native samples are healthy, unmodified, and drug-free. They include wild-type, untreated, control, and vehicle. Non-native includes things like cancer, treated, knockout, knockdown, or specific cell lines like HeLa. Also, if there's a mix of indicators, it's non-native.
+
+The cell type here is primary human monocyte-derived macrophages. "Primary" usually means they're from actual human tissue, not immortalized cell lines. The treatment is "none", and the disease state is "healthy". The metadata mentions "untreated". So according to the rules, untreated, healthy, primary cells with no modifications should be native. The mention of PU.1 ChIP might be a technique, but it's not a modification. Since there's no indication of any non-native factors like knockout or treatment, this should be native. The key points here are the primary source, untreated, healthy, and no modifications. So the answer should be native.
+</think>
+
+{"id": "SRX2770856", "metadata": "source_name=Primary human monocyte-derived macrophages, untreated, PU.1 ChIP | disease state=healthy | treatment=none", "native": true}
+
+--- LLM Response for ID: SRX3195440 ---
+<think>
+Okay, let's see. The task is to classify the sample SRX3195440 as native or non-native based on the metadata provided.
+
+First, I'll look at the metadata given. The sample's metadata includes "source_name=FLAG MLL-AF9 ChIPseq", "cell type=human CD34+", and "genotype=control untreated". 
+
+Starting with the genotype: it's stated as "control untreated". According to the definitions, control and untreated samples are usually native. That's a good sign. Also, DMSO is mentioned as not non-native, but there's no DMSO here. 
+
+Looking at the cell type: "human CD34+ cells". The user mentioned that generic human cell types like T cells or fibroblasts aren't non-native unless modified. CD34+ cells are hematopoietic stem cells, which are primary cells. Since there's no mention of being an immortalized cell line, this seems native. 
+
+The source name mentions "FLAG MLL-AF9 ChIPseq". FLAG is a tag used in experiments, but the genotype is control. So maybe they're using a tagged protein but in a control setting. The key here is that the genotype is control and untreated. 
+
+Are there any modifications? The sample is labeled as "control untreated", so no treatments or genetic modifications. No knockout, knockdown, or cancer indicators. The cell type is primary, not an immortalized line. 
+
+No mention of fetal or embryonic cells. The donor age isn't specified, but the cell type is adult-derived CD34+ cells unless stated otherwise. 
+
+So, putting it all together: the genotype is control, untreated, and the cell type is primary. Even though there's a FLAG tag in the source name, since the genotype is control and the sample is untreated, it's likely a native sample. The absence of any non-native indicators like immortalized lines, modifications, or treatments leads to the conclusion that this is native.
+</think>
+
+{"id": "SRX3195440", "metadata": "genotype=control untreated", "native": true}
+
+--- LLM Response for ID: SRX3322085 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX3322085 with some metadata. I need to determine if it's native or non-native.
+
+First, looking at the metadata: tissue is gastroesophageal sphincter, sample type is tissue, age is 37 years, donor ID, and dev_stage is adult. The cell type is Gastroesophageal sphincter under Digestive tract. 
+
+The definitions say native samples are from healthy, unmodified specimens. Non-native includes things like cell lines, embryonic cells, modifications (like cancer, knockout, etc.), or very young donors. 
+
+Here, the sample is a tissue from an adult donor, 37 years old. There's no mention of any modifications like knockout, treatment, or disease. The cell type is a specific tissue but not an immortalized cell line. The dev_stage is adult, so no embryonic or fetal indicators. The metadata doesn't have any keywords that suggest non-native status. 
+
+So according to the rules, this should be native. The reason would be that it's a tissue from an adult donor with no modifications mentioned.
+</think>
+
+{"id": "SRX3322085", "metadata": "tissue=gastroesophageal sphincter, sample_type=tissue, age=37 year, dev_stage=adult", "native": true}
+
+--- LLM Response for ID: SRX3584196 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX3584196. The metadata mentions "Primary human epididymis cells". First, primary cells are typically derived directly from tissues, so they are not immortalized cell lines. The term "Primary" here is key. Also, there's no indication of any modifications like knockout, knockdown, or treatment. The cell type is specified as epididymis, which is a normal tissue. Since primary cells from healthy individuals are considered native, and there's no mention of disease or modification, this should be native. The absence of terms like cancer, treated, or any cell lines supports that. So the classification is native.
+</think>
+
+{"id": "SRX3584196", "metadata": "cell type=Primary human epididymis cells", "native": true}
+
+--- LLM Response for ID: SRX3679898 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX3679898. The metadata includes "genotype/variation=shKMT2D". I need to check if this is native or non-native.
+
+First, looking at the definitions. Native samples are healthy, unmodified. Non-native includes modifications like knockdown (KD), knockout (KO), etc. The term "shKMT2D" here. "sh" likely stands for short hairpin, which is used in RNAi to knock down genes. So this is a knockdown, which is a modification. That would make it non-native. 
+
+Also, the cell type is keratinocytes. The source and tissue are both keratinocytes, but there's no mention of a cell line like HeLa or HEK293. So the main indicator here is the genotype/variation being a knockdown. Since knockdown is a modification, this should be non-native. 
+
+I need to make sure there's no conflicting info. The metadata doesn't mention anything else that would contradict this. The cell type is primary or normal, but the modification via shRNA makes it non-native. So the answer should be false.
+</think>
+
+{"id": "SRX3679898", "metadata": "genotype/variation=shKMT2D", "native": false}
+
+--- LLM Response for ID: SRX3679900 ---
+<think>
+Okay, let's look at this sample. The ID is SRX3679900. The metadata includes "genotype/variation=shSC". I need to determine if this is native or non-native.
+
+First, the definitions. Native samples are healthy, unmodified, wild-type, etc. Non-native includes modifications like knockdown, knockout, treated, etc. The key here is the "shSC" in the genotype. "sh" probably stands for short hairpin RNA, which is used in RNA interference. So shSC would mean a short hairpin targeting SC gene, leading to knockdown. That's a modification. Therefore, this sample is non-native because it's a knockdown. The reason is the genotype/variation indicating a knockdown.
+</think>
+
+{"id": "SRX3679900", "metadata": "genotype/variation=shSC", "native": false}
+
+--- LLM Response for ID: SRX3679902 ---
+<think>
+Okay, let's see. I need to determine if the sample SRX3679902 is native or non-native based on the metadata provided.
+
+First, looking at the metadata: the cell type is keratinocytes, and the genotype/variation is shKMT2D. The key here is the genotype/variation part. The term "shKMT2D" probably refers to a knockdown or a specific genetic modification. Since "sh" stands for short hairpin RNA, which is used in experiments to knock down gene expression. That would be a modification, right? So according to the definitions, any modification like knockdown (KD) would make the sample non-native. 
+
+The user mentioned that terms like KO, KD, or any synonyms are non-native indicators. Here, "shKMT2D" is a knockdown, so that's a clear non-native indicator. Even though the cell type is a primary cell type (keratinocytes), the presence of a genetic modification overrides that. The rules say that if there are both native and non-native indicators, it's non-native. In this case, the modification is the key factor. 
+
+So the answer should be non-native because of the shKMT2D modification.
+</think>
+
+{"id": "SRX3679902", "metadata": "genotype/variation=shKMT2D", "native": false}
+
+--- LLM Response for ID: SRX3734300 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX3734300 with the metadata. I need to determine if it's native or non-native.
+
+First, looking at the metadata: the cell type is Epidermis, specifically Foreskin. The source name is also Foreskin. The treatment is DMSO. 
+
+According to the definitions, native samples are under normal physiological conditions, from healthy, unmodified specimens. DMSO is usually a control, so that's okay. The cell type here is foreskin, which is a primary cell type, not an immortalized cell line. There's no mention of any modifications like knockout, knockdown, or treatment beyond DMSO. Since DMSO is a vehicle control and not considered non-native, this sample seems to fit the native category. 
+
+No indicators of non-native like cancer, tumor, or embryonic cells. The cell type is a normal tissue, and the treatment is DMSO. So the answer should be native.
+</think>
+
+{"id": "SRX3734300", "metadata": "treatment=DMSO", "native": true}
+
+--- LLM Response for ID: SRX393518 ---
+<think>
+Okay, let's break this down. The sample ID is SRX393518. The metadata includes cell_type_class as Cardiovascular and cell_type as Primary endothelial cells. The source_name is Human primary endothelial colony-forming cells, and the treatment is 100 ng/ml final TSA.
+
+First, checking the definitions for native vs. non-native. Native samples are healthy, unmodified, and under normal conditions. Non-native includes things like cell lines, modifications (like knockouts), treatments, etc.
+
+The cell type here is primary endothelial cells, which are not immortalized cell lines. The source is human primary, so that's a good sign for native. However, the treatment is TSA. TSA is a chemical, possibly a drug or a treatment agent. The user mentioned that "treated" is a non-native indicator. So even though the cells are primary, the treatment might make it non-native.
+
+Wait, but the definitions say that "treated" is a non-native indicator. The sample has a treatment of TSA. So according to the rules, if there's a treatment mentioned, it's non-native. Even if the cells are primary and otherwise native, the treatment would make it non-native. Also, the metadata doesn't mention any modifications like KO or KD, but the treatment is present. So the presence of treatment here would classify it as non-native.
+
+I need to confirm if TSA is considered a treatment that counts here. Since the user's note says that "treated" is a non-native indicator, and the metadata includes a treatment, then yes. So the answer should be non-native because of the treatment.
+</think>
+
+{"id": "SRX393518", "metadata": "treatment=100 ng/ml final TSA", "native": false}
+
+--- LLM Response for ID: SRX4370433 ---
+<think>
+Okay, let's tackle this sample classification. The sample ID is SRX4370433. The metadata includes "Cell_type_class=Neural", "Cell_type=Anterior temporal cortex", "source_name=Adult anterior temporal cortex", "developmental stage=Adult", and "tissue=brain (anterior temporal cortex)".
+
+First, checking the definitions for native samples. Native samples are from healthy, unmodified specimens under normal conditions. The metadata here mentions "Adult" developmental stage and the tissue is from the brain's anterior temporal cortex. There's no mention of any modifications like knockout, knockdown, treatment, or cancer. The cell type is neural but not specified as an immortalized line like HeLa or HEK293. Also, there's no indication of disease or drug treatment. The source is an adult, so not fetal or embryonic. Since all the indicators point towards normal adult tissue without any modifications, this should be classified as native. No conflicting indicators are present here. So the native status is true.
+</think>
+
+{"id": "SRX4370433", "metadata": "developmental stage=Adult | tissue=brain (anterior temporal cortex)", "native": true}
+
+--- LLM Response for ID: SRX4723358 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX4723358. The metadata includes "source_name=2 week neuron_homerTF_GATA3_WT126", "individual=wt126", and "sh=none". 
+
+First, I need to check for native vs. non-native indicators. The cell type is neurons, which are neural. The source name mentions "WT126" and "GATA3_WT126". The "WT" here stands for wild-type, which is typically a native indicator. Also, "sh=none" suggests no short hairpin RNA, meaning no knockdown. 
+
+Looking at the definitions, wild-type (WT) is a native sample. The absence of any modification terms like knockout, knockdown, treated, or cancer is a good sign. The cell type is neurons, but there's no mention of an immortalized cell line or embryonic cells. The "2 week neuron" might refer to the age in culture, but since it's a wild-type and no modifications are indicated, it's likely native. 
+
+No non-native keywords like "embryonic" or "fetal" are present. The "sh=none" confirms no knockdown. So, based on the presence of "WT" and absence of non-native indicators, this should be classified as native.
+</think>
+
+{"id": "SRX4723358", "metadata": "source_name=2 week neuron_homerTF_GATA3_WT126 | individual=wt126 | sh=none", "native": true}
+
+--- LLM Response for ID: SRX5360084 ---
+<think>
+Okay, let's see. The user provided the sample SRX5360084 with the metadata. I need to determine if it's native or non-native based on the rules.
+
+First, looking at the metadata: Cell_type_class is Epidermis, Cell_type is Dermal fibroblast. The source_name is Dermal Fibroblasts. The neoplastic stage is untransformed. 
+
+The key here is the neoplastic stage being untransformed. Native samples are healthy, unmodified, and drug-free. Since untransformed implies it's not cancerous or modified, that's a good sign. The cell type is dermal fibroblast, which is a primary cell type. The metadata doesn't mention any immortalized cell lines like HeLa or HEK293, so that's not a non-native indicator. There's no mention of treatments, knockouts, or other modifications. The source is dermal fibroblasts, which are primary cells unless specified otherwise. 
+
+The rules say that if there are both native and non-native indicators, we go with non-native. But in this case, the only indicator is untransformed, which is native. No other non-native factors are present. So this sample should be classified as native.
+</think>
+
+{"id": "SRX5360084", "metadata": "neoplastic stage=untransformed", "native": true}
+
+--- LLM Response for ID: SRX5360094 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX5360094 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+Looking at the metadata: the cell type is Dermal fibroblast, and the source name is Dermal Fibroblasts. The key part here is "neoplastic stage=transformed". The definitions mention that non-native samples include those that are modified, such as cancer, tumor, treated, knockout, etc. The term "transformed" here likely refers to a neoplastic transformation, which is a type of modification. Since the sample is described as transformed, that would make it non-native. Also, the cell line is a dermal fibroblast, but primary cell lines aren't automatically non-native unless modified. The presence of "transformed" indicates a modification, so the sample is non-native. There's no mention of a cell line like HeLa, so that's not a factor here. The other parts like cell type and source name don't indicate non-native factors. So the reason is the neoplastic stage being transformed.
+</think>
+
+{"id": "SRX5360094", "metadata": "neoplastic stage=transformed", "native": false}
+
+--- LLM Response for ID: SRX5371741 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX5371741. The metadata includes "source_name=primary blood," "cell type=CD4pos_T," and "lineage=CD4." 
+
+First, I need to check if it's native or non-native. Native samples are from healthy, unmodified specimens. The cell type here is CD4+ T cells, which is a primary cell type. The source is primary blood, so it's not an immortalized cell line. The metadata doesn't mention any modifications like knockout, knockdown, treatment, or cancer. There's no indication of disease or any non-native factors. The donor is just listed as donor 206, and there's no mention of age that would suggest fetal or embryonic cells.
+
+Since the sample is from primary blood and the cell type is CD4+ T cells without any modifications, this fits the native criteria. The absence of any non-native indicators means it's native. So the answer should be native: true.
+</think>
+
+{"id": "SRX5371741", "metadata": "source_name=primary blood, cell type=CD4pos_T", "native": true}
+
+--- LLM Response for ID: SRX5391034 ---
+<think>
+Okay, let's tackle this. The user provided a sample ID SRX5391034 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is Skeletal myotubes, and the source is Primary skeletal myotube. The genotype is control. The cell type here is primary human myocytes. 
+
+Primary cells are usually from healthy donors and not immortalized. The term "primary" suggests they are not cell lines. The genotype is control, which typically means wild-type or untreated. There's no mention of any modifications like knockout, knockdown, or treatment. Also, no disease states or embryonic cells are indicated. 
+
+The metadata doesn't list any immortalized cell lines (like HeLa) or modifications. The passages are P7, which is a passage number but doesn't indicate modification. The term "control" in genotype usually points to a native sample. Since all the indicators here align with native conditions (healthy, primary, control genotype), the sample should be classified as native. No non-native keywords are present. So the answer is native: true.
+</think>
+
+{"id": "SRX5391034", "metadata": "source_name=Primary skeletal myotube | cell type=Primary human myocytes | genotype=control", "native": true}
+
+--- LLM Response for ID: SRX5574342 ---
+<think>
+Okay, let's look at this sample. The ID is SRX5574342. The metadata includes "source_name=cMO_PU.1-ChIP" and "tissue/cell type=peripheral blood" with "cell subtype=primary monocytes". 
+
+First, I need to check if there are any non-native indicators. The cell type is primary monocytes, which are from peripheral blood. Primary cells are usually considered native unless modified. The metadata mentions "cMO_PU.1-ChIP", which might refer to a ChIP-seq experiment using the PU.1 protein. However, the presence of a ChIP experiment doesn't necessarily make the sample non-native. The cell type is primary, and there's no mention of modifications like knockout, treatment, or cancer. Also, the donor is listed as donorA, and there's no indication of disease or modification.
+
+Since primary monocytes are from healthy specimens and under normal conditions, this should be a native sample. There's no mention of immortalized cell lines or any modifications. Therefore, the classification should be native.
+</think>
+
+{"id": "SRX5574342", "metadata": "cell subtype=primary monocytes", "native": true}
+
+--- LLM Response for ID: SRX5624369 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX5624369 with some metadata. My job is to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is macrophages derived from primary human monocytes. The source is listed as "Primary human monocyte-derived macrophages," which sounds like they're using primary cells, not immortalized lines. So that's a good sign for native. But wait, there's a treatment mentioned: TNF at 10ng/ml for 16 hours. 
+
+The definitions say that non-native samples include those that are treated. The key here is whether the treatment makes it non-native. The user's note says that "treated" is a non-native indicator. So even though the cells are primary, the treatment would classify this as non-native. Also, the cell type is monocytes, but they're derived into macrophages. However, the main issue here is the treatment. Since TNF is a treatment, that's a modification. 
+
+I need to check if there are any conflicting indicators. The cell source is primary, which is native, but the treatment is non-native. According to the mixed indicators rule, if there are both native and non-native indicators, it's classified as non-native. So the presence of treatment overrides the primary cell origin. Therefore, this sample should be non-native.
+</think>
+
+{"id": "SRX5624369", "metadata": "treatment=TNF (10ng/ml) for 16 hours", "native": false}
+
+--- LLM Response for ID: SRX5716451 ---
+<think>
+Okay, let's tackle this classification task. The sample ID is SRX5716451. The metadata provided includes several fields. First, the cell type class is Neural, and the specific cell type is Neural progenitor cells. The source name is hNPCs, which I assume stands for human Neural Progenitor Cells. 
+
+Looking at the genotype/variation, it's stated as "wild type," which according to the definitions, wild-type is usually native. There's no mention of any modifications like knockout or knockdown. The sirna and lentiviral expression are both "none," so no treatments or genetic modifications are applied here.
+
+Now, checking the non-native indicators. The cell line isn't mentioned as an immortalized one like HeLa. The metadata doesn't include terms like cancer, tumor, or any treatment. The cell type is neural progenitor, which isn't necessarily a sign of non-native unless modified. Since the genotype is wild type and there's no treatment, this seems to fit the native criteria. Also, there's no indication of embryonic or fetal sources here, just neural progenitor cells. 
+
+The user mentioned that "activated" or "differentiated" aren't non-native, but here the cells are progenitor cells, which might be part of normal development. Since there's no modification or treatment, and the genotype is wild type, this sample should be classified as native. The key points here are the wild-type genotype and absence of any modifications or treatments.
+</think>
+
+{"id": "SRX5716451", "metadata": "genotype/variation=wild type, sirna=none, lentiviral expression=none", "native": true}
+
+--- LLM Response for ID: SRX5774914 ---
+<think>
+Okay, let's look at this sample. The ID is SRX5774914. The metadata includes "cell line=A2B5+ iOPCs(H)". The key part here is "cell line". According to the definitions, if the metadata mentions an immortalized cell line, it's non-native. The example given lists HeLa, HEK293, C20 as examples. Here, the cell line is A2B5+ iOPCs(H). The "iOPCs" might stand for induced Oligodendrocyte Progenitor Cells, which are likely derived from stem cells. The "(H)" could indicate human. Since this is a specific cell line name, even though it's not as common as HeLa, it still fits the category of an immortalized or modified cell line. The other parts of the metadata mention dermal fibroblasts and foreskin, but the presence of a specific cell line name takes precedence. Also, there's no mention of treatments, knockouts, or diseases. So, based on the cell line indicator, this should be classified as non-native.
+</think>
+
+{"id": "SRX5774914", "metadata": "cell line=A2B5+ iOPCs(H)", "native": false}
+
+--- LLM Response for ID: SRX5839976 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX5839976. The metadata mentions "Primary human monocyte-derived macrophages" as the source name, with tissue being peripheral blood and cell type as monocytes.
+
+First, checking the definitions. Native samples are from healthy, unmodified specimens. The key here is "primary human" which usually means they're not immortalized cell lines. The term "primary" suggests they're from actual human tissue, not a cell line. Also, there's no mention of modifications like knockout, knockdown, treatment, or cancer. The cell type is monocytes, which are part of the blood, and the tissue is peripheral blood, which is normal. 
+
+No indicators like "treated", "KO", "KD", or "cancer" are present. The metadata doesn't mention any disease affecting the tissue. The source is primary, so it's not an immortalized line. The cell type here is not an embryonic or fetal cell, so that's out. Since all the indicators point towards a healthy, unmodified primary cell sample, this should be native. The absence of any non-native terms like cell lines or modifications supports classifying it as native.
+</think>
+
+{"id": "SRX5839976", "metadata": "source_name=Primary human monocyte-derived macrophages", "native": true}
+
+--- LLM Response for ID: SRX6068070 ---
+<think>
+Okay, let's see. The sample ID is SRX6068070. The metadata includes cell_type_class as Uterus, cell_type as Endometrium, and the metadata mentions source_name=Midsecretory rep1 PGR-ChIPseq, menstrual cycle phase=mid-secretory, and tissue=endometrium/whole endometrium.
+
+First, I need to determine if this is native or non-native. The native samples are under normal physiological conditions, healthy specimens, wild-type, untreated, control, vehicle. Non-native includes things like cell lines, embryonic cells, modifications like cancer, treated, knockout, etc.
+
+Looking at the metadata: the source name is "Midsecretory rep1 PGR-ChIPseq". PGR probably stands for Progesterone Receptor, and ChIPseq is a technique for analyzing protein-DNA interactions. The menstrual cycle phase is mid-secretory, which is a normal physiological phase. The tissue is whole endometrium. There's no mention of any cell lines, modifications, treatments, or diseases. The sample seems to be from a normal endometrium during the mid-secretory phase, which is a healthy, untreated state. The use of ChIPseq here might be part of the experimental method but doesn't indicate any modification to the sample. Since there's no indication of immortalized cells, treatments, or genetic modifications, this should be classified as native.
+</think>
+
+{"id": "SRX6068070", "metadata": "source_name=Midsecretory rep1 PGR-ChIPseq, menstrual cycle phase=mid-secretory, tissue=endometrium/whole endometrium", "native": true}
+
+--- LLM Response for ID: SRX6068072 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX6068072 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is endometrium, and the menstrual cycle phase is proliferative. The source name mentions "Proliferative rep2 PGR-ChIPseq". The tissue is whole endometrium. 
+
+The key points here are the menstrual cycle phase and the cell type. The proliferative phase is a normal physiological condition of the endometrium, which is part of the regular menstrual cycle. The metadata doesn't mention any modifications like knockout, knockdown, treatment with drugs, or cancer. It's a primary tissue sample, not an immortalized cell line. 
+
+The definitions say that native samples are from healthy, unmodified specimens. Since this is a normal endometrium in the proliferative phase without any modifications, it should be native. The term "proliferative" here refers to the natural cycle phase, not an induced state. Also, there's no mention of any treatments or genetic modifications. 
+
+I don't see any non-native indicators here. The cell type is primary (endometrium), not an immortalized line. The metadata doesn't include any of the non-native keywords like cancer, knockout, or treatment. So the classification should be native.
+</think>
+
+{"id": "SRX6068072", "metadata": "menstrual cycle phase=proliferative, tissue=endometrium/whole endometrium", "native": true}
+
+--- LLM Response for ID: SRX6578928 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX6578928 with some metadata. I need to classify it as native or non-native based on the definitions given.
+
+First, looking at the metadata: the cell type is T cells, and the source is peripheral blood. The disease state is listed as Healthy T cells, and the treatment is N/A. 
+
+The definitions say that native samples are under normal physiological conditions, healthy, and unmodified. Non-native includes things like cancer, treated, knockouts, etc. The sample here is from peripheral blood, which is a normal tissue. The disease state is healthy, so that's a good sign. Treatment is N/A, meaning no treatment was applied. 
+
+The cell type is T cells. Wait, the definitions mention that if it's a generic human cell type like T cells, unless modified, it's not non-native. Since there's no mention of modifications here, that's okay. The sample is healthy, untreated, and from normal tissue. 
+
+DMSO is mentioned as a control, but that's not the case here. Also, there's no mention of cell lines like HeLa, which would be non-native. The metadata doesn't include any keywords like knockout, knockdown, cancer, or treatment. 
+
+So putting it all together: the sample is healthy, untreated, from normal peripheral blood T cells. Therefore, it should be classified as native. The reason would be the disease state being healthy and treatment being N/A.
+</think>
+
+{"id": "SRX6578928", "metadata": "disease state=Healthy T cells, treatment=N/A", "native": true}
+
+--- LLM Response for ID: SRX6763478 ---
+<think>
+Okay, let's see. The user provided the sample SRX6763478 with metadata that includes "source_name=PRIMARY-MONOCYTE" and "treatment=primary monocytes". I need to determine if this is a native or non-native sample.
+
+First, checking the definitions. Native samples are healthy, unmodified, and under normal conditions. Non-native includes things like immortalized cell lines, embryonic cells, modifications like knockouts, or treatments. 
+
+The metadata here mentions "primary monocytes". Primary cells are typically from healthy donors and are considered unmodified. The term "primary" usually indicates they're not immortalized. The source is PRIMARY-MONOCYTE, which is a primary cell type. There's no mention of any modifications like knockout, treatment with drugs, or cancer. The treatment field here says "primary monocytes", which might be a bit confusing, but "primary" in this context likely refers to the cell type rather than a treatment. Since there's no indication of any modifications or non-native conditions, this should be a native sample. Also, DMSO isn't mentioned here. The key points are the primary source and no modifications. So the answer should be native.
+</think>
+
+{"id": "SRX6763478", "metadata": "source_name=PRIMARY-MONOCYTE, cell type=PRIMARY-MONOCYTE, treatment=primary monocytes", "native": true}
+
+--- LLM Response for ID: SRX6784062 ---
+<think>
+Okay, let's break this down. The sample ID is SRX6784062. The metadata includes several parts.
+
+First, the cell type is lung, and the sample type is tissue from the upper lobe of the left lung. The developmental stage is adult, and the age is 51 years. The donor ID is ENCDO271OUW. 
+
+Looking at the definitions, native samples are from healthy, unmodified specimens. The sample is from an adult, which is normal. The age is 51, not a very young donor. The metadata mentions "tissue" but doesn't indicate any modifications like knockout, treatment, or disease. There's no mention of a cell line like HeLa or any embryonic cells. The tissue is from the lung, a normal organ. Since there's no indication of modification, treatment, or disease, this should be native. DMSO isn't mentioned here, so that's not a factor. All the criteria point to native.
+</think>
+
+{"id": "SRX6784062", "metadata": "sample_type=tissue | tissue=upper lobe of left lung | dev_stage=adult | age=51 year", "native": true}
+
+--- LLM Response for ID: SRX6969885 ---
+<think>
+Okay, let's see. I need to determine if the sample SRX6969885 is native or non-native based on the provided metadata. The metadata includes "source_name=cardiomyocytes", "cell type=CHD6 heterozygous mutant", and "passages=D9". 
+
+First, looking at the definitions. Native samples are those under normal physiological conditions, from healthy, unmodified specimens. Non-native includes modified cells like knockouts, knockdowns, or specific cell lines. 
+
+The cell type here is "CHD6 heterozygous mutant". The term "heterozygous mutant" suggests a genetic modification. According to the definitions, any knockout, knockdown, or similar modifications make it non-native. Even though the cell type is cardiomyocytes, the presence of a mutation (heterozygous) indicates it's not a wild-type or untreated sample. 
+
+The source name is cardiomyocytes, but the key part is the cell type being a mutant. The passage information (D9) doesn't affect the classification here. Since the sample has a genetic modification (heterozygous mutant), it falls under non-native. 
+
+I should check if there are any conflicting indicators. The metadata doesn't mention anything that would contradict this. So the conclusion is non-native.
+</think>
+
+{"id": "SRX6969885", "metadata": "cell type=CHD6 heterozygous mutant", "native": false}
+
+--- LLM Response for ID: SRX7015671 ---
+<think>
+Okay, let's see. The user provided a sample with the ID SRX7015671. The metadata includes several parts. First, the cell type is fibroblasts, which are a common type of cell in connective tissues. Now, the key part here is the cell line mentioned. The metadata states "cell line=CRL7250". 
+
+Looking at the definitions, non-native samples include immortalized cell lines. CRL7250 is a cell line, right? I need to confirm if CRL7250 is an immortalized cell line. From what I remember, CRL7250 is a human diploid fibroblast cell line, specifically from a lung tissue. Wait, diploid fibroblasts can be primary cells, but if they're part of a cell line, they might be immortalized. Hmm, sometimes cell lines like CRL7250 are immortalized through various means. Let me think. The key point here is whether the cell line is immortalized. If it's a primary cell line that hasn't been modified, it's native. But if it's immortalized, then it's non-native.
+
+Wait, the user's guidelines say that generic cell types like "fibroblasts" are not non-native indicators unless modified. However, if the cell line is an immortalized one, then it's non-native. So, the presence of a cell line name like CRL7250 would indicate it's a cell line. Now, I need to check if CRL7250 is an immortalized cell line. From my knowledge, CRL7250 (MRC-5) is actually a human fetal lung fibroblast cell line, and it's a diploid cell line. However, diploid cell lines can still be considered immortalized. Wait, MRC-5 cells are derived from a fetus but are considered a cell line. The definition mentions that "embyrionic cells" like fetal are non-native indicators. However, in this case, the cell line being a fetal-derived might be a factor. But according to the rules, if the cell line is an immortalized one, regardless of origin, it's non-native. 
+
+So, the presence of "cell line=CRL7250" is a non-native indicator because it's a cell line. The cell type being fibroblasts alone isn't enough, but the cell line part is. Therefore, the sample should be classified as non-native. The answer would be to set native to false, citing the cell line=CRL7250 in the metadata.
+</think>
+
+{"id": "SRX7015671", "metadata": "cell line=CRL7250", "native": false}
+
+--- LLM Response for ID: SRX735289 ---
+<think>
+Okay, let's break down the sample information. The sample ID is SRX735289. The metadata includes "source_name=In vitro differentiated Th1 cells" and "treatment/agent=PMA/ionomycin". 
+
+First, looking at the cell type: Th1 cells. The user mentioned that "activated" and "differentiated" are not non-native indicators. However, "In vitro differentiated" here might be a point to consider. But according to the rules, "differentiated" isn't a non-native indicator. So that part alone doesn't make it non-native.
+
+Next, the treatment with PMA/ionomycin. PMA (phorbol myristate acetate) is a common activator used in experiments to stimulate cells. The treatment implies that the cells were exposed to an agent to induce a response. The definition says that "treated" is a non-native indicator. Since the metadata explicitly mentions treatment, that's a clear flag. 
+
+So the presence of "treatment/agent=PMA/ionomycin" would classify this sample as non-native. The other parts of the metadata don't contradict this. Even though the cell type is Th1 and "differentiated" isn't a non-native term, the treatment is a modifying factor. Therefore, the answer should be non-native.
+</think>
+
+{"id": "SRX735289", "metadata": "treatment/agent=PMA/ionomycin", "native": false}
+
+--- LLM Response for ID: SRX7509593 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX7509593. The metadata mentions it's a testis tissue from an adult, 37 years old. The cell type is testis, and the donor ID is provided. Now, checking the definitions.
+
+First, native samples are from healthy, unmodified specimens. The metadata doesn't mention any modifications like knockout, knockdown, or treatment. The cell type is a primary tissue (testis), not an immortalized cell line. The donor is an adult, so no fetal or embryonic indicators. The age is 37, which is normal. There's no indication of disease or modification. Since the sample is a normal tissue from a healthy donor without any modifications, this should be native. The key points here are the absence of any non-native indicators and the presence of normal physiological conditions. So the classification is native.
+</think>
+
+{"id": "SRX7509593", "metadata": "cell_type=testis | dev_stage=adult | age=37 year", "native": true}
+
+--- LLM Response for ID: SRX7730450 ---
+<think>
+Okay, let's take a look at this sample. The ID is SRX7730450, and the metadata includes several key points. The cell type is osteoblasts, which are a type of bone cell. Now, the important part here is the genotype: "Corrected RB1 mutation." 
+
+The user's instructions mention that modifications like knockout or knockdown would make it non-native. The term "corrected" here might imply that there was a genetic modification. However, the RB1 gene is associated with diseases like retinoblastoma, but the metadata doesn't specify a disease state here. The correction of a mutation could be part of a normal process or an experimental correction.
+
+Wait, according to the definitions, native samples are wild-type, untreated, controls. If the genotype is corrected, does that mean it was previously mutated and then fixed? The term "corrected" might indicate that the mutation was addressed, but the sample is now wild-type. However, the presence of "RB1 mutation" in the genotype might still be a modification. 
+
+The rules state that if there's a modification, like knockout or knockdown, it's non-native. The term "corrected" isn't explicitly listed, but if the correction involved altering the gene, then it might be considered a modification. However, if the correction is just the natural process, maybe not. But in biological contexts, correcting a mutation usually involves some form of genetic engineering, which would make it non-native. 
+
+Alternatively, maybe the sample is from a donor with a corrected mutation through natural means, which would be native. But the metadata doesn't specify if this was done experimentally. The key here is that the genotype is "Corrected RB1 mutation." Since "corrected" could imply an intentional modification (like gene therapy), it's likely non-native. Therefore, the sample should be classified as non-native because the genotype indicates a modification.
+</think>
+
+{"id": "SRX7730450", "metadata": "genotype=Corrected RB1 mutation", "native": false}
+
+--- LLM Response for ID: SRX8090642 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX8090642. The metadata mentions "treatment=JQ1". According to the definitions, any treatment makes it non-native. Even though the cell type is synoviocytes and the diagnosis is rheumatoid arthritis, the presence of a treatment (JQ1) is a clear non-native indicator. There's no mention of immortalized cell lines here, but the treatment alone is enough. So the answer should be non-native.
+</think>
+
+{"id": "SRX8090642", "metadata": "treatment=JQ1", "native": false}
+
+--- LLM Response for ID: SRX8090646 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX8090646. The metadata mentions "diagnosis=Rheumatoid arthritis". Rheumatoid arthritis is a disease, so that might indicate a non-native sample. But wait, the definitions say that diseases not affecting the given tissue aren't non-native. However, synoviocytes are part of the joints, which are directly affected by rheumatoid arthritis. So the disease here is relevant.
+
+Also, the treatment is DMSO. The user mentioned that DMSO is usually in control experiments and not non-native. But the presence of a disease like RA might still make it non-native. Let me check the rules again. Non-native includes modifications like disease, and here the sample comes from a diseased state. So even though DMSO is a control, the disease diagnosis would make it non-native. Also, the cell type is synoviocytes from a rheumatoid arthritis patient. So the answer should be non-native.
+</think>
+
+{"id": "SRX8090646", "metadata": "diagnosis=Rheumatoid arthritis", "native": false}
+
+--- LLM Response for ID: SRX8841625 ---
+<think>
+Okay, let's see. The user provided a sample with the ID SRX8841625 and some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is Lymphoblasts, and the source name is RAD21-ChIP-seq-Mut. The condition is "Acheiropodia patient". The cell type is listed as Lymphoblast cells. 
+
+Wait, the definitions mention that non-native samples include modified cells. The term "Mut" in the source name could indicate a mutation. Also, the condition is a patient with Acheiropodia, which is a genetic disorder. But the key here is whether the sample itself is modified. 
+
+The metadata doesn't explicitly state if the cells are from an immortalized cell line. The cell type is Lymphoblast cells, which could be primary or derived from a patient. However, the presence of "Mut" might suggest a genetic modification. Also, the patient's condition (Acheiropodia) is a genetic disorder, but the definition says that diseases not affecting the tissue aren't non-native indicators. However, if the sample comes from a patient with a genetic disorder affecting the cells, does that count as a modification? 
+
+The definitions state that modifications include terms like knockout, knockdown, etc. But "Mut" could imply a mutation. If the cells are from a patient with a genetic mutation causing Acheiropodia, then the sample might be considered non-native because it's from a diseased state. However, the rule says that diseases not affecting the given tissue aren't non-native. Here, the tissue is blood (lymphoblasts), and Acheiropodia is a limb development disorder. Maybe that's not directly affecting blood cells. 
+
+But the source name has "RAD21-ChIP-seq-Mut". RAD21 is a gene involved in DNA repair. If the mutation is in RAD21, that could be a genetic modification. But the sample is from a patient, so it's a natural mutation, not an induced one. However, the definitions don't specify whether natural mutations from diseases count as modifications. 
+
+The key here is that the sample is from a patient with a genetic disorder, which might indicate that the cells are not in a normal physiological state. However, according to the definitions, non-native includes modifications like knockout or treated. If the patient's condition is due to a natural mutation, but the cells aren't treated or modified in the lab, then maybe it's still considered native. 
+
+But the presence of "Mut" in the metadata might be a red flag. Also, the condition is a patient with a genetic disorder. The definitions mention that specimens with very young age (fetal or newborn) are non-native, but there's no mention of age here. 
+
+Hmm. The sample is from a patient with Acheiropodia, which is a genetic disorder. The cell type is lymphoblasts. Since the cells are from a patient with a genetic disorder affecting their development, even if it's not the blood tissue, the presence of a mutation (as indicated by "Mut") might classify it as non-native. Also, the metadata includes "Mut" which is a synonym for modification. 
+
+So the reason would be the "Mut" in the source name and the patient's condition. Therefore, the sample is non-native.
+</think>
+
+{"id": "SRX8841625", "metadata": "source_name=RAD21-ChIP-seq-Mut, condition=Acheiropodia patient", "native": false}
+
+--- LLM Response for ID: SRX885891 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX885891 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is Macrophages, and the treatment is Control. The source name is Macrophage-control. The key here is the treatment. The definitions mention that control and vehicle samples are usually native. Also, DMSO in controls isn't non-native. The sample is labeled as Control, which typically means no treatment or a baseline condition. 
+
+I should check if there are any indicators of non-native status. The cell type is Macrophages, which is a primary cell type unless modified. The treatment is Control, so no modifications like knockout or treatment with drugs. The metadata doesn't mention any cell lines like HeLa or HEK293, so that's out. No keywords like fetal, embryonic, cancer, or knockout. 
+
+Since the treatment is Control and the cell type is primary (assuming they're not immortalized here), this fits the native criteria. The reason would be the treatment being Control. I need to make sure there's no conflicting info. The metadata doesn't have any non-native indicators, so the answer should be native: true.
+</think>
+
+{"id": "SRX885891", "metadata": "treatment=Control", "native": true}
+
+--- LLM Response for ID: SRX885895 ---
+<think>
+Okay, let's look at this sample. The ID is SRX885895. The metadata includes several parts. The cell type is Macrophages, and the source name is Macrophage-oxLDL. The treatment is oxLDL at 50mcg/ml.
+
+First, I need to check if there are any non-native indicators. The treatment here is oxLDL. The definition says that treated samples are considered non-native. Since this sample has a treatment applied (oxLDL), that's a clear indicator. Also, the source name includes "oxLDL", which reinforces that treatment was part of the experiment. 
+
+There's no mention of an immortalized cell line, like HeLa or HEK293. The cell type is macrophage, which is a primary cell type unless modified. But since they were treated, that modification makes it non-native. 
+
+Wait, the user mentioned that "treated" is a non-native indicator. So even if the cell type is primary, the treatment would still make it non-native. The metadata clearly states treatment=oxLDL, so this sample should be classified as non-native. 
+
+No other conflicting indicators here. The cell type isn't modified beyond the treatment. So the conclusion is non-native.
+</think>
+
+{"id": "SRX885895", "metadata": "treatment=oxLDL (50mcg/ml)", "native": false}
+
+--- LLM Response for ID: SRX9029210 ---
+<think>
+Okay, let's tackle this sample classification. The ID is SRX9029210. The metadata includes "source_name=human neutrophil", "treatment=no treatment", and "time=20 h". 
+
+First, I need to check if it's native or non-native. Native samples are healthy, unmodified, and under normal conditions. The treatment here is "no treatment", which suggests it's a control. DMSO is usually a control, but that's not mentioned here. The cell type is neutrophils, which is a normal cell type. There's no mention of any modifications like knockout, knockdown, or cancer. The cell line isn't specified as an immortalized one, just human neutrophils. 
+
+Wait, the "time=20 h" might be a factor. But the definition doesn't mention time as a non-native indicator. The key is whether there's any modification or treatment. Since treatment is "no treatment", that's a positive for native. The source is human neutrophils, which are primary cells unless modified. Since there's no indication of modification, this should be native. 
+
+No keywords like fetal, embryonic, or any disease terms. The "cell type=neutrophil" is repeated, but that's just the cell type. No signs of being a cell line. So the metadata points to native. Therefore, the classification is native.
+</think>
+
+{"id": "SRX9029210", "metadata": "source_name=human neutrophil, treatment=no treatment", "native": true}
+
+--- LLM Response for ID: SRX9029211 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX9029211 with some metadata. I need to determine if it's native or non-native based on the given criteria.
+
+First, looking at the metadata: the cell type is neutrophils, which are a type of blood cell. The source is a human neutrophil. Now, the treatment mentioned is R848 at 5mM concentration, and the time is 20 hours. 
+
+The key here is the treatment. The user's guidelines say that if a sample is treated, it's considered non-native. The definition of non-native includes any modifications like treatments. Even though the cell type is primary (neutrophils), the fact that they were treated with R848 makes them non-native. 
+
+I should check if there are any other indicators. The cell type is listed as neutrophil, which is a normal cell type, but the treatment is the main factor here. Since the sample was treated, it's non-native. Also, the metadata doesn't mention any immortalized cell lines or embryonic cells, so those aren't factors. 
+
+The answer should reflect that the treatment R848 is the reason for classifying it as non-native. So the JSON will have the ID, the metadata reason pointing to the treatment, and native set to false.
+</think>
+
+{"id": "SRX9029211", "metadata": "treatment=R848 (5mM)", "native": false}
+
+--- LLM Response for ID: SRX9221932 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX9221932. The metadata mentions "treatment=17 β-estradiol (1 µM)" and "treatment time=8 hours". According to the definitions, non-native samples include those that are treated. The key here is whether the treatment makes it non-native. The user's guidelines state that "treated" is a non-native indicator. Even though the cell type is primary hepatocytes, which might be considered native under normal conditions, the presence of a treatment with a specific compound and duration would classify it as non-native. DMSO is an exception, but 17 β-estradiol isn't mentioned here. So, the treatment part in the metadata is the reason for non-native classification.
+</think>
+
+{"id": "SRX9221932", "metadata": "treatment=17 β-estradiol (1 µM)", "native": false}
+
+--- LLM Response for ID: SRX9221933 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX9221933. The metadata mentions "source_name=Primary Hepatocytes" and "tissue/cell type=Primary hepatocytes". Primary cells are usually considered native because they come from healthy, unmodified tissues. The treatment is DMSO, which is a common control and not considered non-native. There's no mention of any modifications like knockout, cancer, or immortalized cell lines. The cell type is hepatocytes, and the source is primary, so it's under normal physiological conditions. Even though there's a treatment time, the treatment is just DMSO, which doesn't make it non-native. So the sample should be classified as native.
+</think>
+
+{"id": "SRX9221933", "metadata": "source_name=Primary Hepatocytes, treatment=DMSO", "native": true}
+
+--- LLM Response for ID: SRX9345717 ---
+<think>
+Okay, let's tackle this. The user provided a sample ID SRX9345717 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is Erythroid Cells, and the source name mentions "iPSC differentiation to Erythroid cells". Differentiation here is part of the process. The genotype is Wild type. 
+
+Wait, the definitions say that "differentiated" is not a non-native indicator. So even though it's differentiated, that alone doesn't make it non-native. The key here is whether the cells are derived from a modified source. The source here is iPSC, which are induced pluripotent stem cells. But iPSCs themselves are typically derived from somatic cells that have been reprogrammed. However, the metadata doesn't mention any modifications like knockout, knockdown, or treatment. The genotype is wild type, which is native. 
+
+Also, the differentiation day is Day 21, but that's just part of the process. The main factors are the cell type and any modifications. Since there's no indication of modifications (like KO, KD, treated), and the genotype is wild type, this should be considered native. The fact that it's differentiated from iPSCs but remains wild type and untreated would mean it's native. So the answer should be native: true. The reason would be the wild type genotype and no other non-native indicators.
+</think>
+
+{"id": "SRX9345717", "metadata": "genotype=Wild type", "native": true}
+
+--- LLM Response for ID: SRX9850737 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX9850737. The metadata mentions "cell line=Calu-3". According to the definitions, if the metadata includes an immortalized cell line name, it's non-native. Calu-3 is a known human lung cancer cell line, which is an immortalized cell line. Even though the cell type is listed as "Human bronchial epithelial cells", the presence of the cell line Calu-3 indicates it's a non-native sample. The other parts of the metadata don't override this. So the classification should be non-native.
+</think>
+
+{"id": "SRX9850737", "metadata": "cell line=Calu-3", "native": false}
+
+--- LLM Response for ID: SRX9867030 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX9867030 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is CD8+ T cells. The definitions mention that if it's a generic human cell type like T cells or fibroblasts, it's not a non-native indicator unless modified. So CD8+ T cells are a specific type, but they aren't listed as immortalized cell lines. The metadata doesn't mention any cell line like HeLa or HEK293. 
+
+Next, check for modifications. The metadata includes "Metadata=source_name=1818759_CD8_CTCF_REP1" and "cell type=CD8". There's no mention of cancer, tumor, knockout, knockdown, or any treatment. The term "CTCF" might refer to a protein, but without any indication of modification like knockout, it's just a source name. The sample is CD8+ T cells, which are a normal part of the immune system. 
+
+Also, the sample isn't from an embryonic or fetal source. The source name doesn't indicate any disease or modification. Since there's no mention of immortalization, treatment, or genetic modifications, this sample seems to fit the native category. 
+
+The user's example shows that if the cell type is a generic one like T cells but not modified, it's considered native. So in this case, even though it's a specific subset (CD8+), since it's a normal cell type and no modifications are mentioned, it should be native. 
+
+I need to make sure there's no hidden modification. The term "REP1" in the source name might just be a replicate number, not a modification. So the reason for classifying as native is the absence of non-native indicators and the presence of a normal cell type.
+</think>
+
+{"id": "SRX9867030", "metadata": "cell_type=CD8+ T cells", "native": true}
+
+--- LLM Response for ID: SRX9969717 ---
+<think>
+Okay, let's look at the sample provided. The ID is SRX9969717. The metadata mentions "cell line=16HBE14o-". According to the definitions, if the metadata includes an immortalized cell line name, it's non-native. The cell line here is 16HBE14o-, which seems to be an immortalized cell line since it's a specific line name. The cell type is Human bronchial epithelial cells, but since it's specified as a cell line, that's the key indicator. The growth media is DMEM + 10% FBS, which is common, but the presence of the cell line name is what matters here. There's no mention of modifications like knockout or treatment. So based on the cell line being present, this should be classified as non-native.
+</think>
+
+{"id": "SRX9969717", "metadata": "cell line=16HBE14o-", "native": false}
+

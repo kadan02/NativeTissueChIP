@@ -1,0 +1,13 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell_line=C20
+SRX11513464,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)","Non-Native. differentiated, donor B, 24 hours differentiation"
+SRX1738529,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. cell type=Hematopoietic Stem Cells, source_name=Human Stem and Progenitor Cell"
+SRX18672589,0,native,LLM (Native Validation),"Highest weight keyword: 'untreated' (category: weak_native, score: 100.0). Matches found: 'untreated' in 'treatment' (weak_native/100.0)","Native. cell_line=C20, treatment=untreated"
+SRX212353,0,native,LLM (Fallback),No relevant keywords,"Native. donor=1, source_name=macrophage, treatment=none"
+SRX5574342,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 90.9090909090909). Matches found: 'donor' in 'donr id' (weak_native/90.9090909090909)",Non-Native. cell_line=C20
+SRX9867030,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell type=CD8
+SRX9345717,0,native,LLM (Native Validation),"Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype' (weak_native/100.0)","Native. iPSC differentiation to Erythroid cells, Wild type"
+SRX5371741,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)",Non-Native. cell_line=C20
+SRX5774914,0,native,LLM (Fallback),No relevant keywords,Native. cell_line=A2B5+ iOPCs(H)
+SRX6068070,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell_line=C20
+SRX6068072,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell_line=C20

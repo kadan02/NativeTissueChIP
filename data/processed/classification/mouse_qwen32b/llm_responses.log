@@ -1,0 +1,863 @@
+--- LLM Response for ID: DRX440382 ---
+<think>
+Okay, let's tackle this. The user provided a sample with ID DRX440382 and a bunch of metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata. The sample name is "ChIPseq EZH2 of WT mouse". The key part here is "WT", which stands for wild-type. According to the definitions, wild-type samples are usually native. Also, there's no mention of any modifications like knockout, knockdown, or treatment. The tissue is spleen, and there's no indication of using an immortalized cell line or embryonic cells. The strain is C57BL/6J, which is a common inbred mouse strain, but that doesn't make it non-native. The age is not applicable, which might be because it's a mouse strain, but since there's no mention of being fetal or newborn, that's not an issue. The metadata doesn't have any non-native indicators like cancer, treated, or KO. So based on the presence of "WT" and absence of any non-native factors, this should be classified as native.
+</think>
+
+{"id": "DRX440382", "metadata": "sample_name=ChIPseq EZH2 of WT mouse", "native": true}
+
+--- LLM Response for ID: ERX204066 ---
+<think>
+Okay, let's break this down. The sample ID is ERX204066. The metadata includes Cell_type_class=Liver, Cell_type=Hepatocytes, and several ArrayExpress fields. The key part here is the Genotype being Wildtype. According to the definitions, wild-type samples are usually native. Also, there's no mention of any modifications like knockout, treatment, or use of non-native cell lines. The DevelopmentalStage is Adult, which doesn't indicate anything non-native. The sample description mentions ChIPseq, but that's a technique, not a modification. The strain is C57BL/6, which is a common lab strain but doesn't make it non-native unless modified. Since the genotype is wildtype and there's no other non-native indicators, this should be native.
+</think>
+
+{"id": "ERX204066", "metadata": "ArrayExpress-Genotype=Wildtype", "native": true}
+
+--- LLM Response for ID: SRX018602 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX018602. The metadata mentions "Nrl ko" and "genotype=Nrl-/-". The term "ko" stands for knockout, which is a modification. According to the definitions, any knockout (KO) is a non-native indicator. Even though the cell type is Neural and the tissue is retina, the presence of a knockout makes it non-native. Also, the metadata includes "Crx ChIP", but ChIP is a technique and doesn't affect the classification. Since there's a clear modification (KO), the sample is non-native.
+</think>
+
+{"id": "SRX018602", "metadata": "genotype=Nrl-/-", "native": false}
+
+--- LLM Response for ID: SRX027447 ---
+<think>
+Okay, let's tackle this. The user provided a sample ID SRX027447 with metadata. I need to determine if it's native or non-native based on the definitions.
+
+First, looking at the metadata: Cell_type_class is Gonad, Cell_type is Testis. The source name is "pups testis," which might refer to young mice, but not necessarily fetal or embryonic. The strain is a cross between 9R and 13R. The genotype is wild type, which according to the rules is a native indicator. The antibody lot is G0909, which doesn't seem relevant here.
+
+The key points here are the genotype being wild type and the absence of any modifications like knockout, treatment, or use of immortalized cell lines. The mention of "pups" could imply young age, but the definition says non-native applies to very young like fetal or newborn. Pups might be young but not necessarily in that category. Also, the rules state that wild-type is usually native. There's no mention of any disease or modifications. So this sample should be classified as native.
+</think>
+
+{"id": "SRX027447", "metadata": "genotype/variation=wild type", "native": true}
+
+--- LLM Response for ID: SRX028842 ---
+<think>
+Okay, let's take a look at this sample. The ID is SRX028842. The metadata includes several key points. The cell type is Macrophages, specifically Bone-marrow-derived macrophages. The treatment mentioned is Brd2_0H_minus. Wait, Brd2 might be a gene, and the treatment has a minus sign. That could indicate a knockout or knockdown. The time is 0H, which is just the starting point.
+
+Now, checking the definitions. Non-native samples include modifications like knockout, knockdown, KO, KD. The treatment here is Brd2_0H_minus. The "minus" here might suggest that the gene Brd2 is knocked out or down. If that's the case, this would make the sample non-native. Also, there's no mention of immortalized cell lines, which would be another non-native indicator. The strain is C57BL/6, a common lab mouse strain, but unless modified, it's native. But the treatment here seems to indicate a genetic modification. So, the presence of Brd2_0H_minus suggests a knockout or knockdown, which classifies it as non-native. Therefore, the answer should be false.
+</think>
+
+{"id": "SRX028842", "metadata": "treatment=Brd2_0H_minus", "native": false}
+
+--- LLM Response for ID: SRX10462798 ---
+<think>
+Okay, let's see. The user provided a sample ID and metadata, and I need to classify it as native or non-native. The sample is SRX10462798 with metadata including genotype=Tet2+/-, treatment=No, and other details.
+
+First, looking at the definitions. Native samples are from healthy, unmodified specimens. Non-native includes modifications like knockouts, knockdowns, or treatments. The genotype here is Tet2+/-, which indicates a heterozygous knockout, right? Because "+/-" usually means one copy is knocked out. So that's a modification. The treatment is "No", so no drugs or chemicals. The cell type is nasal mucosa, which is a tissue. The strain is C57BL/6, a common mouse strain. The age is 10-12 weeks, which is adult, not fetal or embryonic. 
+
+Wait, the genotype is Tet2+/-, which is a heterozygous state. But does that count as a modification? The definition says "knockout, knockdown, KO, KD" are non-native indicators. Tet2+/- would be a knockout in one allele. So that's a modification. Even though it's heterozygous, it's still a genetic modification. Therefore, the sample is non-native. 
+
+The treatment is "No", so no chemical treatments. The cell line isn't mentioned as an immortalized one. The tissue is nasal mucosa, which is a primary tissue. But the genotype is modified. So based on the genotype being a knockout, it should be non-native. The metadata references genotype=Tet2+/-, which is the key part here. So the reason is the genotype indicating a knockout. Hence, native is false.
+</think>
+
+{"id": "SRX10462798", "metadata": "genotype=Tet2+/-", "native": false}
+
+--- LLM Response for ID: SRX105503 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX105503 with the metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, the metadata mentions "Cell_type_class=Liver" and "tissue=liver". The source is the liver, which is a normal tissue. The strain is CD1 outbred mice. I'm not sure if CD1 is an immortalized cell line. Wait, CD1 is a strain of mice, not a cell line. The definitions say that non-native includes immortalized cell lines like HeLa, HEK293, etc. Here, the sample is from a mouse liver, not a cell line. 
+
+The age is 2-3 months. The guidelines mention that very young (fetal or newborn) age would be non-native, but 2-3 months in mice is probably adult. No mention of treatments, modifications, or diseases. The metadata doesn't include any keywords like knockout, treated, or cancer. The strain is outbred, but that's about genetic diversity, not modifications. 
+
+So, since the sample is from a normal liver tissue of healthy mice without any modifications or treatments, this should be native. The strain being CD1 outbred doesn't make it non-native unless it's a cell line. Therefore, the classification is native.
+</think>
+
+{"id": "SRX105503", "metadata": "source_name=liver, tissue=liver, strain=CD1 outbred mice, age=2-3 months", "native": true}
+
+--- LLM Response for ID: SRX1063034 ---
+<think>
+Okay, let's tackle this. The user provided a sample ID SRX1063034 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata. The cell type is CD4+ T cells, which is a primary cell type. The metadata mentions "pre-activated CD4+ T cells". The user's guidelines say that "activated" is not a non-native indicator. However, the treatment is listed as "Cont STAT1". Wait, "Cont" might be short for control. But there's also "treatment=Cont STAT1". The genotype is WT (wild-type), which is native. 
+
+But there's a mention of "pre-activated". The rules state that "activated" and "differentiated" are not non-native. So even though it's pre-activated, that's allowed. The treatment here is "Cont", which could mean control, so maybe it's a vehicle or untreated. However, the presence of "treatment" might be a red flag. Wait, the definition says that "treated" is a non-native indicator, but if it's a control treatment, like vehicle, maybe it's okay. The user's note says DMSO is not non-native. But here, the treatment is "Cont STAT1" – not sure what that means. If "Cont" is a control, maybe it's not a treatment. However, the presence of any treatment term could be an indicator. Wait, the user's definition says that "treated" is a non-native indicator. But here, the treatment is "Cont", which might be a control. The problem is that the sample is pre-activated. However, the user's rules state that "activated" is not non-native. So the key factors are:
+
+- Genotype is WT (native)
+- Cell type is primary (CD4+ T cells), unless modified. Here, it's "pre-activated" but the rules say activated isn't non-native.
+- The treatment is "Cont", which might be a control. If the treatment is a control, then maybe it's not non-native. However, the presence of a treatment term might still be an issue. Wait, the definition says "treated" is non-native, but if it's a control, perhaps it's not. The example given includes "treatment=Cont" and the answer was native. Wait, no, let me check the example. One example is "treatment=Cont STAT1" in the user's input. The example in the answer format isn't directly related, but in the user's case, the treatment is "Cont STAT1". 
+
+Wait, the user's example in the task includes a sample with treatment=Cont and it's classified as native? Let me see. The third example is about a KO, which is non-native. The second example is a cell line. The first example is genotype=WT. So maybe in this case, the treatment being "Cont" isn't non-native. Because "Cont" could be a control, and if the sample is otherwise native. 
+
+So the sample's metadata includes genotype=WT, which is native. The cell type is CD4+ T cells, which is primary. The treatment is "Cont", which might be a control. However, the cell type is "pre-activated CD4+ T cells". But the user's rules say that "activated" is not a non-native indicator. Therefore, even though it's pre-activated, it's still native. 
+
+But wait, the metadata has "treatment=Cont STAT1". The presence of a treatment term might indicate it's non-native. But if it's a control treatment, maybe it's not. The user's note says that DMSO is not non-native because it's used in controls. So maybe "Cont" here is similar. 
+
+So, putting it all together: genotype is WT (native), cell type is primary (CD4+ T cells), treatment is control. The "pre-activated" is allowed. So the sample should be native. Therefore, the answer is native: true. The reason would be the genotype=WT and the cell type being primary. However, the treatment is a possible point. Wait, the definition says that "treated" is non-native. But here, the treatment is "Cont", which is a control. So if the treatment is a control, then it's not considered non-native. The user's note says that DMSO in control experiments is not non-native. So "Cont" as a treatment here would be similar. Therefore, the sample is native. So the JSON should be {"id": "SRX1063034", "metadata": "genotype=WT", "native": true}.
+</think>
+
+{"id": "SRX1063034", "metadata": "genotype=WT and cell_type=CD4+ T cells (primary cells) with treatment=Cont (control)", "native": true}
+
+--- LLM Response for ID: SRX1063037 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX1063037. The metadata includes several fields. First, the cell type is CD4+ T cells, which are a type of blood cell. The source name is "Pre-activated CD4+ T cells," but the note says "Activated" isn't a non-native indicator. However, there's a genotype listed as "S3KO," which stands for S3 knockout. Knockout is a clear modification indicator. Additionally, the treatment is "IL21 STAT1," which might involve some treatment, but the main red flag here is the genotype. The presence of "KO" in the genotype means it's a modified cell line, so this would classify the sample as non-native. Even though the cell type is a primary one, the modification (KO) makes it non-native. The other elements like "Pre-activated" don't count against being native. So the key factors are the genotype and the treatment. Wait, the treatment here is IL21 and STAT1. But the treatment itself might not be a non-native indicator unless it's part of a modification. However, the genotype S3KO is a knockout, which is a modification. So the main reason here is the genotype being a knockout. Therefore, the sample should be classified as non-native.
+</think>
+
+{"id": "SRX1063037", "metadata": "genotype=S3KO", "native": false}
+
+--- LLM Response for ID: SRX10652556 ---
+<think>
+Okay, let's start by looking at the sample provided: SRX10652556. The metadata includes several pieces of information. The cell type is CD4+ T cells, and the polarizing condition is Th1. The genotype is Junbfl/fl. 
+
+First, I need to check if there are any indicators of non-native status. The genotype here is Junbfl/fl. The "fl" likely stands for floxed, which is a common term in genetic modifications where a gene is flanked by loxP sites. This suggests that the gene might be knocked out or knocked down in some way, especially if combined with Cre recombinase. However, the genotype is specifically "Junbfl/fl" without mentioning any further modification like Cre treatment. So, it's a floxed allele but not necessarily a knockout unless activated. 
+
+The polarizing condition is Th1, which is a type of T cell activation. However, the user's guidelines state that 'activated' is not a non-native indicator. So even though Th1 is an activated state, it doesn't count. 
+
+Other elements: the cell type is naive CD4+ T cells. Naive cells are typically considered native as they haven't been previously exposed to antigens. The source is splenocytes, which are cells from the spleen, a normal physiological source. The strain is C57BL/6, a common inbred mouse strain, which is normal. 
+
+The key point is the genotype. If Junb is floxed, but there's no indication of a knockout or knockdown (like KO or KD), then maybe it's still considered native. However, the presence of a floxed allele often implies that the organism is a conditional knockout model, which would be a modification. The user's definition says that any modification (like knockout, knockdown) makes it non-native. Even if it's just the floxed allele without Cre, the fact that it's a targeted mutation (Junbfl) might be considered a modification. 
+
+But wait, the user's definition says that "knockout, knockdown, KO, KD" are indicators. Here, it's Junbfl/fl, which is a floxed allele. If the sample is homozygous for the floxed allele (fl/fl), but without Cre, the gene is still functional. However, the presence of a floxed allele in the genotype might still be considered a modification. The user's note says "any clear synonyms or abbreviations of these modification terms." Floxed is a type of genetic modification, so even if it's not a direct KO, it's a modification. Therefore, this sample would be non-native. 
+
+Alternatively, if the floxed allele is a wild-type gene just with loxP sites, but not knocked out, maybe it's still considered native? But the presence of a floxed allele is a genetic modification. So according to the rules, any modification would make it non-native. Therefore, the answer should be non-native.
+</think>
+
+{"id": "SRX10652556", "metadata": "genotype=Junbfl/fl", "native": false}
+
+--- LLM Response for ID: SRX10659669 ---
+<think>
+Okay, let me analyze this sample. The ID is SRX10659669. The metadata mentions "source_name=ChIP HNF4a on FoxA Dev double null". Hmm, "double null" probably refers to a double knockout, right? Because "null" in this context usually means knocked out. So if they're using a double knockout model for FoxA and Dev, that's a genetic modification. The sample is from the liver, and the age is 8 weeks old, but the age here might not be a factor unless it's a fetal or newborn, which it's not. The key point here is the "double null" indicating that the cells or tissue have been genetically modified. Since modifications like knockout are considered non-native, this sample should be classified as non-native. Even though the cell type is liver and the age is normal, the presence of a knockout makes it non-native. The metadata doesn't mention any immortalized cell lines or other non-native factors, but the knockout is enough.
+</think>
+
+{"id": "SRX10659669", "metadata": "source_name=ChIP HNF4a on FoxA Dev double null", "native": false}
+
+--- LLM Response for ID: SRX10828736 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX10828736, and the metadata includes "genotype=XBP1 LKO". I need to determine if this is native or non-native.
+
+First, looking at the definitions. Non-native samples include modifications like knockout (KO) or knockdown (KD). The genotype here is XBP1 LKO. "LKO" probably stands for liver-specific knockout. So that's a modification, which makes it non-native. Also, the metadata mentions "source_name=liver", "strain=C57BL/6", and other details, but the key part is the genotype. Since there's a knockout involved, this should be classified as non-native. The user's note says if there are mixed indicators, go with non-native, but here it's straightforward. No mention of cell lines or other non-native factors, just the knockout. So the answer is false.
+</think>
+
+{"id": "SRX10828736", "metadata": "genotype=XBP1 LKO", "native": false}
+
+--- LLM Response for ID: SRX10828756 ---
+<think>
+Okay, let's look at the sample metadata provided. The ID is SRX10828756. The metadata includes several key points. The cell type is liver, and the source name is also liver. The strain is C57BL/6, which is a common inbred mouse strain. The genotype is listed as WT, which stands for wild-type. The age is 3-4 months, which isn't too young. The tissue is liver, and there's no mention of any treatments or modifications like knockout, knockdown, or cancer. Since the genotype is wild-type and there are no indicators of modifications or disease, this sample should be classified as native. The presence of "WT" in the genotype is a clear native indicator. There's no mention of cell lines like HeLa or any other immortalized cell lines. The age is normal for a mouse, not fetal or newborn. So, the sample meets the criteria for native.
+</think>
+
+{"id": "SRX10828756", "metadata": "genotype=WT", "native": true}
+
+--- LLM Response for ID: SRX10873024 ---
+<think>
+Okay, let's tackle this sample. The ID is SRX10873024. The metadata includes source_name=P5 heart, developmental stage=P5, tissue=heart, strain=C57BL/6, and tissue preparation=Fixed by Formaldehyde.
+
+First, checking for non-native indicators. The developmental stage is P5, which I think refers to postnatal day 5. The user's definition mentions that very young age (fetal or newborn) in donors could be non-native. However, P5 is a postnatal stage but not necessarily fetal. The term "embryonic" or "fetal" isn't here. 
+
+Looking at other parts: the cell type is heart, and it's from a C57BL/6 strain, which is a common mouse strain. The tissue is fixed with formaldehyde, but that's part of preparation and not a modification. No mention of cell lines like HeLa or treatments, knockouts, etc. 
+
+The sample is from a normal developmental stage without any modifications. Since there's no indication of immortalized cells, treatments, or genetic modifications, this should be native. The P5 stage is part of normal development, not a non-native condition. So the answer should be native: true.
+</think>
+
+{"id": "SRX10873024", "metadata": "developmental stage=P5", "native": true}
+
+--- LLM Response for ID: SRX10989779 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX10989779 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata. The cell type is Liver, and the source is LIVER. The strain is C57BJ/L6 background, and the genotype is C57BJ/L6 WT mice. The age is 12-16 weeks, gender male, timepoint ZT12, and diet is FASTING. 
+
+The key part here is the genotype. The description says "C57BJ/L6 WT mice". The term "WT" stands for wild-type, which according to the native sample definition, is considered native. Also, there's no mention of any modifications like knockout, knockdown, or treatments. The diet is fasting, but fasting might be part of normal physiological conditions if it's a standard protocol. The sample is from healthy, unmodified mice. 
+
+I should check if there are any non-native indicators. The metadata doesn't mention any cell lines, embryonic cells, or modifications. The age is 12-16 weeks, which is not fetal or newborn. The diet being fasting could be a condition, but since it's a normal part of the experimental setup and not a treatment, it's probably still native. Also, the strain is a wild-type strain. 
+
+No mention of cancer, tumors, or any other diseases. The timepoint ZT12 refers to circadian time, which is part of normal physiological conditions. 
+
+Therefore, based on the genotype being wild-type and no other non-native indicators, this should be classified as native.
+</think>
+
+{"id": "SRX10989779", "metadata": "genotype=C57BJ/L6 WT mice", "native": true}
+
+--- LLM Response for ID: SRX11187698 ---
+<think>
+Okay, let's tackle this sample classification. The user provided the sample ID SRX11187698 with the metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata. The source_name is Uterus, and the tissue is also Uterus. The cell_type_class and cell_type are both Uterus. So far, no obvious non-native indicators. Now, the genotype/variation is Pgrcre/-PgrALsL/+. Wait, that looks like a genetic modification. The terms "cre" and "ALsL" might indicate a conditional knockout setup. The presence of "KO" (knockout) in the genotype would be a non-native indicator. 
+
+Additionally, there's a treatment mentioned: 1h progesterone treatment. But the treatment itself isn't necessarily making it non-native unless it's part of a modification. However, the genotype here has a knockout element. Also, the surgery is ovariectomy for 2 weeks. That's a surgical procedure, but unless it's part of a modification, maybe not. But the key here is the genotype. Since there's a knockout (Pgrcre/-PgrALsL/+), which is a modification, that's a non-native indicator. 
+
+So according to the rules, if there's any modification like knockout, it's non-native. Even though the treatment is a treatment, the presence of the knockout in the genotype is the main factor here. The sample is modified genetically, so it's non-native.
+</think>
+
+{"id": "SRX11187698", "metadata": "genotype/variation=Pgrcre/-PgrALsL/+", "native": false}
+
+--- LLM Response for ID: SRX11366190 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX11366190 with the metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, I'll look at the metadata. The key parts here are genotype=WT (wild-type), which is typically native. Then there's treatment=T09. Wait, what's T09? The definitions mention that DMSO is not non-native, but other treatments might be. The user's task says that if there's a treatment, it's non-native. But I need to check if the treatment is a modifier. Since T09 isn't specified, maybe it's a drug or a treatment. However, the problem states that "treatment" in general is a non-native indicator. The sample has "treatment=T09", so that would indicate it's non-native. But wait, the genotype is WT, which is native. However, the mixed indicators rule says if there are both native and non-native indicators, classify as non-native. So even though genotype is WT (native), the presence of treatment=T09 would make it non-native. Let me confirm the definitions again. Non-native includes "treated" as a modification. So even if the genotype is WT, the treatment makes it non-native. Therefore, the correct classification is non-native.
+</think>
+
+{"id": "SRX11366190", "metadata": "genotype=WT, treatment=T09", "native": false}
+
+--- LLM Response for ID: SRX1176003 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX1176003. The metadata includes cell_type_class=Blood, cell_type=CD8+ T cells, source_name=CD8 T cell, cell type=effector CD8 T cell, strain=C57BL/6, and treatment=none.
+
+First, check if it's a native sample. Native samples are under normal conditions, healthy, unmodified. The treatment is 'none', which is good. The cell types mentioned are CD8+ T cells and effector CD8 T cells. The definition says that generic human cell types like T cells aren't non-native unless modified. Here, they are primary cells (since it's from a strain C57BL/6, which is a mouse strain, but the cell type is primary). No mention of immortalized cell lines like HeLa or HEK293. No keywords like cancer, knockout, or treated. The treatment is none, so no modifications. Even though it's effector T cells, the note says 'activated' and 'differentiated' aren't non-native indicators. So effector CD8 T cells would be considered native. No embryonic or fetal terms. So this seems like a native sample. The only thing to check is if the cell type being primary but modified. But since there's no indication of modification, it's native. So the answer is native: true.
+</think>
+
+{"id": "SRX1176003", "metadata": "cell_type=CD8+ T cells, treatment=none", "native": true}
+
+--- LLM Response for ID: SRX13065852 ---
+<think>
+Okay, let's look at this sample. The ID is SRX13065852. The metadata includes several parts. The cell type is Keratinocytes, and it's primary keratinocytes from mouse skin. The strain is C57BL/6, which is a common wild-type strain. But the genotype is listed as Krt14-Cre+;Ppp1r13l-/-.
+
+Wait, the genotype here has a specific deletion. The description says there's a deletion of Ppp1r13l exon8 in CK14-positive cells. That sounds like a targeted knockout. The Ppp1r13l-/- indicates a homozygous knockout, right? So even though the cell type is primary and the strain is wild-type, the genotype has a specific deletion. 
+
+According to the definitions, non-native samples include modifications like knockout or knockdown. The presence of Ppp1r13l-/- would make this a knockout, which is a modification. So even though it's a primary cell line, the genetic modification makes it non-native. Also, the metadata mentions a specific deletion, which is a clear indicator of a non-native sample. 
+
+I need to check if there's any conflicting info. The cell type is primary, which might lean towards native, but the presence of a knockout (KO) in the genotype is a non-native indicator. Since mixed indicators result in non-native, this should be classified as non-native. The reason would be the genotype indicating a knockout of Ppp1r13l.
+</think>
+
+{"id": "SRX13065852", "metadata": "genotype=Krt14-Cre+;Ppp1r13l-/-", "native": false}
+
+--- LLM Response for ID: SRX14059359 ---
+<think>
+Okay, let's see. The user provided a sample with the ID SRX14059359 and some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is RAW 264.7, which I recognize as a murine macrophage cell line. Since the definition mentions that immortalized cell lines are non-native, RAW 264.7 would fall into that category. Also, the treatment is "treated with 100 ng/ml LPS for 4 h". The presence of "treated" is a modification indicator, which also points to non-native. 
+
+Wait, the user mentioned that if there are both native and non-native indicators, the sample is classified as non-native. Here, the cell line is immortalized (non-native) and the treatment is a modification (non-native). So both indicators are present. According to the rules, even if there's a mix, it's non-native. 
+
+I should check if there's any part of the metadata that suggests it's native. The cell type is murine macrophage cells, but since they're in a cell line (RAW 264.7), it's not primary or unmodified. The treatment definitely adds a non-native factor. So the final classification is non-native. The reason should mention the cell line and the treatment. 
+
+Putting it all together, the JSON should reference the cell line and the treatment as the indicators. So the metadata fields are cell_line=RAW 264.7 and treatment=treated with LPS. Both contribute to the non-native classification.
+</think>
+
+{"id": "SRX14059359", "metadata": "cell_line=RAW 264.7 | treatment=treated with 100 ng/ml LPS for 4 h", "native": false}
+
+--- LLM Response for ID: SRX142514 ---
+<think>
+Okay, let's look at the metadata provided for SRX142514. The user wants to classify this as native or non-native. 
+
+First, the cell type is C2C12, which is a myoblast cell line. The metadata mentions "cell_line=C2C12" and "age=immortalized". According to the definitions, immortalized cell lines are non-native indicators. The cell description says it's derived from C3H mice after crush injury, but the key point here is that it's an immortalized cell line. 
+
+Even though there's a treatment mentioned (60h with 2.0% Equine Serum and Insulin), the treatment itself doesn't make it non-native unless it's a modification. However, the presence of an immortalized cell line is a clear non-native indicator. There's no mention of knockout, knockdown, or any disease-related modifications here, just the immortalization.
+
+The control and treatment descriptions don't add anything that would override the cell line status. Since the sample is an immortalized cell line (C2C12), it falls under non-native. The answer should be false.
+</think>
+
+{"id": "SRX142514", "metadata": "cell_line=C2C12 and age=immortalized", "native": false}
+
+--- LLM Response for ID: SRX145053 ---
+<think>
+Okay, let's look at this sample. The ID is SRX145053. The metadata mentions "cell description=Leukemia (K562 analog)" and "age=immortalized". Also, "strain=C57BL/6" is listed.
+
+First, the cell type is MEL, which I think stands for murine erythroleukemia. The description says it's a leukemia cell line, which is a type of cancer. According to the definitions, cancer is a modification indicator, so that would make it non-native. Also, the age is listed as immortalized, which is another non-native indicator. Immortalized cell lines are considered non-native. The cell line itself is a leukemia analog, which is a modified state. 
+
+Even though the control is Input and the strain is a common lab mouse, the presence of leukemia (cancer) and immortalization are clear non-native factors. There's no mention of DMSO or being a wild-type or untreated sample, which are native indicators. The mixed indicators here (like being a leukemia cell line and immortalized) don't conflict with anything else; they both point to non-native. So the classification should be non-native.
+</think>
+
+{"id": "SRX145053", "metadata": "cell description=Leukemia (K562 analog), age=immortalized", "native": false}
+
+--- LLM Response for ID: SRX14563995 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX14563995 with some metadata. I need to determine if it's native or non-native.
+
+First, the metadata includes "treatment=Anisomycin + IFNg". Treatments are usually indicators of non-native samples. The definition says that treated samples are non-native. Also, there's no mention of any modifications like knockout or knockdown, which would also make it non-native. The cell type is Bone marrow derived macrophage, but that's a primary cell type. However, the presence of treatment here is key. Even though the cell type is primary, the treatment makes it non-native. The DMSO note isn't applicable here because the treatment is Anisomycin and IFNg. So the sample is non-native because of the treatment. The reason should reference the treatment part of the metadata.
+</think>
+
+{"id": "SRX14563995", "metadata": "treatment=Anisomycin + IFNg", "native": false}
+
+--- LLM Response for ID: SRX14617697 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX14617697. The metadata mentions "Ch12 cell line" and "Ch12 WT cell line". First, I need to check if "Ch12" is an immortalized cell line. The definitions say that if the metadata includes an immortalized cell line name like HeLa or HEK293, it's non-native. Now, I'm not sure if "Ch12" is a known immortalized line. Wait, I recall that CH12 is a murine B-cell lymphoma cell line. So, if that's the case, then it's an immortalized cell line. The user's metadata also states "cell type=Ch12 WT cell line". The "WT" here might be a bit confusing because wild-type usually indicates native. But the presence of "cell line" in the metadata is a key point. According to the rules, if an immortalized cell line is mentioned, regardless of being WT or not, it's non-native. Also, the treatment is "None", but the cell line itself is the main factor here. The experimental type is ChIP-Seq, but that's not relevant for classification. So, since the cell line is CH12, which is an immortalized one, this sample should be classified as non-native. The reason would be the mention of "Ch12 cell line" in the metadata.
+</think>
+
+{"id": "SRX14617697", "metadata": "source_name=Ch12 cell line; cell type=Ch12 WT cell line", "native": false}
+
+--- LLM Response for ID: SRX14818057 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX14818057. The metadata includes several parts. First, the cell type is Naive T cells, specifically Naive CD4 T Cells. The tissue source is the spleen, and the strain is C57BL/6. Now, looking at the genotype: it's IFNb/IRF9 DKO. DKO stands for double knockout, which is a genetic modification. Then there's the treatment: stimulated under Th1 conditions with IL-12 for 5 days, and IFNb treatment for the last 3 days. 
+
+According to the definitions, non-native samples include modifications like knockout or knockdown. The genotype here is a DKO, which is a clear modification. Even though the cell type is naive, the presence of a knockout makes it non-native. Also, the treatment with IL-12 and IFNb could be part of the experimental conditions, but the key factor here is the genotype modification. The rules state that if there's a mix of native and non-native indicators, it should be classified as non-native. Since the genotype is a knockout, this should be non-native.
+</think>
+
+{"id": "SRX14818057", "metadata": "genotype=IFNb/IRF9 DKO", "native": false}
+
+--- LLM Response for ID: SRX149201 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX149201. The metadata mentions "cell line=pre-B cell line B3". First, I need to check if the cell line is an immortalized one. The B3 cell line is a known pre-B cell line, which is typically immortalized. According to the definitions, if the metadata includes an immortalized cell line name, it's non-native. Also, the metadata says "Wildtype B3 Cells", but since the cell line itself is immortalized, that's a non-native indicator. The source name mentions "Wildtype" but the presence of an immortalized cell line takes precedence. So the sample should be classified as non-native.
+</think>
+
+{"id": "SRX149201", "metadata": "cell line=pre-B cell line B3", "native": false}
+
+--- LLM Response for ID: SRX1495349 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX1495349. The metadata mentions "tissue=heart 4 days post-injury (MI)", which stands for myocardial infarction. So, the heart tissue is from an adult mouse (C57BL/6 strain) that had a heart attack four days prior.
+
+First, I need to check the definitions. Native samples are under normal physiological conditions, healthy, and unmodified. Non-native includes modifications like disease, injury, treatments, etc. Here, the heart is post-injury, which is a form of modification. Even though the animal is adult and healthy otherwise, the injury (MI) is a significant change. The injury would alter the tissue's state, making it non-native. Also, there's no mention of cell lines or other non-native indicators. So, based on the injury, this should be non-native. The key part in the metadata is "heart 4 days post-injury (MI)".
+</think>
+
+{"id": "SRX1495349", "metadata": "tissue=heart 4 days post-injury (MI)", "native": false}
+
+--- LLM Response for ID: SRX15840026 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX15840026 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the source is kidney tissue, genotype is wild type C57BL6, and treatment is vehicle (EtOH, PBS). 
+
+Native samples are those under normal physiological conditions, healthy, unmodified, and drug-free. The genotype is wild-type, which is a key indicator for native. The treatment is vehicle, which includes EtOH and PBS. The note says DMSO is not non-native, but vehicle here is similar. Since the sample is wild-type and untreated (vehicle is just a control), this fits the native criteria. There's no mention of modifications like knockout, cancer, or cell lines. The cell type is kidney tissue, not an immortalized line. So, this should be native. The reason would be the wild-type genotype and vehicle treatment.
+</think>
+
+{"id": "SRX15840026", "metadata": "genotype=wild type C57BL6, treatment=vehicle (EtOH, PBS)", "native": true}
+
+--- LLM Response for ID: SRX15840131 ---
+<think>
+Okay, let's tackle this sample. The ID is SRX15840131. The metadata includes "genotype=wild type C57BL6" and "treatment=vehicle (EtOH, PBS)". 
+
+First, checking the genotype. Wild type is a key indicator for native samples. The user's definitions say wild-type is usually native. Then, the treatment is vehicle, which includes EtOH and PBS. The note mentions that DMSO is not non-native, but here it's EtOH and PBS. Vehicle treatments are typically controls, so they don't make it non-native. 
+
+Looking for any non-native indicators. There's no mention of cell lines like HeLa or HEK293. No modifications like knockout or knockdown. The genotype is wild type, which is native. The treatment is a vehicle, so no drugs or modifications applied. The source is kidney tissue, which is a normal physiological condition. 
+
+No mixed indicators here. The metadata supports native classification. So, the answer should be native: true.
+</think>
+
+{"id": "SRX15840131", "metadata": "genotype=wild type C57BL6, treatment=vehicle (EtOH, PBS)", "native": true}
+
+--- LLM Response for ID: SRX17469441 ---
+<think>
+Okay, let's take a look at this sample. The ID is SRX17469441, and the metadata includes several key points. First, the cell type is cortical neurons, and they're cultured. The source name is also cultured cortical neurons. The strain is C57BL/6J, which is a common mouse strain. Now, the treatment mentioned is "NSD1 sh1". 
+
+I need to determine if this is native or non-native. According to the definitions, non-native samples include modifications like knockdown or knockout. The treatment here is an shRNA, which typically stands for short hairpin RNA. This is used in experiments to knock down gene expression. The term "sh1" likely refers to a specific shRNA construct targeting NSD1. 
+
+Since the presence of a treatment involving shRNA (knockdown) indicates a modification, this sample would be classified as non-native. The metadata explicitly states the treatment, so that's the key indicator here. Even though the cell type is cultured, the modification through shRNA is the determining factor.
+</think>
+
+{"id": "SRX17469441", "metadata": "treatment=NSD1 sh1", "native": false}
+
+--- LLM Response for ID: SRX17605394 ---
+<think>
+Okay, let's break this down. The task is to classify the sample as either native or non-native based on the given metadata.
+
+First, looking at the sample ID SRX17605394. The metadata includes several fields. The cell type is Monocytes, and the source is Bone-Marrow. The genotype is Wild-type, which is a key point. Native samples are usually wild-type and untreated. The treatment is listed as NA, meaning no treatment was applied. 
+
+I need to check if there are any non-native indicators. The cell type here is Monocytes, which is a primary cell type, not an immortalized cell line like HeLa. The strain is C57BL6, which is a common inbred mouse strain, but that's not necessarily non-native unless modified. The genotype is Wild-type, which is native. There's no mention of any modifications like knockout, knockdown, or treatment. The source is bone marrow, which is a normal physiological source. 
+
+The user's guidelines say that if there's a mix of native and non-native indicators, it should be classified as non-native. But here, all indicators point to native. The genotype is wild-type, no treatments, and no mention of immortalized cells or modifications. So this should be native.
+</think>
+
+{"id": "SRX17605394", "metadata": "genotype=Wild-type | treatment=NA", "native": true}
+
+--- LLM Response for ID: SRX188806 ---
+<think>
+Okay, let's tackle this. The user provided the sample SRX188806 with a bunch of metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata, the cell type is CH12. But the key part here is the age description which says "Immortal cells". The definitions mention that non-native samples include immortalized cell lines. Even though the cell type is listed as CH12, the presence of "immortalized" in the age field points towards non-native. Also, the cell description says "B-cell lymphoma (GM12878 analog)", but lymphoma is a cancer, which is a modification. However, the treatment is "None" and the control is IgG, which might be a normal protocol. Wait, but the age being immortalized is a clear non-native indicator. Also, the cell line is CH12, which might be an immortalized line. The definitions state that mentioning an immortalized cell line in the metadata makes it non-native. So even if there's a mix, like the sample is a lymphoma (which is a cancer, non-native), but the presence of "immortalized" in the metadata would still make it non-native. Since the age is listed as immortalized, and the cell line is CH12, which is likely an immortalized cell line (since it's a B-cell lymphoma), this sample is non-native. The treatment is none, but the immortalized status alone is enough. So the answer should be non-native.
+</think>
+
+{"id": "SRX188806", "metadata": "age=immortalized | cell description=B-cell lymphoma (GM12878 analog)", "native": false}
+
+--- LLM Response for ID: SRX20201036 ---
+<think>
+Okay, let's look at this sample. The ID is SRX20201036. The metadata mentions the genotype is WT, which stands for wild-type. That's a key indicator for native samples. The age is 16 to 20 weeks, which isn't fetal or embryonic, so that's good. The diet is fed ad libitum, but that's part of normal physiological conditions. The cell type is liver, and there's no mention of any modifications like knockout or treatment. The source is liver, and the strain is mixed but includes common lab strains. Since there's no indication of any modifications or non-native factors, this should be native.
+</think>
+
+{"id": "SRX20201036", "metadata": "genotype=WT", "native": true}
+
+--- LLM Response for ID: SRX204705 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX204705. The metadata includes "source_name=C/EBPalpha 48h", "time point=48h", "strain=C57BL6/J", "age=7 weeks old", "gender=male", and "tissue=Total hepatectomized liver".
+
+First, I need to check for non-native indicators. The "hepatectomized liver" part stands out. Hepatectomy is the surgical removal of the liver. That's a procedure that's not part of normal physiology, so it's a modification. Even though the strain is C57BL6/J, which is a common lab mouse strain, the key here is the hepatectomy. The time point is 48h, which might be part of an experiment post-surgery. The source name mentions C/EBPalpha, which could be a gene involved in the process, but the main indicator is the surgical procedure. Since the tissue is from a hepatectomized liver, which is a modified state, this should be non-native. The other factors like age and strain don't override this. So the classification is non-native.
+</think>
+
+{"id": "SRX204705", "metadata": "tissue=Total hepatectomized liver", "native": false}
+
+--- LLM Response for ID: SRX20826938 ---
+<think>
+Okay, let's see. The sample ID is SRX20826938. The metadata includes "source_name=Liver (P56)", "tissue=Liver (P56)", and "genotype=BL/6Jax". 
+
+First, checking if it's a native sample. Native samples are under normal physiological conditions, healthy, unmodified, and drug-free. The genotype here is BL/6Jax. Wait, BL/6Jax might refer to a mouse strain. But is that a modification? If BL/6Jax is a standard wild-type strain, then it could be native. However, sometimes strain names can indicate specific modifications. I need to check if BL/6Jax is a wild-type or modified.
+
+Also, the cell type is Liver, and the tissue is Liver (P56). P56 might refer to a postnatal day, like postnatal day 56. If the sample is from a young donor, like a fetus or newborn, that's non-native. But P56 in mice is an adult age, so that's probably okay.
+
+The metadata doesn't mention any modifications like knockout, knockdown, treated, or cancer. The genotype is BL/6Jax. I think BL/6Jax is a common wild-type mouse strain, so this would be native. Unless there's a specific modification in the genotype. But the user didn't mention any treatment or modification terms. So based on the given info, the sample should be native.
+</think>
+
+{"id": "SRX20826938", "metadata": "genotype=BL/6Jax", "native": true}
+
+--- LLM Response for ID: SRX20969410 ---
+<think>
+Okay, let's see. The user provided a sample with the ID SRX20969410 and a bunch of metadata. I need to determine if it's native or non-native.
+
+First, I'll go through the definitions again to make sure I understand them. Native samples are under normal physiological conditions, from healthy, unmodified specimens. They include wild-type, untreated, control, and vehicle. DMSO is not non-native. Non-native samples include immortalized cell lines, embryonic cells, modifications like cancer, treated, knockout, knockdown, etc. Also, very young donors (fetal or newborn) would make it non-native. If there's a mix of indicators, it's non-native.
+
+Looking at the metadata: Cell_type_class is Blood, Cell_type is Bone Marrow Cells. The source_name is Lineage- bone marrow cells in femora and tibiae. Strain is C57BL/6. Donor genotype is CD45.2(+) Brd9fl/fl. Recipient genotype is CD45.1(+) CD45.2(-). Timing of preparation is 5 months after pIpC injection.
+
+Wait, pIpC is poly(I:C), which is a synthetic dsRNA used to mimic viral infection. So the preparation was done 5 months after that injection. But does that count as a treatment modification? The user's guidelines say "treated" is a non-native indicator. Also, the donor genotype has Brd9fl/fl, which might indicate a conditional knockout. The fl/fl usually means floxed, which is often used in cre-lox systems for gene knockout. So Brd9 might be knocked out in some cells, making it a modified genotype. However, the donor's genotype is CD45.2(+) Brd9fl/fl. The recipient is CD45.1(+) CD45.2(-). 
+
+The presence of Brd9fl/fl suggests a genetic modification. The fl/fl part is a sign of a conditional knockout setup. So even if it's not active yet (since it's floxed), the presence of that genotype would make it a non-native sample. Additionally, the pIpC injection is a treatment, which is another non-native indicator. 
+
+So combining these two factors: the modified genotype (Brd9fl/fl) and the treatment (pIpC injection), the sample would be classified as non-native. Also, the guidelines say that if there are both native and non-native indicators, it's non-native. But in this case, the presence of the modified genotype alone would be sufficient. The treatment adds another reason. Therefore, the sample is non-native.
+</think>
+
+{"id": "SRX20969410", "metadata": "donor genotype=CD45.2(+) Brd9fl/fl | timing of preparation=5 months after pIpC injection", "native": false}
+
+--- LLM Response for ID: SRX2162110 ---
+<think>
+Okay, let's see. The user provided a sample ID and metadata for classification. The task is to determine if it's native or non-native based on the given definitions.
+
+First, I'll look at the metadata. The sample is from Heart Ventricles, specifically isolated adult ventricular cardiomyocytes. The strain background is C57BL/6, and the genotype is WT (wild-type). Also, it's mentioned that the cell type is from an adult, so not fetal or embryonic. The genotype is wild-type, which is a native indicator. The metadata doesn't mention any modifications like knockout, knockdown, treatments, or cancer. There's no indication of using an immortalized cell line either. The source is a normal heart tissue, and the genotype is WT, which are all signs of a native sample. Since there's no conflicting information, this should be classified as native.
+</think>
+
+{"id": "SRX2162110", "metadata": "genotype/variation=WT", "native": true}
+
+--- LLM Response for ID: SRX21711865 ---
+<think>
+Okay, let's tackle this sample. The ID is SRX21711865. The metadata includes cell_type_class as Blood and cell_type as Macrophages. The source_name is BMDM, which I think stands for Bone Marrow-Derived Macrophages. The treatment is listed as WT, which is wild-type. The stimulation is 0hr LipidA.
+
+First, checking the definitions. Native samples are under normal conditions, healthy, unmodified. Wild-type (WT) is usually native. The treatment here is WT, so that's a good sign. Non-native indicators include modifications like knockout, treated, or specific cell lines. The cell_type is Macrophages, but the source is BMDM. I need to check if BMDM is an immortalized cell line. Wait, BMDM is typically primary cells derived from bone marrow, not an immortalized line. So that's not non-native. The treatment is WT, which is native. The stimulation is 0hr, meaning no stimulation, which aligns with normal conditions. There's no mention of cancer, knockouts, or other modifications. The metadata doesn't have any non-native indicators. So this should be native.
+</think>
+
+{"id": "SRX21711865", "metadata": "treatment=WT", "native": true}
+
+--- LLM Response for ID: SRX22512363 ---
+<think>
+Okay, let's look at this sample. The ID is SRX22512363, and the metadata has several parts. The genotype is Setdb1-KO, which stands for knockout. According to the definitions, any knockout (KO) is a non-native indicator. Also, the age is Embryonic day 15.5, which includes 'embryonic', another non-native keyword. Even though the cell type is a neural progenitor, which might be a normal cell type, the presence of both KO and embryonic age would make it non-native. The rules say if there are both native and non-native indicators, it's non-native. So, the answer should be non-native.
+</think>
+
+{"id": "SRX22512363", "metadata": "genotype=Setdb1-KO, age=Embryonic day 15.5", "native": false}
+
+--- LLM Response for ID: SRX2424023 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX2424023 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is heart, and the sample type is tissue. The age is 0 days, which might be a newborn. The dev stage is postnatal. The donor ID is ENCDO956IXV, but I'm not sure if that's relevant. 
+
+The key points here are the age and development stage. The sample is from a 0-day-old, which is a newborn. But the definition says that non-native includes very young donors like fetal or newborn. Wait, the age is 0 days, so that's a newborn. But the development stage is postnatal. Postnatal means after birth, so it's not fetal. However, the age being 0 days is technically a newborn. The guidelines mention that in the case of donors, specimens with very young (fetal or newborn) age are non-native. So does a 0-day-old count as a newborn here? 
+
+Also, the sample is from heart tissue, and the cell type is heart. There's no mention of modifications like knockout, treatment, or cancer. The metadata doesn't have terms like 'treated' or 'KO'. The sample type is tissue, not a cell line. So no immortalized cell lines mentioned. 
+
+The age being 0 days might be a non-native indicator. But the definition says "very young (fetal or newborn)" age. So if the donor is a newborn, then it's non-native. However, the development stage is postnatal, which is after birth. So the sample is from a newborn but not fetal. The question is whether newborn counts as non-native. The example given in the definition includes 'fetal' and 'embryonic' as non-native. But newborn is not explicitly mentioned. Wait, the definition says "very young (fetal or newborn) age." So newborn is included. Therefore, this sample would be non-native because of the newborn age. 
+
+But wait, the sample is from a 0-day-old, which is a newborn. So according to the rules, that's a non-native indicator. So even if there's no other modifications, the age alone makes it non-native. So the answer should be non-native. 
+
+But let me check again. The definitions under non-native mention "In the case of donors, specimens with very young (fetal or newborn) age." So if the donor is a newborn, then the sample is non-native. Therefore, the sample here has age=0 day, which is a newborn, so it's non-native. 
+
+But wait, the sample is from a postnatal stage, which is after birth. So maybe the 0-day-old is considered postnatal. However, the age being newborn is still a non-native indicator. Therefore, the sample is non-native.
+</think>
+
+{"id": "SRX2424023", "metadata": "age=0 day", "native": false}
+
+--- LLM Response for ID: SRX2500398 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX2500398. The metadata mentions "source_name=Cerebellar granule neuron progenitor," "strain=C57BL/6," "developmental stage=P7," and "tissue=granule neuron progenitor."
+
+First, checking for non-native indicators. The cell type is Cerebellar granule neurons, which are a normal cell type. The metadata doesn't mention any cancer, tumor, knockout, knockdown, or treatment. The strain is C57BL/6, a common wild-type mouse strain. The developmental stage is P7, which is postnatal day 7. Since P7 is a normal developmental stage and not fetal, there's no indication of embryonic cells. The term "progenitor" here refers to the developmental stage, not a modification. There's no mention of immortalized cell lines or any modifications. So, this seems to be a native sample. The absence of any non-native indicators and the presence of a wild-type strain and normal developmental stage lead to classifying it as native.
+</think>
+
+{"id": "SRX2500398", "metadata": "source_name=Cerebellar granule neuron progenitor; strain=C57BL/6; developmental stage=P7", "native": true}
+
+--- LLM Response for ID: SRX2647474 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX2647474. The metadata includes "genotype=Tbx21-/-". I remember that knockout (KO) or knockdown (KD) indicators are non-native. Tbx21-/- likely means a knockout of the Tbx21 gene. Even though the cell type is CD4+ T cells, which are primary cells, the presence of a knockout makes it non-native. Also, the culture condition mentions in vitro with IFN-γ, but the key factor here is the genotype. Since there's a knockout, the sample is modified, so it's non-native.
+</think>
+
+{"id": "SRX2647474", "metadata": "genotype=Tbx21-/-", "native": false}
+
+--- LLM Response for ID: SRX2647492 ---
+<think>
+Okay, let's see. I need to classify this sample as native or non-native based on the metadata provided. The sample ID is SRX2647492. The metadata includes cell type as CD4+ T cells, strain C57BL/6, genotype WT, and a culture condition mentioning ChIP-seq in vitro culture protocol with IFN-β.
+
+First, checking the genotype. It says WT, which is wild-type. That's a native indicator. But wait, the culture condition mentions in vitro culture with IFN-β. In vitro might imply some treatment. However, the user's note says that DMSO is not non-native, but IFN-β is a treatment. Wait, the definition of non-native includes "treated" as a modification. So if the sample was treated with IFN-β, that would make it non-native. But the genotype is WT and untreated? Hmm.
+
+Wait, the metadata says "culture condition=ChIP-seq in vitro culture protocol (IFN-β)". So the cells are cultured in vitro and exposed to IFN-β. The presence of a treatment (IFN-β) would be a modification, making it non-native. Even though the genotype is WT and the cell type is CD4+ T cells (which could be primary cells), the treatment here is a modification. Also, in vitro culture might not necessarily make it non-native unless there's a treatment. But the presence of IFN-β treatment would count as a non-native indicator.
+
+So the sample is treated, which is a non-native factor. However, the genotype is WT. But according to the rules, if there are both native and non-native indicators, it should be classified as non-native. The key here is the treatment with IFN-β. The metadata explicitly mentions "treated" via the culture condition with IFN-β. Therefore, this sample is non-native.
+</think>
+
+{"id": "SRX2647492", "metadata": "culture condition=ChIP-seq in vitro culture protocol (IFN-β)", "native": false}
+
+--- LLM Response for ID: SRX2741794 ---
+<think>
+Okay, let's see. The user provided a sample with the ID SRX2741794. The metadata includes "source_name=Ter119+ Erythroid cells", "strain=C57BL6", and "tissue=Phenylhydrazine treated spleen". I need to determine if this is native or non-native.
+
+First, looking at the definitions. Native samples are under normal physiological conditions, healthy, unmodified, and drug-free. Non-native includes things like treated, modified, or specific cell lines. 
+
+The key part here is the tissue being "Phenylhydrazine treated spleen". Phenylhydrazine is a chemical that's used to induce anemia by destroying red blood cells. So if the spleen was treated with this, it's not under normal conditions. The treatment indicates that the sample is under a non-native condition because it's been deliberately altered. 
+
+Also, the cell type is Erythroid cells, which are red blood cells. The fact that the tissue is treated suggests that this is a modified state, so it's not a normal physiological condition. Even though the cell type might be normal, the treatment makes it non-native. 
+
+I don't see any mention of cell lines like HeLa or HEK293 here, so that's not a factor. The sample isn't from a donor with a disease affecting the tissue, but the treatment itself is a modification. So according to the rules, "treated" is a non-native indicator. Therefore, the sample should be classified as non-native.
+</think>
+
+{"id": "SRX2741794", "metadata": "tissue=Phenylhydrazine treated spleen", "native": false}
+
+--- LLM Response for ID: SRX319873 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX319873 with some metadata. I need to determine if it's native or non-native based on the definitions given.
+
+First, looking at the metadata: the cell type is macrophages, specifically primary thioglycollate-elicited peritoneal macrophages. The strain is C57BL/6, which is a common inbred mouse strain. The treatment mentioned is Kdo2 Lipid A (KLA) for 6 hours. 
+
+Now, checking the definitions. Native samples are from healthy, unmodified, drug-free specimens. Non-native includes modifications like treatments, knockouts, etc. The sample here has a treatment applied (KLA), which is a modification. Even though the cells are primary, the treatment part would classify it as non-native. 
+
+Wait, but the user's note says that 'treated' is a non-native indicator. So even if the cells are primary, if they're treated, it's non-native. The sample mentions "treatment=Kdo2 Lipid A (KLA) 6h", which clearly indicates a treatment. Therefore, this should be non-native. 
+
+I should make sure there's no conflicting info. The cell type is primary, which might lean towards native, but the treatment overrides that. The answer should be non-native.
+</think>
+
+{"id": "SRX319873", "metadata": "treatment=Kdo2 Lipid A (KLA) 6h", "native": false}
+
+--- LLM Response for ID: SRX319874 ---
+<think>
+Okay, let's start by looking at the sample data provided. The ID is SRX319874, and the metadata includes several key points. The cell type is Macrophages, and the source is listed as "Primary thioglycollate-elicited peritoneal macrophages." The strain is C57BL/6, and the treatment is "Kdo2 Lipid A (KLA) 12h."
+
+First, I need to determine if this is a native or non-native sample. According to the definitions, native samples are from healthy, unmodified specimens. Non-native samples include modifications like treatments, knockouts, or specific cell lines. 
+
+The metadata mentions a treatment with Kdo2 Lipid A (KLA) for 12 hours. The presence of a treatment is a clear indicator of non-native status. Even though the cell type is primary, the treatment applied here makes it non-native. The definitions state that if a sample has both native and non-native indicators, it should be classified as non-native. Here, the treatment is a non-native indicator, so the sample is non-native.
+</think>
+
+{"id": "SRX319874", "metadata": "treatment=Kdo2 Lipid A (KLA) 12h", "native": false}
+
+--- LLM Response for ID: SRX3331742 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX3331742. The metadata mentions "source_name=Mice prefrontal cortex", "genotype/variation=wild type", and "stress=yes". 
+
+First, the genotype is wild type, which usually indicates a native sample. However, the presence of "stress=yes" might be a modifier. The definitions state that non-native samples include modifications, but stress alone isn't listed as a modification. Wait, the user's rules mention that modifications include terms like knockout, knockdown, etc., and stress isn't explicitly listed. So "stress=yes" here might refer to a physiological condition. The key is whether stress here is a treatment or a natural condition. Since the metadata doesn't specify a treatment or modification, and the genotype is wild type, maybe the stress is part of normal physiological variation. However, the definition of native says it's under normal physiological conditions. If "stress" here refers to a non-native condition, like a treatment, but the example given doesn't clarify. The user's note says that "treated" is non-native, but "stress" isn't mentioned. Hmm. The sample is from mice prefrontal cortex, and the genotype is wild type. If "stress" is a normal condition, then it's native. But if "stress" is an induced condition, maybe it's non-native. The problem is that the definition isn't clear on "stress". However, the example provided in the user's message doesn't include stress as a non-native indicator. The user's rules say that "treated" is non-native, but stress isn't specified. Since the genotype is wild type and there's no mention of treatment, knockout, etc., maybe the stress here is part of normal conditions. But wait, the metadata says "stress=yes", which could imply a non-native condition. However, the rules don't list "stress" as a non-native indicator. The only non-native indicators here would be if there's a cell line, modification, or other factors. Since the genotype is wild type and the cell type is prefrontal cortex from mice, which is a primary tissue, unless the stress is considered a treatment. But the user's example with DMSO is considered native. So maybe "stress=yes" here is a normal condition. Therefore, the sample is native. But I'm a bit uncertain because "stress" could be a treatment. However, without explicit mention of treatment, and given that genotype is wild type, I'll go with native. The final answer would be native.
+</think>
+
+{"id": "SRX3331742", "metadata": "genotype/variation=wild type", "native": true}
+
+--- LLM Response for ID: SRX341761 ---
+<think>
+Okay, let's take a look at this sample. The ID is SRX341761. The metadata includes several parts.
+
+First, the cell type is "MyoD-induced immortalized brown preadipocytes." The word "immortalized" here is a key indicator. According to the definitions, immortalized cell lines are considered non-native. Even though it's a brown preadipocyte, the fact that it's immortalized makes it non-native.
+
+Then there's the genotype "MLL3-/-", which indicates a knockout. Knockouts are modifications, so that's another non-native marker. Also, the age is "E18.5 embryos," which is from embryos. The guidelines mention that embryonic cells are non-native. 
+
+Putting that together, there are multiple indicators: immortalized cell line, knockout, and embryonic age. Even if there were a conflicting term like wild-type (WT) in the metadata, the presence of clear non-native indicators like immortalized and knockout would override it. The rules state that if there are both native and non-native indicators, the sample should be classified as non-native. So the conclusion is definitely non-native.
+</think>
+
+{"id": "SRX341761", "metadata": "cell_line=MyoD-induced immortalized brown preadipocytes, genotype=MLL3-/-, age=E18.5 embryos", "native": false}
+
+--- LLM Response for ID: SRX3582922 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX3582922 with some metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, the metadata includes "treatment=12 wk High Fat Diet (Research Diet, D12331)". The definition says non-native samples include modifications like treatments. Wait, the user mentioned that "treated" is a non-native indicator. So if the sample was treated with a high-fat diet, that's a modification. Even though the diet is a research diet, the key here is the treatment aspect.
+
+Also, checking other parts of the metadata: the cell type is liver, and the strain is C57BL/6J, which is a common mouse strain. There's no mention of cell lines like HeLa or anything indicating immortalized cells. The tissue is liver, and the source name is GR_ZT12 HFD_liver. The high-fat diet (HFD) part here might be the treatment. Since the sample was subjected to a high-fat diet for 12 weeks, that's a treatment, which according to the rules makes it non-native. 
+
+Wait, the definitions state that "treated" is a non-native indicator. So even though the diet is part of the experimental condition, the fact that it's treated would classify this as non-native. There's no mention of knockout, knockdown, or other modifications, but the treatment alone is enough. The sample is from a mouse liver under a high-fat diet, which is a modified condition, not a normal physiological state. Therefore, the sample should be classified as non-native.
+</think>
+
+{"id": "SRX3582922", "metadata": "treatment=12 wk High Fat Diet", "native": false}
+
+--- LLM Response for ID: SRX3601924 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX3601924. The metadata includes several elements I need to check.
+
+First, the cell type is Macrophages, specifically Primary BMDM. Primary cells are usually native unless modified. The genotype is listed as WT (wild-type), which typically indicates a native sample. The age is 8-10 weeks, which isn't fetal or newborn, so that's okay. The source name is BMDM_ChIP_NDF7_6hKLA. Wait, the 6hKLA part might be a treatment. The chip antibodies are NDF7 and homemade. But the genotype remains WT. The question is whether any modifications are present. The term "ChIP" refers to chromatin immunoprecipitation, which is an experimental technique but doesn't inherently modify the cells. The 6hKLA could be a treatment abbreviation, but the metadata doesn't explicitly state "treated" or any other modification terms like KO or KD. Since the genotype is WT and there's no mention of knockout, knockdown, cancer, or other modifications, the sample is likely native. The cell type is primary, and the age is within normal range. So the classification should be native.
+</think>
+
+{"id": "SRX3601924", "metadata": "genotype=WT, cell type=Primary BMDM", "native": true}
+
+--- LLM Response for ID: SRX3858835 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX3858835. The metadata mentions "genotype=Control". According to the definitions, control samples are usually native. Also, there's no mention of any modifications like knockout, knockdown, or treatments. The cell type is Epidermal progenitor cells, but it's not specified as an immortalized line. The age is Postnatal day 0, which is a very young age but not fetal or embryonic. Since the genotype is Control and there's no indication of modifications, this should be native. The key part is the genotype=Control, which fits under native indicators.
+</think>
+
+{"id": "SRX3858835", "metadata": "genotype=Control", "native": true}
+
+--- LLM Response for ID: SRX392764 ---
+<think>
+Okay, let's see. The sample ID is SRX392764. The metadata provided includes cell_type_class as Blood, cell_type as HAFTL. The metadata details mention "source_name=Haftl pre-B cells" and "cell type=haftl derived C10 cells". Also, there's a "time after induction=3 hours".
+
+First, I need to check if this is a native or non-native sample. The key factors here are the cell types and any modifications. The cell type is HAFTL, which I'm not immediately familiar with. But looking at the metadata, the cell type is described as "haftl derived C10 cells". The term "derived" might be important here. Also, "time after induction" suggests some kind of experimental manipulation, like induction of a process, which could be part of a non-native condition.
+
+Wait, the user's guidelines mention that if there's a mix of native and non-native indicators, the sample should be classified as non-native. Let's check each part. The source is "Haftl pre-B cells". Pre-B cells are a type of blood cell, which is normal. But then it's "haftl derived C10 cells". "Derived" might indicate that they're cultured or modified in some way. Also, "time after induction" could imply that the cells have been induced for an experiment, which is a non-native condition. 
+
+The guidelines say that if there are both native and non-native indicators, it's non-native. Here, the presence of "derived" and "induction" might be non-native indicators. Additionally, if "C10 cells" refers to a cell line, that's a non-native indicator. The user's note mentions that if a cell line name is present, like C20, that's non-native. So "C10 cells" might be a cell line. 
+
+Putting it all together: the sample is derived from a cell line (C10), which is non-native. The induction time also suggests experimental manipulation. Therefore, the sample should be classified as non-native.
+</think>
+
+{"id": "SRX392764", "metadata": "cell type=haftl derived C10 cells | time after induction=3 hours", "native": false}
+
+--- LLM Response for ID: SRX4178770 ---
+<think>
+Okay, let's tackle this. The user wants me to classify the sample as native or non-native based on the metadata provided. Let's look at the details.
+
+The sample ID is SRX4178770. The metadata includes several fields. First, the genotype is wildtype, which usually indicates native. But there's also a treatment mentioned: IFNg. Wait, the definition says that "treated" is a non-native indicator. So even though the genotype is wildtype, the treatment might make it non-native. Let me check the rules again.
+
+According to the definitions, non-native samples include those that are modified, such as being treated. The note says that "treated" is a modification indicator. Also, the cell type is bone marrow-derived macrophages, which are primary cells. The metadata mentions "source_name=WT IRF9 90 min IFNg, BMDM". The "WT" stands for wild-type, which is native, but the treatment with IFNg is there. 
+
+The key point here is whether the treatment overrides the native status. Since the sample was treated with IFNg, even though it's a wild-type strain and untreated otherwise, the treatment itself is a modification. The rules state that "treated" is a non-native indicator. So even if other parts suggest native, the presence of treatment should make it non-native. 
+
+Also, the cell type is bone marrow-derived macrophages, which are primary cells, not immortalized. So that's not a non-native indicator. The age is 8-10 weeks, which is adult, so not fetal or embryonic. 
+
+Putting it all together: genotype is wildtype (native), but treatment with IFNg (non-native). Since treatment is a non-native indicator, and there's no conflicting indicator that would override it, the sample should be classified as non-native. The mixed indicators rule says if there are both, it's non-native. Here, the treatment is the non-native factor, and genotype is native. So the answer should be non-native.
+</think>
+
+{"id": "SRX4178770", "metadata": "treatment=IFNg", "native": false}
+
+--- LLM Response for ID: SRX4325335 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX4325335 with the metadata. I need to determine if it's native or non-native based on the definitions.
+
+First, looking at the metadata: source_name is liver, strain is C3H/HeN, and replicate animal 1. The cell type is Liver. The key here is whether there are any indicators of non-native status. 
+
+The definitions say non-native includes immortalized cell lines, embryonic cells, modifications like cancer or knockout, or very young donors. The metadata here mentions a strain (C3H/HeN), which is a mouse strain, but there's no mention of any modifications. The source is liver, which is a normal tissue. Since there's no indication of any modifications, treatments, or non-physiological conditions, this seems like a normal, healthy specimen. 
+
+Also, the cell type is just liver, not any transformed or modified cells. The replicate animal part doesn't indicate anything non-native. So based on the given info, this should be native. The reason would be the source_name and the absence of any non-native indicators.
+</think>
+
+{"id": "SRX4325335", "metadata": "source_name=liver; no modifications or non-physiological indicators", "native": true}
+
+--- LLM Response for ID: SRX4348502 ---
+<think>
+Okay, let's tackle this sample classification. The user provided the sample ID SRX4348502 with the metadata. First, I need to check the definitions for native and non-native samples.
+
+The metadata includes "genotype=IRF9WT" which stands for wild-type IRF9. Wild-type is usually a native indicator. Then there's "condition=IFNaIL2". IFNα and IL2 are cytokines, so this is a treatment. Treatments typically make a sample non-native. But wait, the definitions say that "treated" is a non-native indicator. However, I need to check if there are any conflicting indicators.
+
+The cell type is natural killer cells from splenic NK cells. The cell type itself isn't an immortalized line or embryonic. The genotype is wild-type, which is native. But the condition includes treatment with IFNα and IL2. Since treatment is a non-native factor, that would make the sample non-native. The presence of a treatment overrides the wild-type genotype here. Also, the rules state that if there are both native and non-native indicators, it should be classified as non-native. So even though there's a wild-type, the treatment makes it non-native. Therefore, the answer is false.
+</think>
+
+{"id": "SRX4348502", "metadata": "condition=IFNaIL2", "native": false}
+
+--- LLM Response for ID: SRX4895097 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX4895097 with metadata. I need to determine if it's native or non-native.
+
+First, looking at the metadata. The cell line is CH12, which is mentioned as a B cell line and lymphoma cell line. The key point here is the cell line. The definitions say that if the metadata includes an immortalized cell line name, it's non-native. CH12 is a known B lymphoma cell line, so that's a non-native indicator. 
+
+Also, the genotype is Med14Nsmash. The term "KO" (knockout) is a non-native indicator, but here it's "Nsmash." I'm not sure if that's a variant of knockout. However, the presence of any modification like that would count. Also, the treatment is APR60h. Treatments are non-native indicators. 
+
+But wait, the main thing here is the cell line. Even if there were no treatment or genotype, the cell line being an immortalized one (like CH12) would make it non-native. The other factors might reinforce it, but the cell line alone is enough. 
+
+So the conclusion is non-native. The metadata mentions "cell line=CH12" and "lymphoma cell line," which are clear indicators. So the answer should be native: false.
+</think>
+
+{"id": "SRX4895097", "metadata": "cell line=CH12 | cell type=lymphoma cell line | genotype/variation=Med14Nsmash | treatment=APR60h", "native": false}
+
+--- LLM Response for ID: SRX5689484 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX5689484. The metadata mentions "source_name=nTregs isolated from Foxp3Thy1.1/Rosa-Cas9 mice" and the genotype is "Foxp3Thy1.1/Rosa-Cas9". Also, there's a treatment of "none" and guide RNA as "none".
+
+First, looking at the cell type: nTreg (natural T regulatory cells). The definition says primary cell types like T cells aren't non-native unless modified. Here, the cells are isolated from mice with a specific genotype. The genotype includes "Foxp3Thy1.1/Rosa-Cas9". Foxp3 is a gene important for Treg function. The Rosa-Cas9 part might be a reporter or a system for CRISPR. But the presence of a modified genotype could indicate a non-native sample. However, the treatment is none and guide RNA is none, so maybe they're using the Cas9 system without active editing here. 
+
+The key is whether the genotype modification is considered a non-native indicator. The rules state that if the sample has a modification like knockout or knockdown, it's non-native. The genotype here includes "Rosa-Cas9", which is a system that can be used for gene editing, but the sample's treatment is "none". However, the presence of a modified genotype (even if not actively treated) might still count. The question is whether the mouse line itself is considered a modification. For example, if the mouse is a transgenic or knockout model, that's a non-native indicator. The Foxp3Thy1.1/Rosa-Cas9 suggests a genetically modified mouse. 
+
+In the definitions, "knockout, knockdown, KO, KD" are non-native. The Rosa-Cas9 system is often used for conditional knockouts. If the mouse's genotype is a modified strain, even if the sample isn't treated, the source is a modified organism. Therefore, the sample is non-native because it comes from a genetically modified mouse. So the answer should be native: false.
+</think>
+
+{"id": "SRX5689484", "metadata": "genotype/variation=Foxp3Thy1.1/Rosa-Cas9", "native": false}
+
+--- LLM Response for ID: SRX6095535 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX6095535. The metadata includes genotype=M1-IKO and treatment=10 ng/g bw 1,25(OH)2D3.
+
+First, looking at the genotype. The term "M1-IKO" stands for inducible knockout. Knockout is a clear modification, so that's a non-native indicator. Then there's the treatment with 1,25(OH)2D3, which is a vitamin D analog. Treatments are another non-native factor. Even though the cell type is kidney and the source is kidney, the presence of both genotype modification and treatment should lead to classifying it as non-native. The rules say if there are both native and non-native indicators, it's non-native. Here, both genotype and treatment are non-native, so the answer is false.
+</think>
+
+{"id": "SRX6095535", "metadata": "genotype=M1-IKO, treatment=10 ng/g bw 1,25(OH)2D3", "native": false}
+
+--- LLM Response for ID: SRX6417441 ---
+<think>
+Okay, let's tackle this sample classification. The user provided the ID SRX6417441 with some metadata. First, I need to check the definitions for native and non-native samples.
+
+Looking at the metadata: the cell type is liver, strain is C57B6/CR, age is 22 months, genotype is WT (wild-type), and there's a treatment mentioned as NR (~400 mg/kg) with a treatment time point of 6 months. The collection time point is ZT20.
+
+Native samples are those under normal physiological conditions, healthy, unmodified, and drug-free. The genotype here is WT, which is usually native. However, there's a treatment mentioned. The treatment NR (which could be a drug or compound) at 400 mg/kg over 6 months. Since the treatment is part of the metadata, even though the genotype is wild-type, the presence of treatment might make it non-native. 
+
+Wait, the definition says that "treated" is a non-native indicator. So even if the genotype is WT, if the sample was treated, it's non-native. The DMSO note says it's not non-native if it's a control, but here the treatment is NR, not DMSO. Therefore, the treatment here would classify it as non-native. 
+
+Also, the sample is from a 22-month-old mouse, which is adult, so not fetal or embryonic. No mention of cell lines or modifications like knockout. The treatment is the key factor here. So the answer should be non-native.
+</think>
+
+{"id": "SRX6417441", "metadata": "treatment=NR (~400 mg/kg)", "native": false}
+
+--- LLM Response for ID: SRX661408 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX661408 with the metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: source_name is Liver tissue, strain is back-crossed to BALB/c, genotype/variation is GRdim, and collection time is 6am. 
+
+The key points here are the genotype/variation. GRdim probably refers to a genetic modification. The term "variation" might indicate some alteration. Native samples are supposed to be wild-type, untreated, and from healthy specimens. Since there's a genotype listed as GRdim, which isn't wild-type, that suggests a modification. 
+
+Also, the strain being back-crossed to BALB/c might indicate some breeding for specific traits, but that's more about the strain rather than the cell type itself. The cell type is Liver, which is a normal physiological condition. However, the presence of a genetic variation (GRdim) would make it non-native. 
+
+No mention of immortalized cell lines, embryonic cells, or treatments. But the genotype modification is enough to classify it as non-native. So the answer should be native: false because of the genotype/variation=GRdim.
+</think>
+
+{"id": "SRX661408", "metadata": "genotype/variation=GRdim", "native": false}
+
+--- LLM Response for ID: SRX6924490 ---
+<think>
+Okay, let's tackle this. The sample ID is SRX6924490. The metadata includes "genotype/variation=tetYAP". I need to check if this is a modification. The term "tetYAP" probably refers to a transgenic or modified gene. Since "tet" could stand for tetracycline-inducible system, which is often used in genetic modifications. So, this genotype variation indicates a non-native sample. Also, the source name mentions ChIPSeq with Yap_LapTTA, which might be part of an experimental setup. The key here is the genotype being modified. Native samples are wild-type or untreated. Since this is a modified genotype, it's non-native.
+</think>
+
+{"id": "SRX6924490", "metadata": "genotype/variation=tetYAP", "native": false}
+
+--- LLM Response for ID: SRX7368531 ---
+<think>
+Okay, let's look at this sample. The user provided the ID SRX7368531 with the metadata.
+
+First, I need to check the definitions for native vs non-native. Native samples are under normal conditions, healthy, wild-type, and untreated. Non-native includes things like cell lines, embryonic cells, modifications like knockouts, treatments, etc.
+
+Looking at the metadata: the genotype is Wild type, which is a strong indicator for native. The sample type is Primary cells, which suggests they're not immortalized. The stimulation is anti-CD40/IL4. Wait, stimulation might imply some treatment. But the rules say that 'treated' is non-native, but here it's just a stimulation. However, the presence of stimulation could be a treatment. Let me check the definitions again. The non-native criteria mention 'treated' as a modification. So if the sample was stimulated with anti-CD40/IL4, does that count as a treatment? The example given in the definitions doesn't clarify this. But according to the rules, if there's any treatment, it's non-native. However, the sample is still considered a control if it's a vehicle or DMSO. But in this case, the stimulation is part of the experiment. Hmm. Wait, the example given in the definitions says that 'treated' is a modification. So if the sample was stimulated, that would make it non-native. But the genotype is wild-type and the sample is primary. However, the presence of stimulation might be a treatment. Let me check the exact wording. The non-native definition includes "treated". So if the metadata says "stimulation=anti-CD40/IL4", that could be considered a treatment. So that would make the sample non-native. But wait, the sample's genotype is wild-type and it's primary. However, the stimulation is part of the metadata. So according to the rules, the presence of 'treated' or 'stimulated' would make it non-native. But the example given in the answer might not cover this. Let me think again. The user's metadata includes "stimulation=anti-CD40/IL4". The definition says "treated" is non-native. So if the sample was stimulated, that's a treatment. Therefore, this sample is non-native. But wait, the sample is still primary cells. But the presence of stimulation (a treatment) would make it non-native. So the answer should be native: false. But wait, the example given in the user's task includes a sample with "treated" and it's non-native. So in this case, the stimulation is a treatment. Therefore, this sample is non-native. However, the genotype is wild-type, which is native. But the presence of stimulation (treatment) would override that. According to the rules, if there are both native and non-native indicators, it's non-native. So the answer is native: false.
+</think>
+
+{"id": "SRX7368531", "metadata": "stimulation=anti-CD40/IL4", "native": false}
+
+--- LLM Response for ID: SRX7368548 ---
+<think>
+Okay, let's see. I need to determine if the sample SRX7368548 is native or non-native based on the given metadata.
+
+First, looking at the metadata provided: source_name is ChIP OBF1KO LPS OCT1 rep2. The genotype is OBF1KO, which stands for OBF1 knockout. The cell type is CD19+ splenic B cells, and the sample type is primary cells. Stimulation is LPS.
+
+According to the definitions, non-native samples include modifications like knockout (KO) or knockdown (KD). The genotype here is OBF1KO, which clearly indicates a knockout. Even though the sample type is primary cells, the presence of a knockout modification makes it non-native. Also, the source name includes "OBF1KO," which directly points to the modification. 
+
+Primary cells can be native if unmodified, but since this one has a knockout, it's non-native. The LPS stimulation might be part of an experiment, but the key factor here is the KO. So the answer should be non-native.
+</think>
+
+{"id": "SRX7368548", "metadata": "genotype=OBF1KO", "native": false}
+
+--- LLM Response for ID: SRX745826 ---
+<think>
+Okay, let's tackle this classification task. The sample ID is SRX745826. The user provided metadata that I need to analyze. First, I'll go through the metadata points.
+
+The metadata includes "treatment=Dexamethasone and GW7647 4 hrs". The presence of "treatment" is a key indicator. According to the definitions, any treatment makes the sample non-native. The chemicals mentioned here are Dexamethasone and GW7647. Even though the treatment duration is 4 hours, the mere presence of treatment should be enough to classify it as non-native. 
+
+Looking at other parts of the metadata: the cell type is burst-forming unit erythroid (BFU-E), developmental stage E14.5, tissue is liver, and the strain is 129/SvImJ. None of these other elements indicate non-native status. There's no mention of cell lines like HeLa or HEK293, which would be non-native. The developmental stage E14.5 might be embryonic, but the keyword here is "treatment". 
+
+Wait, the definition says that "embryonic cells" including keywords like 'fetal', 'embryonic' are non-native. The developmental stage E14.5 could be considered embryonic. However, the treatment is a stronger indicator. But the user's instruction says that if there are both native and non-native indicators, classify as non-native. However, in this case, the treatment is a non-native indicator, and the developmental stage might also be one. But the main issue here is the treatment. 
+
+So, the presence of treatment alone is enough to mark it as non-native. The other factors don't override this. Therefore, the correct classification is non-native. The reason should reference the treatment part of the metadata.
+</think>
+
+{"id": "SRX745826", "metadata": "treatment=Dexamethasone and GW7647 4 hrs", "native": false}
+
+--- LLM Response for ID: SRX7726481 ---
+<think>
+Okay, let's see. The user provided a sample ID SRX7726481 with metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata. The cell type is Natural killer cells, and the source is Tbet_NK_WT_exvivo. The strain is C57BL/6, which is a common wild-type mouse strain. The tissue is spleen, and culture condition is ex vivo. Also, the surface marker is CD3e-NKp46+.
+
+The key parts here are "Tbet_NK_WT_exvivo" and "ex vivo". The "WT" stands for wild-type, which is typically native. Ex vivo conditions usually mean the cells are taken from a living organism but cultured outside, which might be a bit tricky. However, the metadata doesn't mention any modifications like knockout, knockdown, or treatments. The cell type is natural killer cells, not an immortalized line. The description includes "ex vivo" but not any non-native indicators. Since the genotype is wild-type and there's no mention of modifications, this should be considered native. Also, DMSO isn't mentioned here, so that's not a factor. The sample is from a healthy specimen (C57BL/6 is a standard strain), so it fits the native criteria. Therefore, the classification should be native.
+</think>
+
+{"id": "SRX7726481", "metadata": "source_name=Tbet_NK_WT_exvivo | strain=C57BL/6 | culture condition=ex vivo", "native": true}
+
+--- LLM Response for ID: SRX7902429 ---
+<think>
+Okay, let's tackle this. The user provided the sample SRX7902429 with metadata. I need to classify it as native or non-native.
+
+First, looking at the metadata. The cell type is Granule neuron progenitors, which is a specific type of neural cell. The genotype is listed as wild type. That's a good sign for native, since wild-type usually means unmodified. 
+
+The age is postnatal day 7. Wait, the definition mentions that very young donors, like fetal or newborn, might be non-native. But postnatal day 7 is a newborn mouse, right? The rule says "in the case of donors, specimens with very young (fetal or newborn) age." But the note under non-native says that diseases not affecting the tissue aren't indicators. However, the age here is a factor. But wait, the sample is from a C57BL/6J strain, which is a common lab mouse strain. However, the cell type is progenitors, which are not yet differentiated. The definitions say that "differentiated" isn't a non-native indicator. But progenitors are not differentiated yet. 
+
+But the main point here is the genotype. The sample is wild type, which is native. The age being postnatal day 7 might be considered a non-native indicator, but the rules don't explicitly state that postnatal day 7 is non-native. The key factors are the presence of wild-type genotype and no mention of modifications like knockout, treatment, or cancer. Also, there's no mention of an immortalized cell line. So, the sample is from a healthy, wild-type mouse, even though it's very young. The age alone isn't enough to make it non-native unless there's a modification. Therefore, the sample is native.
+</think>
+
+{"id": "SRX7902429", "metadata": "genotype=wild type", "native": true}
+
+--- LLM Response for ID: SRX8241996 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX8241996. The metadata mentions "cell type=monocytes" and "cell isolation=Primary isolated cells". Primary cells are typically considered native since they're from healthy, unmodified sources. The genotype is listed as "Wild type", which aligns with native samples. There's no mention of any modifications like knockout or treatment. The source is bone marrow, and the strain is C57BL/6, which is a common lab strain but doesn't indicate any modifications. The sorting method is MACS selection, but that's just an isolation technique. No indicators like cancer, tumor, or knockdown are present. Even though it's blood, the key points here are wild type and primary cells. So the conclusion is native.
+</think>
+
+{"id": "SRX8241996", "metadata": "genotype=Wild type, cell isolation=Primary isolated cells", "native": true}
+
+--- LLM Response for ID: SRX8725650 ---
+<think>
+Okay, let's look at this sample. The ID is SRX8725650. The metadata mentions the cell type is Hepa-1c1c7, which is a mouse hepatoma cell line. The source name is "Mouse Hepatoma Cell Line," so that's an immortalized cell line. The treatment is 1 µM chromium. 
+
+First, checking the definitions. Non-native samples include immortalized cell lines. The Hepa-1c1c7 is an immortalized cell line, so that's a non-native indicator. The treatment with chromium is a modification, which is another non-native indicator. Even though there's a treatment, the main point here is the cell line itself. Since the sample uses an immortalized cell line, it's classified as non-native. Also, the presence of both cell line and treatment would make it non-native regardless. So the answer should be false.
+</think>
+
+{"id": "SRX8725650", "metadata": "cell line=Hepa-1c1c7 and treatment=1 µM chromium", "native": false}
+
+--- LLM Response for ID: SRX8994289 ---
+<think>
+Okay, let's see. The user provided the sample ID SRX8994289 with the metadata. I need to determine if it's native or non-native based on the given definitions.
+
+First, looking at the metadata: the cell type is B cells, specifically mouse splenic B cells in a resting state. The strain is C57BL/6, which is a common wild-type mouse strain. The genotype/variation is listed as WT, which stands for wild-type. 
+
+According to the definitions, native samples include wild-type, untreated, control, and vehicle samples. Since the genotype here is WT and there's no mention of any modifications like knockout, knockdown, treatment, or cancer, this seems to fit the native criteria. The cells are described as resting, which aligns with normal physiological conditions. There's no indication of immortalized cell lines or embryonic cells either. 
+
+The metadata doesn't have any non-native indicators. So, based on the presence of WT and the absence of any modifying factors, this should be classified as native.
+</think>
+
+{"id": "SRX8994289", "metadata": "genotype/variation=WT", "native": true}
+
+--- LLM Response for ID: SRX9311847 ---
+<think>
+Okay, let's take a look at this sample. The user provided the ID SRX9311847 and the metadata. First, I need to determine if it's native or non-native based on the rules.
+
+Looking at the metadata: the cell type is BMDMs (bone marrow-derived macrophages), which are primary cells. The treatment is IL-4 for 24 hours. The key here is the treatment. The definition says that treated samples are non-native. Even though the cell type is primary, the treatment makes it non-native. Also, the metadata mentions "treatment=IL-4 24h", which is a clear indicator of modification. 
+
+Wait, the rules state that "treated" is a non-native indicator. So even if the cell type is native (like primary cells), the treatment would make the whole sample non-native. The user also mentioned that 'activated' and 'differentiated' are not non-native, but treatment is. So the presence of IL-4 treatment here should classify it as non-native. 
+
+I should check if there's any conflicting info. The cell line isn't mentioned here, so no immortalized lines. The strain is C57BL/6J, which is a mouse strain, but that's not relevant here. The main factor is the treatment. So the answer should be non-native because of the IL-4 treatment.
+</think>
+
+{"id": "SRX9311847", "metadata": "treatment=IL-4 24h", "native": false}
+
+--- LLM Response for ID: SRX9311895 ---
+<think>
+Okay, let's see. I need to classify the sample SRX9311895 as native or non-native based on the provided metadata.
+
+First, looking at the metadata: "source_name=ChIP_PPARg_Egr2flfl_BMDM_24hIL4 | strain=Egr2 fl/fl | treatment=IL-4 24h | cell type=BMDMs (bone marrow-derived macrophages)". 
+
+The cell type here is BMDMs, which are bone marrow-derived macrophages. The question is whether these are primary cells or if there's any modification. The strain is Egr2 fl/fl, which probably indicates a floxed allele. That's a common setup for conditional knockout experiments. The treatment is IL-4 for 24 hours. 
+
+Now, according to the definitions, non-native samples include modified cells, like knockouts or knockdowns. The strain being Egr2 fl/fl might be a heterozygous or wild-type, but the presence of "fl/fl" usually refers to a floxed allele, which is often used in KO models. However, the sample might not have been subjected to Cre recombinase to actually cause the knockout. The name "Egr2flfl" in the source name could be part of the nomenclature for floxed alleles. 
+
+The treatment with IL-4 is a 24-hour treatment, which could be a stimulus, but the definition says "treated" is a non-native indicator. However, the note says that "activated" and "differentiated" are not non-native. But "treated" is a non-native indicator. However, the presence of a treatment might not be enough on its own. However, in the metadata, there's a treatment listed, which according to the rules, is a non-native indicator. 
+
+Also, the cell type is BMDMs, which are primary cells. If they're primary, then they might be native. But if they're modified (like if the Egr2 fl/fl is part of a conditional KO system), then they might be non-native. However, the presence of the floxed allele alone (without Cre) might not make them non-native. But the rules mention that modifications like knockout, knockdown, etc., make it non-native. If the strain is floxed, but not actually knocked out, does that count? The definition says "modifications" including knockout, knockdown. So if the strain is floxed (but not knocked out), is that a modification? The example given for non-native includes "knockout, knockdown, KO, KD". So unless the sample is actually a knockout, just having a floxed allele might not be enough. However, the name "Egr2 fl/fl" might be part of the strain's genetic modification. 
+
+But the key here is whether the sample is modified. The presence of a floxed allele is a genetic modification. So even if it's not used in a conditional KO (i.e., without Cre), the fact that it's a floxed allele (which is a modification) might count as non-native. However, the rules state that non-native samples include modified specimens, so if the strain is genetically modified (even if it's floxed), that would make it non-native. 
+
+Alternatively, if the BMDMs are primary cells from a genetically modified strain, then they would be non-native. The definition says that non-native includes modifications, and genetic modifications (like floxed alleles) would count. So the presence of "strain=Egr2 fl/fl" indicates a genetic modification, making the sample non-native. 
+
+Additionally, the treatment with IL-4 is a 24-hour treatment. The definition says "treated" is a non-native indicator. So both the genetic modification (floxed allele) and the treatment are indicators. 
+
+Therefore, the sample should be classified as non-native because it has a modified strain and was treated. The metadata mentions both the modified strain and the treatment, which are non-native indicators.
+</think>
+
+{"id": "SRX9311895", "metadata": "strain=Egr2 fl/fl (genetically modified) and treatment=IL-4 24h (treated)", "native": false}
+
+--- LLM Response for ID: SRX9311913 ---
+<think>
+Okay, let's see. I need to classify this sample as native or non-native. The sample ID is SRX9311913. The metadata says the cell type is BMDMs, which are bone marrow-derived macrophages. The source name is ChIP_CEBPb_LyzMCreEgr2flfl_BMDM_basal. The strain is LyzM-Cre Egr2 fl/fl.
+
+First, looking at the definitions. Native samples are under normal conditions, healthy, unmodified. Non-native includes things like cell lines, embryonic cells, modifications like knockouts, or certain treatments.
+
+The cell type here is BMDMs, which are primary cells derived from bone marrow. Primary cells are usually considered native if they're unmodified. But wait, the strain is LyzM-Cre Egr2 fl/fl. The "fl/fl" suggests a floxed allele, which is often used in conditional knockout experiments. The presence of LyzM-Cre indicates that the Cre recombinase is driven by the LyzM promoter, which would excise the floxed Egr2 gene in macrophages. So this is a conditional knockout model. 
+
+Since the strain is Egr2 fl/fl with LyzM-Cre, that means the Egr2 gene is knocked out specifically in these macrophages. Modifications like knockout (KO) are non-native indicators. Even though the cells are primary (BMDMs), the genetic modification makes them non-native. The metadata doesn't mention any other treatments or immortalization. The sample is from a modified strain, so it's a non-native sample. Also, the source name includes "LyzMCreEgr2flfl", which points to the genetic modification. Therefore, the correct classification is non-native.
+</think>
+
+{"id": "SRX9311913", "metadata": "strain=LyzM-Cre Egr2 fl/fl (conditional knockout model)", "native": false}
+
+--- LLM Response for ID: SRX9344868 ---
+<think>
+Okay, let's see. The sample ID is SRX9344868. The metadata includes several parts. First, the cell type is RAW 264.7, which I think is a cell line. RAW 264.7 is a murine macrophage cell line, right? So that's an immortalized cell line, which according to the definitions, makes it non-native. Then there's the agent=LPS, which is lipopolysaccharide. LPS is a treatment, so that's a modification. The time point is 2 hours, which might indicate a treatment time.
+
+Looking at the definitions: Non-native samples include immortalized cell lines. The cell line here is RAW264.7, which is definitely an immortalized line. Also, the presence of an agent like LPS suggests treatment, which is another non-native indicator. Even though the cell type is Macrophage, since it's from a cell line and treated, that should be non-native. The strain is BALB/c, which is a mouse strain, but that's not relevant here. So combining both the cell line and the treatment, the sample is non-native. The answer should be false.
+</think>
+
+{"id": "SRX9344868", "metadata": "cell_type=RAW 264.7, agent=LPS", "native": false}
+
+--- LLM Response for ID: SRX9432511 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX9432511. The metadata mentions "cell line=Raw264.7" and "cell type=Monocyte-derived cell line". According to the definitions, non-native samples include immortalized cell lines. RAW 264.7 is a known murine macrophage cell line, which is immortalized. Even though the treatment is "Ibet only" and there's a time point, the key indicator here is the use of a cell line. The presence of an immortalized cell line like Raw264.7 makes it non-native. The treatment part might be a modifier, but the cell line itself is sufficient for classification. Also, the metadata doesn't mention anything about being wild-type or untreated in a way that overrides the cell line. So the answer should be non-native.
+</think>
+
+{"id": "SRX9432511", "metadata": "cell line=Raw264.7", "native": false}
+
+--- LLM Response for ID: SRX978687 ---
+<think>
+Okay, let's tackle this classification. The sample ID is SRX978687. The metadata mentions "cell=immortalized brown adipocytes (iBATs)" and "treatment=isoproterenol (1 µM, 2 hr)". 
+
+First, the cell type is immortalized. According to the definitions, immortalized cell lines are non-native. The presence of "immortalized" in the cell description is a clear indicator. Then, there's a treatment with isoproterenol. However, the rules state that if a sample has both native and non-native indicators, it should be classified as non-native. Here, the immortalized cell line is a non-native indicator, and the treatment might be a modification, but even if there's a treatment, the presence of an immortalized cell line alone is enough. So the main reason here is the immortalized cell type. The treatment could also contribute, but the primary factor is the cell line. So the answer should be non-native.
+</think>
+
+{"id": "SRX978687", "metadata": "cell=immortalized brown adipocytes (iBATs)", "native": false}
+

@@ -1,0 +1,16 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell_line=C20
+SRX11513464,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. differentiated, donor B, 24 hours differentiation"
+SRX12209241,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell type=CD4+ T cells, source_name=CD3/CD28 stimulated CD4+ T cells"
+SRX1738529,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=Hematopoietic Stem Cells, source_name=Human Stem and Progenitor Cell"
+SRX18672589,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell_line=C20, treatment=untreated"
+SRX212353,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. donor=1, source_name=macrophage, treatment=none"
+SRX23383574,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell_line=primary, neonatal keratinocytes"
+SRX3666488,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. healthy volunteer, PHA-stimulated human T-lymphocytes"
+SRX5574342,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell_line=C20
+SRX9867030,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell type=CD8
+SRX9345717,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. iPSC differentiation to Erythroid cells, Wild type"
+SRX5371741,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell_line=C20
+SRX5774914,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. cell_line=A2B5+ iOPCs(H)
+SRX6068070,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell_line=C20
+SRX6068072,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell_line=C20

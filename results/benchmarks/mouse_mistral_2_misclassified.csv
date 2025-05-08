@@ -1,0 +1,5 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX10873024,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. tissue preparation=Fixed by Formaldehyde
+SRX149201,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. Wildtype
+SRX1063034,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell type=Pre-activated CD4+ T cells
+SRX11366190,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=WT

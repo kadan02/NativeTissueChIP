@@ -1,0 +1,76 @@
+ID,keyword_classification,keyword_confidence,keyword_reason,final_classification,llm_reason,classification_method
+DRX440382,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. sample_name=ChIPseq EZH2 of WT mouse, strain=C57BL/6J",LLM
+ERX204066,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. ArrayExpress-Genotype=Wildtype, ArrayExpress-DevelopmentalStage=Adult",LLM
+SRX018602,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Nrl-/-,LLM
+SRX027447,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype/wild-type, source_name=pups testis, strain=9R/13R cross",LLM
+SRX028842,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=C57BL/6, Bone-marrow-derived macrophages, Brd2_0H_minus",LLM
+SRX10462798,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=Tet2+/-,LLM
+SRX105503,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. strain=CD1 outbred mice, age=2-3 months",LLM
+SRX1063034,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, treatment=Cont STAT1",LLM
+SRX1063037,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=S3KO, treatment=IL21 STAT1",LLM
+SRX10652556,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=Junbfl/fl, strain=C57BL/6, polarizing condition=Th1",LLM
+SRX10659669,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=C20,LLM
+SRX10828736,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=XBP1 LKO, age=3-4 months",LLM
+SRX10828756,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, age=3-4 months",LLM
+SRX10873024,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. developmental stage=P5, tissue=heart, strain=C57BL/6",LLM
+SRX10989779,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=C57BJ/L6 WT mice, source_name=LIVER, gender=male, strain=C57BJ/L6 background, age=12-16 weeks of age, tissue=Liver, timepoint=ZT12, diet=FASTING",LLM
+SRX11187698,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=Pgrcre/-PgrALsL/+ | surgery=Ovariectomy for 2 weeks | treatment=1h progesterone treatment,LLM
+SRX11366190,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, age=3 months, treatment=T09",LLM
+SRX1176003,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=C57BL/6, treatment=none",LLM
+SRX13065852,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Krt14-Cre+;Ppp1r13l-/-,LLM
+SRX14059359,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=treated with 100 ng/ml LPS for 4 h,LLM
+SRX142514,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=C2C12, antibody description=mouse monoclonal antibody; epitope mapping within amino acids 138-158 of myogenin of rat origin. Antibody Target: Myogenin, treatment=60 h with 2.0% Equine Serum and Insulin (Wold), age=immortalized",LLM
+SRX145053,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell=MEL, cell organism=mouse, age=immortalized",LLM
+SRX14563995,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=Anisomycin + IFNg, strain=C57BL/6, age=8-12 weeks",LLM
+SRX14617697,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. cell_line=Ch12 WT cell line,LLM
+SRX14818057,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=IFNb/IRF9 DKO, treatment=stimulated under Th1 culture conditions (10 ng/ml IL-12) for 5 days in vitro. IFNb (100U/ml) were treated for last 3 days.",LLM
+SRX149201,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=pre-B cell line B3, source_name=ChIP-Seq data from Wildtype B3 Cells using Rabbit anti-C-terminal Ikaros antibody",LLM
+SRX1495349,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. age=Adult (10-12 weeks postnatally),LLM
+SRX15840026,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=wild type C57BL6,LLM
+SRX15840131,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=wild type C57BL6,LLM
+SRX17469441,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=NSD1 sh1,LLM
+SRX17605394,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Wild-type, source_name=Bone-Marrow, tissue=Bone-Marrow, cell_type=Monocyte",LLM
+SRX188806,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell=CH12, cell organism=mouse, age=immortalized",LLM
+SRX20201036,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, age=16 to 20 weeks, diet=fed ad libitum (LabDiet, #5001), strain=mixed 129/Sv plus C57BL/6 background",LLM
+SRX204705,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_type_class=Liver, source_name=C/EBPalpha 48h, time point=48h, strain=C57BL6/J, age=7 weeks old, gender=male, tissue=Total hepatectomized liver",LLM
+SRX20826938,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=BL/6Jax,LLM
+SRX20969410,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. donor genotype=CD45.2(+) Brd9fl/fl,LLM
+SRX2162110,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype/variation=WT, injected with=Not injected",LLM
+SRX21711865,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=WT, stimulation=0hr LipidA",LLM
+SRX22512363,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=Setdb1-KO, age=Embryonic day 15.5",LLM
+SRX2424023,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. donor ID=ENCDO956IXV, age=0 day",LLM
+SRX2500398,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. developmental stage=P7, tissue=granule neuron progenitor",LLM
+SRX2647474,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Tbx21-/-,LLM
+SRX2647492,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, culture condition=ChIP-seq in vitro culture protocol (IFN-β)",LLM
+SRX2741794,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. tissue=Phenylhydrazine treated spleen,LLM
+SRX319873,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=Kdo2 Lipid A (KLA) 6h,LLM
+SRX319874,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=Kdo2 Lipid A (KLA) 12h,LLM
+SRX3331742,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype/variation=wild type, source_name=Mice prefrontal cortex",LLM
+SRX341761,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=MLL3-/-, age=E18.5 embryos, cell_type=MyoD-induced immortalized brown preadipocytes",LLM
+SRX3582922,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=12 wk High Fat Diet (Research Diet, D12331)",LLM
+SRX3601924,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype/variation=WT,LLM
+SRX3858835,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Control, age=Postnatal day 0",LLM
+SRX392764,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=C10, source_name=Haftl pre-B cells",LLM
+SRX4178770,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=wildtype,LLM
+SRX4325335,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_type=Liver, source_name= liver, strain=C3H/HeN, replicate_animal=1",LLM
+SRX4348502,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=IRF9WT, condition=IFNaIL2",LLM
+SRX4895097,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype/variation=Med14Nsmash, treatment=APR60h",LLM
+SRX5689484,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. source_name=nTregs isolated from Foxp3Thy1.1/Rosa-Cas9 mice, genotype/variation=Foxp3Thy1.1/Rosa-Cas9, cell type=nTregs, treatment=none, guide rna=none",LLM
+SRX6095535,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=M1-IKO, treatment=10 ng/g bw 1,25(OH)2D3",LLM
+SRX6417441,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, treatment=NR",LLM
+SRX661408,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=BALB/c, GRdim",LLM
+SRX6924490,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype/tetYAP, strain background=C57BL/6, tissue=Liver",LLM
+SRX7368531,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Wild type, cell type=CD19+ splenic B cells, sample type=Primary cells",LLM
+SRX7368548,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=OBF1KO, stimulation=LPS",LLM
+SRX745826,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. develomental stage=E14.5, treatment=Dexamethasone and GW7647 4 hrs",LLM
+SRX7726481,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. source_name=Tbet_NK_WT_exvivo, strain=C57BL/6, tissue=Spleen, cell type=Natural killer cells, surface marker=CD3e-NKp46+",LLM
+SRX7902429,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=wild type,LLM
+SRX8241996,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Wild type, cell isolation=Primary isolated cells",LLM
+SRX8725650,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=1 µM chromium, pulldown target=CTCF",LLM
+SRX8994289,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype/variation=WT,LLM
+SRX9311847,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=IL-4 24h, source_name=ChIP_CEBPb_C57_BMDM_24hIL4",LLM
+SRX9311895,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=IL-4 24h, source_name=ChIP_PPARg_Egr2flfl_BMDM_24hIL4, strain=Egr2 fl/fl, cell type=BMDMs (bone marrow-derived macrophages)",LLM
+SRX9311913,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. source_name=ChIP_CEBPb_LyzMCreEgr2flfl_BMDM_basal, strain=LyzM-Cre Egr2 fl/fl, cell type=BMDMs (bone marow-derived macrophages)",LLM
+SRX9344868,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=RAW 264.7, BALB/c, LPS",LLM
+SRX9432511,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=Ibet only, time point=4 hours",LLM
+SRX978687,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=isoproterenol (1 µM, 2 hr)",LLM

@@ -1,0 +1,23 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+SRX037935	CTCF	Blood	CD34+	source_name=CD34 | condition=CD34 WT
+SRX11513464	NR3C1	Blood	Dendritic Cells	source_name=Dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=DC | individual=donor B | time=24 hours differentiation
+SRX11513465	NR3C1	Blood	Dendritic Cells	source_name=Tolerogenic dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=tolDC | individual=donor B | time=24 hours differentiation
+SRX14280087	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=Normal control
+SRX15717771	HNF4A	Pancreas	Pancreatic islets	source_name=Human islets | cell type=Primary human islets | treatment=untreated
+SRX170349	EP300	Blood	CD36+	source_name=Blood | tissue=Blood | developmental stage=Adult | genotype/variation=wild type | cell type=CD36
+SRX18672589	CTCF	Neural	Microglia	source_name=Microglia | cell line=C20 | treatment=untreated
+SRX19123217	DAXX	Blood	B cells	source_name=Human B lymphocytes | cell line=Human B lymphocytes | disease state=healthy control
+SRX23045260	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=Vehicle
+SRX23548768	TP53	Cardiovascular	Vascular smooth muscle cells	source_name=vascular smooth muscle cell | cell type=vascular smooth muscle cell | genotype=control
+SRX2770856	SPI1	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, untreated, PU.1 ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=none
+SRX3195440	MLLT3	Blood	CD34+ cells	source_name=FLAG MLL-AF9 ChIPseq | cell type=human CD34+ | genotype=control untreated
+SRX3734300	TP53	Epidermis	Foreskin	source_name=Foreskin | treatment=DMSO
+SRX5371741	NFKB1	Blood	CD4+ T cells	source_name=primary blood | individual=donor 206 | cell type=CD4pos_T | lineage=CD4
+SRX5391034	MLXIP	Muscle	Skeletal myotubes	source_name=Primary skeletal myotube | cell type=Primary human myocytes | genotype=control | passages=P7
+SRX5574342	SPI1	Blood	Monocytes	source_name=cMO_PU.1-ChIP | donr id=donorA | tissue/cell type=peripheral blood | cell subtype=primary monocytes
+SRX5716451	SOX2	Neural	Neural progenitor cells	source_name=hNPCs | genotype/variation=wild type | sirna=none | lentiviral expression=none
+SRX8090646	BRD4	Others	Synoviocytes	source_name=Fibroblast like Synoviocytes | diagnosis=Rheumatoid arthritis | cell type=Fibroblast like Synoviocytes | treatment=DMSO | donor=ST1412
+SRX885891	CEBPB	Blood	Macrophages	source_name=Macrophage-control | treatment=Control | cell type=Macrophage
+SRX9029210	POU2F2	Blood	Neutrophils	source_name=human neutrophil | treatment=no treatment | time=20 h | cell type=neutrophil
+SRX9221933	ESR1	Liver	Hepatocytes	source_name=Primary Hepatocytes | tissue/cell type=Primary hepatocytes | treatment=DMSO | treatment time=8 hours
+SRX9345717	CTCF	Blood	Erythroid Cells	source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=Wild type

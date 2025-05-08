@@ -1,0 +1,10 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440349,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell_type=CD4 positive T cell, sample_name=ChIPseq EZH2 of TL-Om1"
+SRX11513465,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. cell type=tolDC (tolerogenic dendritic cells)
+SRX12209241,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. source_name=CD3/CD28 stimulated CD4+ T cells, case or control=Control"
+SRX23335288,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell type=dermal fibroblasts, age=84"
+SRX23335289,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell type=dermal fibroblasts, age=97, passage number=2"
+SRX23335290,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell_type=dermal fibroblasts, age=86, passage number=2"
+SRX3195440,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=FLAG MLL-AF9 ChIPseq
+SRX8090646,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. diagnosis=Rheumatoid arthritis
+SRX9345717,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. source_name=iPSC diffrentiation to Erythroid cells, genotype=Wild type"

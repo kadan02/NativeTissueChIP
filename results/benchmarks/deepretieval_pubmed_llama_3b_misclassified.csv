@@ -1,0 +1,19 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX4348502,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type class=Blood, Cell type=Natural killer cells, Source name=splenic NK cells, Condition=IFNaIL2 trial"
+SRX1495349,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type classification and source name indicate a native sample, but the presence of an injury trial (MI) and specific strain (C57BL/6) suggests it's not a standard control sample. However, since it's a heart tissue sample from a controlled trial, it's still considered native."
+SRX027447,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Cell type is from a specific organism (pups) and has been crossed for genetic variation, making it non-native."
+SRX2647492,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. ChIP-seq experiment for CD4+ T cells with IFN-β treatment
+SRX4325335,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Liver sample from C3H/HeN strain, which is an immortalized cell line"
+SRX149201,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell_line=B3, ChIP-Seq data from Wildtype cells, Rabbit anti-Ikaros antibody"
+SRX21711865,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type is Macrophages (BMDM) and the sample is from a wild-type (WT) condition with no treatment or stimulation trial, making it native."
+SRX1063034,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. Pre-activated CD4+ T cells trial or experiment with C57BL/6 strain and spleen tissue
+SRX7368531,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. ChIP experiment, primary cells, and specific stimulation trial"
+SRX2424023,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. postnatal, heart tissue sample from newborn"
+SRX6417441,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Liver sample from C57B6/CR mice, indicating a specific strain and treatment condition."
+SRX2500398,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cerebellar granule neuron progenitor, C57BL/6 strain, neural sample"
+SRX11366190,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. strain=C57BL/6, Liver trial, Wild-type genotype"
+SRX3858835,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell_type_class=Epidermis, Postnatal day 0, Control genotype"
+SRX7902429,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell_type_class=Neural, Cell_type=Granule neuron progenitors, and wild-type genotype indicate a native sample."
+SRX6095535,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. genotype=M1-IKO or Kidney treatment trial
+SRX14617697,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Cell_line=Ch12, ChIP-Seq experiment"
+SRX10989779,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Liver sample from C57BJ/L6 mice, a common strain used in mouse genetics and liver research."

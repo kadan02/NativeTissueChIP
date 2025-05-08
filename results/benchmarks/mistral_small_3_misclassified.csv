@@ -1,0 +1,5 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX10873024,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=P5 heart | developmental stage=P5
+SRX21711865,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. treatment=WT
+SRX7368531,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. genotype=Wild type, cell type=CD19+ splenic B cells, sample type=Primary cells"
+SRX7902429,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=wild type

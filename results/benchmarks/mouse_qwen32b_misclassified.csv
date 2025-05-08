@@ -1,0 +1,9 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX21711865,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. treatment=WT
+SRX2500398,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. source_name=Cerebellar granule neuron progenitor; strain=C57BL/6; developmental stage=P7
+SRX3858835,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=Control
+SRX7902429,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=wild type
+SRX3331742,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype/variation=wild type
+SRX6095535,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. genotype=M1-IKO, treatment=10 ng/g bw 1,25(OH)2D3"
+SRX14617697,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=Ch12 cell line; cell type=Ch12 WT cell line
+SRX10989779,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=C57BJ/L6 WT mice

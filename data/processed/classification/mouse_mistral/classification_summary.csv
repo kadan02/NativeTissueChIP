@@ -1,0 +1,50 @@
+ID,keyword_classification,keyword_confidence,keyword_reason,final_classification,llm_reason,classification_method
+ERX204066,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. ArrayExpress-Genotype=Wildtype,LLM
+SRX018602,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Nrl-/-,LLM
+SRX027447,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype/variation=wild type,LLM
+SRX028842,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=Brd2_0H_minus,LLM
+SRX105503,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. strain=CD1 outbred mice | age=2-3 months,LLM
+SRX1063034,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=WT treatment=Cont STAT1,LLM
+SRX10652556,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Junbfl/fl,LLM
+SRX10659669,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=double null,LLM
+SRX10873024,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. strain=C57BL/6, source_name=P5 heart, developmental stage=P5",LLM
+SRX11187698,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=1h progesterone treatment,LLM
+SRX13065852,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Krt14-Cre+;Ppp1r13l-/- | deletion=specific deletion of Ppp1r13l exon8,LLM
+SRX14059359,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=treated with 100 ng/ml LPS for 4 h,LLM
+SRX142514,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_type=C2C12, cell=C2C12, age=immortalized, age description=Immortal cells",LLM
+SRX145053,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. age=immortalized | cell description=Leukemia (K562 analog) | age description=Immortal cells,LLM
+SRX14563995,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=Anisomycin + IFNg,LLM
+SRX14818057,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=IFNb/IRF9 DKO | treatment=stimulated under Th1 culture conditions (10 ng/ml IL-12) for 5 days in vitro. IFNb (100U/ml) were treated for last 3 days.,LLM
+SRX149201,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line=pre-B cell line B3,LLM
+SRX1495349,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. tissue=heart 4 days post-injury (MI),LLM
+SRX17469441,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=NSD1 sh1,LLM
+SRX188806,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. age=immortalized | age description=Immortal cells | cell description=B-cell lymphoma,LLM
+SRX20201036,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=WT,LLM
+SRX204705,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. source_name=C/EBPalpha 48h,LLM
+SRX20969410,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. timing of preparation=5 months after pIpC injection,LLM
+SRX21711865,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. treatment=WT,LLM
+SRX22512363,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Setdb1-KO | age=Embryonic day 15.5,LLM
+SRX2424023,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. age=0 day,LLM
+SRX2647492,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. culture condition=ChIP-seq in vitro culture protocol (IFN-β),LLM
+SRX2741794,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. tissue=Phenylhydrazine treated spleen,LLM
+SRX319874,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=Kdo2 Lipid A (KLA) 12h,LLM
+SRX341761,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=MLL3-/-; cell type=MyoD-induced immortalized brown preadipocytes; age=E18.5 embryos,LLM
+SRX3582922,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=12 wk High Fat Diet (Research Diet, D12331)",LLM
+SRX3601924,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype/variation=WT,LLM
+SRX392764,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell type=haftl derived C10 cells,LLM
+SRX4178770,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=IFNg,LLM
+SRX4325335,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. strain=C3H/HeN,LLM
+SRX4348502,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=IRF9WT | condition=IFNaIL2,LLM
+SRX4895097,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. source_name=CH12 B cell line | cell line=CH12 | cell type=lymphoma cell line | genotype/variation=Med14Nsmash | treatment=APR60h,LLM
+SRX5689484,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=Foxp3Thy1.1/Rosa-Cas9,LLM
+SRX6417441,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=NR ( 400 mg/kg),LLM
+SRX661408,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=GRdim,LLM
+SRX7368531,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. stimulation=anti-CD40/IL4,LLM
+SRX7368548,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=OBF1KO,LLM
+SRX745826,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=Dexamethasone and GW7647 4 hrs,LLM
+SRX7726481,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Metadata=source_name=Tbet_NK_WT_exvivo, cell type=Natural killer cells, culture condition=ex vivo, genotype=WT",LLM
+SRX8241996,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=Wild type,LLM
+SRX8725650,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. source_name=Mouse Hepatoma Cell Line, treatment=1 µM chromium",LLM
+SRX9311847,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=IL-4 24h,LLM
+SRX9311895,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=IL-4 24h,LLM
+SRX9432511,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line=Raw264.7 | treatment=Ibet only,LLM

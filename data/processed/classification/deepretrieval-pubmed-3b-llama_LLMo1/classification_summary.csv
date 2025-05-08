@@ -1,0 +1,100 @@
+ID,keyword_classification,keyword_confidence,keyword_reason,final_classification,llm_reason,classification_method
+DRX440344,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is CD4+ T cells and the sample is a ChIPseq experiment for EZH2, which is a histone methyltransferase. This indicates that the sample is not native but rather a modified or experimental sample.",LLM
+DRX440349,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line=TL-Om1 or CD4+ T cells,LLM
+SRX017709,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=Activated CD4+ T cell, source_name=CD4+ T cell",LLM
+SRX037935,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. CD34 WT,LLM
+SRX037940,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. RNAi trial, CD36 cell line, BRG1 knockout",LLM
+SRX037941,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_lineKD trial or shRNA experiment,LLM
+SRX10977238,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. foreskin keratinocyte, newborn sample, primary cell trial",LLM
+SRX10977366,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Embryonic sample, organoid, and healthy brain tissue",LLM
+SRX11513464,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell type differentiation trial and specific cell line information,LLM
+SRX11513465,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_type_class=Dendritic Cells, Tolerogenic dendritic cells differentiated from monocytes",LLM
+SRX12118509,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=Naive B cells, source_name=naïve B-cells",LLM
+SRX12129506,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type=T cells, Treatment trial, and source name indicate this sample is not native.",LLM
+SRX12209241,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=CD4+ T cells, Control trial",LLM
+SRX13006802,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. donor ID=ENCDO907CMO, adult sample with specific cell type and tissue information",LLM
+SRX14280059,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Liver Disease (NAFLD) or Liver Tissue sample with specific disease condition,LLM
+SRX14280087,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Liver sample, Normal control",LLM
+SRX15717771,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Primary human islets, untreated",LLM
+SRX16495661,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. primary cell, CD8+ T cells",LLM
+SRX16495697,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. donor ID=ENCDO470GFA, age=90 or above, neural tissue sample",LLM
+SRX170349,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Cell type classification and wild-type genotype indicate a native sample.,LLM
+SRX1738529,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. cell_line=Hematopoietic Stem Cells (HSPC) or Human Stem and Progenitor Cell,LLM
+SRX18672589,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_line=C20, Untreated sample, Microglia",LLM
+SRX18672592,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=C20, treatment=CTCF-KD, source_name=Microglia",LLM
+SRX18768994,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=Adipose stem cells, Human primary adipose stem cells",LLM
+SRX18768997,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=Adipose stem cells, Human primary adipose stem cells",LLM
+SRX19123217,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type class=Blood, Cell type=B cells, source_name=Human B lymphocytes, disease state=healthy control",LLM
+SRX212182,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. fetal lung fibroblasts or Lung fibroblasts trial,LLM
+SRX212351,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type and source are native, but the specific condition (donor=1) might be considered non-native due to the mention of a single donor. However, without further information on this donor, it's difficult to conclude. The treatment and stress conditions do not indicate a modification or alteration from normal physiological conditions.",LLM
+SRX212353,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is macrophages and the sample was under hypoxic conditions, but there's no indication of treatment or modification that would classify it as non-native.",LLM
+SRX2166886,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. fetal retina or embryonic cell sample,LLM
+SRX2253219,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Cll cells, CLL diagnosis, B cells trial",LLM
+SRX2268292,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Fetal osteoblast or Undifferentiated cell line,LLM
+SRX23045260,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=Human dermal fibroblasts, Treatment=Vehicle",LLM
+SRX23045263,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=Human dermal fibroblasts, Treatment Trial (TGFb trial)",LLM
+SRX23335286,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. foreskin fibroblasts, immortalized cell line or primary cell culture",LLM
+SRX23335288,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=dermal fibroblasts, passage number=2, source name=dermal fibroblasts",LLM
+SRX23335289,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=dermal fibroblasts, passage number=2, source name=dermal fibroblasts",LLM
+SRX23335290,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=dermal fibroblasts, passage number=2, source name=dermal fibroblasts",LLM
+SRX23335291,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=CD4+ T cells, source_name=CD4 T-cells",LLM
+SRX23383574,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=primary, neonatal keratinocytes",LLM
+SRX23548768,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell type=vascular smooth muscle cells, control genotype",LLM
+SRX23548770,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=vascular smooth muscle cells, miR-1204 overexpression",LLM
+SRX25152580,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. MED12 knockout or specific cell line, but also has information on CD4+ T cells and blood sample",LLM
+SRX25331425,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=ICR_CXJ_046 or Brain sample,LLM
+SRX25501815,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=HDF-2, treatment trial, skin sample",LLM
+SRX2635902,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Liver tissue from a healthy adult liver with coronary artery disease, indicating it's not a native sample.",LLM
+SRX2770856,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Primary human monocyte-derived macrophages and no modification or treatment indicated,LLM
+SRX2966972,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Fetal testis or 2nd trimester human fetal testis sample,LLM
+SRX3195440,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. ChIP-seq experiment for FLAG MLL-AF9 protein,LLM
+SRX3322085,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Gastroesophageal sphincter tissue sample from adult donor,LLM
+SRX3584196,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell type=Primary human epididysis cells, source name=Epididymis",LLM
+SRX3585704,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. fetal lung fibroblast cells, single donor trial",LLM
+SRX3666488,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. PHA-stimulated human T-lymphocytes,LLM
+SRX3679898,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line/Keratinocytes trial or shRNA experiment,LLM
+SRX3679900,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line/Keratinocytes or Epidermis sample,LLM
+SRX3679902,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line/Keratinocytes trial or shRNA experiment,LLM
+SRX3734300,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. DMSO treatment and foreskin sample indicate it's a native sample.,LLM
+SRX3768737,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=CD34 Hematopoietic stem cells, cultured for 4 weeks, and with a specific genotype (MLLT3 overexpression)",LLM
+SRX382353,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=HMEL-BRAFV600E or immortalized melanocytes,LLM
+SRX393518,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is Primary Endothelial Cells and was treated with TSA (Trichloroacetic acid), which is a common treatment for cell culture trials.",LLM
+SRX4370433,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Cell type and brain sample,LLM
+SRX4723358,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is neurons and has a wild-type (WT) condition, indicating it's native.",LLM
+SRX5360084,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type class and source name indicate a native sample, but the mention of 'Dermal Fibroblasts' as a cell type suggests that it's a specific type of skin cell. However, the lack of any indication of transformation or modification makes it likely to be a native sample.",LLM
+SRX5360094,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Dermal fibroblasts, transformed or immortalized cell line",LLM
+SRX5371741,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is CD4+ T cells from primary blood, which is a native sample.",LLM
+SRX5391034,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Primary skeletal myotube, control genotype, and passages indicate a native sample.",LLM
+SRX5391035,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=Primary human myocytes, MondoA KD trial",LLM
+SRX5574342,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_line=Primary Monocytes, ChIP experiment, Peripheral Blood sample",LLM
+SRX5624369,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Monocytes, Treatment Trial, Peripheral Blood sample",LLM
+SRX5716451,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. hNPCs (human Neural Progenitor Cells) and wild-type genotype,LLM
+SRX5774914,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=iOPCs(H) or Fibroblasts from foreskin,LLM
+SRX5839976,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=Monocytes, Primary human monocyte-derived macrophages",LLM
+SRX6068070,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type and source are specific to the uterus and endometrium, but the metadata also mentions a ChIP-seq experiment which is often used for analyzing chromatin modifications. This could indicate that the sample has been modified or treated in some way.",LLM
+SRX6068072,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type and source are specific to the uterus and endometrium, but the metadata also mentions a ChIP-seq experiment which is a common technique for analyzing chromatin modifications. This suggests that the sample has been modified or treated in some way.",LLM
+SRX6578928,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=T cells, Peripheral blood sample, Healthy T cells",LLM
+SRX6763473,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. differentiating macrophage treatment trial or Macrophage trial,LLM
+SRX6763478,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native.  PRIMARY-MONOCYTE, Monocytes",LLM
+SRX6784062,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. donor ID and adult stage indicate a native sample, but the specific cell type and tissue could be considered non-native due to the complexity of lung tissue.",LLM
+SRX6969885,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=CHD6, cardiomyocytes, heterozygous mutant",LLM
+SRX7015671,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=CRL7250,LLM
+SRX7223095,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=t-HESC,LLM
+SRX735289,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=Th1 cells, In vitro differentiation trial, Treatment with PMA and ionomycin",LLM
+SRX7509593,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. donor ID and testis sample with adult stage and specific metadata,LLM
+SRX7730450,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Corrected RB1 mutation, osteoblasts, bone sample",LLM
+SRX8090642,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Rheumatoid Arthritis trial or Fibroblast-like Synoviocytes trial,LLM
+SRX8090646,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Rheumatoid Arthritis trial or Fibroblast-like Synoviocytes trial,LLM
+SRX8453150,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line_chip or ChIP sample, Liver tissue with metastatic castration-resistant prostate cancer metadata",LLM
+SRX8841625,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. acheiopodia patient, lymphoblast cells, RAD21-ChIP-seq experiment",LLM
+SRX885891,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=Macrophage-control, Control treatment, Wild-type specimen",LLM
+SRX885895,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. oxLDL trial, Macrophage trial",LLM
+SRX9029210,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=Neutrophils, No treatment trial",LLM
+SRX9029211,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. R848 treatment trial or Neutrophils trial,LLM
+SRX9221932,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Treatment trial with 17 β-estradiol on primary hepatocytes,LLM
+SRX9221933,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. DMSO treatment trial or Primary Hepatocytes sample,LLM
+SRX9345717,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Differentiated iPSC or embryonic cells trial,LLM
+SRX971583,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. siRNA trial, primary human keratinocytes, and p63 knockdown trial",LLM
+SRX9850737,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_line=Calu-3, Human bronchial epithelial cells",LLM
+SRX9867030,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type=CD8+ T cells, source_name=1818759_CD8_CTCF_REP1",LLM
+SRX9969717,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. cell_line=16HBE14o-,LLM

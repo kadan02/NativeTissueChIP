@@ -1,0 +1,7 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440349,0,native,LLM (Fallback),No relevant keywords,"Native. cell_type=CD4+ T cells, sample_name=ChIPseq EZH2 of TL-Om1"
+SRX23335288,0,native,LLM (Fallback),No relevant keywords,"Native. cell_type=Dermal fibroblast, age=84"
+SRX23335289,0,native,LLM (Fallback),No relevant keywords,Native. source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=97 | passage number=2
+SRX23335290,0,native,LLM (Fallback),No relevant keywords,Native. source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=86 | passage number=2
+SRX8090646,1,non-native,LLM (Native Validation),"Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)",Non-Native. diagnosis=Rheumatoid arthritis
+SRX9345717,0,native,LLM (Native Validation),"Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype' (weak_native/100.0)",Native. genotype=Wild type

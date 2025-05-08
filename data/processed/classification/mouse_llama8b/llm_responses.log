@@ -1,0 +1,420 @@
+--- LLM Response for ID: DRX440382 ---
+{"id": "DRX440382", "metadata": "WT mouse, C57BL/6J strain", "native": true}
+
+--- LLM Response for ID: ERX204066 ---
+{"id": "ERX204066", "metadata": "Cell_type_class=Liver, Cell_type=Hepatocytes, ArrayExpress-DevelopmentalStage=Adult", "native": true}
+
+--- LLM Response for ID: SRX018602 ---
+{"id": "SRX018602", "metadata": "Nrl ko, genotype=Nrl-/-", "native": false}
+
+--- LLM Response for ID: SRX027447 ---
+{"id": "SRX027447", "metadata": "genotype/variation=wild type", "native": true}
+
+--- LLM Response for ID: SRX028842 ---
+{"id": "SRX028842", "metadata": "cell type=Bone-marrow-derived macrophages, strain=C57BL/6", "native": false}
+
+--- LLM Response for ID: SRX10462798 ---
+{"id": "SRX10462798", "metadata": "Tet2+/- genotype, Ctl Tet2+/- in the metadata indicates a modified sample", "native": false}
+
+--- LLM Response for ID: SRX105503 ---
+{"id": "SRX105503", "metadata": "strain=CD1 outbred mice, age=2-3 months", "native": true}
+
+--- LLM Response for ID: SRX1063034 ---
+{"id": "SRX1063034", "metadata": "cell_type_class=Blood, Cell_type=CD4+ T cells, source_name=Pre-activated CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX1063037 ---
+{"id": "SRX1063037", "metadata": "genotype=S3KO, treatment=IL21 STAT1, cell type=Pre-activated CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX10652556 ---
+{"id": "SRX10652556", "metadata": "genotype=Junbfl/fl, Cell_type_class=Blood, Cell_type=CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX10659669 ---
+{"id": "SRX10659669", "metadata": "cell type indicates healthy organ (liver) with no modification indicators and age is a normal physiological condition", "native": true}
+
+--- LLM Response for ID: SRX10828736 ---
+{"id": "SRX10828736", "metadata": "genotype=XBP1 LKO", "native": false}
+
+--- LLM Response for ID: SRX10873024 ---
+{"id": "SRX10873024", "metadata": "developmental stage=P5, source_name=P5 heart, tissue preparation=Fixed by Formaldehyde", "native": false}
+
+--- LLM Response for ID: SRX11187698 ---
+{"id": "SRX11187698", "metadata": "genotype/variation=Pgrcre/-PgrALsL/+ and treatment=1h progesterone treatment, surgery=Ovariectomy for 2 weeks", "native": false}
+
+--- LLM Response for ID: SRX11366190 ---
+{"id": "SRX11366190", "metadata": "genotype=WT, treatment=T09", "native": false}
+
+--- LLM Response for ID: SRX1176003 ---
+{"id": "SRX1176003", "metadata": "cell type=effector CD8 T cell", "native": false}
+
+--- LLM Response for ID: SRX13065852 ---
+{"id": "SRX13065852", "metadata": "genotype=Krt14-Cre+;Ppp1r13l-/-, deletion=specific deletion of Ppp1r13l exon8 in CK14-positive basal epithelial cells only", "native": false}
+
+--- LLM Response for ID: SRX14059359 ---
+{"id": "SRX14059359", "metadata": "treatment=treated with 100 ng/ml LPS for 4 h, Cell_type_class=Blood, Cell_type=RAW 264.7, cell type=murine macrophage cells", "native": false}
+
+--- LLM Response for ID: SRX142514 ---
+{"id": "SRX142514", "metadata": "cell_line=C2C12, immortalized cell line, age description=Immortal cells", "native": false}
+
+--- LLM Response for ID: SRX145053 ---
+{"id": "SRX145053", "metadata": "cell description=Leukemia (K562 analog) and age=immortalized", "native": false}
+
+--- LLM Response for ID: SRX14563995 ---
+{"id": "SRX14563995", "metadata": "cell type=Bone marrow derived macrophage (BMDM), treatment=Anisomycin + IFNg, source_name=An_IFNg_CREB1, BMDM", "native": false}
+
+--- LLM Response for ID: SRX14818057 ---
+{"id": "SRX14818057", "metadata": "genotype=IFNb/IRF9 DKO, treatment=stimulated under Th1 culture conditions", "native": false}
+
+--- LLM Response for ID: SRX149201 ---
+{"id": "SRX149201", "metadata": "cell line=pre-B cell line B3, source_name=ChIP-Seq data from Wildtype B3 Cells using Rabbit anti-C-terminal Ikaros antibody", "native": false}
+
+--- LLM Response for ID: SRX1495349 ---
+{"id": "SRX1495349", "metadata": "tissue=heart 4 days post-injury (MI)", "native": false}
+
+--- LLM Response for ID: SRX15840131 ---
+{"id": "SRX15840131", "metadata": "genotype=wild-type, treatment=vehicle (EtOH, PBS)", "native": true}
+
+--- LLM Response for ID: SRX17469441 ---
+{"id": "SRX17469441", "metadata": "cell line or cultured primary cells with a clear modification (treatment)", "native": false}
+
+--- LLM Response for ID: SRX17605394 ---
+{"id": "SRX17605394", "metadata": "genotype=Wild-type, Cell_type_class=Blood", "native": true}
+
+--- LLM Response for ID: SRX188806 ---
+{"id": "SRX188806", "metadata": "age=immortalized, cell description=B-cell lymphoma (GM12878 analog)", "native": false}
+
+--- LLM Response for ID: SRX20201036 ---
+{"id": "SRX20201036", "metadata": "age=16 to 20 weeks, genotype=WT", "native": false}
+
+--- LLM Response for ID: SRX204705 ---
+{"id": "SRX204705", "metadata": "tissue=Total hepatectomized liver", "native": false}
+
+--- LLM Response for ID: SRX20826938 ---
+{"id": "SRX20826938", "metadata": "genotype=BL/6Jax", "native": true}
+
+--- LLM Response for ID: SRX20969410 ---
+{"id": "SRX20969410", "metadata": "donor genotype=CD45.2(+) Brd9fl/fl, recipient genotype=CD45.1(+) CD45.2(-)", "native": false}
+
+--- LLM Response for ID: SRX21711865 ---
+{"id": "SRX21711865", "metadata": "cell type=BMDM, source_name=BMDM", "native": false}
+
+--- LLM Response for ID: SRX22512363 ---
+{"id": "SRX22512363", "metadata": "embryonic, Setdb1-KO, genotype=Setdb1-KO", "native": false}
+
+--- LLM Response for ID: SRX2424023 ---
+{"id": "SRX2424023", "metadata": "donor age = 0 day, sample type = tissue", "native": false}
+
+--- LLM Response for ID: SRX2500398 ---
+{"id": "SRX2500398", "metadata": "tissue=granule neuron progenitor, development stage=P7", "native": false}
+
+--- LLM Response for ID: SRX2647492 ---
+{"id": "SRX2647492", "metadata": "genotype=WT, Cell_type_class=Blood", "native": true}
+
+--- LLM Response for ID: SRX2741794 ---
+{"id": "SRX2741794", "metadata": "Phenylhydrazine treated spleen, Treated", "native": false}
+
+--- LLM Response for ID: SRX319874 ---
+{"id": "SRX319874", "metadata": "cell_type_class=Blood, strain=C57BL/6, treatment=Kdo2 Lipid A (KLA)", "native": false}
+
+--- LLM Response for ID: SRX341761 ---
+{"id": "SRX341761", "metadata": "cell_type_class=Adipocyte, cell type=MyoD-induced immortalized brown preadipocytes, genotype=MLL3-/-, age=E18.5 embryos", "native": false}
+
+--- LLM Response for ID: SRX3582922 ---
+{"id": "SRX3582922", "metadata": "tissue=Liver, source_name=GR_ZT12 HFD_liver, treatment=12 wk High Fat Diet", "native": false}
+
+--- LLM Response for ID: SRX3601924 ---
+{"id": "SRX3601924", "metadata": "cell type=Primary BMDM, genotype/variation=WT", "native": true}
+
+--- LLM Response for ID: SRX3858835 ---
+{"id": "SRX3858835", "metadata": "age=Postnatal day 0, genotype=Control", "native": false}
+
+--- LLM Response for ID: SRX392764 ---
+{"id": "SRX392764", "metadata": "cell type=haftl derived C10 cells, source_name=Haftl pre-B cells", "native": false}
+
+--- LLM Response for ID: SRX4178770 ---
+{"id": "SRX4178770", "metadata": "cell_type_class=Blood, Cell_type=Macrophages, Metadata=source_name=WT IRF9 90 min IFNg, BMDM", "native": false}
+
+--- LLM Response for ID: SRX4325335 ---
+{"id": "SRX4325335", "metadata": "Cell_type_class=Liver, strain=C3H/HeN", "native": true}
+
+--- LLM Response for ID: SRX4348502 ---
+{"id": "SRX4348502", "metadata": "genotype=IRF9WT, condition=IFNaIL2", "native": false}
+
+--- LLM Response for ID: SRX4895097 ---
+{"id": "SRX4895097", "metadata": "Cell_type_class=Blood, Cell_type=CH12, cell line=CH12, cell type=lymphoma cell line, genotype/variation=Med14Nsmash", "native": false}
+
+--- LLM Response for ID: SRX5689484 ---
+{"id": "SRX5689484", "metadata": "treatment=none, source_name=nTregs isolated from Foxp3Thy1.1/Rosa-Cas9 mice", "native": false}
+
+--- LLM Response for ID: SRX6417441 ---
+{"id": "SRX6417441", "metadata": "genotype=WT, treatment=NR, treatment time point=6 months", "native": false}
+
+--- LLM Response for ID: SRX661408 ---
+{"id": "SRX661408", "metadata": "strain=back-crossed to the BALB/c, genotype/variation=GRdim", "native": false}
+
+--- LLM Response for ID: SRX6924490 ---
+{"id": "SRX6924490", "metadata": "genotype/variation=tetYAP", "native": false}
+
+--- LLM Response for ID: SRX7368531 ---
+{"id": "SRX7368531", "metadata": "genotype=Wild type, cell type=CD19+ splenic B cells", "native": true}
+
+--- LLM Response for ID: SRX7368548 ---
+{"id": "SRX7368548", "metadata": "genotype=OBF1KO, cell type=CD19+ splenic B cells", "native": false}
+
+--- LLM Response for ID: SRX745826 ---
+{"id": "SRX745826", "metadata": "develomental stage=E14.5, cell type=burst-forming unit erythroid (BFU-E)", "native": false}
+
+--- LLM Response for ID: SRX7726481 ---
+{"id": "SRX7726481", "metadata": "cell_type_class=Blood, Cell_type=Natural killer cells, strain=C57BL/6", "native": true}
+
+--- LLM Response for ID: SRX7902429 ---
+{"id": "SRX7902429", "metadata": "age=Postnatal day 7, strain=C57BL/6J", "native": false}
+
+--- LLM Response for ID: SRX8241996 ---
+{"id": "SRX8241996", "metadata": "genotype=Wild type, cell isolation=Primary isolated cells", "native": true}
+
+--- LLM Response for ID: SRX8725650 ---
+{"id": "SRX8725650", "metadata": "cell_line=Hepa-1c1c7, source_name=Mouse Hepatoma Cell Line", "native": false}
+
+--- LLM Response for ID: SRX9311847 ---
+{"id": "SRX9311847", "metadata": "cell type=BMDMs (bone marrow-derived macrophages)", "native": false}
+
+--- LLM Response for ID: SRX9311895 ---
+{"id": "SRX9311895", "metadata": "cell_type_class=Blood, cell_type=Macrophages, treatment=IL-4 24h", "native": false}
+
+--- LLM Response for ID: SRX9311913 ---
+{"id": "SRX9311913", "metadata": "cell type=BMDMs, cell_type_class=Blood", "native": false}
+
+--- LLM Response for ID: SRX9344868 ---
+{"id": "SRX9344868", "metadata": "cell line RAW 264.7, cell type Macrophage", "native": false}
+
+--- LLM Response for ID: SRX9432511 ---
+{"id": "SRX9432511", "metadata": "cell_line=Raw264.7, cell type=Monocyte-derived cell line", "native": false}
+
+--- LLM Response for ID: SRX978687 ---
+{"id": "SRX978687", "metadata": "cell_line=immortalized brown adipocytes (iBATs)", "native": false}
+
+--- LLM Response for ID: DRX440382 ---
+{"id": "DRX440382", "metadata": "strain=C57BL/6J, Cell_type_class=Spleen, Cell_type=Spleen", "native": true}
+
+--- LLM Response for ID: ERX204066 ---
+{"id": "ERX204066", "metadata": "strain=C57BL/6, ArrayExpress-Genotype=Wildtype", "native": true}
+
+--- LLM Response for ID: SRX018602 ---
+{"id": "SRX018602", "metadata": "Nrl ko, knockout", "native": false}
+
+--- LLM Response for ID: SRX027447 ---
+{"id": "SRX027447", "metadata": "genotype/variation=wild type", "native": true}
+
+--- LLM Response for ID: SRX028842 ---
+{"id": "SRX028842", "metadata": "cell type=Bone-marrow-derived macrophages, strain=C57BL/6", "native": false}
+
+--- LLM Response for ID: SRX10462798 ---
+{"id": "SRX10462798", "metadata": "genotype=Tet2 +/-, cell_type_class=Others, cell type=Nasal Mucosa", "native": false}
+
+--- LLM Response for ID: SRX105503 ---
+{"id": "SRX105503", "metadata": "strain=CD1 outbred mice, age=2-3 months", "native": false}
+
+--- LLM Response for ID: SRX1063034 ---
+{"id": "SRX1063034", "metadata": "cell_type_class=Blood, Cell_type=CD4+ T cells, Metadata=source_name=Pre-activated CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX1063037 ---
+{"id": "SRX1063037", "metadata": "cell type=Pre-activated CD4+ T cells, treatment=IL21 STAT1, genotype=S3KO", "native": false}
+
+--- LLM Response for ID: SRX10652556 ---
+{"id": "SRX10652556", "metadata": "genotype=Junbfl/fl, cell type=Naive CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX10659669 ---
+{"id": "SRX10659669", "metadata": "cell type class and cell type match, however the source name indicates a modification (FoxA dev double null)", "native": false}
+
+--- LLM Response for ID: SRX10828736 ---
+{"id": "SRX10828736", "metadata": "genotype=XBP1 LKO, liver Cell_type_class=Liver", "native": false}
+
+--- LLM Response for ID: SRX10828756 ---
+{"id": "SRX10828756", "metadata": "genotype=WT, age=3-4 months", "native": true}
+
+--- LLM Response for ID: SRX10873024 ---
+{"id": "SRX10873024", "metadata": "developmental stage=P5, strain=C57BL/6J is a specific model organism which doesn't typically imply non-nativeness but since the developmental stage=P5 implies embryonic cells and this sample also comes from an organ (heart) from those cells.", "native": false}
+
+--- LLM Response for ID: SRX10989779 ---
+{"id": "SRX10989779", "metadata": "genotype=C57BJ/L6 WT mice", "native": true}
+
+--- LLM Response for ID: SRX11187698 ---
+{"id": "SRX11187698", "metadata": "genotype/variation=Pgrcre/-PgrALsL/+ and surgery=Ovariectomy for 2 weeks, treatment=1h progesterone treatment", "native": false}
+
+--- LLM Response for ID: SRX11366190 ---
+{"id": "SRX11366190", "metadata": "genotype=WT, treatment=T09", "native": false}
+
+--- LLM Response for ID: SRX1176003 ---
+{"id": "SRX1176003", "metadata": "cell_type_class=Blood, Cell_type=CD8+ T cells, strain=C57BL/6", "native": true}
+
+--- LLM Response for ID: SRX13065852 ---
+{"id": "SRX13065852", "metadata": "genotype=Krt14-Cre+, deletion=specific deletion", "native": false}
+
+--- LLM Response for ID: SRX14059359 ---
+{"id": "SRX14059359", "metadata": "treated with LPS, cell_line=RAW 264.7", "native": false}
+
+--- LLM Response for ID: SRX142514 ---
+{"id": "SRX142514", "metadata": "cell line derived from thigh muscle of C3H mice after crush injury", "native": false}
+
+--- LLM Response for ID: SRX145053 ---
+{"id": "SRX145053", "metadata": "cell description=Leukemia (K562 analog), age description=Immortal cells", "native": false}
+
+--- LLM Response for ID: SRX14563995 ---
+{"id": "SRX14563995", "metadata": "cell type=Macrophages, source_name=An_IFNg_CREB1 BMDM", "native": false}
+
+--- LLM Response for ID: SRX14617697 ---
+{"id": "SRX14617697", "metadata": "cell_line=Ch12, cell type=Ch12 WT cell line", "native": false}
+
+--- LLM Response for ID: SRX14818057 ---
+{"id": "SRX14818057", "metadata": "genotype=IFNb/IRF9 DKO, treatment=stimulated under Th1 culture conditions", "native": false}
+
+--- LLM Response for ID: SRX149201 ---
+{"id": "SRX149201", "metadata": "cell line=B3, pre-B cell line", "native": false}
+
+--- LLM Response for ID: SRX1495349 ---
+{"id": "SRX1495349", "metadata": "tissue=heart 4 days post-injury (MI)", "native": false}
+
+--- LLM Response for ID: SRX15840026 ---
+{"id": "SRX15840026", "metadata": "genotype=wild type C57BL6", "native": true}
+
+--- LLM Response for ID: SRX15840131 ---
+{"id": "SRX15840131", "metadata": "genotype=wild-type", "native": true}
+
+--- LLM Response for ID: SRX17469441 ---
+{"id": "SRX17469441", "metadata": "cell type=cultured cortical neurons, treatment=NSD1 sh1", "native": false}
+
+--- LLM Response for ID: SRX17605394 ---
+{"id": "SRX17605394", "metadata": "genotype=Wild-type, Cell_type_class=Blood, Cell_type=Monocytes", "native": true}
+
+--- LLM Response for ID: SRX188806 ---
+{"id": "SRX188806", "metadata": "cell description=B-cell lymphoma (GM12878 analog), cell age=immortalized, cell_line=C20 is not explicitly mentioned but cell description indicates it's an immortalized cell line", "native": false}
+
+--- LLM Response for ID: SRX20201036 ---
+{"id": "SRX20201036", "metadata": "genotype=WT; age=16 to 20 weeks", "native": false}
+
+--- LLM Response for ID: SRX204705 ---
+{"id": "SRX204705", "metadata": "tissue=Total hepatectomized liver, Cell_type_class=Liver, Cell_type=Liver", "native": false}
+
+--- LLM Response for ID: SRX20826938 ---
+{"id": "SRX20826938", "metadata": "genotype=BL/6Jax", "native": true}
+
+--- LLM Response for ID: SRX20969410 ---
+{"id": "SRX20969410", "metadata": "donor genotype=CD45.2(+) Brd9fl/fl, recipient genotype=CD45.1(+) CD45.2(-)", "native": false}
+
+--- LLM Response for ID: SRX2162110 ---
+{"id": "SRX2162110", "metadata": "genotype/variation=WT, Cell_type_class=Cardiovascular", "native": true}
+
+--- LLM Response for ID: SRX21711865 ---
+{"id": "SRX21711865", "metadata": "cell type=BMDM, treatment=WT", "native": false}
+
+--- LLM Response for ID: SRX22512363 ---
+{"id": "SRX22512363", "metadata": "embryonic, genotype=Setdb1-KO", "native": false}
+
+--- LLM Response for ID: SRX2424023 ---
+{"id": "SRX2424023", "metadata": "donor ID=ENCDO956IXV, age=0 day", "native": false}
+
+--- LLM Response for ID: SRX2500398 ---
+{"id": "SRX2500398", "metadata": "developmental stage=P7, cell_type_class=Neural", "native": false}
+
+--- LLM Response for ID: SRX2647474 ---
+{"id": "SRX2647474", "metadata": "genotype=Tbx21-/-, knockout, KO", "native": false}
+
+--- LLM Response for ID: SRX2647492 ---
+{"id": "SRX2647492", "metadata": "genotype=WT, culture condition=ChIP-seq in vitro culture protocol", "native": true}
+
+--- LLM Response for ID: SRX2741794 ---
+{"id": "SRX2741794", "metadata": "tissue=Phenylhydrazine treated spleen, Cell_type_class=Blood", "native": false}
+
+--- LLM Response for ID: SRX319873 ---
+{"id": "SRX319873", "metadata": "cell_line=None, treatment=Kdo2 Lipid A (KLA) 6h", "native": false}
+
+--- LLM Response for ID: SRX319874 ---
+{"id": "SRX319874", "metadata": "strain=C57BL/6, treatment=Kdo2 Lipid A (KLA) 12h", "native": false}
+
+--- LLM Response for ID: SRX3331742 ---
+{"id": "SRX3331742", "metadata": "stress=yes, cell line indication is lacking but sample is from wild-type animal which makes it native.", "native": true}
+
+--- LLM Response for ID: SRX341761 ---
+{"id": "SRX341761", "metadata": "genotype=MLL3-/-, age=E18.5 embryos, cell type=MyoD-induced immortalized brown preadipocytes", "native": false}
+
+--- LLM Response for ID: SRX3582922 ---
+{"id": "SRX3582922", "metadata": "treatment=12 wk High Fat Diet", "native": false}
+
+--- LLM Response for ID: SRX3601924 ---
+{"id": "SRX3601924", "metadata": "cell type=Primary BMDM; strain=C57BI/6 (Harlan Laboratories) indicates wild-type and age 8-10 weeks is normal physiological condition", "native": true}
+
+--- LLM Response for ID: SRX3858835 ---
+{"id": "SRX3858835", "metadata": "age=Postnatal day 0, genotype=Control", "native": false}
+
+--- LLM Response for ID: SRX392764 ---
+{"id": "SRX392764", "metadata": "cell type=haftl derived C10 cells, source_name=Haftl pre-B cells", "native": false}
+
+--- LLM Response for ID: SRX4178770 ---
+{"id": "SRX4178770", "metadata": "genotype=wild-type and cell_line=BMDM which indicates an immortalized or modified cell line", "native": false}
+
+--- LLM Response for ID: SRX4325335 ---
+{"id": "SRX4325335", "metadata": "Cell type is Liver and it's a specific cell line with no modification indicators", "native": true}
+
+--- LLM Response for ID: SRX4348502 ---
+{"id": "SRX4348502", "metadata": "genotype=IRF9WT, condition=IFNaIL2", "native": false}
+
+--- LLM Response for ID: SRX4895097 ---
+{"id": "SRX4895097", "metadata": "cell_line=CH12, lymphoma cell line", "native": false}
+
+--- LLM Response for ID: SRX5689484 ---
+{"id": "SRX5689484", "metadata": "isolated from Foxp3Thy1.1/Rosa-Cas9 mice, genotype/variation=Foxp3Thy1.1/Rosa-Cas9", "native": false}
+
+--- LLM Response for ID: SRX6095535 ---
+{"id": "SRX6095535", "metadata": "genotype=M1-IKO", "native": false}
+
+--- LLM Response for ID: SRX6417441 ---
+{"id": "SRX6417441", "metadata": "genotype=WT, strain=C57B6/CR, treatment=NR", "native": false}
+
+--- LLM Response for ID: SRX661408 ---
+{"id": "SRX661408", "metadata": "strain=back-crossed to the BALB/c, genotype/variation=GRdim", "native": false}
+
+--- LLM Response for ID: SRX6924490 ---
+{"id": "SRX6924490", "metadata": "genotype/variation=tetYAP, strain background=C57BL/6", "native": false}
+
+--- LLM Response for ID: SRX7368531 ---
+{"id": "SRX7368531", "metadata": "genotype=Wild type, source_name=ChIP WT CD40/IL4 OBF1 rep1", "native": true}
+
+--- LLM Response for ID: SRX7368548 ---
+{"id": "SRX7368548", "metadata": "genotype=OBF1KO, cell type=CD19+ splenic B cells", "native": false}
+
+--- LLM Response for ID: SRX745826 ---
+{"id": "SRX745826", "metadata": "cell_type_class=Blood, develomental stage=E14.5", "native": false}
+
+--- LLM Response for ID: SRX7726481 ---
+{"id": "SRX7726481", "metadata": "cell_type_class=Blood, cell_type=Natural killer cells, surface marker=CD3e-NKp46+", "native": false}
+
+--- LLM Response for ID: SRX7902429 ---
+{"id": "SRX7902429", "metadata": "age=Postnatal day 7, genotype=wild type", "native": false}
+
+--- LLM Response for ID: SRX8241996 ---
+{"id": "SRX8241996", "metadata": "genotype=Wild type, cell isolation=Primary isolated cells", "native": true}
+
+--- LLM Response for ID: SRX8725650 ---
+{"id": "SRX8725650", "metadata": "cell_line=Hepa-1c1c7, source_name=Mouse Hepatoma Cell Line", "native": false}
+
+--- LLM Response for ID: SRX8994289 ---
+{"id": "SRX8994289", "metadata": "cells=Mouse splenic B cells-resting, genotype/variation=WT", "native": true}
+
+--- LLM Response for ID: SRX9311847 ---
+{"id": "SRX9311847", "metadata": "cell_type_class=Blood, cell_line=BMDM (bone marrow-derived macrophage)", "native": false}
+
+--- LLM Response for ID: SRX9311895 ---
+{"id": "SRX9311895", "metadata": "cell_type_class=Blood, cell_type=Macrophages, source_name=ChIP_PPARg_Egr2flfl_BMDM_24hIL4", "native": false}
+
+--- LLM Response for ID: SRX9311913 ---
+{"id": "SRX9311913", "metadata": "cell_line=BMDMs (bone marrow-derived macrophages), source_name=ChIP_CEBPb_LyzMCreEgr2flfl_BMDM_basal, cell type=BMDMs", "native": false}
+
+--- LLM Response for ID: SRX9344868 ---
+{"id": "SRX9344868", "metadata": "cell_line=RAW 264.7, macrophage cell line", "native": false}
+
+--- LLM Response for ID: SRX9432511 ---
+{"id": "SRX9432511", "metadata": "cell_line=Raw264.7, cell type=Monocyte-derived cell line", "native": false}
+
+--- LLM Response for ID: SRX978687 ---
+{"id": "SRX978687", "metadata": "cell_line=immortalized brown adipocytes (iBATs), treatment=isoproterenol", "native": false}
+

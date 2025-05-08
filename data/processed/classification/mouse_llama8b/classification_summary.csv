@@ -1,0 +1,76 @@
+ID,keyword_classification,keyword_confidence,keyword_reason,final_classification,llm_reason,classification_method
+DRX440382,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. strain=C57BL/6J, Cell_type_class=Spleen, Cell_type=Spleen",LLM
+ERX204066,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. strain=C57BL/6, ArrayExpress-Genotype=Wildtype",LLM
+SRX018602,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Nrl ko, knockout",LLM
+SRX027447,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype/variation=wild type,LLM
+SRX028842,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=Bone-marrow-derived macrophages, strain=C57BL/6",LLM
+SRX10462798,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=Tet2 +/-, cell_type_class=Others, cell type=Nasal Mucosa",LLM
+SRX105503,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. strain=CD1 outbred mice, age=2-3 months",LLM
+SRX1063034,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_type_class=Blood, Cell_type=CD4+ T cells, Metadata=source_name=Pre-activated CD4+ T cells",LLM
+SRX1063037,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=Pre-activated CD4+ T cells, treatment=IL21 STAT1, genotype=S3KO",LLM
+SRX10652556,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=Junbfl/fl, cell type=Naive CD4+ T cells",LLM
+SRX10659669,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type class and cell type match, however the source name indicates a modification (FoxA dev double null)",LLM
+SRX10828736,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=XBP1 LKO, liver Cell_type_class=Liver",LLM
+SRX10828756,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, age=3-4 months",LLM
+SRX10873024,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. developmental stage=P5, strain=C57BL/6J is a specific model organism which doesn't typically imply non-nativeness but since the developmental stage=P5 implies embryonic cells and this sample also comes from an organ (heart) from those cells.",LLM
+SRX10989779,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=C57BJ/L6 WT mice,LLM
+SRX11187698,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype/variation=Pgrcre/-PgrALsL/+ and surgery=Ovariectomy for 2 weeks, treatment=1h progesterone treatment",LLM
+SRX11366190,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=WT, treatment=T09",LLM
+SRX1176003,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell_type_class=Blood, Cell_type=CD8+ T cells, strain=C57BL/6",LLM
+SRX13065852,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=Krt14-Cre+, deletion=specific deletion",LLM
+SRX14059359,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treated with LPS, cell_line=RAW 264.7",LLM
+SRX142514,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line derived from thigh muscle of C3H mice after crush injury,LLM
+SRX145053,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell description=Leukemia (K562 analog), age description=Immortal cells",LLM
+SRX14563995,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=Macrophages, source_name=An_IFNg_CREB1 BMDM",LLM
+SRX14617697,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=Ch12, cell type=Ch12 WT cell line",LLM
+SRX14818057,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=IFNb/IRF9 DKO, treatment=stimulated under Th1 culture conditions",LLM
+SRX149201,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell line=B3, pre-B cell line",LLM
+SRX1495349,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. tissue=heart 4 days post-injury (MI),LLM
+SRX15840026,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=wild type C57BL6,LLM
+SRX15840131,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=wild-type,LLM
+SRX17469441,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=cultured cortical neurons, treatment=NSD1 sh1",LLM
+SRX17605394,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Wild-type, Cell_type_class=Blood, Cell_type=Monocytes",LLM
+SRX188806,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell description=B-cell lymphoma (GM12878 analog), cell age=immortalized, cell_line=C20 is not explicitly mentioned but cell description indicates it's an immortalized cell line",LLM
+SRX20201036,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=WT; age=16 to 20 weeks,LLM
+SRX204705,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. tissue=Total hepatectomized liver, Cell_type_class=Liver, Cell_type=Liver",LLM
+SRX20826938,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=BL/6Jax,LLM
+SRX20969410,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. donor genotype=CD45.2(+) Brd9fl/fl, recipient genotype=CD45.1(+) CD45.2(-)",LLM
+SRX2162110,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype/variation=WT, Cell_type_class=Cardiovascular",LLM
+SRX21711865,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=BMDM, treatment=WT",LLM
+SRX22512363,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. embryonic, genotype=Setdb1-KO",LLM
+SRX2424023,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. donor ID=ENCDO956IXV, age=0 day",LLM
+SRX2500398,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. developmental stage=P7, cell_type_class=Neural",LLM
+SRX2647474,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=Tbx21-/-, knockout, KO",LLM
+SRX2647492,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=WT, culture condition=ChIP-seq in vitro culture protocol",LLM
+SRX2741794,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. tissue=Phenylhydrazine treated spleen, Cell_type_class=Blood",LLM
+SRX319873,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=None, treatment=Kdo2 Lipid A (KLA) 6h",LLM
+SRX319874,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. strain=C57BL/6, treatment=Kdo2 Lipid A (KLA) 12h",LLM
+SRX3331742,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. stress=yes, cell line indication is lacking but sample is from wild-type animal which makes it native.",LLM
+SRX341761,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=MLL3-/-, age=E18.5 embryos, cell type=MyoD-induced immortalized brown preadipocytes",LLM
+SRX3582922,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=12 wk High Fat Diet,LLM
+SRX3601924,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. cell type=Primary BMDM; strain=C57BI/6 (Harlan Laboratories) indicates wild-type and age 8-10 weeks is normal physiological condition,LLM
+SRX3858835,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. age=Postnatal day 0, genotype=Control",LLM
+SRX392764,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=haftl derived C10 cells, source_name=Haftl pre-B cells",LLM
+SRX4178770,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=wild-type and cell_line=BMDM which indicates an immortalized or modified cell line,LLM
+SRX4325335,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Cell type is Liver and it's a specific cell line with no modification indicators,LLM
+SRX4348502,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=IRF9WT, condition=IFNaIL2",LLM
+SRX4895097,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=CH12, lymphoma cell line",LLM
+SRX5689484,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. isolated from Foxp3Thy1.1/Rosa-Cas9 mice, genotype/variation=Foxp3Thy1.1/Rosa-Cas9",LLM
+SRX6095535,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=M1-IKO,LLM
+SRX6417441,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=WT, strain=C57B6/CR, treatment=NR",LLM
+SRX661408,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. strain=back-crossed to the BALB/c, genotype/variation=GRdim",LLM
+SRX6924490,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype/variation=tetYAP, strain background=C57BL/6",LLM
+SRX7368531,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Wild type, source_name=ChIP WT CD40/IL4 OBF1 rep1",LLM
+SRX7368548,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype=OBF1KO, cell type=CD19+ splenic B cells",LLM
+SRX745826,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_type_class=Blood, develomental stage=E14.5",LLM
+SRX7726481,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_type_class=Blood, cell_type=Natural killer cells, surface marker=CD3e-NKp46+",LLM
+SRX7902429,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. age=Postnatal day 7, genotype=wild type",LLM
+SRX8241996,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=Wild type, cell isolation=Primary isolated cells",LLM
+SRX8725650,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=Hepa-1c1c7, source_name=Mouse Hepatoma Cell Line",LLM
+SRX8994289,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cells=Mouse splenic B cells-resting, genotype/variation=WT",LLM
+SRX9311847,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_type_class=Blood, cell_line=BMDM (bone marrow-derived macrophage)",LLM
+SRX9311895,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_type_class=Blood, cell_type=Macrophages, source_name=ChIP_PPARg_Egr2flfl_BMDM_24hIL4",LLM
+SRX9311913,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=BMDMs (bone marrow-derived macrophages), source_name=ChIP_CEBPb_LyzMCreEgr2flfl_BMDM_basal, cell type=BMDMs",LLM
+SRX9344868,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=RAW 264.7, macrophage cell line",LLM
+SRX9432511,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=Raw264.7, cell type=Monocyte-derived cell line",LLM
+SRX978687,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=immortalized brown adipocytes (iBATs), treatment=isoproterenol",LLM

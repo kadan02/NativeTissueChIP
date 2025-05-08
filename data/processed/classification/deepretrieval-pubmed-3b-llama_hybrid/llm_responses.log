@@ -1,0 +1,240 @@
+--- LLM Response for ID: DRX440344 ---
+{"id": "DRX440344", "metadata": "Cell type is CD4+ T cells and the sample is a ChIPseq experiment for EZH2, which is a histone methyltransferase. This indicates that the sample is not native but rather a modified or experimental sample.", "native": false}
+
+--- LLM Response for ID: DRX440349 ---
+{"id": "DRX440349", "metadata": "Cell_line=TL-Om1 or CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX017709 ---
+{"id": "SRX017709", "metadata": "Cell type=Activated CD4+ T cell, source_name=CD4+ T cell", "native": true}
+
+--- LLM Response for ID: SRX037935 ---
+{"id": "SRX037935", "metadata": "CD34 WT", "native": true}
+
+--- LLM Response for ID: SRX10977238 ---
+{"id": "SRX10977238", "metadata": "foreskin keratinocyte, newborn sample, primary cell trial", "native": true}
+
+--- LLM Response for ID: SRX11513464 ---
+{"id": "SRX11513464", "metadata": "Cell type differentiation trial and specific cell line information", "native": false}
+
+--- LLM Response for ID: SRX11513465 ---
+{"id": "SRX11513465", "metadata": "Cell_type_class=Dendritic Cells, Tolerogenic dendritic cells differentiated from monocytes", "native": false}
+
+--- LLM Response for ID: SRX12118509 ---
+{"id": "SRX12118509", "metadata": "Cell type=Naive B cells, source_name=naïve B-cells", "native": true}
+
+--- LLM Response for ID: SRX12129506 ---
+{"id": "SRX12129506", "metadata": "Cell type=T cells, Treatment trial, and source name indicate this sample is not native.", "native": false}
+
+--- LLM Response for ID: SRX13006802 ---
+{"id": "SRX13006802", "metadata": "donor ID=ENCDO907CMO, adult sample with specific cell type and tissue information", "native": true}
+
+--- LLM Response for ID: SRX14280059 ---
+{"id": "SRX14280059", "metadata": "Liver Disease (NAFLD) or Liver Tissue sample with specific disease condition", "native": false}
+
+--- LLM Response for ID: SRX14280087 ---
+{"id": "SRX14280087", "metadata": "Liver sample, Normal control", "native": true}
+
+--- LLM Response for ID: SRX15717771 ---
+{"id": "SRX15717771", "metadata": "Primary human islets, untreated", "native": true}
+
+--- LLM Response for ID: SRX16495661 ---
+{"id": "SRX16495661", "metadata": "primary cell, CD8+ T cells", "native": true}
+
+--- LLM Response for ID: SRX16495697 ---
+{"id": "SRX16495697", "metadata": "donor ID=ENCDO470GFA, age=90 or above, neural tissue sample", "native": false}
+
+--- LLM Response for ID: SRX170349 ---
+{"id": "SRX170349", "metadata": "Cell type classification and wild-type genotype indicate a native sample.", "native": true}
+
+--- LLM Response for ID: SRX1738529 ---
+{"id": "SRX1738529", "metadata": "cell_line=Hematopoietic Stem Cells (HSPC) or Human Stem and Progenitor Cell", "native": true}
+
+--- LLM Response for ID: SRX18672589 ---
+{"id": "SRX18672589", "metadata": "Cell_line=C20, Untreated sample, Microglia", "native": true}
+
+--- LLM Response for ID: SRX18672592 ---
+{"id": "SRX18672592", "metadata": "cell_line=C20, treatment=CTCF-KD, source_name=Microglia", "native": false}
+
+--- LLM Response for ID: SRX18768994 ---
+{"id": "SRX18768994", "metadata": "Cell type=Adipose stem cells, Human primary adipose stem cells", "native": true}
+
+--- LLM Response for ID: SRX18768997 ---
+{"id": "SRX18768997", "metadata": "cell_line=Adipose stem cells, Human primary adipose stem cells", "native": true}
+
+--- LLM Response for ID: SRX19123217 ---
+{"id": "SRX19123217", "metadata": "Cell type class=Blood, Cell type=B cells, source_name=Human B lymphocytes, disease state=healthy control", "native": true}
+
+--- LLM Response for ID: SRX212351 ---
+{"id": "SRX212351", "metadata": "Cell type and source are native, but the specific condition (donor=1) might be considered non-native due to the mention of a single donor. However, without further information on this donor, it's difficult to conclude. The treatment and stress conditions do not indicate a modification or alteration from normal physiological conditions.", "native": true}
+
+--- LLM Response for ID: SRX212353 ---
+{"id": "SRX212353", "metadata": "Cell type is macrophages and the sample was under hypoxic conditions, but there's no indication of treatment or modification that would classify it as non-native.", "native": true}
+
+--- LLM Response for ID: SRX2253219 ---
+{"id": "SRX2253219", "metadata": "Cell_line=Cll cells, CLL diagnosis, B cells trial", "native": false}
+
+--- LLM Response for ID: SRX23045260 ---
+{"id": "SRX23045260", "metadata": "Cell type=Human dermal fibroblasts, Treatment=Vehicle", "native": true}
+
+--- LLM Response for ID: SRX23045263 ---
+{"id": "SRX23045263", "metadata": "Cell type=Human dermal fibroblasts, Treatment Trial (TGFb trial)", "native": true}
+
+--- LLM Response for ID: SRX23335286 ---
+{"id": "SRX23335286", "metadata": "foreskin fibroblasts, immortalized cell line or primary cell culture", "native": false}
+
+--- LLM Response for ID: SRX23335288 ---
+{"id": "SRX23335288", "metadata": "cell_line=dermal fibroblasts, passage number=2, source name=dermal fibroblasts", "native": false}
+
+--- LLM Response for ID: SRX23335289 ---
+{"id": "SRX23335289", "metadata": "cell_line=dermal fibroblasts, passage number=2, source name=dermal fibroblasts", "native": false}
+
+--- LLM Response for ID: SRX23335290 ---
+{"id": "SRX23335290", "metadata": "cell_line=dermal fibroblasts, passage number=2, source name=dermal fibroblasts", "native": false}
+
+--- LLM Response for ID: SRX23335291 ---
+{"id": "SRX23335291", "metadata": "Cell type=CD4+ T cells, source_name=CD4 T-cells", "native": true}
+
+--- LLM Response for ID: SRX23548768 ---
+{"id": "SRX23548768", "metadata": "cell type=vascular smooth muscle cells, control genotype", "native": true}
+
+--- LLM Response for ID: SRX25152580 ---
+{"id": "SRX25152580", "metadata": "MED12 knockout or specific cell line, but also has information on CD4+ T cells and blood sample", "native": false}
+
+--- LLM Response for ID: SRX25331425 ---
+{"id": "SRX25331425", "metadata": "cell_line=ICR_CXJ_046 or Brain sample", "native": false}
+
+--- LLM Response for ID: SRX25501815 ---
+{"id": "SRX25501815", "metadata": "cell_line=HDF-2, treatment trial, skin sample", "native": false}
+
+--- LLM Response for ID: SRX2635902 ---
+{"id": "SRX2635902", "metadata": "Liver tissue from a healthy adult liver with coronary artery disease, indicating it's not a native sample.", "native": false}
+
+--- LLM Response for ID: SRX2770856 ---
+{"id": "SRX2770856", "metadata": "Primary human monocyte-derived macrophages and no modification or treatment indicated", "native": true}
+
+--- LLM Response for ID: SRX3195440 ---
+{"id": "SRX3195440", "metadata": "ChIP-seq experiment for FLAG MLL-AF9 protein", "native": true}
+
+--- LLM Response for ID: SRX3322085 ---
+{"id": "SRX3322085", "metadata": "Gastroesophageal sphincter tissue sample from adult donor", "native": true}
+
+--- LLM Response for ID: SRX3584196 ---
+{"id": "SRX3584196", "metadata": "cell type=Primary human epididysis cells, source name=Epididymis", "native": true}
+
+--- LLM Response for ID: SRX3679898 ---
+{"id": "SRX3679898", "metadata": "Cell_line/Keratinocytes trial or shRNA experiment", "native": false}
+
+--- LLM Response for ID: SRX3679900 ---
+{"id": "SRX3679900", "metadata": "Cell_line/Keratinocytes or Epidermis sample", "native": false}
+
+--- LLM Response for ID: SRX3679902 ---
+{"id": "SRX3679902", "metadata": "Cell_line/Keratinocytes trial or shRNA experiment", "native": false}
+
+--- LLM Response for ID: SRX3734300 ---
+{"id": "SRX3734300", "metadata": "DMSO treatment and foreskin sample indicate it's a native sample.", "native": true}
+
+--- LLM Response for ID: SRX393518 ---
+{"id": "SRX393518", "metadata": "Cell type is Primary Endothelial Cells and was treated with TSA (Trichloroacetic acid), which is a common treatment for cell culture trials.", "native": false}
+
+--- LLM Response for ID: SRX4370433 ---
+{"id": "SRX4370433", "metadata": "Cell type and brain sample", "native": true}
+
+--- LLM Response for ID: SRX4723358 ---
+{"id": "SRX4723358", "metadata": "Cell type is neurons and has a wild-type (WT) condition, indicating it's native.", "native": true}
+
+--- LLM Response for ID: SRX5360084 ---
+{"id": "SRX5360084", "metadata": "Cell type class and source name indicate a native sample, but the mention of 'Dermal Fibroblasts' as a cell type suggests that it's a specific type of skin cell. However, the lack of any indication of transformation or modification makes it likely to be a native sample.", "native": true}
+
+--- LLM Response for ID: SRX5360094 ---
+{"id": "SRX5360094", "metadata": "Cell_line=Dermal fibroblasts, transformed or immortalized cell line", "native": false}
+
+--- LLM Response for ID: SRX5371741 ---
+{"id": "SRX5371741", "metadata": "Cell type is CD4+ T cells from primary blood, which is a native sample.", "native": true}
+
+--- LLM Response for ID: SRX5391034 ---
+{"id": "SRX5391034", "metadata": "Primary skeletal myotube, control genotype, and passages indicate a native sample.", "native": true}
+
+--- LLM Response for ID: SRX5574342 ---
+{"id": "SRX5574342", "metadata": "Cell_line=Primary Monocytes, ChIP experiment, Peripheral Blood sample", "native": true}
+
+--- LLM Response for ID: SRX5624369 ---
+{"id": "SRX5624369", "metadata": "Cell_line=Monocytes, Treatment Trial, Peripheral Blood sample", "native": false}
+
+--- LLM Response for ID: SRX5716451 ---
+{"id": "SRX5716451", "metadata": "hNPCs (human Neural Progenitor Cells) and wild-type genotype", "native": true}
+
+--- LLM Response for ID: SRX5774914 ---
+{"id": "SRX5774914", "metadata": "cell_line=iOPCs(H) or Fibroblasts from foreskin", "native": false}
+
+--- LLM Response for ID: SRX5839976 ---
+{"id": "SRX5839976", "metadata": "cell_line=Monocytes, Primary human monocyte-derived macrophages", "native": true}
+
+--- LLM Response for ID: SRX6068070 ---
+{"id": "SRX6068070", "metadata": "Cell type and source are specific to the uterus and endometrium, but the metadata also mentions a ChIP-seq experiment which is often used for analyzing chromatin modifications. This could indicate that the sample has been modified or treated in some way.", "native": false}
+
+--- LLM Response for ID: SRX6068072 ---
+{"id": "SRX6068072", "metadata": "Cell type and source are specific to the uterus and endometrium, but the metadata also mentions a ChIP-seq experiment which is a common technique for analyzing chromatin modifications. This suggests that the sample has been modified or treated in some way.", "native": false}
+
+--- LLM Response for ID: SRX6578928 ---
+{"id": "SRX6578928", "metadata": "Cell type=T cells, Peripheral blood sample, Healthy T cells", "native": true}
+
+--- LLM Response for ID: SRX6763478 ---
+{"id": "SRX6763478", "metadata": " PRIMARY-MONOCYTE, Monocytes", "native": true}
+
+--- LLM Response for ID: SRX6784062 ---
+{"id": "SRX6784062", "metadata": "donor ID and adult stage indicate a native sample, but the specific cell type and tissue could be considered non-native due to the complexity of lung tissue.", "native": true}
+
+--- LLM Response for ID: SRX6969885 ---
+{"id": "SRX6969885", "metadata": "cell_line=CHD6, cardiomyocytes, heterozygous mutant", "native": false}
+
+--- LLM Response for ID: SRX7015671 ---
+{"id": "SRX7015671", "metadata": "cell_line=CRL7250", "native": false}
+
+--- LLM Response for ID: SRX735289 ---
+{"id": "SRX735289", "metadata": "cell_line=Th1 cells, In vitro differentiation trial, Treatment with PMA and ionomycin", "native": false}
+
+--- LLM Response for ID: SRX7509593 ---
+{"id": "SRX7509593", "metadata": "donor ID and testis sample with adult stage and specific metadata", "native": true}
+
+--- LLM Response for ID: SRX7730450 ---
+{"id": "SRX7730450", "metadata": "Corrected RB1 mutation, osteoblasts, bone sample", "native": false}
+
+--- LLM Response for ID: SRX8090642 ---
+{"id": "SRX8090642", "metadata": "Rheumatoid Arthritis trial or Fibroblast-like Synoviocytes trial", "native": false}
+
+--- LLM Response for ID: SRX8090646 ---
+{"id": "SRX8090646", "metadata": "Rheumatoid Arthritis trial or Fibroblast-like Synoviocytes trial", "native": false}
+
+--- LLM Response for ID: SRX8841625 ---
+{"id": "SRX8841625", "metadata": "acheiopodia patient, lymphoblast cells, RAD21-ChIP-seq experiment", "native": false}
+
+--- LLM Response for ID: SRX885891 ---
+{"id": "SRX885891", "metadata": "cell_line=Macrophage-control, Control treatment, Wild-type specimen", "native": true}
+
+--- LLM Response for ID: SRX885895 ---
+{"id": "SRX885895", "metadata": "oxLDL trial, Macrophage trial", "native": false}
+
+--- LLM Response for ID: SRX9029210 ---
+{"id": "SRX9029210", "metadata": "Cell type=Neutrophils, No treatment trial", "native": true}
+
+--- LLM Response for ID: SRX9029211 ---
+{"id": "SRX9029211", "metadata": "R848 treatment trial or Neutrophils trial", "native": false}
+
+--- LLM Response for ID: SRX9221932 ---
+{"id": "SRX9221932", "metadata": "Treatment trial with 17 β-estradiol on primary hepatocytes", "native": false}
+
+--- LLM Response for ID: SRX9221933 ---
+{"id": "SRX9221933", "metadata": "DMSO treatment trial or Primary Hepatocytes sample", "native": true}
+
+--- LLM Response for ID: SRX9345717 ---
+{"id": "SRX9345717", "metadata": "Differentiated iPSC or embryonic cells trial", "native": false}
+
+--- LLM Response for ID: SRX9850737 ---
+{"id": "SRX9850737", "metadata": "cell_line=Calu-3, Human bronchial epithelial cells", "native": true}
+
+--- LLM Response for ID: SRX9867030 ---
+{"id": "SRX9867030", "metadata": "Cell type=CD8+ T cells, source_name=1818759_CD8_CTCF_REP1", "native": true}
+
+--- LLM Response for ID: SRX9969717 ---
+{"id": "SRX9969717", "metadata": "cell_line=16HBE14o-", "native": true}
+

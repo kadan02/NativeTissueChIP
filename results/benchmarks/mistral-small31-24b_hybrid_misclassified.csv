@@ -1,0 +1,5 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. ChIPseq EZH2 of hCD4
+SRX11513464,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)",Non-Native. source_name=Dendritic cells differentiated from monocytes
+SRX1738529,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. source_name=Human Stem and Progenitor Cell
+SRX6068072,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. phase=proliferative

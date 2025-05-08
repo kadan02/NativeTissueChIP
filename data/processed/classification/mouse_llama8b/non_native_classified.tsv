@@ -1,0 +1,58 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+SRX018602	Crx	Neural	Retina	source_name=Retina, Nrl ko, Crx ChIP | strain=C57BL/6 | genotype=Nrl-/- | age=8 weeks | tissue=retina
+SRX028842	Brd2	Blood	Macrophages	source_name=Macrophages | strain=C57BL/6 | cell type=Bone-marrow-derived macrophages | treatment=Brd2_0H_minus | time=0H
+SRX10462798	5-hmC	Others	Nasal Mucosa	source_name=Ctl Tet2+/- 5hmC_nasal musosa | strain background=C57BL/6 | age=10-12 week | genotype=Tet2+/- | treatment=No | tissue=nasal mucosa | molecule subtype=5hmC captured DNA
+SRX105503	Foxa1	Liver	Liver	source_name=liver | tissue=liver | strain=CD1 outbred mice | age=2-3 months
+SRX1063034	Stat1	Blood	CD4+ T cells	source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=WT | treatment=Cont STAT1 | cell type=Pre-activated CD4+ T cells
+SRX1063037	Stat1	Blood	CD4+ T cells	source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=S3KO | treatment=IL21 STAT1 | cell type=Pre-activated CD4+ T cells
+SRX10652556	Irf4	Blood	CD4+ T cells	source_name=Splenocytes | strain=C57BL/6 | genotype=Junbfl/fl | polarizing condition=Th1 | cell type=Naive CD4+ T cells | antibody target=IRF4
+SRX10659669	Hnf4a	Liver	Liver	source_name=ChIP HNF4a on FoxA Dev double null | age=8 weeks old | tissue=Liver
+SRX10828736	Srsf2	Liver	Liver	source_name=liver | strain=C57BL/6 | genotype=XBP1 LKO | age=3-4 months | tissue=liver | time=CT8
+SRX10873024	Erg	Cardiovascular	Heart	source_name=P5 heart | developmental stage=P5 | tissue=heart | strain=C57BL/6 | tissue preparation=Fixed by Formaldehyde
+SRX11187698	Pgr	Uterus	Uterus	source_name=Uterus | genotype/variation=Pgrcre/-PgrALsL/+ | surgery=Ovariectomy for 2 weeks | treatment=1h progesterone treatment | tissue=Uterus
+SRX11366190	Ppara	Liver	Liver	source_name=Liver | strain=C57BL/6 | genotype=WT | tissue=Liver | age=3 months | treatment=T09
+SRX13065852	Trp63	Epidermis	Keratinocytes	source_name=Primary keratinocytes | cell type=Keratinocytes isolated from mouse skin | strain=C57BL/6 | genotype=Krt14-Cre+;Ppp1r13l-/- | deletion=specific deletion of Ppp1r13l exon8 in CK14-positive basal epithelial cells only
+SRX14059359	Hnrnpul1	Blood	RAW 264.7	source_name=RAW 264.7 cells | cell type=murine macrophage cells | treatment=treated with 100 ng/ml LPS for 4 h
+SRX142514	Myog	Muscle	C2C12	source_name=C2C12 | lab description=Wold - Califonia Institute of Technology | datatype=ChipSeq | datatype description=Chromatin IP Sequencing | cell=C2C12 | cell organism=mouse | cell description=Myoblast cell line derived from thigh muscle of C3H mice after crush injury | cell sex=F | antibody description=mouse monoclonal antibody; epitope mapping within amino acids 138-158 of myogenin of rat origin. Antibody Target: Myogenin | control=Control_32bp | control description=This data represents a control being compared to experiments using read length of 32 bp | treatment=EqS_2.0pct_60hr | treatment description=60 h with 2.0% Equine Serum and Insulin (Wold) | age=immortalized | age description=Immortal cells | control=Control_32bp | control description=This data represents a control being compared to experiments using read length of 32 bp | controlid=10194 | labexpid=10158 | strain=C3H | strain description=Strain C3H, Very related to C57BL/6
+SRX145053	Ctcf	Blood	MEL	source_name=MEL | lab description=Hardison - Penn State University | datatype=ChipSeq | datatype description=Chromatin IP Sequencing | cell=MEL | cell organism=mouse | cell description=Leukemia (K562 analog) | cell sex=M | age=immortalized | age description=Immortal cells | control=Input | control description=Control signal which may be subtracted from experimental raw signal before peaks are called. | controlid=wgEncodeEM001929 | strain=C57BL/6 | strain description=C57 black 6, the most common inbred strain of laboratory mouse
+SRX14563995	Creb1	Blood	Macrophages	source_name=An_IFNg_CREB1, BMDM | strain=C57BL/6 | age=8-12 weeks | treatment=Anisomycin + IFNg | cell type=Bone marrow derived macrophage (BMDM)
+SRX14617697	Nfyb	Blood	CH12	source_name=Ch12 cell line | cell type=Ch12 WT cell line | treatment=None | target=Nfyb | experimental type=ChIP-Seq
+SRX14818057	Irf9	Blood	Naive T cells	source_name=Spleen | strain=C57BL/6 | tissue=Spleen | cell type=Naive CD4 T Cells | genotype=IFNb/IRF9 DKO | treatment=stimulated under Th1 culture conditions (10 ng/ml IL-12) for 5 days in vitro. IFNb (100U/ml) were treated for last 3 days.
+SRX149201	Ikzf1	Blood	B3	source_name=ChIP-Seq data from Wildtype B3 Cells using Rabbit anti-C-terminal Ikaros antibody | cell line=pre-B cell line B3 | cell line reference=Brown et al. 1997
+SRX1495349	Smarca4	Cardiovascular	Heart	source_name=Heart | strain=C57BL/6 | tissue=heart 4 days post-injury (MI) | age=Adult (10-12 weeks postnatally)
+SRX17469441	Dnmt3a	Neural	Cortical neuron	source_name=cultured cortical neurons | strain=C57BL/6J | cell type=cultured cortical neurons | treatment=NSD1 sh1
+SRX188806	Rcor2	Blood	CH12	source_name=CH12 | lab description=Snyder - Stanford University | datatype=ChipSeq | datatype description=Chromatin IP Sequencing | cell=CH12 | cell organism=mouse | cell description=B-cell lymphoma (GM12878 analog) | cell sex=F | treatment=None | treatment description=No special treatment or protocol applies | control=IgG-rab | control description=Input signal from Normal Rabbit IgG ChIP-seq. | age=immortalized | age description=Immortal cells | control=IgG-rab | control description=Input signal from Normal Rabbit IgG ChIP-seq. | controlid=wgEncodeEM001939 | strain=B10.H-2aH-4bp/Wts | strain description=Derived by inbreeding from selected F2 progeny of B10.A X B10.129
+SRX20201036	Hnf4a	Liver	Liver	source_name=Liver | genotype=WT | age=16 to 20 weeks | diet=fed ad libitum (LabDiet, #5001) | strain=mixed 129/Sv plus C57BL/6 background | cell type=Liver
+SRX204705	Cebpa	Liver	Liver	source_name=C/EBPalpha 48h | time point=48h | strain=C57BL6/J | age=7 weeks old | gender=male | tissue=Total hepatectomized liver
+SRX20969410	Ctcf	Blood	Bone Marrow Cells	source_name=Lineage- bone marrow cells in femora and tibiae | strain=C57BL/6 | donor genotype=CD45.2(+) Brd9fl/fl | recipient genotype=CD45.1(+) CD45.2(-) | timing of preparation=5 months after pIpC injection
+SRX21711865	Smarca4	Blood	Macrophages	source_name=BMDM | cell type=BMDM | treatment=WT | stimulation=0hr LipidA
+SRX22512363	Ctcf	Neural	Neural progenitor cells	source_name=Neural progenitor cells | cell type=Neural progenitor cells from ganglionic eminence | strain=C57BL/6 | genotype=Setdb1-KO | age=Embryonic day 15.5 | fetus id=2322-1KO
+SRX2424023	Ctcf	Cardiovascular	Heart	dev stage=postnatal | donor ID=ENCDO956IXV | tissue=heart | age=0 day | sample type=tissue
+SRX2500398	Chd7	Neural	Cerebellar granule neurons	source_name=Cerebellar granule neuron progenitor | strain=C57BL/6 | developmental stage=P7 | tissue=granule neuron progenitor
+SRX2647474	Stat1	Blood	CD4+ T cells	source_name=CD4+ T cells | strain=C57BL/6 | genotype=Tbx21-/- | culture condition=ChIP-seq in vitro culture protocol (IFN-γ)
+SRX2741794	Ezh2	Blood	Erythroid Cells	source_name=Ter119+ Erythroid cells | strain=C57BL6 | tissue=Phenylhydrazine treated spleen
+SRX319873	Spi1	Blood	Macrophages	source_name=Primary thioglycollate-elicited peritoneal macrophages | cell type=Macrophage | strain=C57BL/6 | treatment=Kdo2 Lipid A (KLA) 6h
+SRX319874	Spi1	Blood	Macrophages	source_name=Primary thioglycollate-elicited peritoneal macrophages | cell type=Macrophage | strain=C57BL/6 | treatment=Kdo2 Lipid A (KLA) 12h
+SRX341761	Myod1	Adipocyte	Brown preadipocytes	source_name=MyoD-induced mouse brown preadipocytes, WT, MyoD ChIP | strain/background=C57BL/6J | genotype=MLL3-/- | age=E18.5 embryos | cell type=MyoD-induced immortalized brown preadipocytes
+SRX3582922	Nr3c1	Liver	Liver	source_name=GR_ZT12 HFD_liver | strain=C57BL/6J | treatment=12 wk High Fat Diet (Research Diet, D12331) | tissue=Liver
+SRX3858835	Rnf2	Epidermis	Epidermal progenitor cells	source_name=Epidermal progenitor cells | cell type=Epidermal progenitor cells | tissue=Epidermis | age=Postnatal day 0 | genotype=Control
+SRX392764	Ep300	Blood	HAFTL	source_name=Haftl pre-B cells | cell type=haftl derived C10 cells | time after induction=3 hours
+SRX4178770	Irf9	Blood	Macrophages	source_name=WT IRF9 90 min IFNg, BMDM | strain=C57BL/6 | age=8-10 weeks | treatment=IFNg | genotype=wildtype | cell type=bone marrow derived macrophages
+SRX4348502	Irf9	Blood	Natural killer cells	source_name=splenic NK cells | genotype=IRF9WT | condition=IFNaIL2
+SRX4895097	Rad21	Blood	CH12	source_name=CH12 B cell line | cell line=CH12 | cell type=lymphoma cell line | genotype/variation=Med14Nsmash | treatment=APR60h
+SRX5689484	Phf10	Blood	nTreg	source_name=nTregs isolated from Foxp3Thy1.1/Rosa-Cas9 mice | genotype/variation=Foxp3Thy1.1/Rosa-Cas9 | cell type=nTregs | treatment=none | guide rna=none
+SRX6095535	Vdr	Kidney	Kidney	source_name=kidney | genotype=M1-IKO | treatment=10 ng/g bw 1,25(OH)2D3
+SRX6417441	Arntl	Liver	Liver	source_name=Liver | strain=C57B6/CR | age=22 months | genotype=WT | treatment=NR (~400 mg/kg) | treatment time point=6 months | collection time point=ZT20
+SRX661408	Nr3c1	Liver	Liver	source_name=Liver tissue | strain=back-crossed to the BALB/c | genotype/variation=GRdim | collection time=6am
+SRX6924490	Yap1	Liver	Liver	source_name=Liver_ChIPSeq_Yap_LapTTA_4W | strain background=C57BL/6 | genotype/variation=tetYAP | tissue=Liver
+SRX7368548	Pou2f1	Blood	B cells	source_name=ChIP OBF1KO LPS OCT1 rep2 | genotype=OBF1KO | cell type=CD19+ splenic B cells | sample type=Primary cells | stimulation=LPS
+SRX745826	Nr3c1	Blood	Burst-forming unit erythroids	source_name=burst-forming unit erythroid (BFU-E) | develomental stage=E14.5 | tissue=liver | cell type=burst-forming unit erythroid (BFU-E) | treatment=Dexamethasone and GW7647 4 hrs | strain=129/SvImJ
+SRX7726481	Tbx21	Blood	Natural killer cells	source_name=Tbet_NK_WT_exvivo | strain=C57BL/6 | tissue=Spleen | cell type=Natural killer cells | surface marker=CD3e-NKp46+ | culture condition=ex vivo | description for exp id=151211_0411_s07
+SRX7902429	Chd8	Neural	Granule neuron progenitors	source_name=Granule neuron progenitors | strain=C57BL/6J | tissue=Cerebellum | age=Postnatal day 7 | genotype=wild type
+SRX8725650	Ctcf	Liver	Hepa-1c1c7	source_name=Mouse Hepatoma Cell Line | cell line=Hepa-1c1c7 | treatment=1 µM chromium | pulldown target=CTCF
+SRX9311847	Cebpb	Blood	Macrophages	source_name=ChIP_CEBPb_C57_BMDM_24hIL4 | strain=C57BL/6J | treatment=IL-4 24h | cell type=BMDMs (bone marow-derived macrophages)
+SRX9311895	Pparg	Blood	Macrophages	source_name=ChIP_PPARg_Egr2flfl_BMDM_24hIL4 | strain=Egr2 fl/fl | treatment=IL-4 24h | cell type=BMDMs (bone marow-derived macrophages)
+SRX9311913	Cebpb	Blood	Macrophages	source_name=ChIP_CEBPb_LyzMCreEgr2flfl_BMDM_basal | strain=LyzM-Cre Egr2 fl/fl | cell type=BMDMs (bone marow-derived macrophages)
+SRX9344868	Med1	Blood	RAW 264.7	source_name=RAW264.7 cells | cell type=Macrophage | strain=BALB/c | agent=LPS | time point=2 hours
+SRX9432511	Myc	Blood	RAW 264.7	source_name=Bone marrow | cell line=Raw264.7 | cell type=Monocyte-derived cell line | treatment=Ibet only | time point=4 hours
+SRX978687	Smarca4	Adipocyte	Brown adipose tissue	source_name=iBAT_D8_ISO_plus_BRG1 | cell=immortalized brown adipocytes (iBATs) | treatment=isoproterenol (1 µM, 2 hr)

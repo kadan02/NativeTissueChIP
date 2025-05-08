@@ -1,0 +1,128 @@
+2025-05-03 22:08:08 [INFO    ] Script started. Output directory: ../data/processed/classification\mouse_llama
+2025-05-03 22:08:08 [INFO    ] Full log file: ../data/processed/classification\mouse_llama\classification_run.log
+2025-05-03 22:08:12 [INFO    ] Processing benchmark file: ../data/processed/metadata/mouse_labeled.tsv)
+2025-05-03 22:08:12 [INFO    ] LLM Client initialized. URL: https:http://127.0.0.1:1234/v1, Model: bio-medical-multimodal-llama-3-8b-v1-i1)
+2025-05-03 22:08:12 [INFO    ] Loading metadata from: ../data/processed/metadata/mouse_preprocessed.tsv
+2025-05-03 22:08:12 [INFO    ] Loading benchmark IDs from: ../data/processed/metadata/mouse_labeled.tsv
+2025-05-03 22:08:12 [INFO    ] Loaded 75 unique IDs from benchmark file.
+2025-05-03 22:08:12 [INFO    ] Loaded 6807 rows and 5 columns.
+2025-05-03 22:08:12 [INFO    ] Filtered main metadata to 75 rows based on benchmark IDs (from 6807 initial rows).
+2025-05-03 22:08:12 [INFO    ] Starting metadata classification process...
+2025-05-03 22:08:12 [INFO    ] Starting processing of 75 rows.  LLM-Only mode: True
+2025-05-03 22:08:12 [INFO    ] Processing row 102/75, ID: DRX440382
+2025-05-03 22:08:12 [INFO    ] Row 102 (ID: DRX440382): LLM-Only mode. Calling LLM.
+2025-05-03 22:08:12 [INFO    ] Attempting LLM classification for ID: DRX440382, Text: 'DRX440382	ID=DRX440382 | Cell_type_class=Spleen | Cell_type=Spleen | Metadata=sample_name=ChIPseq EZH2 of WT mouse | age=not applicable | breed=not applicable | cultivar=not applicable | dev_stage=not applicable | ecotype=not applicable | isolate=not applicable | strain=C57BL/6J | tissue=spleen'
+2025-05-03 22:08:20 [INFO    ] Retrying request to /chat/completions in 0.483171 seconds
+2025-05-03 22:08:29 [INFO    ] Retrying request to /chat/completions in 0.827039 seconds
+2025-05-03 22:08:38 [ERROR   ] Error during LLM API call for DRX440382: Connection error.
+2025-05-03 22:08:38 [ERROR   ] Row 102 (ID: DRX440382): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:08:38 [INFO    ] Processing row 133/75, ID: ERX204066
+2025-05-03 22:08:38 [INFO    ] Row 133 (ID: ERX204066): LLM-Only mode. Calling LLM.
+2025-05-03 22:08:38 [INFO    ] Attempting LLM classification for ID: ERX204066, Text: 'ERX204066	ID=ERX204066 | Cell_type_class=Liver | Cell_type=Hepatocytes | Metadata=ArrayExpress-DevelopmentalStage=Adult | ArrayExpress-Genotype=Wildtype | ArrayExpress-OrganismPart=Liver | sample description=ChIPseq | strain=C57BL/6'
+2025-05-03 22:08:46 [INFO    ] Retrying request to /chat/completions in 0.375143 seconds
+2025-05-03 22:08:55 [INFO    ] Retrying request to /chat/completions in 0.867758 seconds
+2025-05-03 22:09:04 [ERROR   ] Error during LLM API call for ERX204066: Connection error.
+2025-05-03 22:09:04 [ERROR   ] Row 133 (ID: ERX204066): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:09:04 [INFO    ] Processing row 170/75, ID: SRX018602
+2025-05-03 22:09:04 [INFO    ] Row 170 (ID: SRX018602): LLM-Only mode. Calling LLM.
+2025-05-03 22:09:04 [INFO    ] Attempting LLM classification for ID: SRX018602, Text: 'SRX018602	ID=SRX018602 | Cell_type_class=Neural | Cell_type=Retina | Metadata=source_name=Retina, Nrl ko, Crx ChIP | strain=C57BL/6 | genotype=Nrl-/- | age=8 weeks | tissue=retina'
+2025-05-03 22:09:12 [INFO    ] Retrying request to /chat/completions in 0.460555 seconds
+2025-05-03 22:09:20 [INFO    ] Retrying request to /chat/completions in 0.911393 seconds
+2025-05-03 22:09:29 [ERROR   ] Error during LLM API call for SRX018602: Connection error.
+2025-05-03 22:09:29 [ERROR   ] Row 170 (ID: SRX018602): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:09:29 [INFO    ] Processing row 231/75, ID: SRX027447
+2025-05-03 22:09:29 [INFO    ] Row 231 (ID: SRX027447): LLM-Only mode. Calling LLM.
+2025-05-03 22:09:29 [INFO    ] Attempting LLM classification for ID: SRX027447, Text: 'SRX027447	ID=SRX027447 | Cell_type_class=Gonad | Cell_type=Testis | Metadata=source_name=pups testis | strain=9R/13R cross | genotype/variation=wild type | antibody lot=G0909'
+2025-05-03 22:09:37 [INFO    ] Retrying request to /chat/completions in 0.475895 seconds
+2025-05-03 22:09:46 [INFO    ] Retrying request to /chat/completions in 0.890862 seconds
+2025-05-03 22:09:55 [ERROR   ] Error during LLM API call for SRX027447: Connection error.
+2025-05-03 22:09:55 [ERROR   ] Row 231 (ID: SRX027447): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:09:55 [INFO    ] Processing row 234/75, ID: SRX028842
+2025-05-03 22:09:55 [INFO    ] Row 234 (ID: SRX028842): LLM-Only mode. Calling LLM.
+2025-05-03 22:09:55 [INFO    ] Attempting LLM classification for ID: SRX028842, Text: 'SRX028842	ID=SRX028842 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Macrophages | strain=C57BL/6 | cell type=Bone-marrow-derived macrophages | treatment=Brd2_0H_minus | time=0H'
+2025-05-03 22:10:03 [INFO    ] Retrying request to /chat/completions in 0.383120 seconds
+2025-05-03 22:10:12 [INFO    ] Retrying request to /chat/completions in 0.975684 seconds
+2025-05-03 22:10:21 [ERROR   ] Error during LLM API call for SRX028842: Connection error.
+2025-05-03 22:10:21 [ERROR   ] Row 234 (ID: SRX028842): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:10:21 [INFO    ] Processing row 474/75, ID: SRX10462798
+2025-05-03 22:10:21 [INFO    ] Row 474 (ID: SRX10462798): LLM-Only mode. Calling LLM.
+2025-05-03 22:10:21 [INFO    ] Attempting LLM classification for ID: SRX10462798, Text: 'SRX10462798	ID=SRX10462798 | Cell_type_class=Others | Cell_type=Nasal Mucosa | Metadata=source_name=Ctl Tet2+/- 5hmC_nasal musosa | strain background=C57BL/6 | age=10-12 week | genotype=Tet2+/- | treatment=No | tissue=nasal mucosa | molecule subtype=5hmC captured DNA'
+2025-05-03 22:10:29 [INFO    ] Retrying request to /chat/completions in 0.499399 seconds
+2025-05-03 22:10:38 [INFO    ] Retrying request to /chat/completions in 0.837870 seconds
+2025-05-03 22:10:47 [ERROR   ] Error during LLM API call for SRX10462798: Connection error.
+2025-05-03 22:10:47 [ERROR   ] Row 474 (ID: SRX10462798): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:10:47 [INFO    ] Processing row 512/75, ID: SRX105503
+2025-05-03 22:10:47 [INFO    ] Row 512 (ID: SRX105503): LLM-Only mode. Calling LLM.
+2025-05-03 22:10:47 [INFO    ] Attempting LLM classification for ID: SRX105503, Text: 'SRX105503	ID=SRX105503 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=liver | tissue=liver | strain=CD1 outbred mice | age=2-3 months'
+2025-05-03 22:10:55 [INFO    ] Retrying request to /chat/completions in 0.480379 seconds
+2025-05-03 22:11:04 [INFO    ] Retrying request to /chat/completions in 0.876203 seconds
+2025-05-03 22:11:13 [ERROR   ] Error during LLM API call for SRX105503: Connection error.
+2025-05-03 22:11:13 [ERROR   ] Row 512 (ID: SRX105503): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:11:13 [INFO    ] Processing row 536/75, ID: SRX1063034
+2025-05-03 22:11:13 [INFO    ] Row 536 (ID: SRX1063034): LLM-Only mode. Calling LLM.
+2025-05-03 22:11:13 [INFO    ] Attempting LLM classification for ID: SRX1063034, Text: 'SRX1063034	ID=SRX1063034 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=WT | treatment=Cont STAT1 | cell type=Pre-activated CD4+ T cells'
+2025-05-03 22:11:21 [INFO    ] Retrying request to /chat/completions in 0.397364 seconds
+2025-05-03 22:11:29 [INFO    ] Retrying request to /chat/completions in 0.804293 seconds
+2025-05-03 22:11:38 [ERROR   ] Error during LLM API call for SRX1063034: Connection error.
+2025-05-03 22:11:38 [ERROR   ] Row 536 (ID: SRX1063034): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:11:38 [INFO    ] Processing row 539/75, ID: SRX1063037
+2025-05-03 22:11:38 [INFO    ] Row 539 (ID: SRX1063037): LLM-Only mode. Calling LLM.
+2025-05-03 22:11:38 [INFO    ] Attempting LLM classification for ID: SRX1063037, Text: 'SRX1063037	ID=SRX1063037 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=S3KO | treatment=IL21 STAT1 | cell type=Pre-activated CD4+ T cells'
+2025-05-03 22:11:46 [INFO    ] Retrying request to /chat/completions in 0.442305 seconds
+2025-05-03 22:11:55 [INFO    ] Retrying request to /chat/completions in 0.841544 seconds
+2025-05-03 22:12:04 [ERROR   ] Error during LLM API call for SRX1063037: Connection error.
+2025-05-03 22:12:04 [ERROR   ] Row 539 (ID: SRX1063037): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:12:04 [INFO    ] Processing row 545/75, ID: SRX10652556
+2025-05-03 22:12:04 [INFO    ] Row 545 (ID: SRX10652556): LLM-Only mode. Calling LLM.
+2025-05-03 22:12:04 [INFO    ] Attempting LLM classification for ID: SRX10652556, Text: 'SRX10652556	ID=SRX10652556 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Splenocytes | strain=C57BL/6 | genotype=Junbfl/fl | polarizing condition=Th1 | cell type=Naive CD4+ T cells | antibody target=IRF4'
+2025-05-03 22:12:12 [INFO    ] Retrying request to /chat/completions in 0.409007 seconds
+2025-05-03 22:12:21 [INFO    ] Retrying request to /chat/completions in 0.832610 seconds
+2025-05-03 22:12:30 [ERROR   ] Error during LLM API call for SRX10652556: Connection error.
+2025-05-03 22:12:30 [ERROR   ] Row 545 (ID: SRX10652556): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:12:30 [INFO    ] Processing row 548/75, ID: SRX10659669
+2025-05-03 22:12:30 [INFO    ] Row 548 (ID: SRX10659669): LLM-Only mode. Calling LLM.
+2025-05-03 22:12:30 [INFO    ] Attempting LLM classification for ID: SRX10659669, Text: 'SRX10659669	ID=SRX10659669 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=ChIP HNF4a on FoxA Dev double null | age=8 weeks old | tissue=Liver'
+2025-05-03 22:12:38 [INFO    ] Retrying request to /chat/completions in 0.388969 seconds
+2025-05-03 22:12:46 [INFO    ] Retrying request to /chat/completions in 0.899863 seconds
+2025-05-03 22:12:55 [ERROR   ] Error during LLM API call for SRX10659669: Connection error.
+2025-05-03 22:12:55 [ERROR   ] Row 548 (ID: SRX10659669): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:12:55 [INFO    ] Processing row 587/75, ID: SRX10828736
+2025-05-03 22:12:55 [INFO    ] Row 587 (ID: SRX10828736): LLM-Only mode. Calling LLM.
+2025-05-03 22:12:55 [INFO    ] Attempting LLM classification for ID: SRX10828736, Text: 'SRX10828736	ID=SRX10828736 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=liver | strain=C57BL/6 | genotype=XBP1 LKO | age=3-4 months | tissue=liver | time=CT8'
+2025-05-03 22:13:04 [INFO    ] Retrying request to /chat/completions in 0.429252 seconds
+2025-05-03 22:13:12 [INFO    ] Retrying request to /chat/completions in 0.948290 seconds
+2025-05-03 22:13:21 [ERROR   ] Error during LLM API call for SRX10828736: Connection error.
+2025-05-03 22:13:21 [ERROR   ] Row 587 (ID: SRX10828736): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:13:21 [INFO    ] Processing row 601/75, ID: SRX10828756
+2025-05-03 22:13:21 [INFO    ] Row 601 (ID: SRX10828756): LLM-Only mode. Calling LLM.
+2025-05-03 22:13:21 [INFO    ] Attempting LLM classification for ID: SRX10828756, Text: 'SRX10828756	ID=SRX10828756 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=liver | strain=C57BL/6 | genotype=WT | age=3-4 months | tissue=liver | time=--'
+2025-05-03 22:13:30 [INFO    ] Retrying request to /chat/completions in 0.423217 seconds
+2025-05-03 22:13:38 [INFO    ] Retrying request to /chat/completions in 0.770675 seconds
+2025-05-03 22:13:47 [ERROR   ] Error during LLM API call for SRX10828756: Connection error.
+2025-05-03 22:13:47 [ERROR   ] Row 601 (ID: SRX10828756): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:13:47 [INFO    ] Processing row 612/75, ID: SRX10873024
+2025-05-03 22:13:47 [INFO    ] Row 612 (ID: SRX10873024): LLM-Only mode. Calling LLM.
+2025-05-03 22:13:47 [INFO    ] Attempting LLM classification for ID: SRX10873024, Text: 'SRX10873024	ID=SRX10873024 | Cell_type_class=Cardiovascular | Cell_type=Heart | Metadata=source_name=P5 heart | developmental stage=P5 | tissue=heart | strain=C57BL/6 | tissue preparation=Fixed by Formaldehyde'
+2025-05-03 22:13:55 [INFO    ] Retrying request to /chat/completions in 0.397805 seconds
+2025-05-03 22:14:04 [INFO    ] Retrying request to /chat/completions in 0.937083 seconds
+2025-05-03 22:14:13 [ERROR   ] Error during LLM API call for SRX10873024: Connection error.
+2025-05-03 22:14:13 [ERROR   ] Row 612 (ID: SRX10873024): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:14:13 [INFO    ] Processing row 682/75, ID: SRX10989779
+2025-05-03 22:14:13 [INFO    ] Row 682 (ID: SRX10989779): LLM-Only mode. Calling LLM.
+2025-05-03 22:14:13 [INFO    ] Attempting LLM classification for ID: SRX10989779, Text: 'SRX10989779	ID=SRX10989779 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=LIVER | gender=male | strain=C57BJ/L6 background | age=12-16 weeks of age | genotype=C57BJ/L6 WT mice | tissue=Liver | timepoint=ZT12 | diet=FASTING'
+2025-05-03 22:14:21 [INFO    ] Retrying request to /chat/completions in 0.396802 seconds
+2025-05-03 22:14:30 [INFO    ] Retrying request to /chat/completions in 0.863063 seconds
+2025-05-03 22:14:39 [ERROR   ] Error during LLM API call for SRX10989779: Connection error.
+2025-05-03 22:14:39 [ERROR   ] Row 682 (ID: SRX10989779): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:14:39 [INFO    ] Processing row 753/75, ID: SRX11187698
+2025-05-03 22:14:39 [INFO    ] Row 753 (ID: SRX11187698): LLM-Only mode. Calling LLM.
+2025-05-03 22:14:39 [INFO    ] Attempting LLM classification for ID: SRX11187698, Text: 'SRX11187698	ID=SRX11187698 | Cell_type_class=Uterus | Cell_type=Uterus | Metadata=source_name=Uterus | genotype/variation=Pgrcre/-PgrALsL/+ | surgery=Ovariectomy for 2 weeks | treatment=1h progesterone treatment | tissue=Uterus'
+2025-05-03 22:14:47 [INFO    ] Retrying request to /chat/completions in 0.443982 seconds
+2025-05-03 22:14:56 [INFO    ] Retrying request to /chat/completions in 0.872389 seconds
+2025-05-03 22:15:05 [ERROR   ] Error during LLM API call for SRX11187698: Connection error.
+2025-05-03 22:15:05 [ERROR   ] Row 753 (ID: SRX11187698): LLM classification failed. Reverting to keyword result: 'skipped'
+2025-05-03 22:15:05 [INFO    ] Processing row 799/75, ID: SRX11366190
+2025-05-03 22:15:05 [INFO    ] Row 799 (ID: SRX11366190): LLM-Only mode. Calling LLM.
+2025-05-03 22:15:05 [INFO    ] Attempting LLM classification for ID: SRX11366190, Text: 'SRX11366190	ID=SRX11366190 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver | strain=C57BL/6 | genotype=WT | tissue=Liver | age=3 months | treatment=T09'
+2025-05-03 22:15:13 [INFO    ] Retrying request to /chat/completions in 0.430447 seconds
+2025-05-03 22:15:21 [INFO    ] Retrying request to /chat/completions in 0.980659 seconds

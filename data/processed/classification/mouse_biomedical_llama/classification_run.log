@@ -1,0 +1,15 @@
+2025-05-03 22:06:36 [INFO    ] Script started. Output directory: ../data/processed/classification\mouse_biomedical_llama
+2025-05-03 22:06:36 [INFO    ] Full log file: ../data/processed/classification\mouse_biomedical_llama\classification_run.log
+2025-05-03 22:06:37 [INFO    ] Processing benchmark file: ../data/processed/metadata/mouse_labeled.tsv)
+2025-05-03 22:06:37 [INFO    ] LLM Client initialized. URL: https:http://127.0.0.1:1234/v1, Model: bio-medical-multimodal-llama-3-8b-v1-i1)
+2025-05-03 22:06:37 [INFO    ] Loading metadata from: ../data/processed/metadata/mouse_preprocessed.tsv
+2025-05-03 22:06:37 [INFO    ] Loading benchmark IDs from: ../data/processed/metadata/mouse_labeled.tsv
+2025-05-03 22:06:37 [INFO    ] Loaded 75 unique IDs from benchmark file.
+2025-05-03 22:06:37 [INFO    ] Loaded 6807 rows and 5 columns.
+2025-05-03 22:06:37 [INFO    ] Filtered main metadata to 75 rows based on benchmark IDs (from 6807 initial rows).
+2025-05-03 22:06:37 [INFO    ] Starting metadata classification process...
+2025-05-03 22:06:37 [INFO    ] Starting processing of 75 rows.  LLM-Only mode: True
+2025-05-03 22:06:37 [INFO    ] Processing row 102/75, ID: DRX440382
+2025-05-03 22:06:37 [INFO    ] Row 102 (ID: DRX440382): LLM-Only mode. Calling LLM.
+2025-05-03 22:06:37 [INFO    ] Attempting LLM classification for ID: DRX440382, Text: 'DRX440382	ID=DRX440382 | Cell_type_class=Spleen | Cell_type=Spleen | Metadata=sample_name=ChIPseq EZH2 of WT mouse | age=not applicable | breed=not applicable | cultivar=not applicable | dev_stage=not applicable | ecotype=not applicable | isolate=not applicable | strain=C57BL/6J | tissue=spleen'
+2025-05-03 22:06:46 [INFO    ] Retrying request to /chat/completions in 0.376392 seconds

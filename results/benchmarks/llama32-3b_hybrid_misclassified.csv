@@ -1,0 +1,26 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=sample_name=ChIPseq EZH2 of hCD4
+SRX11513464,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)","Non-Native. individual=donor B, cell type=DC, time=24 hours differentiation"
+SRX16495661,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. donor ID=ENCDO781BMZ; age=21 year
+SRX16495697,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. age=90 or above year, donor ID=ENCDO470GFA"
+SRX1738529,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. Cell_type_class=Blood | source_name=Human Stem and Progenitor Cell
+SRX18768994,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. cell type=Human primary adipose stem cells, source_name=Adipose"
+SRX18768997,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. <reason>
+SRX212351,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. donor=1
+SRX13006802,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. donor ID=ENCDO907CMO, age=74 year"
+SRX23335291,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. age=23,cell line=None, source_name=CD4 T-cells"
+SRX3322085,1,unknown,Keyword (unknown / LLM Error),No relevant keywords,"LLM JSON parsing error: Extra data: line 8 column 1 (char 166). Response: {
+  ""id"": ""SRX3322085"",
+  ""metadata"": ""donor ID, age=37 year, adult, tissue=gastroesophageal sphincter, cell_type=Gastroesophageal sphincter"",
+  ""native"": false
+}
+
+ 
+The classification is **non-native** because the sample was from a donor (donor ID), indicating that it was not from a healthy individual or under normal physiological conditions."
+SRX5839976,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. cell type=monocytes, source_name=Primary human monocyte-derived macrophages"
+SRX6784062,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. donor ID=ENCDO271OUW, age=51 year"
+SRX8090646,1,non-native,LLM (Native Validation),"Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)",Non-Native. treatment=DMSO | source_name=Fibroblast like Synoviocytes | donor=ST1412
+SRX9969717,0,native,LLM (Fallback),No relevant keywords,Native. cell_line=16HBE14o-
+SRX7509593,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. donor ID=ENCDO845WKR, age=37 year"
+SRX6763478,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. source_name=PRIMARY-MONOCYTE
+SRX2635902,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. donor ID=ENCDO060AAA, age=32 year"

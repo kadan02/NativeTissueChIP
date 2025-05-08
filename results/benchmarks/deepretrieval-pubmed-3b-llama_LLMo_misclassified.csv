@@ -1,0 +1,16 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Cell type is CD4+ T cells and the sample is a ChIPseq experiment for EZH2, which is a histone methyltransferase. This indicates that the sample is not native but rather a modified or experimental sample."
+SRX11513464,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. Cell type differentiation trial and specific cell line information
+SRX12209241,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type=CD4+ T cells, Control trial"
+SRX16495697,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. donor ID=ENCDO470GFA, age=90 or above, neural tissue sample"
+SRX18672589,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell_line=C20, Untreated sample, Microglia"
+SRX212353,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type is macrophages and the sample was under hypoxic conditions, but there's no indication of treatment or modification that would classify it as non-native."
+SRX23045263,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type=Human dermal fibroblasts, Treatment Trial (TGFb trial)"
+SRX8090646,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. Rheumatoid Arthritis trial or Fibroblast-like Synoviocytes trial
+SRX9969717,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. cell_line=16HBE14o-
+SRX2635902,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Liver tissue from a healthy adult liver with coronary artery disease, indicating it's not a native sample."
+SRX9850737,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell_line=Calu-3, Human bronchial epithelial cells"
+SRX6068070,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Cell type and source are specific to the uterus and endometrium, but the metadata also mentions a ChIP-seq experiment which is often used for analyzing chromatin modifications. This could indicate that the sample has been modified or treated in some way."
+SRX6068072,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Cell type and source are specific to the uterus and endometrium, but the metadata also mentions a ChIP-seq experiment which is a common technique for analyzing chromatin modifications. This suggests that the sample has been modified or treated in some way."
+SRX10977366,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Embryonic sample, organoid, and healthy brain tissue"
+SRX10977238,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. foreskin keratinocyte, newborn sample, primary cell trial"

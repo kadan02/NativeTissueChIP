@@ -1,0 +1,8 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440349,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell_type_class=Blood, Cell_type=CD4+ T cells"
+SRX12209241,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. case or control=Control, Cell_type=CD4+ T cells, cell type=CD4+ T cells"
+SRX23335288,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell type=dermal fibroblasts, age=84, passage number=2"
+SRX23335289,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. age=97, Cell_type=Dermal fibroblast, passage number=2"
+SRX23335290,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. cell type=dermal fibroblasts, age=86, passage number=2"
+SRX8090646,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. diagnosis=Rheumatoid arthritis
+SRX2635902,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. health state=healthy with non-obstructive CAD (coronary artery disease)

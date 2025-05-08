@@ -1,0 +1,5 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX4178770,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. treatment=IFNg
+SRX10873024,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. tissue preparation=Fixed by Formaldehyde
+SRX21711865,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. treatment=WT
+SRX1063034,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=WT

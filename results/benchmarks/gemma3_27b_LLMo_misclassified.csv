@@ -1,0 +1,14 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440349,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. Cell_type=CD4+ T cells
+SRX11513464,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=Dendritic cells differentiated from monocytes
+SRX18768994,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell type=Human primary adipose stem cells
+SRX18768997,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell type=Human primary adipose stem cells
+SRX19123217,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell line=Human B lymphocytes
+SRX212353,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. treatment=none
+SRX23045260,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=Human dermal fibroblasts
+SRX3666488,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. source_name=PHA-stimulated human T-lymphocytes
+SRX5716451,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=hNPCs
+SRX5839976,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=Primary human monocyte-derived macrophages
+SRX8090646,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. diagnosis=Rheumatoid arthritis
+SRX5360084,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. Cell_type=Dermal fibroblast
+SRX4723358,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=2 week neuron

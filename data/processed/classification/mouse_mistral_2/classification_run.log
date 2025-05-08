@@ -1,0 +1,378 @@
+2025-05-03 20:13:52 [INFO    ] Script started. Output directory: ../data/processed/classification\mouse_mistral_2
+2025-05-03 20:13:52 [INFO    ] Full log file: ../data/processed/classification\mouse_mistral_2\classification_run.log
+2025-05-03 20:13:54 [INFO    ] Processing benchmark file: ../data/processed/metadata/mouse_labeled.tsv)
+2025-05-03 20:13:54 [INFO    ] LLM Client initialized. URL: https://genai.science-cloud.hu/api/, Model: mistral-small3.1:24b)
+2025-05-03 20:13:54 [INFO    ] Loading metadata from: ../data/processed/metadata/mouse_preprocessed.tsv
+2025-05-03 20:13:54 [INFO    ] Loading benchmark IDs from: ../data/processed/metadata/mouse_labeled.tsv
+2025-05-03 20:13:54 [INFO    ] Loaded 60 unique IDs from benchmark file.
+2025-05-03 20:13:54 [INFO    ] Loaded 6807 rows and 5 columns.
+2025-05-03 20:13:54 [INFO    ] Filtered main metadata to 60 rows based on benchmark IDs (from 6807 initial rows).
+2025-05-03 20:13:54 [INFO    ] Starting metadata classification process...
+2025-05-03 20:13:54 [INFO    ] Starting processing of 60 rows.  LLM-Only mode: True
+2025-05-03 20:13:54 [INFO    ] Processing row 102/60, ID: DRX440382
+2025-05-03 20:13:54 [INFO    ] Row 102 (ID: DRX440382): LLM-Only mode. Calling LLM.
+2025-05-03 20:13:54 [INFO    ] Attempting LLM classification for ID: DRX440382, Text: 'DRX440382	ID=DRX440382 | Cell_type_class=Spleen | Cell_type=Spleen | Metadata=sample_name=ChIPseq EZH2 of WT mouse | age=not applicable | breed=not applicable | cultivar=not applicable | dev_stage=not applicable | ecotype=not applicable | isolate=not applicable | strain=C57BL/6J | tissue=spleen'
+2025-05-03 20:13:56 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:13:56 [INFO    ] LLM Parsed Result for DRX440382: native
+2025-05-03 20:13:56 [INFO    ] Row 102 (ID: DRX440382): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:13:56 [INFO    ] Processing row 133/60, ID: ERX204066
+2025-05-03 20:13:56 [INFO    ] Row 133 (ID: ERX204066): LLM-Only mode. Calling LLM.
+2025-05-03 20:13:56 [INFO    ] Attempting LLM classification for ID: ERX204066, Text: 'ERX204066	ID=ERX204066 | Cell_type_class=Liver | Cell_type=Hepatocytes | Metadata=ArrayExpress-DevelopmentalStage=Adult | ArrayExpress-Genotype=Wildtype | ArrayExpress-OrganismPart=Liver | sample description=ChIPseq | strain=C57BL/6'
+2025-05-03 20:13:58 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:13:58 [INFO    ] LLM Parsed Result for ERX204066: native
+2025-05-03 20:13:58 [INFO    ] Row 133 (ID: ERX204066): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:13:58 [INFO    ] Processing row 170/60, ID: SRX018602
+2025-05-03 20:13:58 [INFO    ] Row 170 (ID: SRX018602): LLM-Only mode. Calling LLM.
+2025-05-03 20:13:58 [INFO    ] Attempting LLM classification for ID: SRX018602, Text: 'SRX018602	ID=SRX018602 | Cell_type_class=Neural | Cell_type=Retina | Metadata=source_name=Retina, Nrl ko, Crx ChIP | strain=C57BL/6 | genotype=Nrl-/- | age=8 weeks | tissue=retina'
+2025-05-03 20:14:00 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:00 [INFO    ] LLM Parsed Result for SRX018602: non-native
+2025-05-03 20:14:00 [INFO    ] Row 170 (ID: SRX018602): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:00 [INFO    ] Processing row 231/60, ID: SRX027447
+2025-05-03 20:14:00 [INFO    ] Row 231 (ID: SRX027447): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:00 [INFO    ] Attempting LLM classification for ID: SRX027447, Text: 'SRX027447	ID=SRX027447 | Cell_type_class=Gonad | Cell_type=Testis | Metadata=source_name=pups testis | strain=9R/13R cross | genotype/variation=wild type | antibody lot=G0909'
+2025-05-03 20:14:02 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:02 [INFO    ] LLM Parsed Result for SRX027447: native
+2025-05-03 20:14:02 [INFO    ] Row 231 (ID: SRX027447): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:02 [INFO    ] Processing row 234/60, ID: SRX028842
+2025-05-03 20:14:02 [INFO    ] Row 234 (ID: SRX028842): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:02 [INFO    ] Attempting LLM classification for ID: SRX028842, Text: 'SRX028842	ID=SRX028842 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Macrophages | strain=C57BL/6 | cell type=Bone-marrow-derived macrophages | treatment=Brd2_0H_minus | time=0H'
+2025-05-03 20:14:04 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:04 [INFO    ] LLM Parsed Result for SRX028842: non-native
+2025-05-03 20:14:04 [INFO    ] Row 234 (ID: SRX028842): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:04 [INFO    ] Processing row 474/60, ID: SRX10462798
+2025-05-03 20:14:04 [INFO    ] Row 474 (ID: SRX10462798): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:04 [INFO    ] Attempting LLM classification for ID: SRX10462798, Text: 'SRX10462798	ID=SRX10462798 | Cell_type_class=Others | Cell_type=Nasal Mucosa | Metadata=source_name=Ctl Tet2+/- 5hmC_nasal musosa | strain background=C57BL/6 | age=10-12 week | genotype=Tet2+/- | treatment=No | tissue=nasal mucosa | molecule subtype=5hmC captured DNA'
+2025-05-03 20:14:06 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:06 [INFO    ] LLM Parsed Result for SRX10462798: non-native
+2025-05-03 20:14:06 [INFO    ] Row 474 (ID: SRX10462798): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:06 [INFO    ] Processing row 512/60, ID: SRX105503
+2025-05-03 20:14:06 [INFO    ] Row 512 (ID: SRX105503): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:06 [INFO    ] Attempting LLM classification for ID: SRX105503, Text: 'SRX105503	ID=SRX105503 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=liver | tissue=liver | strain=CD1 outbred mice | age=2-3 months'
+2025-05-03 20:14:07 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:07 [INFO    ] LLM Parsed Result for SRX105503: native
+2025-05-03 20:14:07 [INFO    ] Row 512 (ID: SRX105503): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:07 [INFO    ] Processing row 536/60, ID: SRX1063034
+2025-05-03 20:14:07 [INFO    ] Row 536 (ID: SRX1063034): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:07 [INFO    ] Attempting LLM classification for ID: SRX1063034, Text: 'SRX1063034	ID=SRX1063034 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=WT | treatment=Cont STAT1 | cell type=Pre-activated CD4+ T cells'
+2025-05-03 20:14:09 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:09 [INFO    ] LLM Parsed Result for SRX1063034: non-native
+2025-05-03 20:14:09 [INFO    ] Row 536 (ID: SRX1063034): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:09 [INFO    ] Processing row 539/60, ID: SRX1063037
+2025-05-03 20:14:09 [INFO    ] Row 539 (ID: SRX1063037): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:09 [INFO    ] Attempting LLM classification for ID: SRX1063037, Text: 'SRX1063037	ID=SRX1063037 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=S3KO | treatment=IL21 STAT1 | cell type=Pre-activated CD4+ T cells'
+2025-05-03 20:14:11 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:11 [INFO    ] LLM Parsed Result for SRX1063037: non-native
+2025-05-03 20:14:11 [INFO    ] Row 539 (ID: SRX1063037): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:11 [INFO    ] Processing row 545/60, ID: SRX10652556
+2025-05-03 20:14:11 [INFO    ] Row 545 (ID: SRX10652556): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:11 [INFO    ] Attempting LLM classification for ID: SRX10652556, Text: 'SRX10652556	ID=SRX10652556 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Splenocytes | strain=C57BL/6 | genotype=Junbfl/fl | polarizing condition=Th1 | cell type=Naive CD4+ T cells | antibody target=IRF4'
+2025-05-03 20:14:13 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:13 [INFO    ] LLM Parsed Result for SRX10652556: non-native
+2025-05-03 20:14:13 [INFO    ] Row 545 (ID: SRX10652556): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:13 [INFO    ] Processing row 548/60, ID: SRX10659669
+2025-05-03 20:14:13 [INFO    ] Row 548 (ID: SRX10659669): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:13 [INFO    ] Attempting LLM classification for ID: SRX10659669, Text: 'SRX10659669	ID=SRX10659669 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=ChIP HNF4a on FoxA Dev double null | age=8 weeks old | tissue=Liver'
+2025-05-03 20:14:14 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:14 [INFO    ] LLM Parsed Result for SRX10659669: non-native
+2025-05-03 20:14:14 [INFO    ] Row 548 (ID: SRX10659669): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:14 [INFO    ] Processing row 587/60, ID: SRX10828736
+2025-05-03 20:14:14 [INFO    ] Row 587 (ID: SRX10828736): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:14 [INFO    ] Attempting LLM classification for ID: SRX10828736, Text: 'SRX10828736	ID=SRX10828736 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=liver | strain=C57BL/6 | genotype=XBP1 LKO | age=3-4 months | tissue=liver | time=CT8'
+2025-05-03 20:14:16 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:16 [INFO    ] LLM Parsed Result for SRX10828736: non-native
+2025-05-03 20:14:16 [INFO    ] Row 587 (ID: SRX10828736): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:16 [INFO    ] Processing row 612/60, ID: SRX10873024
+2025-05-03 20:14:16 [INFO    ] Row 612 (ID: SRX10873024): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:16 [INFO    ] Attempting LLM classification for ID: SRX10873024, Text: 'SRX10873024	ID=SRX10873024 | Cell_type_class=Cardiovascular | Cell_type=Heart | Metadata=source_name=P5 heart | developmental stage=P5 | tissue=heart | strain=C57BL/6 | tissue preparation=Fixed by Formaldehyde'
+2025-05-03 20:14:18 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:18 [INFO    ] LLM Parsed Result for SRX10873024: non-native
+2025-05-03 20:14:18 [INFO    ] Row 612 (ID: SRX10873024): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:18 [INFO    ] Processing row 753/60, ID: SRX11187698
+2025-05-03 20:14:18 [INFO    ] Row 753 (ID: SRX11187698): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:18 [INFO    ] Attempting LLM classification for ID: SRX11187698, Text: 'SRX11187698	ID=SRX11187698 | Cell_type_class=Uterus | Cell_type=Uterus | Metadata=source_name=Uterus | genotype/variation=Pgrcre/-PgrALsL/+ | surgery=Ovariectomy for 2 weeks | treatment=1h progesterone treatment | tissue=Uterus'
+2025-05-03 20:14:20 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:20 [INFO    ] LLM Parsed Result for SRX11187698: non-native
+2025-05-03 20:14:20 [INFO    ] Row 753 (ID: SRX11187698): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:20 [INFO    ] Processing row 799/60, ID: SRX11366190
+2025-05-03 20:14:20 [INFO    ] Row 799 (ID: SRX11366190): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:20 [INFO    ] Attempting LLM classification for ID: SRX11366190, Text: 'SRX11366190	ID=SRX11366190 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver | strain=C57BL/6 | genotype=WT | tissue=Liver | age=3 months | treatment=T09'
+2025-05-03 20:14:22 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:22 [INFO    ] LLM Parsed Result for SRX11366190: native
+2025-05-03 20:14:22 [INFO    ] Row 799 (ID: SRX11366190): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:22 [INFO    ] Processing row 866/60, ID: SRX1176003
+2025-05-03 20:14:22 [INFO    ] Row 866 (ID: SRX1176003): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:22 [INFO    ] Attempting LLM classification for ID: SRX1176003, Text: 'SRX1176003	ID=SRX1176003 | Cell_type_class=Blood | Cell_type=CD8+ T cells | Metadata=source_name=CD8 T cell | cell type=effector CD8 T cell | strain=C57BL/6 | treatment=none'
+2025-05-03 20:14:24 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:24 [INFO    ] LLM Parsed Result for SRX1176003: native
+2025-05-03 20:14:24 [INFO    ] Row 866 (ID: SRX1176003): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:24 [INFO    ] Processing row 1159/60, ID: SRX13065852
+2025-05-03 20:14:24 [INFO    ] Row 1159 (ID: SRX13065852): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:24 [INFO    ] Attempting LLM classification for ID: SRX13065852, Text: 'SRX13065852	ID=SRX13065852 | Cell_type_class=Epidermis | Cell_type=Keratinocytes | Metadata=source_name=Primary keratinocytes | cell type=Keratinocytes isolated from mouse skin | strain=C57BL/6 | genotype=Krt14-Cre+;Ppp1r13l-/- | deletion=specific deletion of Ppp1r13l exon8 in CK14-positive basal epithelial cells only'
+2025-05-03 20:14:27 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:27 [INFO    ] LLM Parsed Result for SRX13065852: non-native
+2025-05-03 20:14:27 [INFO    ] Row 1159 (ID: SRX13065852): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:27 [INFO    ] Processing row 1401/60, ID: SRX14059359
+2025-05-03 20:14:27 [INFO    ] Row 1401 (ID: SRX14059359): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:27 [INFO    ] Attempting LLM classification for ID: SRX14059359, Text: 'SRX14059359	ID=SRX14059359 | Cell_type_class=Blood | Cell_type=RAW 264.7 | Metadata=source_name=RAW 264.7 cells | cell type=murine macrophage cells | treatment=treated with 100 ng/ml LPS for 4 h'
+2025-05-03 20:14:29 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:29 [INFO    ] LLM Parsed Result for SRX14059359: non-native
+2025-05-03 20:14:29 [INFO    ] Row 1401 (ID: SRX14059359): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:29 [INFO    ] Processing row 1426/60, ID: SRX142514
+2025-05-03 20:14:29 [INFO    ] Row 1426 (ID: SRX142514): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:29 [INFO    ] Attempting LLM classification for ID: SRX142514, Text: 'SRX142514	ID=SRX142514 | Cell_type_class=Muscle | Cell_type=C2C12 | Metadata=source_name=C2C12 | lab description=Wold - Califonia Institute of Technology | datatype=ChipSeq | datatype description=Chromatin IP Sequencing | cell=C2C12 | cell organism=mouse | cell description=Myoblast cell line derived from thigh muscle of C3H mice after crush injury | cell sex=F | antibody description=mouse monoclonal antibody; epitope mapping within amino acids 138-158 of myogenin of rat origin. Antibody Target: Myogenin | control=Control_32bp | control description=This data represents a control being compared to experiments using read length of 32 bp | treatment=EqS_2.0pct_60hr | treatment description=60 h with 2.0% Equine Serum and Insulin (Wold) | age=immortalized | age description=Immortal cells | control=Control_32bp | control description=This data represents a control being compared to experiments using read length of 32 bp | controlid=10194 | labexpid=10158 | strain=C3H | strain description=Strain C3H, Very related to C57BL/6'
+2025-05-03 20:14:32 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:32 [INFO    ] LLM Parsed Result for SRX142514: non-native
+2025-05-03 20:14:32 [INFO    ] Row 1426 (ID: SRX142514): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:32 [INFO    ] Processing row 1559/60, ID: SRX145053
+2025-05-03 20:14:32 [INFO    ] Row 1559 (ID: SRX145053): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:32 [INFO    ] Attempting LLM classification for ID: SRX145053, Text: 'SRX145053	ID=SRX145053 | Cell_type_class=Blood | Cell_type=MEL | Metadata=source_name=MEL | lab description=Hardison - Penn State University | datatype=ChipSeq | datatype description=Chromatin IP Sequencing | cell=MEL | cell organism=mouse | cell description=Leukemia (K562 analog) | cell sex=M | age=immortalized | age description=Immortal cells | control=Input | control description=Control signal which may be subtracted from experimental raw signal before peaks are called. | controlid=wgEncodeEM001929 | strain=C57BL/6 | strain description=C57 black 6, the most common inbred strain of laboratory mouse'
+2025-05-03 20:14:34 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:34 [INFO    ] LLM Parsed Result for SRX145053: non-native
+2025-05-03 20:14:34 [INFO    ] Row 1559 (ID: SRX145053): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:34 [INFO    ] Processing row 1616/60, ID: SRX14563995
+2025-05-03 20:14:34 [INFO    ] Row 1616 (ID: SRX14563995): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:34 [INFO    ] Attempting LLM classification for ID: SRX14563995, Text: 'SRX14563995	ID=SRX14563995 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=An_IFNg_CREB1, BMDM | strain=C57BL/6 | age=8-12 weeks | treatment=Anisomycin + IFNg | cell type=Bone marrow derived macrophage (BMDM)'
+2025-05-03 20:14:36 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:36 [INFO    ] LLM Parsed Result for SRX14563995: non-native
+2025-05-03 20:14:36 [INFO    ] Row 1616 (ID: SRX14563995): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:36 [INFO    ] Processing row 1704/60, ID: SRX14818057
+2025-05-03 20:14:36 [INFO    ] Row 1704 (ID: SRX14818057): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:36 [INFO    ] Attempting LLM classification for ID: SRX14818057, Text: 'SRX14818057	ID=SRX14818057 | Cell_type_class=Blood | Cell_type=Naive T cells | Metadata=source_name=Spleen | strain=C57BL/6 | tissue=Spleen | cell type=Naive CD4 T Cells | genotype=IFNb/IRF9 DKO | treatment=stimulated under Th1 culture conditions (10 ng/ml IL-12) for 5 days in vitro. IFNb (100U/ml) were treated for last 3 days.'
+2025-05-03 20:14:38 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:38 [INFO    ] LLM Parsed Result for SRX14818057: non-native
+2025-05-03 20:14:38 [INFO    ] Row 1704 (ID: SRX14818057): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:38 [INFO    ] Processing row 1738/60, ID: SRX149201
+2025-05-03 20:14:38 [INFO    ] Row 1738 (ID: SRX149201): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:38 [INFO    ] Attempting LLM classification for ID: SRX149201, Text: 'SRX149201	ID=SRX149201 | Cell_type_class=Blood | Cell_type=B3 | Metadata=source_name=ChIP-Seq data from Wildtype B3 Cells using Rabbit anti-C-terminal Ikaros antibody | cell line=pre-B cell line B3 | cell line reference=Brown et al. 1997'
+2025-05-03 20:14:40 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:40 [INFO    ] LLM Parsed Result for SRX149201: native
+2025-05-03 20:14:40 [INFO    ] Row 1738 (ID: SRX149201): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:40 [INFO    ] Processing row 1741/60, ID: SRX1495349
+2025-05-03 20:14:40 [INFO    ] Row 1741 (ID: SRX1495349): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:40 [INFO    ] Attempting LLM classification for ID: SRX1495349, Text: 'SRX1495349	ID=SRX1495349 | Cell_type_class=Cardiovascular | Cell_type=Heart | Metadata=source_name=Heart | strain=C57BL/6 | tissue=heart 4 days post-injury (MI) | age=Adult (10-12 weeks postnatally)'
+2025-05-03 20:14:42 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:42 [INFO    ] LLM Parsed Result for SRX1495349: non-native
+2025-05-03 20:14:42 [INFO    ] Row 1741 (ID: SRX1495349): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:42 [INFO    ] Processing row 2132/60, ID: SRX17469441
+2025-05-03 20:14:42 [INFO    ] Row 2132 (ID: SRX17469441): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:42 [INFO    ] Attempting LLM classification for ID: SRX17469441, Text: 'SRX17469441	ID=SRX17469441 | Cell_type_class=Neural | Cell_type=Cortical neuron | Metadata=source_name=cultured cortical neurons | strain=C57BL/6J | cell type=cultured cortical neurons | treatment=NSD1 sh1'
+2025-05-03 20:14:44 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:44 [INFO    ] LLM Parsed Result for SRX17469441: non-native
+2025-05-03 20:14:44 [INFO    ] Row 2132 (ID: SRX17469441): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:44 [INFO    ] Processing row 2155/60, ID: SRX17605394
+2025-05-03 20:14:44 [INFO    ] Row 2155 (ID: SRX17605394): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:44 [INFO    ] Attempting LLM classification for ID: SRX17605394, Text: 'SRX17605394	ID=SRX17605394 | Cell_type_class=Blood | Cell_type=Monocytes | Metadata=source_name=Bone-Marrow | tissue=Bone-Marrow | strain=C57BL6 | cell type=Monocyte | genotype=Wild-type | treatment=NA'
+2025-05-03 20:14:46 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:46 [INFO    ] LLM Parsed Result for SRX17605394: native
+2025-05-03 20:14:46 [INFO    ] Row 2155 (ID: SRX17605394): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:46 [INFO    ] Processing row 2466/60, ID: SRX188806
+2025-05-03 20:14:46 [INFO    ] Row 2466 (ID: SRX188806): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:46 [INFO    ] Attempting LLM classification for ID: SRX188806, Text: 'SRX188806	ID=SRX188806 | Cell_type_class=Blood | Cell_type=CH12 | Metadata=source_name=CH12 | lab description=Snyder - Stanford University | datatype=ChipSeq | datatype description=Chromatin IP Sequencing | cell=CH12 | cell organism=mouse | cell description=B-cell lymphoma (GM12878 analog) | cell sex=F | treatment=None | treatment description=No special treatment or protocol applies | control=IgG-rab | control description=Input signal from Normal Rabbit IgG ChIP-seq. | age=immortalized | age description=Immortal cells | control=IgG-rab | control description=Input signal from Normal Rabbit IgG ChIP-seq. | controlid=wgEncodeEM001939 | strain=B10.H-2aH-4bp/Wts | strain description=Derived by inbreeding from selected F2 progeny of B10.A X B10.129'
+2025-05-03 20:14:47 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:47 [INFO    ] LLM Parsed Result for SRX188806: non-native
+2025-05-03 20:14:47 [INFO    ] Row 2466 (ID: SRX188806): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:47 [INFO    ] Processing row 2705/60, ID: SRX20201036
+2025-05-03 20:14:47 [INFO    ] Row 2705 (ID: SRX20201036): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:47 [INFO    ] Attempting LLM classification for ID: SRX20201036, Text: 'SRX20201036	ID=SRX20201036 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver | genotype=WT | age=16 to 20 weeks | diet=fed ad libitum (LabDiet, #5001) | strain=mixed 129/Sv plus C57BL/6 background | cell type=Liver'
+2025-05-03 20:14:49 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:49 [INFO    ] LLM Parsed Result for SRX20201036: native
+2025-05-03 20:14:49 [INFO    ] Row 2705 (ID: SRX20201036): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:14:49 [INFO    ] Processing row 2747/60, ID: SRX204705
+2025-05-03 20:14:49 [INFO    ] Row 2747 (ID: SRX204705): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:49 [INFO    ] Attempting LLM classification for ID: SRX204705, Text: 'SRX204705	ID=SRX204705 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=C/EBPalpha 48h | time point=48h | strain=C57BL6/J | age=7 weeks old | gender=male | tissue=Total hepatectomized liver'
+2025-05-03 20:14:51 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:51 [INFO    ] LLM Parsed Result for SRX204705: non-native
+2025-05-03 20:14:51 [INFO    ] Row 2747 (ID: SRX204705): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:51 [INFO    ] Processing row 2860/60, ID: SRX20969410
+2025-05-03 20:14:51 [INFO    ] Row 2860 (ID: SRX20969410): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:51 [INFO    ] Attempting LLM classification for ID: SRX20969410, Text: 'SRX20969410	ID=SRX20969410 | Cell_type_class=Blood | Cell_type=Bone Marrow Cells | Metadata=source_name=Lineage- bone marrow cells in femora and tibiae | strain=C57BL/6 | donor genotype=CD45.2(+) Brd9fl/fl | recipient genotype=CD45.1(+) CD45.2(-) | timing of preparation=5 months after pIpC injection'
+2025-05-03 20:14:53 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:53 [INFO    ] LLM Parsed Result for SRX20969410: non-native
+2025-05-03 20:14:53 [INFO    ] Row 2860 (ID: SRX20969410): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:53 [INFO    ] Processing row 2953/60, ID: SRX21711865
+2025-05-03 20:14:53 [INFO    ] Row 2953 (ID: SRX21711865): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:53 [INFO    ] Attempting LLM classification for ID: SRX21711865, Text: 'SRX21711865	ID=SRX21711865 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=BMDM | cell type=BMDM | treatment=WT | stimulation=0hr LipidA'
+2025-05-03 20:14:55 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:55 [INFO    ] LLM Parsed Result for SRX21711865: non-native
+2025-05-03 20:14:55 [INFO    ] Row 2953 (ID: SRX21711865): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:55 [INFO    ] Processing row 3077/60, ID: SRX22512363
+2025-05-03 20:14:55 [INFO    ] Row 3077 (ID: SRX22512363): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:55 [INFO    ] Attempting LLM classification for ID: SRX22512363, Text: 'SRX22512363	ID=SRX22512363 | Cell_type_class=Neural | Cell_type=Neural progenitor cells | Metadata=source_name=Neural progenitor cells | cell type=Neural progenitor cells from ganglionic eminence | strain=C57BL/6 | genotype=Setdb1-KO | age=Embryonic day 15.5 | fetus id=2322-1KO'
+2025-05-03 20:14:58 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:58 [INFO    ] LLM Parsed Result for SRX22512363: non-native
+2025-05-03 20:14:58 [INFO    ] Row 3077 (ID: SRX22512363): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:58 [INFO    ] Processing row 3308/60, ID: SRX2424023
+2025-05-03 20:14:58 [INFO    ] Row 3308 (ID: SRX2424023): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:58 [INFO    ] Attempting LLM classification for ID: SRX2424023, Text: 'SRX2424023	ID=SRX2424023 | Cell_type_class=Cardiovascular | Cell_type=Heart | Metadata=dev stage=postnatal | donor ID=ENCDO956IXV | tissue=heart | age=0 day | sample type=tissue'
+2025-05-03 20:14:59 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:14:59 [INFO    ] LLM Parsed Result for SRX2424023: non-native
+2025-05-03 20:14:59 [INFO    ] Row 3308 (ID: SRX2424023): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:14:59 [INFO    ] Processing row 3423/60, ID: SRX2500398
+2025-05-03 20:14:59 [INFO    ] Row 3423 (ID: SRX2500398): LLM-Only mode. Calling LLM.
+2025-05-03 20:14:59 [INFO    ] Attempting LLM classification for ID: SRX2500398, Text: 'SRX2500398	ID=SRX2500398 | Cell_type_class=Neural | Cell_type=Cerebellar granule neurons | Metadata=source_name=Cerebellar granule neuron progenitor | strain=C57BL/6 | developmental stage=P7 | tissue=granule neuron progenitor'
+2025-05-03 20:15:01 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:01 [INFO    ] LLM Parsed Result for SRX2500398: non-native
+2025-05-03 20:15:01 [INFO    ] Row 3423 (ID: SRX2500398): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:01 [INFO    ] Processing row 3524/60, ID: SRX2647492
+2025-05-03 20:15:01 [INFO    ] Row 3524 (ID: SRX2647492): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:01 [INFO    ] Attempting LLM classification for ID: SRX2647492, Text: 'SRX2647492	ID=SRX2647492 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=CD4+ T cells | strain=C57BL/6 | genotype=WT | culture condition=ChIP-seq in vitro culture protocol (IFN-\u03b2)'
+2025-05-03 20:15:03 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:03 [INFO    ] LLM Parsed Result for SRX2647492: non-native
+2025-05-03 20:15:03 [INFO    ] Row 3524 (ID: SRX2647492): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:03 [INFO    ] Processing row 3581/60, ID: SRX2741794
+2025-05-03 20:15:03 [INFO    ] Row 3581 (ID: SRX2741794): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:03 [INFO    ] Attempting LLM classification for ID: SRX2741794, Text: 'SRX2741794	ID=SRX2741794 | Cell_type_class=Blood | Cell_type=Erythroid Cells | Metadata=source_name=Ter119+ Erythroid cells | strain=C57BL6 | tissue=Phenylhydrazine treated spleen'
+2025-05-03 20:15:05 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:05 [INFO    ] LLM Parsed Result for SRX2741794: non-native
+2025-05-03 20:15:05 [INFO    ] Row 3581 (ID: SRX2741794): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:05 [INFO    ] Processing row 3949/60, ID: SRX319874
+2025-05-03 20:15:05 [INFO    ] Row 3949 (ID: SRX319874): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:05 [INFO    ] Attempting LLM classification for ID: SRX319874, Text: 'SRX319874	ID=SRX319874 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Primary thioglycollate-elicited peritoneal macrophages | cell type=Macrophage | strain=C57BL/6 | treatment=Kdo2 Lipid A (KLA) 12h'
+2025-05-03 20:15:07 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:07 [INFO    ] LLM Parsed Result for SRX319874: non-native
+2025-05-03 20:15:07 [INFO    ] Row 3949 (ID: SRX319874): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:07 [INFO    ] Processing row 4126/60, ID: SRX341761
+2025-05-03 20:15:07 [INFO    ] Row 4126 (ID: SRX341761): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:07 [INFO    ] Attempting LLM classification for ID: SRX341761, Text: 'SRX341761	ID=SRX341761 | Cell_type_class=Adipocyte | Cell_type=Brown preadipocytes | Metadata=source_name=MyoD-induced mouse brown preadipocytes, WT, MyoD ChIP | strain/background=C57BL/6J | genotype=MLL3-/- | age=E18.5 embryos | cell type=MyoD-induced immortalized brown preadipocytes'
+2025-05-03 20:15:10 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:10 [INFO    ] LLM Parsed Result for SRX341761: non-native
+2025-05-03 20:15:10 [INFO    ] Row 4126 (ID: SRX341761): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:10 [INFO    ] Processing row 4238/60, ID: SRX3582922
+2025-05-03 20:15:10 [INFO    ] Row 4238 (ID: SRX3582922): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:10 [INFO    ] Attempting LLM classification for ID: SRX3582922, Text: 'SRX3582922	ID=SRX3582922 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=GR_ZT12 HFD_liver | strain=C57BL/6J | treatment=12 wk High Fat Diet (Research Diet, D12331) | tissue=Liver'
+2025-05-03 20:15:11 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:11 [INFO    ] LLM Parsed Result for SRX3582922: non-native
+2025-05-03 20:15:11 [INFO    ] Row 4238 (ID: SRX3582922): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:11 [INFO    ] Processing row 4252/60, ID: SRX3601924
+2025-05-03 20:15:11 [INFO    ] Row 4252 (ID: SRX3601924): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:11 [INFO    ] Attempting LLM classification for ID: SRX3601924, Text: 'SRX3601924	ID=SRX3601924 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=BMDM_ChIP_NDF7_6hKLA | strain=C57BI/6 (Harlan Laboratories) | age=8-10 weeks | cell type=Primary BMDM | genotype/variation=WT | chip antibodies=NDF7, home-made'
+2025-05-03 20:15:14 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:14 [INFO    ] LLM Parsed Result for SRX3601924: native
+2025-05-03 20:15:14 [INFO    ] Row 4252 (ID: SRX3601924): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:15:14 [INFO    ] Processing row 4459/60, ID: SRX3858835
+2025-05-03 20:15:14 [INFO    ] Row 4459 (ID: SRX3858835): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:14 [INFO    ] Attempting LLM classification for ID: SRX3858835, Text: 'SRX3858835	ID=SRX3858835 | Cell_type_class=Epidermis | Cell_type=Epidermal progenitor cells | Metadata=source_name=Epidermal progenitor cells | cell type=Epidermal progenitor cells | tissue=Epidermis | age=Postnatal day 0 | genotype=Control'
+2025-05-03 20:15:15 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:15 [INFO    ] LLM Parsed Result for SRX3858835: non-native
+2025-05-03 20:15:15 [INFO    ] Row 4459 (ID: SRX3858835): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:15 [INFO    ] Processing row 4514/60, ID: SRX392764
+2025-05-03 20:15:15 [INFO    ] Row 4514 (ID: SRX392764): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:15 [INFO    ] Attempting LLM classification for ID: SRX392764, Text: 'SRX392764	ID=SRX392764 | Cell_type_class=Blood | Cell_type=HAFTL | Metadata=source_name=Haftl pre-B cells | cell type=haftl derived C10 cells | time after induction=3 hours'
+2025-05-03 20:15:17 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:17 [INFO    ] LLM Parsed Result for SRX392764: non-native
+2025-05-03 20:15:17 [INFO    ] Row 4514 (ID: SRX392764): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:17 [INFO    ] Processing row 4568/60, ID: SRX4178770
+2025-05-03 20:15:17 [INFO    ] Row 4568 (ID: SRX4178770): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:17 [INFO    ] Attempting LLM classification for ID: SRX4178770, Text: 'SRX4178770	ID=SRX4178770 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=WT IRF9 90 min IFNg, BMDM | strain=C57BL/6 | age=8-10 weeks | treatment=IFNg | genotype=wildtype | cell type=bone marrow derived macrophages'
+2025-05-03 20:15:19 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:19 [INFO    ] LLM Parsed Result for SRX4178770: non-native
+2025-05-03 20:15:19 [INFO    ] Row 4568 (ID: SRX4178770): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:19 [INFO    ] Processing row 4615/60, ID: SRX4325335
+2025-05-03 20:15:19 [INFO    ] Row 4615 (ID: SRX4325335): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:19 [INFO    ] Attempting LLM classification for ID: SRX4325335, Text: 'SRX4325335	ID=SRX4325335 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=liver | strain=C3H/HeN | replicate animal=1'
+2025-05-03 20:15:21 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:21 [INFO    ] LLM Parsed Result for SRX4325335: native
+2025-05-03 20:15:21 [INFO    ] Row 4615 (ID: SRX4325335): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:15:21 [INFO    ] Processing row 4625/60, ID: SRX4348502
+2025-05-03 20:15:21 [INFO    ] Row 4625 (ID: SRX4348502): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:21 [INFO    ] Attempting LLM classification for ID: SRX4348502, Text: 'SRX4348502	ID=SRX4348502 | Cell_type_class=Blood | Cell_type=Natural killer cells | Metadata=source_name=splenic NK cells | genotype=IRF9WT | condition=IFNaIL2'
+2025-05-03 20:15:22 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:22 [INFO    ] LLM Parsed Result for SRX4348502: non-native
+2025-05-03 20:15:22 [INFO    ] Row 4625 (ID: SRX4348502): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:22 [INFO    ] Processing row 4811/60, ID: SRX4895097
+2025-05-03 20:15:22 [INFO    ] Row 4811 (ID: SRX4895097): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:22 [INFO    ] Attempting LLM classification for ID: SRX4895097, Text: 'SRX4895097	ID=SRX4895097 | Cell_type_class=Blood | Cell_type=CH12 | Metadata=source_name=CH12 B cell line | cell line=CH12 | cell type=lymphoma cell line | genotype/variation=Med14Nsmash | treatment=APR60h'
+2025-05-03 20:15:25 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:25 [INFO    ] LLM Parsed Result for SRX4895097: non-native
+2025-05-03 20:15:25 [INFO    ] Row 4811 (ID: SRX4895097): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:25 [INFO    ] Processing row 5130/60, ID: SRX5689484
+2025-05-03 20:15:25 [INFO    ] Row 5130 (ID: SRX5689484): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:25 [INFO    ] Attempting LLM classification for ID: SRX5689484, Text: 'SRX5689484	ID=SRX5689484 | Cell_type_class=Blood | Cell_type=nTreg | Metadata=source_name=nTregs isolated from Foxp3Thy1.1/Rosa-Cas9 mice | genotype/variation=Foxp3Thy1.1/Rosa-Cas9 | cell type=nTregs | treatment=none | guide rna=none'
+2025-05-03 20:15:28 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:28 [INFO    ] LLM Parsed Result for SRX5689484: non-native
+2025-05-03 20:15:28 [INFO    ] Row 5130 (ID: SRX5689484): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:28 [INFO    ] Processing row 5270/60, ID: SRX6417441
+2025-05-03 20:15:28 [INFO    ] Row 5270 (ID: SRX6417441): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:28 [INFO    ] Attempting LLM classification for ID: SRX6417441, Text: 'SRX6417441	ID=SRX6417441 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver | strain=C57B6/CR | age=22 months | genotype=WT | treatment=NR (~400 mg/kg) | treatment time point=6 months | collection time point=ZT20'
+2025-05-03 20:15:30 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:30 [INFO    ] LLM Parsed Result for SRX6417441: non-native
+2025-05-03 20:15:30 [INFO    ] Row 5270 (ID: SRX6417441): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:30 [INFO    ] Processing row 5310/60, ID: SRX661408
+2025-05-03 20:15:30 [INFO    ] Row 5310 (ID: SRX661408): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:30 [INFO    ] Attempting LLM classification for ID: SRX661408, Text: 'SRX661408	ID=SRX661408 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver tissue | strain=back-crossed to the BALB/c | genotype/variation=GRdim | collection time=6am'
+2025-05-03 20:15:31 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:31 [INFO    ] LLM Parsed Result for SRX661408: non-native
+2025-05-03 20:15:31 [INFO    ] Row 5310 (ID: SRX661408): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:31 [INFO    ] Processing row 5677/60, ID: SRX7368531
+2025-05-03 20:15:31 [INFO    ] Row 5677 (ID: SRX7368531): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:31 [INFO    ] Attempting LLM classification for ID: SRX7368531, Text: 'SRX7368531	ID=SRX7368531 | Cell_type_class=Blood | Cell_type=B cells | Metadata=source_name=ChIP WT CD40/IL4 OBF1 rep1 | genotype=Wild type | cell type=CD19+ splenic B cells | sample type=Primary cells | stimulation=anti-CD40/IL4'
+2025-05-03 20:15:33 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:33 [INFO    ] LLM Parsed Result for SRX7368531: non-native
+2025-05-03 20:15:33 [INFO    ] Row 5677 (ID: SRX7368531): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:33 [INFO    ] Processing row 5684/60, ID: SRX7368548
+2025-05-03 20:15:33 [INFO    ] Row 5684 (ID: SRX7368548): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:33 [INFO    ] Attempting LLM classification for ID: SRX7368548, Text: 'SRX7368548	ID=SRX7368548 | Cell_type_class=Blood | Cell_type=B cells | Metadata=source_name=ChIP OBF1KO LPS OCT1 rep2 | genotype=OBF1KO | cell type=CD19+ splenic B cells | sample type=Primary cells | stimulation=LPS'
+2025-05-03 20:15:35 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:35 [INFO    ] LLM Parsed Result for SRX7368548: non-native
+2025-05-03 20:15:35 [INFO    ] Row 5684 (ID: SRX7368548): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:35 [INFO    ] Processing row 5718/60, ID: SRX745826
+2025-05-03 20:15:35 [INFO    ] Row 5718 (ID: SRX745826): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:35 [INFO    ] Attempting LLM classification for ID: SRX745826, Text: 'SRX745826	ID=SRX745826 | Cell_type_class=Blood | Cell_type=Burst-forming unit erythroids | Metadata=source_name=burst-forming unit erythroid (BFU-E) | develomental stage=E14.5 | tissue=liver | cell type=burst-forming unit erythroid (BFU-E) | treatment=Dexamethasone and GW7647 4 hrs | strain=129/SvImJ'
+2025-05-03 20:15:37 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:37 [INFO    ] LLM Parsed Result for SRX745826: non-native
+2025-05-03 20:15:37 [INFO    ] Row 5718 (ID: SRX745826): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:37 [INFO    ] Processing row 5803/60, ID: SRX7726481
+2025-05-03 20:15:37 [INFO    ] Row 5803 (ID: SRX7726481): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:37 [INFO    ] Attempting LLM classification for ID: SRX7726481, Text: 'SRX7726481	ID=SRX7726481 | Cell_type_class=Blood | Cell_type=Natural killer cells | Metadata=source_name=Tbet_NK_WT_exvivo | strain=C57BL/6 | tissue=Spleen | cell type=Natural killer cells | surface marker=CD3e-NKp46+ | culture condition=ex vivo | description for exp id=151211_0411_s07'
+2025-05-03 20:15:39 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:39 [INFO    ] LLM Parsed Result for SRX7726481: native
+2025-05-03 20:15:39 [INFO    ] Row 5803 (ID: SRX7726481): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:15:39 [INFO    ] Processing row 6018/60, ID: SRX8241996
+2025-05-03 20:15:39 [INFO    ] Row 6018 (ID: SRX8241996): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:39 [INFO    ] Attempting LLM classification for ID: SRX8241996, Text: 'SRX8241996	ID=SRX8241996 | Cell_type_class=Blood | Cell_type=Monocytes | Metadata=source_name=bone marrow cells | cell type=monocytes | genotype=Wild type | cell isolation=Primary isolated cells | tissue=bone marrow | strain=C57BL/6 | sorting methods=MACS selection | surface markers=CD117– CD135– Ly6G– CD115+'
+2025-05-03 20:15:41 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:41 [INFO    ] LLM Parsed Result for SRX8241996: native
+2025-05-03 20:15:41 [INFO    ] Row 6018 (ID: SRX8241996): LLM classified as 'native'. Using LLM result.
+2025-05-03 20:15:41 [INFO    ] Processing row 6319/60, ID: SRX8725650
+2025-05-03 20:15:41 [INFO    ] Row 6319 (ID: SRX8725650): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:41 [INFO    ] Attempting LLM classification for ID: SRX8725650, Text: 'SRX8725650	ID=SRX8725650 | Cell_type_class=Liver | Cell_type=Hepa-1c1c7 | Metadata=source_name=Mouse Hepatoma Cell Line | cell line=Hepa-1c1c7 | treatment=1 µM chromium | pulldown target=CTCF'
+2025-05-03 20:15:44 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:44 [INFO    ] LLM Parsed Result for SRX8725650: non-native
+2025-05-03 20:15:44 [INFO    ] Row 6319 (ID: SRX8725650): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:44 [INFO    ] Processing row 6536/60, ID: SRX9311847
+2025-05-03 20:15:44 [INFO    ] Row 6536 (ID: SRX9311847): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:44 [INFO    ] Attempting LLM classification for ID: SRX9311847, Text: 'SRX9311847	ID=SRX9311847 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=ChIP_CEBPb_C57_BMDM_24hIL4 | strain=C57BL/6J | treatment=IL-4 24h | cell type=BMDMs (bone marow-derived macrophages)'
+2025-05-03 20:15:46 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:46 [INFO    ] LLM Parsed Result for SRX9311847: non-native
+2025-05-03 20:15:46 [INFO    ] Row 6536 (ID: SRX9311847): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:46 [INFO    ] Processing row 6550/60, ID: SRX9311895
+2025-05-03 20:15:46 [INFO    ] Row 6550 (ID: SRX9311895): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:46 [INFO    ] Attempting LLM classification for ID: SRX9311895, Text: 'SRX9311895	ID=SRX9311895 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=ChIP_PPARg_Egr2flfl_BMDM_24hIL4 | strain=Egr2 fl/fl | treatment=IL-4 24h | cell type=BMDMs (bone marow-derived macrophages)'
+2025-05-03 20:15:48 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:48 [INFO    ] LLM Parsed Result for SRX9311895: non-native
+2025-05-03 20:15:48 [INFO    ] Row 6550 (ID: SRX9311895): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:48 [INFO    ] Processing row 6575/60, ID: SRX9344868
+2025-05-03 20:15:48 [INFO    ] Row 6575 (ID: SRX9344868): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:48 [INFO    ] Attempting LLM classification for ID: SRX9344868, Text: 'SRX9344868	ID=SRX9344868 | Cell_type_class=Blood | Cell_type=RAW 264.7 | Metadata=source_name=RAW264.7 cells | cell type=Macrophage | strain=BALB/c | agent=LPS | time point=2 hours'
+2025-05-03 20:15:50 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:50 [INFO    ] LLM Parsed Result for SRX9344868: non-native
+2025-05-03 20:15:50 [INFO    ] Row 6575 (ID: SRX9344868): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:50 [INFO    ] Processing row 6607/60, ID: SRX9432511
+2025-05-03 20:15:50 [INFO    ] Row 6607 (ID: SRX9432511): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:50 [INFO    ] Attempting LLM classification for ID: SRX9432511, Text: 'SRX9432511	ID=SRX9432511 | Cell_type_class=Blood | Cell_type=RAW 264.7 | Metadata=source_name=Bone marrow | cell line=Raw264.7 | cell type=Monocyte-derived cell line | treatment=Ibet only | time point=4 hours'
+2025-05-03 20:15:52 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:52 [INFO    ] LLM Parsed Result for SRX9432511: non-native
+2025-05-03 20:15:52 [INFO    ] Row 6607 (ID: SRX9432511): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:52 [INFO    ] Processing row 6723/60, ID: SRX978687
+2025-05-03 20:15:52 [INFO    ] Row 6723 (ID: SRX978687): LLM-Only mode. Calling LLM.
+2025-05-03 20:15:52 [INFO    ] Attempting LLM classification for ID: SRX978687, Text: 'SRX978687	ID=SRX978687 | Cell_type_class=Adipocyte | Cell_type=Brown adipose tissue | Metadata=source_name=iBAT_D8_ISO_plus_BRG1 | cell=immortalized brown adipocytes (iBATs) | treatment=isoproterenol (1 µM, 2 hr)'
+2025-05-03 20:15:54 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-03 20:15:54 [INFO    ] LLM Parsed Result for SRX978687: non-native
+2025-05-03 20:15:54 [INFO    ] Row 6723 (ID: SRX978687): LLM classified as 'non-native'. Using LLM result.
+2025-05-03 20:15:54 [INFO    ] Metadata processing finished.
+2025-05-03 20:15:54 [INFO    ] Classification summary saved to: ../data/processed/classification\mouse_mistral_2\classification_summary.csv
+2025-05-03 20:15:54 [INFO    ] Writing final native/non-native tables...
+2025-05-03 20:15:54 [INFO    ] Total Native IDs: 13
+2025-05-03 20:15:54 [INFO    ] Total Non-Native IDs: 47
+2025-05-03 20:15:54 [INFO    ] Finished writing tables: ../data/processed/classification\mouse_mistral_2\native_classified.tsv (13 rows) and ../data/processed/classification\mouse_mistral_2\non_native_classified.tsv (47 rows)
+2025-05-03 20:15:54 [INFO    ] Script finished.

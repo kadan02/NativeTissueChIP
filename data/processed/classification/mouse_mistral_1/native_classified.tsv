@@ -1,0 +1,14 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+DRX440382	Ezh2	Spleen	Spleen	sample_name=ChIPseq EZH2 of WT mouse | age=not applicable | breed=not applicable | cultivar=not applicable | dev_stage=not applicable | ecotype=not applicable | isolate=not applicable | strain=C57BL/6J | tissue=spleen
+ERX204066	Cebpa	Liver	Hepatocytes	ArrayExpress-DevelopmentalStage=Adult | ArrayExpress-Genotype=Wildtype | ArrayExpress-OrganismPart=Liver | sample description=ChIPseq | strain=C57BL/6
+SRX027447	Dmc1	Gonad	Testis	source_name=pups testis | strain=9R/13R cross | genotype/variation=wild type | antibody lot=G0909
+SRX105503	Foxa1	Liver	Liver	source_name=liver | tissue=liver | strain=CD1 outbred mice | age=2-3 months
+SRX1063034	Stat1	Blood	CD4+ T cells	source_name=Pre-activated CD4+ T cells | strain=C57BL/6 | tissue=Spleen | genotype=WT | treatment=Cont STAT1 | cell type=Pre-activated CD4+ T cells
+SRX1176003	Stat5a	Blood	CD8+ T cells	source_name=CD8 T cell | cell type=effector CD8 T cell | strain=C57BL/6 | treatment=none
+SRX17605394	Kmt2d	Blood	Monocytes	source_name=Bone-Marrow | tissue=Bone-Marrow | strain=C57BL6 | cell type=Monocyte | genotype=Wild-type | treatment=NA
+SRX20201036	Hnf4a	Liver	Liver	source_name=Liver | genotype=WT | age=16 to 20 weeks | diet=fed ad libitum (LabDiet, #5001) | strain=mixed 129/Sv plus C57BL/6 background | cell type=Liver
+SRX21711865	Smarca4	Blood	Macrophages	source_name=BMDM | cell type=BMDM | treatment=WT | stimulation=0hr LipidA
+SRX3601924	Glyr1	Blood	Macrophages	source_name=BMDM_ChIP_NDF7_6hKLA | strain=C57BI/6 (Harlan Laboratories) | age=8-10 weeks | cell type=Primary BMDM | genotype/variation=WT | chip antibodies=NDF7, home-made
+SRX4325335	Foxa1	Liver	Liver	source_name=liver | strain=C3H/HeN | replicate animal=1
+SRX7726481	Tbx21	Blood	Natural killer cells	source_name=Tbet_NK_WT_exvivo | strain=C57BL/6 | tissue=Spleen | cell type=Natural killer cells | surface marker=CD3e-NKp46+ | culture condition=ex vivo | description for exp id=151211_0411_s07
+SRX8241996	Irf8	Blood	Monocytes	source_name=bone marrow cells | cell type=monocytes | genotype=Wild type | cell isolation=Primary isolated cells | tissue=bone marrow | strain=C57BL/6 | sorting methods=MACS selection | surface markers=CD117– CD135– Ly6G– CD115+

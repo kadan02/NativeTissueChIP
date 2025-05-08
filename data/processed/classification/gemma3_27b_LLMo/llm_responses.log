@@ -1,0 +1,379 @@
+--- LLM Response for ID: DRX440344 ---
+```json
+{"id": "DRX440344", "metadata": "Cell_type=CD4+ T cells", "native": true}
+```
+
+--- LLM Response for ID: DRX440349 ---
+{"id": "DRX440349", "metadata": "Cell_type=CD4+ T cells", "native": true}
+
+--- LLM Response for ID: SRX017709 ---
+{"id": "SRX017709", "metadata": "Cell_type=CD4+ T cells", "native": true}
+
+--- LLM Response for ID: SRX037935 ---
+{"id": "SRX037935", "metadata": "condition=CD34 WT", "native": true}
+
+--- LLM Response for ID: SRX037940 ---
+{"id": "SRX037940", "metadata": "condition=BRG1 RNAi KD", "native": false}
+
+--- LLM Response for ID: SRX037941 ---
+{"id": "SRX037941", "metadata": "condition=BRG1 KD", "native": false}
+
+--- LLM Response for ID: SRX10977238 ---
+{"id": "SRX10977238", "metadata": "dev_stage=newborn", "native": false}
+
+--- LLM Response for ID: SRX10977366 ---
+```json
+{"id": "SRX10977366", "metadata": "dev stage=embryonic", "native": false}
+```
+
+--- LLM Response for ID: SRX11513464 ---
+{"id": "SRX11513464", "metadata": "source_name=Dendritic cells differentiated from monocytes", "native": false}
+
+--- LLM Response for ID: SRX11513465 ---
+{"id": "SRX11513465", "metadata": "source_name=Tolerogenic dendritic cells differentiated from monocytes", "native": false}
+
+--- LLM Response for ID: SRX12118509 ---
+```json
+{"id": "SRX12118509", "metadata": "Cell_type=Naive B cells", "native": true}
+```
+
+--- LLM Response for ID: SRX12129506 ---
+{"id": "SRX12129506", "metadata": "treatment=PLX", "native": false}
+
+--- LLM Response for ID: SRX12209241 ---
+{"id": "SRX12209241", "metadata": "source_name=CD3/CD28 stimulated CD4+ T cells", "native": false}
+
+--- LLM Response for ID: SRX13006802 ---
+{"id": "SRX13006802", "metadata": "dev stage=adult, age=74 year", "native": true}
+
+--- LLM Response for ID: SRX14280059 ---
+{"id": "SRX14280059", "metadata": "disease state=NAFLD", "native": false}
+
+--- LLM Response for ID: SRX14280087 ---
+```json
+{"id": "SRX14280087", "metadata": "disease state=Normal control", "native": true}
+```
+
+--- LLM Response for ID: SRX15717771 ---
+{"id": "SRX15717771", "metadata": "cell type=Primary human islets", "native": true}
+
+--- LLM Response for ID: SRX16495661 ---
+{"id": "SRX16495661", "metadata": "sample type=primary cell", "native": true}
+
+--- LLM Response for ID: SRX16495697 ---
+{"id": "SRX16495697", "metadata": "dev stage=adult", "native": true}
+
+--- LLM Response for ID: SRX170349 ---
+{"id": "SRX170349", "metadata": "genotype/variation=wild type, developmental stage=Adult", "native": true}
+
+--- LLM Response for ID: SRX1738529 ---
+{"id": "SRX1738529", "metadata": "Cell_type=Hematopoietic Stem Cells", "native": true}
+
+--- LLM Response for ID: SRX18672589 ---
+```json
+{"id": "SRX18672589", "metadata": "cell line=C20", "native": false}
+```
+
+--- LLM Response for ID: SRX18672592 ---
+```json
+{"id": "SRX18672592", "metadata": "cell line=C20, treatment=CTCF-KD", "native": false}
+```
+
+--- LLM Response for ID: SRX18768994 ---
+{"id": "SRX18768994", "metadata": "cell type=Human primary adipose stem cells", "native": false}
+
+--- LLM Response for ID: SRX18768997 ---
+{"id": "SRX18768997", "metadata": "cell type=Human primary adipose stem cells", "native": false}
+
+--- LLM Response for ID: SRX19123217 ---
+```json
+{"id": "SRX19123217", "metadata": "cell line=Human B lymphocytes", "native": false}
+```
+
+--- LLM Response for ID: SRX212182 ---
+```json
+{"id": "SRX212182", "metadata": "source_name=fetal lung fibroblast", "native": false}
+```
+
+--- LLM Response for ID: SRX212351 ---
+{"id": "SRX212351", "metadata": "treatment=none", "native": true}
+
+--- LLM Response for ID: SRX212353 ---
+{"id": "SRX212353", "metadata": "treatment=none", "native": true}
+
+--- LLM Response for ID: SRX2166886 ---
+```json
+{"id": "SRX2166886", "metadata": "age=fetal week 15", "native": false}
+```
+
+--- LLM Response for ID: SRX2253219 ---
+{"id": "SRX2253219", "metadata": "source_name=Cll cells, diagnosis=CLL", "native": false}
+
+--- LLM Response for ID: SRX2268292 ---
+```json
+{"id": "SRX2268292", "metadata": "source_name=Fetal osteoblast", "native": false}
+```
+
+--- LLM Response for ID: SRX23045260 ---
+{"id": "SRX23045260", "metadata": "source_name=Human dermal fibroblasts", "native": false}
+
+--- LLM Response for ID: SRX23045263 ---
+{"id": "SRX23045263", "metadata": "treatment=TGFb", "native": false}
+
+--- LLM Response for ID: SRX23335286 ---
+{"id": "SRX23335286", "metadata": "age=0", "native": false}
+
+--- LLM Response for ID: SRX23335288 ---
+{"id": "SRX23335288", "metadata": "Cell_type=Dermal fibroblast", "native": false}
+
+--- LLM Response for ID: SRX23335289 ---
+```json
+{"id": "SRX23335289", "metadata": "Cell_type=Dermal fibroblast", "native": false}
+```
+
+--- LLM Response for ID: SRX23335290 ---
+{"id": "SRX23335290", "metadata": "Cell_type=Dermal fibroblast", "native": false}
+
+--- LLM Response for ID: SRX23335291 ---
+```json
+{"id": "SRX23335291", "metadata": "Cell_type=CD4+ T cells", "native": true}
+```
+
+--- LLM Response for ID: SRX23383574 ---
+{"id": "SRX23383574", "metadata": "cell line=primary, neonatal keratinocytes", "native": false}
+
+--- LLM Response for ID: SRX23548768 ---
+{"id": "SRX23548768", "metadata": "genotype=control", "native": true}
+
+--- LLM Response for ID: SRX23548770 ---
+```json
+{"id": "SRX23548770", "metadata": "genotype=miR-1204 overexpression", "native": false}
+```
+
+--- LLM Response for ID: SRX25152580 ---
+```json
+{"id": "SRX25152580", "metadata": "genotype=MED12-KO", "native": false}
+```
+
+--- LLM Response for ID: SRX25331425 ---
+```json
+{"id": "SRX25331425", "metadata": "cell line=ICR_CXJ_046", "native": false}
+```
+
+--- LLM Response for ID: SRX25501815 ---
+```json
+{"id": "SRX25501815", "metadata": "cell line=HDF-2, treatment=With AR silencing", "native": false}
+```
+
+--- LLM Response for ID: SRX2635902 ---
+{"id": "SRX2635902", "metadata": "dev stage=adult, health state=healthy", "native": true}
+
+--- LLM Response for ID: SRX2770856 ---
+{"id": "SRX2770856", "metadata": "source_name=Primary human monocyte-derived macrophages", "native": true}
+
+--- LLM Response for ID: SRX2966972 ---
+```json
+{"id": "SRX2966972", "metadata": "source_name=Fetal testis, cell type=2nd trimester human fetal testis", "native": false}
+```
+
+--- LLM Response for ID: SRX3195440 ---
+```json
+{"id": "SRX3195440", "metadata": "genotype=control untreated", "native": true}
+```
+
+--- LLM Response for ID: SRX3322085 ---
+```json
+{"id": "SRX3322085", "metadata": "dev_stage=adult, age=37 year", "native": true}
+```
+
+--- LLM Response for ID: SRX3584196 ---
+{"id": "SRX3584196", "metadata": "cell type=Primary human epididymis cells", "native": true}
+
+--- LLM Response for ID: SRX3585704 ---
+{"id": "SRX3585704", "metadata": "source_name=fetal lung fibroblast cells", "native": false}
+
+--- LLM Response for ID: SRX3666488 ---
+{"id": "SRX3666488", "metadata": "source_name=PHA-stimulated human T-lymphocytes", "native": true}
+
+--- LLM Response for ID: SRX3679898 ---
+```json
+{"id": "SRX3679898", "metadata": "genotype/variation=shKMT2D", "native": false}
+```
+
+--- LLM Response for ID: SRX3679900 ---
+```json
+{"id": "SRX3679900", "metadata": "genotype/variation=shSC", "native": false}
+```
+
+--- LLM Response for ID: SRX3679902 ---
+```json
+{"id": "SRX3679902", "metadata": "genotype/variation=shKMT2D", "native": false}
+```
+
+--- LLM Response for ID: SRX3734300 ---
+```json
+{"id": "SRX3734300", "metadata": "treatment=DMSO", "native": true}
+```
+
+--- LLM Response for ID: SRX3768737 ---
+```json
+{"id": "SRX3768737", "metadata": "genotype/variation=MLLT3 overexpression", "native": false}
+```
+
+--- LLM Response for ID: SRX382353 ---
+```json
+{"id": "SRX382353", "metadata": "cell line=HMEL-BRAFV600E, cell type=immortalized melanocytes", "native": false}
+```
+
+--- LLM Response for ID: SRX393518 ---
+{"id": "SRX393518", "metadata": "treatment=100 ng/ml final TSA", "native": false}
+
+--- LLM Response for ID: SRX4370433 ---
+```json
+{"id": "SRX4370433", "metadata": "developmental stage=Adult", "native": true}
+```
+
+--- LLM Response for ID: SRX4723358 ---
+{"id": "SRX4723358", "metadata": "source_name=2 week neuron", "native": false}
+
+--- LLM Response for ID: SRX5360084 ---
+{"id": "SRX5360084", "metadata": "Cell_type=Dermal fibroblast", "native": false}
+
+--- LLM Response for ID: SRX5360094 ---
+```json
+{"id": "SRX5360094", "metadata": "neoplastic stage=transformed", "native": false}
+```
+
+--- LLM Response for ID: SRX5371741 ---
+{"id": "SRX5371741", "metadata": "Cell_type=CD4+ T cells", "native": true}
+
+--- LLM Response for ID: SRX5391034 ---
+```json
+{"id": "SRX5391034", "metadata": "source_name=Primary skeletal myotube, cell type=Primary human myocytes", "native": true}
+```
+
+--- LLM Response for ID: SRX5391035 ---
+```json
+{"id": "SRX5391035", "metadata": "genotype=MondoA KD", "native": false}
+```
+
+--- LLM Response for ID: SRX5574342 ---
+{"id": "SRX5574342", "metadata": "cell subtype=primary monocytes", "native": true}
+
+--- LLM Response for ID: SRX5624369 ---
+{"id": "SRX5624369", "metadata": "treatment=TNF (10ng/ml) for 16 hours", "native": false}
+
+--- LLM Response for ID: SRX5716451 ---
+{"id": "SRX5716451", "metadata": "source_name=hNPCs", "native": false}
+
+--- LLM Response for ID: SRX5774914 ---
+```json
+{"id": "SRX5774914", "metadata": "cell line=A2B5+ iOPCs(H)", "native": false}
+```
+
+--- LLM Response for ID: SRX5839976 ---
+{"id": "SRX5839976", "metadata": "source_name=Primary human monocyte-derived macrophages", "native": false}
+
+--- LLM Response for ID: SRX6068070 ---
+{"id": "SRX6068070", "metadata": "menstrual cycle phase=mid-secretory", "native": true}
+
+--- LLM Response for ID: SRX6068072 ---
+{"id": "SRX6068072", "metadata": "menstrual cycle phase=proliferative", "native": true}
+
+--- LLM Response for ID: SRX6578928 ---
+{"id": "SRX6578928", "metadata": "Cell_type=T cells", "native": true}
+
+--- LLM Response for ID: SRX6763473 ---
+{"id": "SRX6763473", "metadata": "treatment=differentiating macrophages (day 1 of GM-CSF treatment)", "native": false}
+
+--- LLM Response for ID: SRX6763478 ---
+```json
+{"id": "SRX6763478", "metadata": "source_name=PRIMARY-MONOCYTE", "native": true}
+```
+
+--- LLM Response for ID: SRX6784062 ---
+```json
+{"id": "SRX6784062", "metadata": "dev_stage=adult, age=51 year", "native": true}
+```
+
+--- LLM Response for ID: SRX6969885 ---
+```json
+{"id": "SRX6969885", "metadata": "cell type=CHD6 heterozygous mutant", "native": false}
+```
+
+--- LLM Response for ID: SRX7015671 ---
+```json
+{"id": "SRX7015671", "metadata": "cell line=CRL7250", "native": false}
+```
+
+--- LLM Response for ID: SRX7223095 ---
+```json
+{"id": "SRX7223095", "metadata": "source_name=t-HESC cell line, cell line=t-HESC", "native": false}
+```
+
+--- LLM Response for ID: SRX735289 ---
+{"id": "SRX735289", "metadata": "source_name=In vitro differentiated Th1 cells", "native": false}
+
+--- LLM Response for ID: SRX7509593 ---
+{"id": "SRX7509593", "metadata": "dev_stage=adult, age=37 year", "native": true}
+
+--- LLM Response for ID: SRX7730450 ---
+{"id": "SRX7730450", "metadata": "genotype=Corrected RB1 mutation", "native": false}
+
+--- LLM Response for ID: SRX8090642 ---
+{"id": "SRX8090642", "metadata": "treatment=JQ1", "native": false}
+
+--- LLM Response for ID: SRX8090646 ---
+{"id": "SRX8090646", "metadata": "diagnosis=Rheumatoid arthritis", "native": false}
+
+--- LLM Response for ID: SRX8453150 ---
+```json
+{"id": "SRX8453150", "metadata": "disease state=metastatic castration resistant prostate cancer", "native": false}
+```
+
+--- LLM Response for ID: SRX8841625 ---
+```json
+{"id": "SRX8841625", "metadata": "condition=Acheiropodia patient", "native": false}
+```
+
+--- LLM Response for ID: SRX885891 ---
+{"id": "SRX885891", "metadata": "treatment=Control", "native": true}
+
+--- LLM Response for ID: SRX885895 ---
+{"id": "SRX885895", "metadata": "treatment=oxLDL (50mcg/ml)", "native": false}
+
+--- LLM Response for ID: SRX9029210 ---
+{"id": "SRX9029210", "metadata": "source_name=human neutrophil", "native": true}
+
+--- LLM Response for ID: SRX9029211 ---
+```json
+{"id": "SRX9029211", "metadata": "treatment=R848 (5mM)", "native": false}
+```
+
+--- LLM Response for ID: SRX9221932 ---
+{"id": "SRX9221932", "metadata": "treatment=17 β-estradiol (1 µM)", "native": false}
+
+--- LLM Response for ID: SRX9221933 ---
+```json
+{"id": "SRX9221933", "metadata": "source_name=Primary Hepatocytes", "native": true}
+```
+
+--- LLM Response for ID: SRX9345717 ---
+{"id": "SRX9345717", "metadata": "source_name=iPSC diffrentiation to Erythroid cells", "native": false}
+
+--- LLM Response for ID: SRX971583 ---
+```json
+{"id": "SRX971583", "metadata": "knockdown=p63, cell type=primary human neonatal keratinocytes", "native": false}
+```
+
+--- LLM Response for ID: SRX9850737 ---
+{"id": "SRX9850737", "metadata": "cell line=Calu-3", "native": false}
+
+--- LLM Response for ID: SRX9867030 ---
+```json
+{"id": "SRX9867030", "metadata": "Cell_type=CD8+ T cells", "native": true}
+```
+
+--- LLM Response for ID: SRX9969717 ---
+{"id": "SRX9969717", "metadata": "cell line=16HBE14o-", "native": false}
+

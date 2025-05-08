@@ -1,0 +1,12 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX4348502,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=IRF9WT
+SRX10873024,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. developmental stage=P5
+SRX2647492,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=WT
+SRX204705,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. strain=C57BL6/J, age=7 weeks old"
+SRX3601924,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell type=Primary BMDM
+SRX21711865,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. treatment=WT
+SRX7368531,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. sample type=Primary cells
+SRX6417441,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=WT
+SRX2500398,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. source_name=Cerebellar granule neuron progenitor, developmental stage=P7"
+SRX11366190,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. genotype=WT, age=3 months"
+SRX7902429,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=wild type

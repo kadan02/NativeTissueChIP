@@ -1,0 +1,32 @@
+2025-05-03 22:26:48 [INFO    ] Merged 75 rows based on matching IDs.
+2025-05-03 22:26:48 [INFO    ] Overall Accuracy: 0.7733
+2025-05-03 22:26:48 [INFO    ] 
+Metrics for 'Native' class (Positive Label = 1):
+2025-05-03 22:26:48 [INFO    ]   Precision: 0.5556
+2025-05-03 22:26:48 [INFO    ]   Recall:    0.9524
+2025-05-03 22:26:48 [INFO    ]   F1-Score:  0.7018
+2025-05-03 22:26:48 [INFO    ] 
+Metrics for 'Non-Native' class (Positive Label = 0):
+2025-05-03 22:26:48 [INFO    ]   Precision: 0.9744
+2025-05-03 22:26:48 [INFO    ]   Recall:    0.7037
+2025-05-03 22:26:48 [INFO    ]   F1-Score:  0.8172
+2025-05-03 22:26:48 [INFO    ] 
+Confusion Matrix ([0, 1] labels):
+2025-05-03 22:26:48 [INFO    ]             Predicted 0  Predicted 1
+2025-05-03 22:26:48 [INFO    ] Actual 0        38           16     
+2025-05-03 22:26:48 [INFO    ] Actual 1         1           20     
+2025-05-03 22:26:48 [INFO    ]   (TN, FP)
+2025-05-03 22:26:48 [INFO    ]   (FN, TP)
+2025-05-03 22:26:48 [INFO    ] 
+Full Classification Report:
+2025-05-03 22:26:48 [INFO    ]                 precision    recall  f1-score   support
+2025-05-03 22:26:48 [INFO    ] 
+2025-05-03 22:26:48 [INFO    ] Non-Native (0)       0.97      0.70      0.82        54
+2025-05-03 22:26:48 [INFO    ]     Native (1)       0.56      0.95      0.70        21
+2025-05-03 22:26:48 [INFO    ] 
+2025-05-03 22:26:48 [INFO    ]       accuracy                           0.77        75
+2025-05-03 22:26:48 [INFO    ]      macro avg       0.76      0.83      0.76        75
+2025-05-03 22:26:48 [INFO    ]   weighted avg       0.86      0.77      0.78        75
+2025-05-03 22:26:48 [INFO    ] 
+2025-05-03 22:26:48 [INFO    ] 
+Total Misclassified Samples: 17

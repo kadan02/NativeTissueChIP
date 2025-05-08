@@ -1,0 +1,15 @@
+2025-05-02 04:43:37 [INFO    ] Script started. Output directory: ../data/processed/classification\qwen3-235b_hybrid
+2025-05-02 04:43:37 [INFO    ] Full log file: ../data/processed/classification\qwen3-235b_hybrid\classification_run.log
+2025-05-02 04:43:39 [INFO    ] Processing benchmark file: ../data/processed/metadata/labeled_data.tsv)
+2025-05-02 04:43:39 [INFO    ] LLM Client initialized. URL: https://genai.science-cloud.hu/api/, Model: qwen3:235b-a22b)
+2025-05-02 04:43:39 [INFO    ] Loading metadata from: ../data/processed/metadata/human_preprocessed.tsv
+2025-05-02 04:43:39 [INFO    ] Loading benchmark IDs from: ../data/processed/metadata/labeled_data.tsv
+2025-05-02 04:43:39 [INFO    ] Loaded 99 unique IDs from benchmark file.
+2025-05-02 04:43:39 [INFO    ] Loaded 2058 rows and 5 columns.
+2025-05-02 04:43:39 [INFO    ] Filtered main metadata to 99 rows based on benchmark IDs (from 2058 initial rows).
+2025-05-02 04:43:39 [INFO    ] Starting metadata classification process...
+2025-05-02 04:43:39 [INFO    ] Starting processing of 99 rows.  LLM-Only mode: False
+2025-05-02 04:43:39 [INFO    ] Processing row 3/99, ID: DRX440344
+2025-05-02 04:43:39 [INFO    ] Row 3 (ID: DRX440344): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 04:43:39 [INFO    ] Row 3 (ID: DRX440344): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 04:43:39 [INFO    ] Attempting LLM classification for ID: DRX440344, Text: 'DRX440344	ID=DRX440344 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=sample_name=ChIPseq EZH2 of hCD4 | age=not applicable | cell_type=CD4 positive T cell | isolate=not applicable | tissue=PBMC'

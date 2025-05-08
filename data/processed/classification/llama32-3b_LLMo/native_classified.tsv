@@ -1,0 +1,32 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+SRX017709	KAT5	Blood	CD4+ T cells	source_name=CD4+ T cell | cell type=activated CD4+ T cell | sirna=n/a | treatment=n/a
+SRX037935	CTCF	Blood	CD34+	source_name=CD34 | condition=CD34 WT
+SRX12118509	POU2F2	Blood	Naive B cells	source_name=naïve B-cells | treatment=NA | tissue=tonsil | cell type=naive B-cells | knock down=NA
+SRX12209241	NFKB1	Blood	CD4+ T cells	source_name=CD3/CD28 stimulated CD4+ T cells | cell type=CD4+ T cells | case or control=Control | age=53
+SRX14280087	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=Normal control
+SRX15717771	HNF4A	Pancreas	Pancreatic islets	source_name=Human islets | cell type=Primary human islets | treatment=untreated
+SRX18768997	LMNA	Adipocyte	Adipose stem cells	source_name=Adipose | cell type=Human primary adipose stem cells | tissue=Adipose | time=Day 3 | replicate=Rep1
+SRX19123217	DAXX	Blood	B cells	source_name=Human B lymphocytes | cell line=Human B lymphocytes | disease state=healthy control
+SRX212351	HIF1A	Blood	Macrophages	source_name=macrophage | donor=1 | stress=Normoxy 20% O2 | treatment=none
+SRX23045260	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=Vehicle
+SRX23335286	EZH2	Epidermis	Foreskin	source_name=foreskin fibroblasts | cell type=foreskin fibroblasts | age=0 | passage number=2
+SRX23335291	EZH2	Blood	CD4+ T cells	source_name=CD4 T-cells | cell type=CD4 T-cells | age=23 | passage number=None
+SRX23548768	TP53	Cardiovascular	Vascular smooth muscle cells	source_name=vascular smooth muscle cell | cell type=vascular smooth muscle cell | genotype=control
+SRX2770856	SPI1	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages, untreated, PU.1 ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=none
+SRX3195440	MLLT3	Blood	CD34+ cells	source_name=FLAG MLL-AF9 ChIPseq | cell type=human CD34+ | genotype=control untreated
+SRX3322085	CTCF	Digestive tract	Gastroesophageal sphincter	tissue=gastroesophageal sphincter | sample_type=tissue | age=37 year | donor ID=ENCDO845WKR | dev_stage=adult
+SRX3584196	RUNX1	Gonad	Epididymis	source_name=Epididymis | cell type=Primary human epididymis cells
+SRX3734300	TP53	Epidermis	Foreskin	source_name=Foreskin | treatment=DMSO
+SRX4370433	CTCF	Neural	Anterior temporal cortex	source_name=Adult anterior temporal cortex | developmental stage=Adult | tissue=brain (anterior temporal cortex)
+SRX4723358	GATA3	Neural	Neurons	source_name=2 week neuron_homerTF_GATA3_WT126 | individual=wt126 | sh=none
+SRX5391034	MLXIP	Muscle	Skeletal myotubes	source_name=Primary skeletal myotube | cell type=Primary human myocytes | genotype=control | passages=P7
+SRX5574342	SPI1	Blood	Monocytes	source_name=cMO_PU.1-ChIP | donr id=donorA | tissue/cell type=peripheral blood | cell subtype=primary monocytes
+SRX5716451	SOX2	Neural	Neural progenitor cells	source_name=hNPCs | genotype/variation=wild type | sirna=none | lentiviral expression=none
+SRX5774914	POU5F1	Epidermis	Dermal fibroblast	source_name=Foreskin fibroblasts | tissue=Foreskin fibroblasts | cell line=A2B5+ iOPCs(H)
+SRX6068070	PGR	Uterus	Endometrium	source_name=Midsecretory rep1 PGR-ChIPseq | menstrual cycle phase=mid-secretory | tissue=endometrium/whole endometrium
+SRX6068072	PGR	Uterus	Endometrium	source_name=Proliferative rep2 PGR-ChIPseq | menstrual cycle phase=proliferative | tissue=endometrium/whole endometrium
+SRX6578928	CTCF	Blood	T cells	source_name=Peripheral blood T cells | tissue=Peripheral blood | disease state=Healthy T cells | treatment=N/A
+SRX885891	CEBPB	Blood	Macrophages	source_name=Macrophage-control | treatment=Control | cell type=Macrophage
+SRX9029210	POU2F2	Blood	Neutrophils	source_name=human neutrophil | treatment=no treatment | time=20 h | cell type=neutrophil
+SRX9221933	ESR1	Liver	Hepatocytes	source_name=Primary Hepatocytes | tissue/cell type=Primary hepatocytes | treatment=DMSO | treatment time=8 hours
+SRX9969717	BACH1	Others	16HBE14o-	source_name=16HBE14o- | cell line=16HBE14o- | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS

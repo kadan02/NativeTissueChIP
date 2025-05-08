@@ -1,0 +1,100 @@
+ID,keyword_classification,keyword_confidence,keyword_reason,final_classification,llm_reason,classification_method
+DRX440344,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Blood, Cell_type=CD4+ T cells",LLM
+DRX440349,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Blood, Cell_type=CD4+ T cells",LLM
+SRX017709,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=CD4+ T cells, Metadata=cell type=activated CD4+ T cell",LLM
+SRX037935,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. condition=CD34 WT,LLM
+SRX037940,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. condition=BRG1 RNAi KD,LLM
+SRX037941,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. condition=BRG1 KD,LLM
+SRX10977238,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. age=2-4 day, dev_stage=newborn",LLM
+SRX10977366,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. dev stage=embryonic, age=5 day",LLM
+SRX11513464,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Blood, Cell_type=Dendritic Cells, source_name=Dendritic cells differentiated from monocytes",LLM
+SRX11513465,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell type=tolDC, source_name=Tolerogenic dendritic cells",LLM
+SRX12118509,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=NA, knock down=NA, Cell_type=Naive B cells",LLM
+SRX12129506,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=PLX,LLM
+SRX12209241,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. case or control=Control, Cell_type=CD4+ T cells, cell type=CD4+ T cells",LLM
+SRX13006802,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. dev stage=adult, age=74 year, sample_type=tissue, Cell_type_class=Neural",LLM
+SRX14280059,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. disease state=NAFLD,LLM
+SRX14280087,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. disease state=Normal control,LLM
+SRX15717771,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=untreated, Cell_type=Primary human islets",LLM
+SRX16495661,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=CD8+ T cells, sample type=primary cell, dev stage=adult",LLM
+SRX16495697,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. dev stage=adult, age=90 or above year, Cell_type_class=Neural, sample type=tissue",LLM
+SRX170349,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype/variation=wild type, developmental stage=Adult, cell type=CD36+",LLM
+SRX1738529,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=Hematopoietic Stem Cells, cell type=HSPC",LLM
+SRX18672589,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line=C20,LLM
+SRX18672592,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell line=C20, treatment=CTCF-KD",LLM
+SRX18768994,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=Adipose stem cells, cell type=Human primary adipose stem cells",LLM
+SRX18768997,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. cell type=Human primary adipose stem cells,LLM
+SRX19123217,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. disease state=healthy control, cell line=Human B lymphocytes",LLM
+SRX212182,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. source_name=fetal lung fibroblast,LLM
+SRX212351,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=none, stress=Normoxy 20% O2",LLM
+SRX212353,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. treatment=none, stress=Hypoxy 1% O2 4 hours",LLM
+SRX2166886,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. age=fetal week 15,LLM
+SRX2253219,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. diagnosis=CLL, disease level=Binet B",LLM
+SRX2268292,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. source_name=Fetal osteoblast,LLM
+SRX23045260,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=Vehicle, Cell_type=Dermal fibroblast, source_name=Human dermal fibroblasts",LLM
+SRX23045263,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=TGFb,LLM
+SRX23335286,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. age=0, which typically indicates an embryonic or newborn sample",LLM
+SRX23335288,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell type=dermal fibroblasts, age=84, passage number=2",LLM
+SRX23335289,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. age=97, Cell_type=Dermal fibroblast, passage number=2",LLM
+SRX23335290,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. cell type=dermal fibroblasts, age=86, passage number=2",LLM
+SRX23335291,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=CD4+ T cells, age=23, no indicators of modification or immortalization",LLM
+SRX23383574,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell line=primary, neonatal keratinocytes",LLM
+SRX23548768,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=control, Cell_type=Vascular smooth muscle cells",LLM
+SRX23548770,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=miR-1204 overexpression,LLM
+SRX25152580,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=MED12-KO,LLM
+SRX25331425,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell line=ICR_CXJ_046, genotype=DHG-G34",LLM
+SRX25501815,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=With AR silencing,LLM
+SRX2635902,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. health state=healthy with non-obstructive CAD (coronary artery disease),LLM
+SRX2770856,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. disease state=healthy, treatment=none, Cell_type=Macrophages, untreated",LLM
+SRX2966972,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. source_name=Fetal testis, cell type=2nd trimester human fetal testis",LLM
+SRX3195440,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. genotype=control untreated,LLM
+SRX3322085,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Digestive tract, age=37 year, dev_stage=adult",LLM
+SRX3584196,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. cell type=Primary human epididymis cells,LLM
+SRX3585704,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. source_name=fetal lung fibroblast cells, cell type=fetal lung fibroblast cells",LLM
+SRX3666488,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Metadata=source_name=PHA-stimulated human T-lymphocytes,LLM
+SRX3679898,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=shKMT2D,LLM
+SRX3679900,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=shSC,LLM
+SRX3679902,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=shKMT2D,LLM
+SRX3734300,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=DMSO, Cell_type_class=Epidermis, Cell_type=Foreskin",LLM
+SRX3768737,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype/variation=MLLT3 overexpression,LLM
+SRX382353,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell line=HMEL-BRAFV600E, cell type=immortalized melanocytes",LLM
+SRX393518,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=100 ng/ml final TSA,LLM
+SRX4370433,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. developmental stage=Adult, Cell_type_class=Neural, source_name=Adult anterior temporal cortex",LLM
+SRX4723358,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Neural, Cell_type=Neurons, source_name=2 week neuron_homerTF_GATA3_WT126, individual=wt126, sh=none",LLM
+SRX5360084,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. neoplastic stage=untransformed, Cell_type=Dermal fibroblast",LLM
+SRX5360094,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. neoplastic stage=transformed,LLM
+SRX5371741,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=CD4+ T cells, source_name=primary blood, lineage=CD4",LLM
+SRX5391034,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype=control, cell type=Primary human myocytes",LLM
+SRX5391035,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=MondoA KD,LLM
+SRX5574342,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=Monocytes, cell subtype=primary monocytes, source_name=cMO_PU.1-ChIP does not indicate non-native modification",LLM
+SRX5624369,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=TNF (10ng/ml) for 16 hours,LLM
+SRX5716451,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. genotype/variation=wild type, Cell_type_class=Neural, Cell_type=Neural progenitor cells",LLM
+SRX5774914,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line=A2B5+ iOPCs(H),LLM
+SRX5839976,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=Macrophages, source_name=Primary human monocyte-derived macrophages",LLM
+SRX6068070,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Uterus, Cell_type=Endometrium, menstrual cycle phase=mid-secretory",LLM
+SRX6068072,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Uterus, Cell_type=Endometrium, menstrual cycle phase=proliferative",LLM
+SRX6578928,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. disease state=Healthy T cells, treatment=N/A, Cell_type_class=Blood, Cell_type=T cells",LLM
+SRX6763473,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=differentiating macrophages (day 1 of GM-CSF treatment),LLM
+SRX6763478,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=Monocytes, Metadata=PRIMARY-MONOCYTE",LLM
+SRX6784062,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. dev_stage=adult, age=51 year, sample_type=tissue, no modification indicators found",LLM
+SRX6969885,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell type=CHD6 heterozygous mutant,LLM
+SRX7015671,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line=CRL7250,LLM
+SRX7223095,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell line=t-HESC,LLM
+SRX735289,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment/agent=PMA/ionomycin,LLM
+SRX7509593,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. dev_stage=adult, age=37 year, sample_type=tissue, tissue=testis",LLM
+SRX7730450,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=Corrected RB1 mutation,LLM
+SRX8090642,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=JQ1,LLM
+SRX8090646,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. diagnosis=Rheumatoid arthritis,LLM
+SRX8453150,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. disease state=metastatic castration resistant prostate cancer,LLM
+SRX8841625,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. condition=Acheiropodia patient,LLM
+SRX885891,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=Control, cell type=Macrophage, source_name=Macrophage-control",LLM
+SRX885895,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=oxLDL (50mcg/ml),LLM
+SRX9029210,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. treatment=no treatment, Cell_type=Neutrophils, cell type=neutrophil",LLM
+SRX9029211,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=R848 (5mM),LLM
+SRX9221932,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. treatment=17 β-estradiol (1 µM),LLM
+SRX9221933,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=Hepatocytes, source_name=Primary Hepatocytes, treatment=DMSO",LLM
+SRX9345717,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Metadata=source_name=iPSC diffrentiation to Erythroid cells,LLM
+SRX971583,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. knockdown=p63,LLM
+SRX9850737,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=Calu-3,LLM
+SRX9867030,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type=CD8+ T cells, cell type=CD8",LLM
+SRX9969717,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=16HBE14o-,LLM

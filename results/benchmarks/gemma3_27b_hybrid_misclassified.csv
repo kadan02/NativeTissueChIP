@@ -1,0 +1,15 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440349,0,native,LLM (Fallback),No relevant keywords,Native. Cell_type=CD4+ T cells
+SRX11513464,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)",Non-Native. source_name=Dendritic cells differentiated from monocytes
+SRX18768994,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell type=Human primary adipose stem cells
+SRX18768997,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell type=Human primary adipose stem cells
+SRX19123217,1,non-native,LLM (Native Validation),"Highest weight keyword: 'healthy donor' (category: strong_native, score: 76.92307692307692). Matches found: 'healthy donor' in 'disease state' (strong_native/76.92307692307692)",Non-Native. cell line=Human B lymphocytes
+SRX212353,0,native,LLM (Fallback),No relevant keywords,Native. treatment=none
+SRX23045260,1,non-native,LLM (Native Validation),"Highest weight keyword: 'vehicle' (category: weak_native, score: 100.0). Matches found: 'vehicle' in 'treatment' (weak_native/100.0)",Non-Native. source_name=Human dermal fibroblasts
+SRX5716451,1,non-native,LLM (Native Validation),"Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype/variation' (weak_native/100.0)",Non-Native. source_name=hNPCs
+SRX5839976,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. source_name=Primary human monocyte-derived macrophages
+SRX8090646,1,non-native,LLM (Native Validation),"Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)",Non-Native. diagnosis=Rheumatoid arthritis
+SRX735289,0,native,LLM (Fallback),No relevant keywords,Native. source_name=In vitro differentiated Th1 cells
+SRX5360084,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. Cell_type=Dermal fibroblast
+SRX4723358,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. source_name=2 week neuron
+SRX2770856,1,non-native,LLM (Native Validation),"Highest weight keyword: 'untreated' (category: weak_native, score: 100.0). Matches found: 'untreated' in 'source_name' (weak_native/100.0)",Non-Native. source_name=Primary human monocyte-derived macrophages

@@ -1,0 +1,225 @@
+--- LLM Response for ID: DRX440382 ---
+{"id": "DRX440382", "metadata": "ChIPseq EZH2 of WT mouse", "native": true}
+
+--- LLM Response for ID: ERX204066 ---
+{"id": "ERX204066", "metadata": "ChIPseq, Liver ChIP, Hepatocytes", "native": true}
+
+--- LLM Response for ID: SRX018602 ---
+{"id": "SRX018602", "metadata": "Nrl ko or Retina trial", "native": false}
+
+--- LLM Response for ID: SRX027447 ---
+{"id": "SRX027447", "metadata": "Cell type is from a specific organism (pups) and has been crossed for genetic variation, making it non-native.", "native": false}
+
+--- LLM Response for ID: SRX028842 ---
+{"id": "SRX028842", "metadata": "Cell type is Macrophages and the sample is derived from a specific strain (C57BL/6) and treatment condition (Brd2_0H_minus), which indicates it's not a native sample.", "native": false}
+
+--- LLM Response for ID: SRX10462798 ---
+{"id": "SRX10462798", "metadata": "Cell_line=Tet2+/- or Nasal Mucosa trial", "native": false}
+
+--- LLM Response for ID: SRX105503 ---
+{"id": "SRX105503", "metadata": "strain=CD1, liver sample, mouse trial", "native": true}
+
+--- LLM Response for ID: SRX1063034 ---
+{"id": "SRX1063034", "metadata": "Pre-activated CD4+ T cells trial or experiment with C57BL/6 strain and spleen tissue", "native": false}
+
+--- LLM Response for ID: SRX1063037 ---
+{"id": "SRX1063037", "metadata": "cell_line=CD4+ T cells, Pre-activated trial, IL21 treatment trial", "native": false}
+
+--- LLM Response for ID: SRX10652556 ---
+{"id": "SRX10652556", "metadata": "CD4+ T cells, Splenocytes, and Junbfl/fl genotype indicate a specific experimental setup.", "native": false}
+
+--- LLM Response for ID: SRX10659669 ---
+{"id": "SRX10659669", "metadata": "Cell_line=null, Age=8 weeks old, Tissue=Liver", "native": false}
+
+--- LLM Response for ID: SRX10828736 ---
+{"id": "SRX10828736", "metadata": "Liver sample from C57BL/6 mice with XBP1 knockout or liver trial", "native": false}
+
+--- LLM Response for ID: SRX10828756 ---
+{"id": "SRX10828756", "metadata": "Liver sample from C57BL/6 mice, a common model for liver research.", "native": true}
+
+--- LLM Response for ID: SRX10873024 ---
+{"id": "SRX10873024", "metadata": "Cell type is from a specific strain and developmental stage, indicating it's likely a controlled experiment or a well-defined sample. The use of formaldehyde for tissue preparation also suggests that the sample is prepared for sequencing in a laboratory setting.", "native": true}
+
+--- LLM Response for ID: SRX10989779 ---
+{"id": "SRX10989779", "metadata": "Liver sample from C57BJ/L6 mice, a common strain used in mouse genetics and liver research.", "native": true}
+
+--- LLM Response for ID: SRX11187698 ---
+{"id": "SRX11187698", "metadata": "Uterus sample with Pgr (Progesterone receptor) genotype variation and treatment trial", "native": false}
+
+--- LLM Response for ID: SRX11366190 ---
+{"id": "SRX11366190", "metadata": "strain=C57BL/6, Liver trial, Wild-type genotype", "native": true}
+
+--- LLM Response for ID: SRX1176003 ---
+{"id": "SRX1176003", "metadata": "Cell type is a specific subset of blood cells (CD8+ T cells) and the source is from a controlled experiment (C57BL/6 strain) with no treatment mentioned.", "native": true}
+
+--- LLM Response for ID: SRX13065852 ---
+{"id": "SRX13065852", "metadata": "Keratinocytes isolated from mouse skin with a specific deletion, indicating it's not a native sample.", "native": false}
+
+--- LLM Response for ID: SRX14059359 ---
+{"id": "SRX14059359", "metadata": "Cell type is RAW 264.7, which is a murine macrophage cell line, and it has been treated with LPS (Lipopolysaccharide), making it non-native.", "native": false}
+
+--- LLM Response for ID: SRX142514 ---
+{"id": "SRX142514", "metadata": "C2C12 cell line, ChipSeq experiment, and treatment with Equine Serum and Insulin", "native": false}
+
+--- LLM Response for ID: SRX145053 ---
+{"id": "SRX145053", "metadata": "Immortalized cell line (K562 analog) and ChipSeq experiment", "native": false}
+
+--- LLM Response for ID: SRX14563995 ---
+{"id": "SRX14563995", "metadata": "Cell_line=BMDM, Treatment trial, Immortalized cell line or experimental condition", "native": false}
+
+--- LLM Response for ID: SRX14617697 ---
+{"id": "SRX14617697", "metadata": "Cell_line=Ch12, ChIP-Seq experiment", "native": false}
+
+--- LLM Response for ID: SRX14818057 ---
+{"id": "SRX14818057", "metadata": "IFNb/IRF9 DKO trial or stimulated under Th1 culture conditions with IL-12 treatment", "native": false}
+
+--- LLM Response for ID: SRX149201 ---
+{"id": "SRX149201", "metadata": "Cell_line=B3, ChIP-Seq data from Wildtype cells, Rabbit anti-Ikaros antibody", "native": true}
+
+--- LLM Response for ID: SRX1495349 ---
+{"id": "SRX1495349", "metadata": "Cell type classification and source name indicate a native sample, but the presence of an injury trial (MI) and specific strain (C57BL/6) suggests it's not a standard control sample. However, since it's a heart tissue sample from a controlled trial, it's still considered native.", "native": true}
+
+--- LLM Response for ID: SRX15840026 ---
+{"id": "SRX15840026", "metadata": "kidney tissue, wild-type C57BL6, vehicle trial", "native": true}
+
+--- LLM Response for ID: SRX15840131 ---
+{"id": "SRX15840131", "metadata": "kidney tissue, wild-type C57BL6, vehicle trial", "native": true}
+
+--- LLM Response for ID: SRX17469441 ---
+{"id": "SRX17469441", "metadata": "Cell_line=Cultured Cortical Neurons, Treatment Trial", "native": false}
+
+--- LLM Response for ID: SRX17605394 ---
+{"id": "SRX17605394", "metadata": "Bone marrow, Monocytes, Wild-type genotype, and no treatment mentioned", "native": true}
+
+--- LLM Response for ID: SRX188806 ---
+{"id": "SRX188806", "metadata": "CH12 is an immortalized cell line derived from a mouse B-cell lymphoma, and it's used for chromatin IP sequencing (ChipSeq) experiments.", "native": false}
+
+--- LLM Response for ID: SRX20201036 ---
+{"id": "SRX20201036", "metadata": "Liver sample from a fetal trial with mixed genetic background and controlled diet", "native": true}
+
+--- LLM Response for ID: SRX204705 ---
+{"id": "SRX204705", "metadata": "Cell_line=C/EBPalpha trial or Liver trial", "native": false}
+
+--- LLM Response for ID: SRX20826938 ---
+{"id": "SRX20826938", "metadata": "Liver (P56) and BL/6Jax genotype", "native": true}
+
+--- LLM Response for ID: SRX20969410 ---
+{"id": "SRX20969410", "metadata": "donor genotype trial, bone marrow cells trial", "native": false}
+
+--- LLM Response for ID: SRX2162110 ---
+{"id": "SRX2162110", "metadata": "Cell type isolation and strain background indicate a controlled experiment, but the absence of injection trial makes it difficult to classify as non-native. However, considering the specific metadata provided, it can be classified as native.", "native": true}
+
+--- LLM Response for ID: SRX21711865 ---
+{"id": "SRX21711865", "metadata": "Cell type is Macrophages (BMDM) and the sample is from a wild-type (WT) condition with no treatment or stimulation trial, making it native.", "native": true}
+
+--- LLM Response for ID: SRX22512363 ---
+{"id": "SRX22512363", "metadata": "embryonic sample, knockout experiment, neural progenitor cells", "native": false}
+
+--- LLM Response for ID: SRX2424023 ---
+{"id": "SRX2424023", "metadata": "postnatal, heart tissue sample from newborn", "native": true}
+
+--- LLM Response for ID: SRX2500398 ---
+{"id": "SRX2500398", "metadata": "Cerebellar granule neuron progenitor, C57BL/6 strain, neural sample", "native": true}
+
+--- LLM Response for ID: SRX2647474 ---
+{"id": "SRX2647474", "metadata": "genotype modification or specific cell type, which indicates it's not a native sample", "native": false}
+
+--- LLM Response for ID: SRX2647492 ---
+{"id": "SRX2647492", "metadata": "ChIP-seq experiment for CD4+ T cells with IFN-β treatment", "native": true}
+
+--- LLM Response for ID: SRX2741794 ---
+{"id": "SRX2741794", "metadata": "Erythroid Cells, Spleen trial, Phenylhydrazine treatment", "native": false}
+
+--- LLM Response for ID: SRX319873 ---
+{"id": "SRX319873", "metadata": "Kdo2 Lipid A trial or Macrophage trial", "native": false}
+
+--- LLM Response for ID: SRX319874 ---
+{"id": "SRX319874", "metadata": "Kdo2 Lipid A trial or Macrophage trial", "native": false}
+
+--- LLM Response for ID: SRX3331742 ---
+{"id": "SRX3331742", "metadata": "Cell type and source are native, but the presence of 'stress' in the metadata indicates that this sample may not be entirely under normal physiological conditions.", "native": false}
+
+--- LLM Response for ID: SRX341761 ---
+{"id": "SRX341761", "metadata": "immortalized cell line, MyoD-induced", "native": false}
+
+--- LLM Response for ID: SRX3582922 ---
+{"id": "SRX3582922", "metadata": "High Fat Diet trial with C57BL/6J mice liver sample", "native": false}
+
+--- LLM Response for ID: SRX3601924 ---
+{"id": "SRX3601924", "metadata": "Cell type is Primary Macrophages and the sample is from a controlled experiment (ChIP assay) with specific antibodies (NDF7), which suggests it's a native sample. However, the presence of a specific strain (C57BI/6) and age (8-10 weeks) might indicate some level of modification or control trial.", "native": true}
+
+--- LLM Response for ID: SRX3858835 ---
+{"id": "SRX3858835", "metadata": "Cell_type_class=Epidermis, Postnatal day 0, Control genotype", "native": true}
+
+--- LLM Response for ID: SRX392764 ---
+{"id": "SRX392764", "metadata": "cell_line=Haftl or Haftl-derived cells", "native": false}
+
+--- LLM Response for ID: SRX4178770 ---
+{"id": "SRX4178770", "metadata": "IFN-g treatment trial or Bone Marrow Derived Macrophages trial", "native": false}
+
+--- LLM Response for ID: SRX4325335 ---
+{"id": "SRX4325335", "metadata": "Liver sample from C3H/HeN strain, which is an immortalized cell line", "native": false}
+
+--- LLM Response for ID: SRX4348502 ---
+{"id": "SRX4348502", "metadata": "Cell type class=Blood, Cell type=Natural killer cells, Source name=splenic NK cells, Condition=IFNaIL2 trial", "native": true}
+
+--- LLM Response for ID: SRX4895097 ---
+{"id": "SRX4895097", "metadata": "Cell_line=CH12, Lymphoma cell line, or treated with APR60h", "native": false}
+
+--- LLM Response for ID: SRX5689484 ---
+{"id": "SRX5689484", "metadata": "nTreg trial or Foxp3 trial", "native": false}
+
+--- LLM Response for ID: SRX6095535 ---
+{"id": "SRX6095535", "metadata": "genotype=M1-IKO or Kidney treatment trial", "native": false}
+
+--- LLM Response for ID: SRX6417441 ---
+{"id": "SRX6417441", "metadata": "Liver sample from C57B6/CR mice, indicating a specific strain and treatment condition.", "native": true}
+
+--- LLM Response for ID: SRX661408 ---
+{"id": "SRX661408", "metadata": "Liver tissue, back-crossed to the BALB/c strain, and a specific genotype variation (GRdim) makes this sample non-native.", "native": false}
+
+--- LLM Response for ID: SRX6924490 ---
+{"id": "SRX6924490", "metadata": "Cell type is Liver and has a specific experimental design (ChIP-seq) with Yap and LapTTA, indicating it's not a general liver sample but rather a controlled experiment.", "native": false}
+
+--- LLM Response for ID: SRX7368531 ---
+{"id": "SRX7368531", "metadata": "ChIP experiment, primary cells, and specific stimulation trial", "native": true}
+
+--- LLM Response for ID: SRX7368548 ---
+{"id": "SRX7368548", "metadata": "Cell_line=CD19+ splenic B cells, ChIP experiment, KO (OBF1KO) or stimulation trial", "native": false}
+
+--- LLM Response for ID: SRX745826 ---
+{"id": "SRX745826", "metadata": "Cell_type_class=Burst-forming unit erythroids or experimental trial with dexamethasone and GW7647", "native": false}
+
+--- LLM Response for ID: SRX7726481 ---
+{"id": "SRX7726481", "metadata": "Cell_line=Wild-type Natural Killer cells, ex vivo culture", "native": true}
+
+--- LLM Response for ID: SRX7902429 ---
+{"id": "SRX7902429", "metadata": "Cell_type_class=Neural, Cell_type=Granule neuron progenitors, and wild-type genotype indicate a native sample.", "native": true}
+
+--- LLM Response for ID: SRX8241996 ---
+{"id": "SRX8241996", "metadata": "Bone marrow cells, Monocytes, Wild-type genotype, Primary isolated cells", "native": true}
+
+--- LLM Response for ID: SRX8725650 ---
+{"id": "SRX8725650", "metadata": "Cell_line=Hepa-1c1c7, Mouse Hepatoma Cell Line, Chromium treatment trial", "native": false}
+
+--- LLM Response for ID: SRX8994289 ---
+{"id": "SRX8994289", "metadata": "Cell type is B cells and the source is Mouse splenic B cells, which makes it a native sample.", "native": true}
+
+--- LLM Response for ID: SRX9311847 ---
+{"id": "SRX9311847", "metadata": "ChIP experiment with IL-4 treatment and bone marrow-derived macrophages, which is a non-native sample due to the specific treatment and cell line.", "native": false}
+
+--- LLM Response for ID: SRX9311895 ---
+{"id": "SRX9311895", "metadata": "Cell type is derived from bone marrow-derived macrophages and has been treated with IL-4, making it a non-native sample.", "native": false}
+
+--- LLM Response for ID: SRX9311913 ---
+{"id": "SRX9311913", "metadata": "Cell_line=BMDMs or Macrophages trial", "native": false}
+
+--- LLM Response for ID: SRX9344868 ---
+{"id": "SRX9344868", "metadata": "Cell line: RAW 264.7, Macrophage, LPS trial", "native": false}
+
+--- LLM Response for ID: SRX9432511 ---
+{"id": "SRX9432511", "metadata": "Cell_line=Raw264.7, Treatment trial, or specific condition trial", "native": false}
+
+--- LLM Response for ID: SRX978687 ---
+{"id": "SRX978687", "metadata": "Immortalized cells and treatment trial", "native": false}
+

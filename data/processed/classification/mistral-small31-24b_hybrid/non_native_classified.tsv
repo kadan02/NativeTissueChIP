@@ -1,0 +1,60 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+DRX440344	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of hCD4 | age=not applicable | cell_type=CD4 positive T cell | isolate=not applicable | tissue=PBMC
+DRX440349	EZH2	Blood	CD4+ T cells	sample_name=ChIPseq EZH2 of TL-Om1 | age=not applicable | cell_type=CD4 positive T cell | isolate=not applicable | tissue=not applicable
+SRX037940	GATA1	Blood	CD36+	source_name=CD36 | condition=BRG1 RNAi KD
+SRX037941	GATA1	Blood	CD36+	source_name=CD36 | condition=BRG1 KD shLuc control
+SRX10977238	CTCF	Epidermis	Foreskin	sample_type=primary cell | cell type=foreskin keratinocyte | dev_stage=newborn | age=2-4 day | donor ID=ENCDO615NVN | treatments=treatment_term_id: CHEBI:86158; treatment_term_name: calcium; treatment_type: chemical; duration: 5.5; duration_units: day; | health state=Healthy | passage number=2
+SRX10977366	CTCF	Neural	Brain	sample type=organoid | tissue=brain | health state=healthy | dev stage=embryonic | age=5 day | donor ID=ENCDO222AAA
+SRX11513464	NR3C1	Blood	Dendritic Cells	source_name=Dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=DC | individual=donor B | time=24 hours differentiation
+SRX11513465	NR3C1	Blood	Dendritic Cells	source_name=Tolerogenic dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=tolDC | individual=donor B | time=24 hours differentiation
+SRX12129506	BRD4	Blood	T cells	source_name=Blood | cell type=T cells | treatment=PLX
+SRX12209241	NFKB1	Blood	CD4+ T cells	source_name=CD3/CD28 stimulated CD4+ T cells | cell type=CD4+ T cells | case or control=Control | age=53
+SRX14280059	LMNB1	Liver	Liver	source_name=Liver | tissue=liver | disease state=NAFLD
+SRX1738529	CTCF	Blood	Hematopoietic Stem Cells	source_name=Human Stem and Progenitor Cell | cell type=HSPC
+SRX18672589	CTCF	Neural	Microglia	source_name=Microglia | cell line=C20 | treatment=untreated
+SRX18672592	CTCF	Neural	Microglia	source_name=Microglia | cell line=C20 | treatment=CTCF-KD
+SRX212182	RELA	Lung	Lung fibroblasts	source_name=fetal lung fibroblast | treatment=no treat | experiment=ChIP-seq | restriction enzyme=no
+SRX212353	HIF1A	Blood	Macrophages	source_name=macrophage | donor=1 | stress=Hypoxy 1% O2 4 hours | treatment=none
+SRX2166886	BRD4	Neural	Retina	source_name=retina | age=fetal week 15
+SRX2253219	CD74	Blood	B cells	source_name=Cll cells | diagnosis=CLL | patient number=p1 | patient age=71 | patient sex=Male | disease level=Binet B | activation=CD74 | cell type=B cells
+SRX2268292	CHD1	Bone	Osteoblasts	source_name=Fetal osteoblast | differentiation-induction=Undifferentiated
+SRX23045263	GLI1	Epidermis	Dermal fibroblast	source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=TGFb
+SRX23335286	EZH2	Epidermis	Foreskin	source_name=foreskin fibroblasts | cell type=foreskin fibroblasts | age=0 | passage number=2
+SRX23335288	EZH2	Epidermis	Dermal fibroblast	source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=84 | passage number=2
+SRX23335289	EZH2	Epidermis	Dermal fibroblast	source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=97 | passage number=2
+SRX23335290	EZH2	Epidermis	Dermal fibroblast	source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=86 | passage number=2
+SRX23383574	TP63	Epidermis	Keratinocytes	source_name=epidermis | tissue=epidermis | cell line=primary, neonatal keratinocytes | cell type=progenitor
+SRX23548770	TP53	Cardiovascular	Vascular smooth muscle cells	source_name=vascular smooth muscle cell | cell type=vascular smooth muscle cell | genotype=miR-1204 overexpression
+SRX25152580	NELFA	Blood	CD4+ T cells	source_name=Blood | tissue=Blood | cell type=CD4+ Teff | genotype=MED12-KO | condition=Rest | donor=D5
+SRX25331425	MYCN	Neural	Brain	source_name=Brain | tissue=Brain | cell line=ICR_CXJ_046 | genotype=DHG-G34
+SRX25501815	LMNA	Epidermis	Dermal fibroblast	source_name=skin | tissue=skin | cell line=HDF-2 | cell type=Human dermal fibroblasts | treatment=With AR silencing
+SRX2966972	PAX5	Gonad	Testis	source_name=Fetal testis | cell type=2nd trimester human fetal testis
+SRX3585704	HMGB1	Lung	Lung fibroblasts	source_name=fetal lung fibroblast cells | cell type=fetal lung fibroblast cells | donor=single donor | genotype=WT | treatment=proliferating
+SRX3666488	TP53	Blood	T cells	source_name=PHA-stimulated human T-lymphocytes from healthy volunteer # 45 | subject id=45 | cell type=PHA-stimulated human T-lymphocytes
+SRX3679898	KMT2D	Epidermis	Keratinocytes	source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shKMT2D
+SRX3679900	KMT2D	Epidermis	Keratinocytes	source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shSC
+SRX3679902	KMT2D	Epidermis	Keratinocytes	source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shKMT2D
+SRX3768737	MLLT3	Blood	CD34 Hematopoietic stem cells	source_name=human FL CD34+CD38-/lowCD90+GFP+ | cell type=4w cultured HSPC | genotype/variation=MLLT3 overexpression
+SRX382353	RNF2	Epidermis	Melanocytes	source_name=Hmel human melanocytes, RNF2 ChIP | cell line=HMEL-BRAFV600E | cell type=immortalized melanocytes
+SRX393518	TAL1	Cardiovascular	Primary endothelial cells	source_name=Human primary endothelial colony-forming cells | treatment=100 ng/ml final TSA
+SRX5360094	EZH2	Epidermis	Dermal fibroblast	source_name=Dermal Fibroblasts | neoplastic stage=transformed
+SRX5391035	MLXIP	Muscle	Skeletal myotubes	source_name=Primary skeletal myotube | cell type=Primary human myocytes | genotype=MondoA KD | passages=P7
+SRX5624369	SREBF2	Blood	Macrophages	source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes | treatment=TNF (10ng/ml) for 16 hours
+SRX5774914	POU5F1	Epidermis	Dermal fibroblast	source_name=Foreskin fibroblasts | tissue=Foreskin fibroblasts | cell line=A2B5+ iOPCs(H)
+SRX6068072	PGR	Uterus	Endometrium	source_name=Proliferative rep2 PGR-ChIPseq | menstrual cycle phase=proliferative | tissue=endometrium/whole endometrium
+SRX6763473	EGR1	Blood	Macrophages	source_name=DIFFERENTIATING MACROPHAGE | cell type=DIFFERENTIATING MACROPHAGE | treatment=differentiating macrophages (day 1 of GM-CSF treatment)
+SRX6969885	CHD6	Cardiovascular	Cardiomyocytes	source_name=cardiomyocytes | cell type=CHD6 heterozygous mutant | passages=D9
+SRX7015671	RNF2	Others	Fibroblasts	source_name=CRL7250 (FIbroblast) | cell type=FIbroblast | cell line=CRL7250
+SRX7223095	EGR1	Uterus	Endometrial stromal cells	source_name=t-HESC cell line | cell line=t-HESC
+SRX735289	TBX21	Blood	Th1 Cells	source_name=In vitro differentiated Th1 cells | cell type=Th1 | treatment/agent=PMA/ionomycin
+SRX7730450	E2F3	Bone	Osteoblasts	source_name=osteoblast | cell=osteoblast | treatment=NA | time point=NA | genotype=Corrected RB1 mutation
+SRX8090642	BRD2	Others	Synoviocytes	source_name=Fibroblast like Synoviocytes | diagnosis=Rheumatoid arthritis | cell type=Fibroblast like Synoviocytes | treatment=JQ1 | donor=ST1412
+SRX8453150	FOXA1	Liver	Liver	source_name=FOXA1 ChIP Sample 5 liver | disease state=metastatic castration resistant prostate cancer | tissue=liver
+SRX8841625	RAD21	Blood	Lymphoblasts	source_name=RAD21-ChIP-seq-Mut | condition=Acheiropodia patient | cell type=Lymphoblast cells
+SRX885895	CEBPB	Blood	Macrophages	source_name=Macrophage-oxLDL | treatment=oxLDL (50mcg/ml) | cell type=Macrophage
+SRX9029211	POU2F2	Blood	Neutrophils	source_name=human neutrophil | treatment=R848 (5mM) | time=20 h | cell type=neutrophil
+SRX9221932	ESR1	Liver	Hepatocytes	source_name=Primary Hepatocytes | tissue/cell type=Primary hepatocytes | treatment=17 β-estradiol (1 µM) | treatment time=8 hours
+SRX9345717	CTCF	Blood	Erythroid Cells	source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=Wild type
+SRX971583	SMARCA4	Epidermis	Keratinocytes	source_name=human keratinoctyes with p63 siRNA | cell type=primary human neonatal keratinocytes | knockdown=p63
+SRX9850737	KLF5	Lung	Bronchial epithelial cells	source_name=Calu-3 KLF5 ChIP-seq | cell line=Calu-3 | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS
+SRX9969717	BACH1	Others	16HBE14o-	source_name=16HBE14o- | cell line=16HBE14o- | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS

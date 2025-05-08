@@ -1,0 +1,17 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_type_class=Blood, Cell_type=CD4+ T cells"
+SRX11513464,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=DC, 'Dendritic cells differentiated' "
+SRX16495661,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. CD8+ T cells
+SRX1738529,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=Hematopoietic Stem Cells, source_name=Human Stem and Progenitor Cell"
+SRX18768994,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_type_class=Adipocyte, Cell_type=Adipose stem cells"
+SRX18768997,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. Cell_type_class=Adipocyte, Cell_type=Adipose stem cells"
+SRX212351,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type: macrophages, source name: macrophage"
+SRX212353,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. treatment=none, cell type is macrophages from a healthy donor under normal physiological conditions"
+SRX23045263,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. treatment=TGFb, cell_line=Mention of generic human cell type is NOT a non-native indicator unless modified."
+SRX23335288,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. primary cell line, dermal fibroblasts from a healthy donor (age 84) at passage number 2"
+SRX23335291,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=CD4 T-cells, passage number=None"
+SRX8090646,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=Fibroblast like Synoviocytes, source_name=Fibroblast like Synoviocytes"
+SRX735289,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. cell type=Th1 (differentiated)
+SRX6578928,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. Cell_line=C20
+SRX5371741,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_type_class=Blood, CD4+ T cells and primary blood"
+SRX3679900,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. Cell type 'Keratinocytes' is a generic human cell type, no clear non-native indicator found."

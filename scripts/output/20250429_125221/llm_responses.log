@@ -1,0 +1,436 @@
+--- LLM Response for ID: DRX440344 ---
+{
+  "id": "DRX440344",
+  "metadata": "sample_name=ChIPseq EZH2",
+  "native": false
+}
+
+--- LLM Response for ID: DRX440349 ---
+```json
+{
+  "id": "DRX440349",
+  "metadata": "sample_name=ChIPseq EZH2 of TL-Om1",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX017709 ---
+```json
+{"id": "SRX017709", "metadata": "Cell_type=CD4+ T cells | Metadata=activated CD4+ T cell | treatment=n/a", "native": true}
+```
+
+--- LLM Response for ID: SRX037935 ---
+```json
+{"id": "SRX037935", "metadata": "condition=CD34 WT", "native": true}
+```
+
+--- LLM Response for ID: SRX11513464 ---
+```json
+{"id": "SRX11513464", "metadata": "source_name=Dendritic cells differentiated from monocytes 24 hours", "native": false}
+```
+
+--- LLM Response for ID: SRX11513465 ---
+```json
+{"id": "SRX11513465", "metadata": "differentiated from monocytes", "native": false}
+```
+
+--- LLM Response for ID: SRX12118509 ---
+```json
+{
+    "id": "SRX12118509",
+    "metadata": "knock down=NA",
+    "native": false
+}
+```
+
+--- LLM Response for ID: SRX12209241 ---
+```json
+{"id": "SRX12209241", "metadata": "case or control=Control", "native": true}
+```
+
+--- LLM Response for ID: SRX14280060 ---
+```json
+{
+  "id": "SRX14280060",
+  "metadata": "disease state=NAFLD",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX14280087 ---
+{
+"id": "SRX14280087",
+"metadata": "disease state=Normal control",
+"native": true
+}
+
+--- LLM Response for ID: SRX15717771 ---
+```json
+{"id": "SRX15717771", "metadata": "treatment=untreated", "native": true}
+```
+
+--- LLM Response for ID: SRX16495661 ---
+```json
+{
+  "id": "SRX16495661",
+  "metadata": "Cell_type=CD8+ T cells, sample type=primary cell, cell type=CD8-positive, alpha-beta T cell, dev stage=adult",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX16495698 ---
+{
+  "id": "SRX16495698",
+  "metadata": "Cell_type_class=Neural | Cell_type=Frontal cortex | sample type=tissue | dev stage=adult",
+  "native": true
+}
+
+--- LLM Response for ID: SRX170349 ---
+```json
+{
+  "id": "SRX170349",
+  "metadata": "genotype/variation=wild type",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX1738529 ---
+```json
+{
+  "id": "SRX1738529",
+  "metadata": "Metadata=source_name=Human Stem and Progenitor Cell",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX18672590 ---
+```json
+{
+  "id": "SRX18672590",
+  "metadata": "cell line=C20",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX18672592 ---
+```json
+{
+  "id": "SRX18672592",
+  "metadata": "cell line=C20 | treatment=CTCF-KD",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX18768994 ---
+```json
+{
+  "id": "SRX18768994",
+  "metadata": "cell type=Human primary adipose stem cells",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX19123217 ---
+```json
+{
+  "id": "SRX19123217",
+  "metadata": "disease state=healthy control",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX212351 ---
+```json
+{
+    "id": "SRX212351",
+    "metadata": "treatment=none | stress=Normoxy 20% O2",
+    "native": true
+}
+```
+
+--- LLM Response for ID: SRX212353 ---
+```json
+{
+  "id": "SRX212353",
+  "metadata": "stress=Hypoxy 1% O2 4 hours",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX2253220 ---
+```json
+{"id": "SRX2253220", "metadata": "diagnosis=CLL", "native": false}
+```
+
+--- LLM Response for ID: SRX23045261 ---
+```json
+{"id": "SRX23045261", "metadata": "treatment=Vehicle", "native": true}
+```
+
+--- LLM Response for ID: SRX23045263 ---
+```json
+{"id": "SRX23045263", "metadata": "treatment=TGFb", "native": false}
+```
+
+--- LLM Response for ID: SRX23335286 ---
+{
+"id": "SRX23335286",
+"metadata": "age=0 | passage number=2",
+"native": false
+}
+
+--- LLM Response for ID: SRX23335288 ---
+```json
+{"id": "SRX23335288", "metadata": "passage number=2", "native": false}
+```
+
+--- LLM Response for ID: SRX23335289 ---
+```json
+{
+  "id": "SRX23335289",
+  "metadata": "passage number=2",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX23335290 ---
+{
+"id": "SRX23335290",
+"metadata": "passage number=2",
+"native": false
+}
+
+--- LLM Response for ID: SRX23335291 ---
+```json
+{
+  "id": "SRX23335291",
+  "metadata": "Cell_type=CD4+ T cells | Metadata=source_name=CD4 T-cells | cell type=CD4 T-cells",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX23548768 ---
+```json
+{
+  "id": "SRX23548768",
+  "metadata": "genotype=control",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX3195440 ---
+```json
+{
+  "id": "SRX3195440",
+  "metadata": "genotype=control untreated",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX3322085 ---
+```json
+{
+    "id": "SRX3322085",
+    "metadata": "sample_type=tissue | dev_stage=adult | age=37 year",
+    "native": true
+}
+```
+
+--- LLM Response for ID: SRX3584198 ---
+```json
+{
+  "id": "SRX3584198",
+  "metadata": "cell type=Primary human epididymis cells",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX3734300 ---
+```json
+{"id": "SRX3734300", "metadata": "treatment=DMSO", "native": false}
+```
+
+--- LLM Response for ID: SRX5360085 ---
+```json
+{
+  "id": "SRX5360085",
+  "metadata": "neoplastic stage=untransformed",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX5360094 ---
+{
+  "id": "SRX5360094",
+  "metadata": "neoplastic stage=transformed",
+  "native": false
+}
+
+--- LLM Response for ID: SRX5371741 ---
+{
+ "id": "SRX5371741",
+ "metadata": "Cell_type=CD4+ T cells | Metadata=source_name=primary blood",
+ "native": true
+}
+
+--- LLM Response for ID: SRX5574342 ---
+{
+  "id": "SRX5574342",
+  "metadata": "tissue/cell type=peripheral blood | cell subtype=primary monocytes",
+  "native": true
+}
+
+--- LLM Response for ID: SRX5624369 ---
+```json
+{
+  "id": "SRX5624369",
+  "metadata": "treatment=TNF (10ng/ml) for 16 hours",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX5716451 ---
+```json
+{
+  "id": "SRX5716451",
+  "metadata": "genotype/variation=wild type",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX5839978 ---
+```json
+{
+  "id": "SRX5839978",
+  "metadata": "Cell_type=Macrophages | Metadata=source_name=Primary human monocyte-derived macrophages",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX6578928 ---
+```json
+{
+  "id": "SRX6578928",
+  "metadata": "disease state=Healthy T cells, treatment=N/A",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX6763478 ---
+```json
+{"id": "SRX6763478", "metadata": "treatment=primary monocytes", "native": false}
+```
+
+--- LLM Response for ID: SRX6784062 ---
+{
+"id": "SRX6784062",
+"metadata": "sample_type=tissue",
+"native": true
+}
+
+--- LLM Response for ID: SRX6969885 ---
+```json
+{"id": "SRX6969885", "metadata": "cell type=CHD6 heterozygous mutant", "native": false}
+```
+
+--- LLM Response for ID: SRX7015671 ---
+```json
+{
+  "id": "SRX7015671",
+  "metadata": "cell line=CRL7250",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX735289 ---
+```json
+{"id": "SRX735289", "metadata": "source_name=In vitro differentiated Th1 cells | treatment/agent=PMA/ionomycin", "native": false}
+```
+
+--- LLM Response for ID: SRX7509594 ---
+{
+  "id": "SRX7509594",
+  "metadata": "ID=SRX7509594 | Cell_type_class=Gonad | Cell_type=Testis | Metadata=sample_type=tissue | tissue=testis | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR",
+  "native": true
+}
+
+--- LLM Response for ID: SRX8090642 ---
+```json
+{"id": "SRX8090642", "metadata": "treatment=JQ1", "native": false}
+```
+
+--- LLM Response for ID: SRX8090646 ---
+```json
+{
+  "id": "SRX8090646",
+  "metadata": "diagnosis=Rheumatoid arthritis",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX8841627 ---
+```json
+{"id": "SRX8841627", "metadata": "condition=Acheiropodia patient", "native": false}
+```
+
+--- LLM Response for ID: SRX8841631 ---
+```json
+{"id": "SRX8841631", "metadata": "condition=Normal | cell type=Lymphoblast cells", "native": true}
+```
+
+--- LLM Response for ID: SRX885892 ---
+{
+  "id": "SRX885892",
+  "metadata": "treatment=Control",
+  "native": true
+}
+
+--- LLM Response for ID: SRX885896 ---
+```json
+{
+  "id": "SRX885896",
+  "metadata": "treatment=oxLDL",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX9029211 ---
+```json
+{
+  "id": "SRX9029211",
+  "metadata": "treatment=R848 (5mM)",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX9221932 ---
+```json
+{"id": "SRX9221932", "metadata": "treatment=17 β-estradiol (1 µM) | treatment time=8 hours", "native": false}
+```
+
+--- LLM Response for ID: SRX9221933 ---
+```json
+{"id": "SRX9221933", "metadata": "treatment=DMSO", "native": false}
+```
+
+--- LLM Response for ID: SRX9345717 ---
+{
+  "id": "SRX9345717",
+  "metadata": "iPSC differentiation",
+  "native": false
+}
+
+--- LLM Response for ID: SRX9867030 ---
+```json
+{"id": "SRX9867030", "metadata": "Cell_type=CD8+ T cells", "native": true}
+```
+
+--- LLM Response for ID: SRX9969717 ---
+```json
+{
+  "id": "SRX9969717",
+  "metadata": "cell line=16HBE14o-",
+  "native": false
+}
+```
+

@@ -1,0 +1,656 @@
+2025-05-02 02:17:13 [INFO    ] Script started. Output directory: ../data/processed/classification\llama32-3b_hybrid
+2025-05-02 02:17:13 [INFO    ] Full log file: ../data/processed/classification\llama32-3b_hybrid\classification_run.log
+2025-05-02 02:17:16 [INFO    ] Processing benchmark file: ../data/processed/metadata/labeled_data.tsv)
+2025-05-02 02:17:16 [INFO    ] LLM Client initialized. URL: https://genai.science-cloud.hu/api/, Model: llama3.2:3b)
+2025-05-02 02:17:16 [INFO    ] Loading metadata from: ../data/processed/metadata/human_preprocessed.tsv
+2025-05-02 02:17:16 [INFO    ] Loading benchmark IDs from: ../data/processed/metadata/labeled_data.tsv
+2025-05-02 02:17:16 [INFO    ] Loaded 99 unique IDs from benchmark file.
+2025-05-02 02:17:16 [INFO    ] Loaded 2058 rows and 5 columns.
+2025-05-02 02:17:16 [INFO    ] Filtered main metadata to 99 rows based on benchmark IDs (from 2058 initial rows).
+2025-05-02 02:17:16 [INFO    ] Starting metadata classification process...
+2025-05-02 02:17:16 [INFO    ] Starting processing of 99 rows.  LLM-Only mode: False
+2025-05-02 02:17:16 [INFO    ] Processing row 3/99, ID: DRX440344
+2025-05-02 02:17:16 [INFO    ] Row 3 (ID: DRX440344): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:16 [INFO    ] Row 3 (ID: DRX440344): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:16 [INFO    ] Attempting LLM classification for ID: DRX440344, Text: 'DRX440344	ID=DRX440344 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=sample_name=ChIPseq EZH2 of hCD4 | age=not applicable | cell_type=CD4 positive T cell | isolate=not applicable | tissue=PBMC'
+2025-05-02 02:17:17 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:17 [INFO    ] LLM Parsed Result for DRX440344: non-native
+2025-05-02 02:17:17 [INFO    ] Row 3 (ID: DRX440344): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:17 [INFO    ] Processing row 4/99, ID: DRX440349
+2025-05-02 02:17:17 [INFO    ] Row 4 (ID: DRX440349): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:17 [INFO    ] Row 4 (ID: DRX440349): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:17 [INFO    ] Attempting LLM classification for ID: DRX440349, Text: 'DRX440349	ID=DRX440349 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=sample_name=ChIPseq EZH2 of TL-Om1 | age=not applicable | cell_type=CD4 positive T cell | isolate=not applicable | tissue=not applicable'
+2025-05-02 02:17:18 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:18 [INFO    ] LLM Parsed Result for DRX440349: non-native
+2025-05-02 02:17:18 [INFO    ] Row 4 (ID: DRX440349): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:18 [INFO    ] Processing row 20/99, ID: SRX017709
+2025-05-02 02:17:18 [INFO    ] Row 20 (ID: SRX017709): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:18 [INFO    ] Row 20 (ID: SRX017709): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:18 [INFO    ] Attempting LLM classification for ID: SRX017709, Text: 'SRX017709	ID=SRX017709 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=CD4+ T cell | cell type=activated CD4+ T cell | sirna=n/a | treatment=n/a'
+2025-05-02 02:17:19 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:19 [INFO    ] LLM Parsed Result for SRX017709: native
+2025-05-02 02:17:19 [INFO    ] Row 20 (ID: SRX017709): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:19 [INFO    ] Processing row 45/99, ID: SRX037935
+2025-05-02 02:17:19 [INFO    ] Row 45 (ID: SRX037935): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'wt' (category: weak_native, score: 100.0). Matches found: 'wt' in 'condition' (weak_native/100.0)
+2025-05-02 02:17:19 [INFO    ] Row 45 (ID: SRX037935): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:19 [INFO    ] Attempting LLM classification for ID: SRX037935, Text: 'SRX037935	ID=SRX037935 | Cell_type_class=Blood | Cell_type=CD34+ | Metadata=source_name=CD34 | condition=CD34 WT'
+2025-05-02 02:17:20 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:20 [INFO    ] LLM Parsed Result for SRX037935: native
+2025-05-02 02:17:20 [INFO    ] Row 45 (ID: SRX037935): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:20 [INFO    ] Processing row 50/99, ID: SRX037940
+2025-05-02 02:17:20 [INFO    ] Row 50 (ID: SRX037940): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'RNAi' (category: strong_non_native, score: 100.0). Matches found: 'RNAi' in 'condition' (strong_non_native/100.0); 'kd' in 'condition' (strong_non_native/100.0)
+2025-05-02 02:17:20 [INFO    ] Row 50 (ID: SRX037940): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:20 [INFO    ] Processing row 51/99, ID: SRX037941
+2025-05-02 02:17:20 [INFO    ] Row 51 (ID: SRX037941): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'kd' (category: strong_non_native, score: 100.0). Matches found: 'kd' in 'condition' (strong_non_native/100.0); 'control' in 'condition' (weak_native/100.0)
+2025-05-02 02:17:20 [INFO    ] Row 51 (ID: SRX037941): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:20 [INFO    ] Processing row 246/99, ID: SRX10977238
+2025-05-02 02:17:20 [INFO    ] Row 246 (ID: SRX10977238): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:20 [INFO    ] Row 246 (ID: SRX10977238): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:20 [INFO    ] Attempting LLM classification for ID: SRX10977238, Text: 'SRX10977238	ID=SRX10977238 | Cell_type_class=Epidermis | Cell_type=Foreskin | Metadata=sample_type=primary cell | cell type=foreskin keratinocyte | dev_stage=newborn | age=2-4 day | donor ID=ENCDO615NVN | treatments=treatment_term_id: CHEBI:86158; treatment_term_name: calcium; treatment_type: chemical; duration: 5.5; duration_units: day; | health state=Healthy | passage number=2'
+2025-05-02 02:17:21 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:21 [INFO    ] LLM Parsed Result for SRX10977238: non-native
+2025-05-02 02:17:21 [INFO    ] Row 246 (ID: SRX10977238): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:21 [INFO    ] Processing row 252/99, ID: SRX10977366
+2025-05-02 02:17:21 [INFO    ] Row 252 (ID: SRX10977366): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'embryonic' (category: strong_non_native, score: 100.0). Matches found: 'embryonic' in 'dev stage' (strong_non_native/100.0)
+2025-05-02 02:17:21 [INFO    ] Row 252 (ID: SRX10977366): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:21 [INFO    ] Processing row 283/99, ID: SRX11513464
+2025-05-02 02:17:21 [INFO    ] Row 283 (ID: SRX11513464): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)
+2025-05-02 02:17:21 [INFO    ] Row 283 (ID: SRX11513464): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:21 [INFO    ] Attempting LLM classification for ID: SRX11513464, Text: 'SRX11513464	ID=SRX11513464 | Cell_type_class=Blood | Cell_type=Dendritic Cells | Metadata=source_name=Dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=DC | individual=donor B | time=24 hours differentiation'
+2025-05-02 02:17:22 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:22 [INFO    ] LLM Parsed Result for SRX11513464: non-native
+2025-05-02 02:17:22 [INFO    ] Row 283 (ID: SRX11513464): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:22 [WARNING ] Row 283 (ID: SRX11513464): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:17:22 [WARNING ] Row 283 (ID: SRX11513464): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:17:22 [INFO    ] Processing row 284/99, ID: SRX11513465
+2025-05-02 02:17:22 [INFO    ] Row 284 (ID: SRX11513465): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)
+2025-05-02 02:17:22 [INFO    ] Row 284 (ID: SRX11513465): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:22 [INFO    ] Attempting LLM classification for ID: SRX11513465, Text: 'SRX11513465	ID=SRX11513465 | Cell_type_class=Blood | Cell_type=Dendritic Cells | Metadata=source_name=Tolerogenic dendritic cells differentiated from monocytes 24 hours (replicate B) | cell type=tolDC | individual=donor B | time=24 hours differentiation'
+2025-05-02 02:17:23 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:23 [INFO    ] LLM Parsed Result for SRX11513465: non-native
+2025-05-02 02:17:23 [INFO    ] Row 284 (ID: SRX11513465): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:23 [WARNING ] Row 284 (ID: SRX11513465): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:17:23 [WARNING ] Row 284 (ID: SRX11513465): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:17:23 [INFO    ] Processing row 313/99, ID: SRX12118509
+2025-05-02 02:17:23 [INFO    ] Row 313 (ID: SRX12118509): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:23 [INFO    ] Row 313 (ID: SRX12118509): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:23 [INFO    ] Attempting LLM classification for ID: SRX12118509, Text: 'SRX12118509	ID=SRX12118509 | Cell_type_class=Blood | Cell_type=Naive B cells | Metadata=source_name=naïve B-cells | treatment=NA | tissue=tonsil | cell type=naive B-cells | knock down=NA'
+2025-05-02 02:17:24 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:24 [INFO    ] LLM Parsed Result for SRX12118509: native
+2025-05-02 02:17:24 [INFO    ] Row 313 (ID: SRX12118509): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:24 [INFO    ] Processing row 315/99, ID: SRX12129506
+2025-05-02 02:17:24 [INFO    ] Row 315 (ID: SRX12129506): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:24 [INFO    ] Row 315 (ID: SRX12129506): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:24 [INFO    ] Attempting LLM classification for ID: SRX12129506, Text: 'SRX12129506	ID=SRX12129506 | Cell_type_class=Blood | Cell_type=T cells | Metadata=source_name=Blood | cell type=T cells | treatment=PLX'
+2025-05-02 02:17:25 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:25 [INFO    ] LLM Parsed Result for SRX12129506: non-native
+2025-05-02 02:17:25 [INFO    ] Row 315 (ID: SRX12129506): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:25 [INFO    ] Processing row 328/99, ID: SRX12209241
+2025-05-02 02:17:25 [INFO    ] Row 328 (ID: SRX12209241): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'stimulated' (category: strong_non_native, score: 83.33333333333334). Matches found: 'stimulated' in 'source_name' (strong_non_native/83.33333333333334); 'control' in 'case or control' (weak_native/100.0)
+2025-05-02 02:17:25 [INFO    ] Row 328 (ID: SRX12209241): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:25 [INFO    ] Processing row 383/99, ID: SRX13006802
+2025-05-02 02:17:25 [INFO    ] Row 383 (ID: SRX13006802): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:25 [INFO    ] Row 383 (ID: SRX13006802): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:25 [INFO    ] Attempting LLM classification for ID: SRX13006802, Text: 'SRX13006802	ID=SRX13006802 | Cell_type_class=Neural | Cell_type=Frontal cortex | Metadata=sample_type=tissue | tissue=middle frontal area 46 | dev stage=adult | age=74 year | donor ID=ENCDO907CMO'
+2025-05-02 02:17:26 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:26 [INFO    ] LLM Parsed Result for SRX13006802: non-native
+2025-05-02 02:17:26 [INFO    ] Row 383 (ID: SRX13006802): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:26 [INFO    ] Processing row 499/99, ID: SRX14280059
+2025-05-02 02:17:26 [INFO    ] Row 499 (ID: SRX14280059): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:26 [INFO    ] Row 499 (ID: SRX14280059): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:26 [INFO    ] Attempting LLM classification for ID: SRX14280059, Text: 'SRX14280059	ID=SRX14280059 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver | tissue=liver | disease state=NAFLD'
+2025-05-02 02:17:27 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:27 [INFO    ] LLM Parsed Result for SRX14280059: non-native
+2025-05-02 02:17:27 [INFO    ] Row 499 (ID: SRX14280059): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:27 [INFO    ] Processing row 502/99, ID: SRX14280087
+2025-05-02 02:17:27 [INFO    ] Row 502 (ID: SRX14280087): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'normal' (category: weak_native, score: 100.0). Matches found: 'normal' in 'disease state' (weak_native/100.0); 'control' in 'disease state' (weak_native/100.0)
+2025-05-02 02:17:27 [INFO    ] Row 502 (ID: SRX14280087): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:27 [INFO    ] Attempting LLM classification for ID: SRX14280087, Text: 'SRX14280087	ID=SRX14280087 | Cell_type_class=Liver | Cell_type=Liver | Metadata=source_name=Liver | tissue=liver | disease state=Normal control'
+2025-05-02 02:17:28 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:28 [INFO    ] LLM Parsed Result for SRX14280087: native
+2025-05-02 02:17:28 [INFO    ] Row 502 (ID: SRX14280087): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:28 [INFO    ] Processing row 549/99, ID: SRX15717771
+2025-05-02 02:17:28 [INFO    ] Row 549 (ID: SRX15717771): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'untreated' (category: weak_native, score: 100.0). Matches found: 'untreated' in 'treatment' (weak_native/100.0)
+2025-05-02 02:17:28 [INFO    ] Row 549 (ID: SRX15717771): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:28 [INFO    ] Attempting LLM classification for ID: SRX15717771, Text: 'SRX15717771	ID=SRX15717771 | Cell_type_class=Pancreas | Cell_type=Pancreatic islets | Metadata=source_name=Human islets | cell type=Primary human islets | treatment=untreated'
+2025-05-02 02:17:29 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:29 [INFO    ] LLM Parsed Result for SRX15717771: native
+2025-05-02 02:17:29 [INFO    ] Row 549 (ID: SRX15717771): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:29 [INFO    ] Processing row 574/99, ID: SRX16495661
+2025-05-02 02:17:29 [INFO    ] Row 574 (ID: SRX16495661): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:29 [INFO    ] Row 574 (ID: SRX16495661): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:29 [INFO    ] Attempting LLM classification for ID: SRX16495661, Text: 'SRX16495661	ID=SRX16495661 | Cell_type_class=Blood | Cell_type=CD8+ T cells | Metadata=age=21 year | sample type=primary cell | cell type=CD8-positive, alpha-beta T cell | dev stage=adult | donor ID=ENCDO781BMZ'
+2025-05-02 02:17:30 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:30 [INFO    ] LLM Parsed Result for SRX16495661: non-native
+2025-05-02 02:17:30 [INFO    ] Row 574 (ID: SRX16495661): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:30 [INFO    ] Processing row 575/99, ID: SRX16495697
+2025-05-02 02:17:30 [INFO    ] Row 575 (ID: SRX16495697): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:30 [INFO    ] Row 575 (ID: SRX16495697): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:30 [INFO    ] Attempting LLM classification for ID: SRX16495697, Text: 'SRX16495697	ID=SRX16495697 | Cell_type_class=Neural | Cell_type=Frontal cortex | Metadata=age=90 or above year | sample type=tissue | tissue=middle frontal area 46 | dev stage=adult | donor ID=ENCDO470GFA'
+2025-05-02 02:17:31 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:31 [INFO    ] LLM Parsed Result for SRX16495697: non-native
+2025-05-02 02:17:31 [INFO    ] Row 575 (ID: SRX16495697): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:31 [INFO    ] Processing row 619/99, ID: SRX170349
+2025-05-02 02:17:31 [INFO    ] Row 619 (ID: SRX170349): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype/variation' (weak_native/100.0)
+2025-05-02 02:17:31 [INFO    ] Row 619 (ID: SRX170349): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:31 [INFO    ] Attempting LLM classification for ID: SRX170349, Text: 'SRX170349	ID=SRX170349 | Cell_type_class=Blood | Cell_type=CD36+ | Metadata=source_name=Blood | tissue=Blood | developmental stage=Adult | genotype/variation=wild type | cell type=CD36'
+2025-05-02 02:17:32 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:32 [INFO    ] LLM Parsed Result for SRX170349: native
+2025-05-02 02:17:32 [INFO    ] Row 619 (ID: SRX170349): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:32 [INFO    ] Processing row 628/99, ID: SRX1738529
+2025-05-02 02:17:32 [INFO    ] Row 628 (ID: SRX1738529): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:32 [INFO    ] Row 628 (ID: SRX1738529): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:32 [INFO    ] Attempting LLM classification for ID: SRX1738529, Text: 'SRX1738529	ID=SRX1738529 | Cell_type_class=Blood | Cell_type=Hematopoietic Stem Cells | Metadata=source_name=Human Stem and Progenitor Cell | cell type=HSPC'
+2025-05-02 02:17:33 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:33 [INFO    ] LLM Parsed Result for SRX1738529: non-native
+2025-05-02 02:17:33 [INFO    ] Row 628 (ID: SRX1738529): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:33 [INFO    ] Processing row 689/99, ID: SRX18672589
+2025-05-02 02:17:33 [INFO    ] Row 689 (ID: SRX18672589): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'untreated' (category: weak_native, score: 100.0). Matches found: 'untreated' in 'treatment' (weak_native/100.0)
+2025-05-02 02:17:33 [INFO    ] Row 689 (ID: SRX18672589): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:33 [INFO    ] Attempting LLM classification for ID: SRX18672589, Text: 'SRX18672589	ID=SRX18672589 | Cell_type_class=Neural | Cell_type=Microglia | Metadata=source_name=Microglia | cell line=C20 | treatment=untreated'
+2025-05-02 02:17:33 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:33 [INFO    ] LLM Parsed Result for SRX18672589: non-native
+2025-05-02 02:17:33 [INFO    ] Row 689 (ID: SRX18672589): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:33 [WARNING ] Row 689 (ID: SRX18672589): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:17:33 [WARNING ] Row 689 (ID: SRX18672589): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:17:33 [INFO    ] Processing row 690/99, ID: SRX18672592
+2025-05-02 02:17:33 [INFO    ] Row 690 (ID: SRX18672592): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:33 [INFO    ] Row 690 (ID: SRX18672592): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:33 [INFO    ] Attempting LLM classification for ID: SRX18672592, Text: 'SRX18672592	ID=SRX18672592 | Cell_type_class=Neural | Cell_type=Microglia | Metadata=source_name=Microglia | cell line=C20 | treatment=CTCF-KD'
+2025-05-02 02:17:34 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:34 [INFO    ] LLM Parsed Result for SRX18672592: non-native
+2025-05-02 02:17:34 [INFO    ] Row 690 (ID: SRX18672592): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:34 [INFO    ] Processing row 692/99, ID: SRX18768994
+2025-05-02 02:17:34 [INFO    ] Row 692 (ID: SRX18768994): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:34 [INFO    ] Row 692 (ID: SRX18768994): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:34 [INFO    ] Attempting LLM classification for ID: SRX18768994, Text: 'SRX18768994	ID=SRX18768994 | Cell_type_class=Adipocyte | Cell_type=Adipose stem cells | Metadata=source_name=Adipose | cell type=Human primary adipose stem cells | tissue=Adipose | time=Day 0 | replicate=Rep2'
+2025-05-02 02:17:35 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:35 [INFO    ] LLM Parsed Result for SRX18768994: non-native
+2025-05-02 02:17:35 [INFO    ] Row 692 (ID: SRX18768994): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:35 [INFO    ] Processing row 695/99, ID: SRX18768997
+2025-05-02 02:17:35 [INFO    ] Row 695 (ID: SRX18768997): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:35 [INFO    ] Row 695 (ID: SRX18768997): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:35 [INFO    ] Attempting LLM classification for ID: SRX18768997, Text: 'SRX18768997	ID=SRX18768997 | Cell_type_class=Adipocyte | Cell_type=Adipose stem cells | Metadata=source_name=Adipose | cell type=Human primary adipose stem cells | tissue=Adipose | time=Day 3 | replicate=Rep1'
+2025-05-02 02:17:36 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:36 [INFO    ] LLM Parsed Result for SRX18768997: non-native
+2025-05-02 02:17:36 [INFO    ] Row 695 (ID: SRX18768997): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:36 [INFO    ] Processing row 706/99, ID: SRX19123217
+2025-05-02 02:17:36 [INFO    ] Row 706 (ID: SRX19123217): Keyword analysis - Initial Class: native, Conf: 75, Reason: Highest weight keyword: 'healthy donor' (category: strong_native, score: 76.92307692307692). Matches found: 'healthy donor' in 'disease state' (strong_native/76.92307692307692)
+2025-05-02 02:17:36 [INFO    ] Row 706 (ID: SRX19123217): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:36 [INFO    ] Attempting LLM classification for ID: SRX19123217, Text: 'SRX19123217	ID=SRX19123217 | Cell_type_class=Blood | Cell_type=B cells | Metadata=source_name=Human B lymphocytes | cell line=Human B lymphocytes | disease state=healthy control'
+2025-05-02 02:17:38 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:38 [INFO    ] LLM Parsed Result for SRX19123217: native
+2025-05-02 02:17:38 [INFO    ] Row 706 (ID: SRX19123217): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:38 [INFO    ] Processing row 823/99, ID: SRX212182
+2025-05-02 02:17:38 [INFO    ] Row 823 (ID: SRX212182): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'fetal' (category: strong_non_native, score: 100.0). Matches found: 'fetal' in 'source_name' (strong_non_native/100.0); 'no treatment' in 'treatment' (weak_native/77.77777777777779)
+2025-05-02 02:17:38 [INFO    ] Row 823 (ID: SRX212182): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:38 [INFO    ] Processing row 830/99, ID: SRX212351
+2025-05-02 02:17:38 [INFO    ] Row 830 (ID: SRX212351): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:38 [INFO    ] Row 830 (ID: SRX212351): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:38 [INFO    ] Attempting LLM classification for ID: SRX212351, Text: 'SRX212351	ID=SRX212351 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=macrophage | donor=1 | stress=Normoxy 20% O2 | treatment=none'
+2025-05-02 02:17:38 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:38 [INFO    ] LLM Parsed Result for SRX212351: non-native
+2025-05-02 02:17:38 [INFO    ] Row 830 (ID: SRX212351): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:38 [INFO    ] Processing row 832/99, ID: SRX212353
+2025-05-02 02:17:38 [INFO    ] Row 832 (ID: SRX212353): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:38 [INFO    ] Row 832 (ID: SRX212353): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:38 [INFO    ] Attempting LLM classification for ID: SRX212353, Text: 'SRX212353	ID=SRX212353 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=macrophage | donor=1 | stress=Hypoxy 1% O2 4 hours | treatment=none'
+2025-05-02 02:17:39 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:39 [INFO    ] LLM Parsed Result for SRX212353: non-native
+2025-05-02 02:17:39 [INFO    ] Row 832 (ID: SRX212353): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:39 [INFO    ] Processing row 873/99, ID: SRX2166886
+2025-05-02 02:17:39 [INFO    ] Row 873 (ID: SRX2166886): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'fetal' (category: strong_non_native, score: 100.0). Matches found: 'fetal' in 'age' (strong_non_native/100.0)
+2025-05-02 02:17:39 [INFO    ] Row 873 (ID: SRX2166886): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:39 [INFO    ] Processing row 894/99, ID: SRX2253219
+2025-05-02 02:17:39 [INFO    ] Row 894 (ID: SRX2253219): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:39 [INFO    ] Row 894 (ID: SRX2253219): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:39 [INFO    ] Attempting LLM classification for ID: SRX2253219, Text: 'SRX2253219	ID=SRX2253219 | Cell_type_class=Blood | Cell_type=B cells | Metadata=source_name=Cll cells | diagnosis=CLL | patient number=p1 | patient age=71 | patient sex=Male | disease level=Binet B | activation=CD74 | cell type=B cells'
+2025-05-02 02:17:41 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:41 [INFO    ] LLM Parsed Result for SRX2253219: non-native
+2025-05-02 02:17:41 [INFO    ] Row 894 (ID: SRX2253219): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:41 [INFO    ] Processing row 906/99, ID: SRX2268292
+2025-05-02 02:17:41 [INFO    ] Row 906 (ID: SRX2268292): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'fetal' (category: strong_non_native, score: 100.0). Matches found: 'fetal' in 'source_name' (strong_non_native/100.0)
+2025-05-02 02:17:41 [INFO    ] Row 906 (ID: SRX2268292): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:41 [INFO    ] Processing row 909/99, ID: SRX23045260
+2025-05-02 02:17:41 [INFO    ] Row 909 (ID: SRX23045260): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'vehicle' (category: weak_native, score: 100.0). Matches found: 'vehicle' in 'treatment' (weak_native/100.0)
+2025-05-02 02:17:41 [INFO    ] Row 909 (ID: SRX23045260): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:41 [INFO    ] Attempting LLM classification for ID: SRX23045260, Text: 'SRX23045260	ID=SRX23045260 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=Vehicle'
+2025-05-02 02:17:42 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:42 [INFO    ] LLM Parsed Result for SRX23045260: native
+2025-05-02 02:17:42 [INFO    ] Row 909 (ID: SRX23045260): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:42 [INFO    ] Processing row 910/99, ID: SRX23045263
+2025-05-02 02:17:42 [INFO    ] Row 910 (ID: SRX23045263): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:42 [INFO    ] Row 910 (ID: SRX23045263): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:42 [INFO    ] Attempting LLM classification for ID: SRX23045263, Text: 'SRX23045263	ID=SRX23045263 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=Human dermal fibroblasts | cell type=Human dermal fibroblasts | treatment=TGFb'
+2025-05-02 02:17:43 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:43 [INFO    ] LLM Parsed Result for SRX23045263: non-native
+2025-05-02 02:17:43 [INFO    ] Row 910 (ID: SRX23045263): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:43 [INFO    ] Processing row 912/99, ID: SRX23335286
+2025-05-02 02:17:43 [INFO    ] Row 912 (ID: SRX23335286): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:43 [INFO    ] Row 912 (ID: SRX23335286): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:43 [INFO    ] Attempting LLM classification for ID: SRX23335286, Text: 'SRX23335286	ID=SRX23335286 | Cell_type_class=Epidermis | Cell_type=Foreskin | Metadata=source_name=foreskin fibroblasts | cell type=foreskin fibroblasts | age=0 | passage number=2'
+2025-05-02 02:17:44 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:44 [INFO    ] LLM Parsed Result for SRX23335286: non-native
+2025-05-02 02:17:44 [INFO    ] Row 912 (ID: SRX23335286): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:44 [INFO    ] Processing row 913/99, ID: SRX23335288
+2025-05-02 02:17:44 [INFO    ] Row 913 (ID: SRX23335288): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:44 [INFO    ] Row 913 (ID: SRX23335288): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:44 [INFO    ] Attempting LLM classification for ID: SRX23335288, Text: 'SRX23335288	ID=SRX23335288 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=84 | passage number=2'
+2025-05-02 02:17:45 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:45 [INFO    ] LLM Parsed Result for SRX23335288: non-native
+2025-05-02 02:17:45 [INFO    ] Row 913 (ID: SRX23335288): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:45 [INFO    ] Processing row 914/99, ID: SRX23335289
+2025-05-02 02:17:45 [INFO    ] Row 914 (ID: SRX23335289): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:45 [INFO    ] Row 914 (ID: SRX23335289): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:45 [INFO    ] Attempting LLM classification for ID: SRX23335289, Text: 'SRX23335289	ID=SRX23335289 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=97 | passage number=2'
+2025-05-02 02:17:46 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:46 [INFO    ] LLM Parsed Result for SRX23335289: non-native
+2025-05-02 02:17:46 [INFO    ] Row 914 (ID: SRX23335289): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:46 [INFO    ] Processing row 915/99, ID: SRX23335290
+2025-05-02 02:17:46 [INFO    ] Row 915 (ID: SRX23335290): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:46 [INFO    ] Row 915 (ID: SRX23335290): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:46 [INFO    ] Attempting LLM classification for ID: SRX23335290, Text: 'SRX23335290	ID=SRX23335290 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=dermal fibroblasts | cell type=dermal fibroblasts | age=86 | passage number=2'
+2025-05-02 02:17:47 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:47 [INFO    ] LLM Parsed Result for SRX23335290: non-native
+2025-05-02 02:17:47 [INFO    ] Row 915 (ID: SRX23335290): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:47 [INFO    ] Processing row 916/99, ID: SRX23335291
+2025-05-02 02:17:47 [INFO    ] Row 916 (ID: SRX23335291): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:47 [INFO    ] Row 916 (ID: SRX23335291): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:47 [INFO    ] Attempting LLM classification for ID: SRX23335291, Text: 'SRX23335291	ID=SRX23335291 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=CD4 T-cells | cell type=CD4 T-cells | age=23 | passage number=None'
+2025-05-02 02:17:48 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:48 [INFO    ] LLM Parsed Result for SRX23335291: non-native
+2025-05-02 02:17:48 [INFO    ] Row 916 (ID: SRX23335291): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:48 [INFO    ] Processing row 918/99, ID: SRX23383574
+2025-05-02 02:17:48 [INFO    ] Row 918 (ID: SRX23383574): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'neonatal' (category: strong_non_native, score: 100.0). Matches found: 'neonatal' in 'cell line' (strong_non_native/100.0)
+2025-05-02 02:17:48 [INFO    ] Row 918 (ID: SRX23383574): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:48 [INFO    ] Processing row 923/99, ID: SRX23548768
+2025-05-02 02:17:48 [INFO    ] Row 923 (ID: SRX23548768): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'control' (category: weak_native, score: 100.0). Matches found: 'control' in 'genotype' (weak_native/100.0)
+2025-05-02 02:17:48 [INFO    ] Row 923 (ID: SRX23548768): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:48 [INFO    ] Attempting LLM classification for ID: SRX23548768, Text: 'SRX23548768	ID=SRX23548768 | Cell_type_class=Cardiovascular | Cell_type=Vascular smooth muscle cells | Metadata=source_name=vascular smooth muscle cell | cell type=vascular smooth muscle cell | genotype=control'
+2025-05-02 02:17:49 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:49 [INFO    ] LLM Parsed Result for SRX23548768: native
+2025-05-02 02:17:49 [INFO    ] Row 923 (ID: SRX23548768): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:49 [INFO    ] Processing row 924/99, ID: SRX23548770
+2025-05-02 02:17:49 [INFO    ] Row 924 (ID: SRX23548770): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'overexpression' (category: strong_non_native, score: 80.0). Matches found: 'overexpression' in 'genotype' (strong_non_native/80.0)
+2025-05-02 02:17:49 [INFO    ] Row 924 (ID: SRX23548770): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:49 [INFO    ] Processing row 983/99, ID: SRX25152580
+2025-05-02 02:17:49 [INFO    ] Row 983 (ID: SRX25152580): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:49 [INFO    ] Row 983 (ID: SRX25152580): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:49 [INFO    ] Attempting LLM classification for ID: SRX25152580, Text: 'SRX25152580	ID=SRX25152580 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=Blood | tissue=Blood | cell type=CD4+ Teff | genotype=MED12-KO | condition=Rest | donor=D5'
+2025-05-02 02:17:50 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:50 [INFO    ] LLM Parsed Result for SRX25152580: non-native
+2025-05-02 02:17:50 [INFO    ] Row 983 (ID: SRX25152580): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:50 [INFO    ] Processing row 996/99, ID: SRX25331425
+2025-05-02 02:17:50 [INFO    ] Row 996 (ID: SRX25331425): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:50 [INFO    ] Row 996 (ID: SRX25331425): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:50 [INFO    ] Attempting LLM classification for ID: SRX25331425, Text: 'SRX25331425	ID=SRX25331425 | Cell_type_class=Neural | Cell_type=Brain | Metadata=source_name=Brain | tissue=Brain | cell line=ICR_CXJ_046 | genotype=DHG-G34'
+2025-05-02 02:17:51 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:51 [INFO    ] LLM Parsed Result for SRX25331425: non-native
+2025-05-02 02:17:51 [INFO    ] Row 996 (ID: SRX25331425): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:51 [INFO    ] Processing row 1003/99, ID: SRX25501815
+2025-05-02 02:17:51 [INFO    ] Row 1003 (ID: SRX25501815): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:51 [INFO    ] Row 1003 (ID: SRX25501815): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:51 [INFO    ] Attempting LLM classification for ID: SRX25501815, Text: 'SRX25501815	ID=SRX25501815 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=skin | tissue=skin | cell line=HDF-2 | cell type=Human dermal fibroblasts | treatment=With AR silencing'
+2025-05-02 02:17:52 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:52 [INFO    ] LLM Parsed Result for SRX25501815: non-native
+2025-05-02 02:17:52 [INFO    ] Row 1003 (ID: SRX25501815): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:52 [INFO    ] Processing row 1015/99, ID: SRX2635902
+2025-05-02 02:17:52 [INFO    ] Row 1015 (ID: SRX2635902): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:52 [INFO    ] Row 1015 (ID: SRX2635902): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:52 [INFO    ] Attempting LLM classification for ID: SRX2635902, Text: 'SRX2635902	ID=SRX2635902 | Cell_type_class=Liver | Cell_type=Liver | Metadata=tissue=liver | age=32 year | donor ID=ENCDO060AAA | dev stage=adult | sample type=tissue | health state=healthy with non-obstructive CAD (coronary artery disease)'
+2025-05-02 02:17:53 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:53 [INFO    ] LLM Parsed Result for SRX2635902: non-native
+2025-05-02 02:17:53 [INFO    ] Row 1015 (ID: SRX2635902): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:53 [INFO    ] Processing row 1048/99, ID: SRX2770856
+2025-05-02 02:17:53 [INFO    ] Row 1048 (ID: SRX2770856): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'untreated' (category: weak_native, score: 100.0). Matches found: 'untreated' in 'source_name' (weak_native/100.0)
+2025-05-02 02:17:53 [INFO    ] Row 1048 (ID: SRX2770856): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:53 [INFO    ] Attempting LLM classification for ID: SRX2770856, Text: 'SRX2770856	ID=SRX2770856 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Primary human monocyte-derived macrophages, untreated, PU.1 ChIP | disease state=healthy | tissue=peripheral blood | cell type=primary human monocyte-derived macrophages | treatment=none'
+2025-05-02 02:17:54 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:54 [INFO    ] LLM Parsed Result for SRX2770856: native
+2025-05-02 02:17:54 [INFO    ] Row 1048 (ID: SRX2770856): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:54 [INFO    ] Processing row 1062/99, ID: SRX2966972
+2025-05-02 02:17:54 [INFO    ] Row 1062 (ID: SRX2966972): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'fetal' (category: strong_non_native, score: 100.0). Matches found: 'fetal' in 'source_name' (strong_non_native/100.0); 'fetal' in 'cell type' (strong_non_native/100.0)
+2025-05-02 02:17:54 [INFO    ] Row 1062 (ID: SRX2966972): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:54 [INFO    ] Processing row 1083/99, ID: SRX3195440
+2025-05-02 02:17:54 [INFO    ] Row 1083 (ID: SRX3195440): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'control' (category: weak_native, score: 100.0). Matches found: 'control' in 'genotype' (weak_native/100.0); 'untreated' in 'genotype' (weak_native/100.0)
+2025-05-02 02:17:54 [INFO    ] Row 1083 (ID: SRX3195440): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:17:54 [INFO    ] Attempting LLM classification for ID: SRX3195440, Text: 'SRX3195440	ID=SRX3195440 | Cell_type_class=Blood | Cell_type=CD34+ cells | Metadata=source_name=FLAG MLL-AF9 ChIPseq | cell type=human CD34+ | genotype=control untreated'
+2025-05-02 02:17:55 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:55 [INFO    ] LLM Parsed Result for SRX3195440: native
+2025-05-02 02:17:55 [INFO    ] Row 1083 (ID: SRX3195440): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:55 [INFO    ] Processing row 1119/99, ID: SRX3322085
+2025-05-02 02:17:55 [INFO    ] Row 1119 (ID: SRX3322085): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:55 [INFO    ] Row 1119 (ID: SRX3322085): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:55 [INFO    ] Attempting LLM classification for ID: SRX3322085, Text: 'SRX3322085	ID=SRX3322085 | Cell_type_class=Digestive tract | Cell_type=Gastroesophageal sphincter | Metadata=tissue=gastroesophageal sphincter | sample_type=tissue | age=37 year | donor ID=ENCDO845WKR | dev_stage=adult'
+2025-05-02 02:17:57 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:57 [ERROR   ] LLM JSON parsing error for SRX3322085: Extra data: line 8 column 1 (char 166)
+Raw response: {
+  "id": "SRX3322085",
+  "metadata": "donor ID, age=37 year, adult, tissue=gastroesophageal sphincter, cell_type=Gastroesophageal sphincter",
+  "native": false
+}
+
+ 
+The classification is **non-native** because the sample was from a donor (donor ID), indicating that it was not from a healthy individual or under normal physiological conditions.
+2025-05-02 02:17:57 [ERROR   ] Row 1119 (ID: SRX3322085): LLM classification failed. Reverting to keyword result: 'unknown'
+2025-05-02 02:17:57 [INFO    ] Processing row 1247/99, ID: SRX3584196
+2025-05-02 02:17:57 [INFO    ] Row 1247 (ID: SRX3584196): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:57 [INFO    ] Row 1247 (ID: SRX3584196): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:57 [INFO    ] Attempting LLM classification for ID: SRX3584196, Text: 'SRX3584196	ID=SRX3584196 | Cell_type_class=Gonad | Cell_type=Epididymis | Metadata=source_name=Epididymis | cell type=Primary human epididymis cells'
+2025-05-02 02:17:58 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:58 [INFO    ] LLM Parsed Result for SRX3584196: native
+2025-05-02 02:17:58 [INFO    ] Row 1247 (ID: SRX3584196): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:17:58 [INFO    ] Processing row 1249/99, ID: SRX3585704
+2025-05-02 02:17:58 [INFO    ] Row 1249 (ID: SRX3585704): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'fetal' (category: strong_non_native, score: 100.0). Matches found: 'fetal' in 'source_name' (strong_non_native/100.0); 'fetal' in 'cell type' (strong_non_native/100.0); 'donor' in 'donor' (weak_native/100.0); 'wt' in 'genotype' (weak_native/100.0)
+2025-05-02 02:17:58 [INFO    ] Row 1249 (ID: SRX3585704): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:58 [INFO    ] Processing row 1259/99, ID: SRX3666488
+2025-05-02 02:17:58 [INFO    ] Row 1259 (ID: SRX3666488): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'stimulated' (category: strong_non_native, score: 86.95652173913044). Matches found: 'stimulated' in 'source_name' (strong_non_native/86.95652173913044); 'stimulated' in 'cell type' (strong_non_native/86.95652173913044)
+2025-05-02 02:17:58 [INFO    ] Row 1259 (ID: SRX3666488): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:17:58 [INFO    ] Processing row 1263/99, ID: SRX3679898
+2025-05-02 02:17:58 [INFO    ] Row 1263 (ID: SRX3679898): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:58 [INFO    ] Row 1263 (ID: SRX3679898): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:58 [INFO    ] Attempting LLM classification for ID: SRX3679898, Text: 'SRX3679898	ID=SRX3679898 | Cell_type_class=Epidermis | Cell_type=Keratinocytes | Metadata=source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shKMT2D'
+2025-05-02 02:17:59 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:17:59 [INFO    ] LLM Parsed Result for SRX3679898: non-native
+2025-05-02 02:17:59 [INFO    ] Row 1263 (ID: SRX3679898): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:17:59 [INFO    ] Processing row 1264/99, ID: SRX3679900
+2025-05-02 02:17:59 [INFO    ] Row 1264 (ID: SRX3679900): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:17:59 [INFO    ] Row 1264 (ID: SRX3679900): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:17:59 [INFO    ] Attempting LLM classification for ID: SRX3679900, Text: 'SRX3679900	ID=SRX3679900 | Cell_type_class=Epidermis | Cell_type=Keratinocytes | Metadata=source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shSC'
+2025-05-02 02:18:00 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:00 [INFO    ] LLM Parsed Result for SRX3679900: non-native
+2025-05-02 02:18:00 [INFO    ] Row 1264 (ID: SRX3679900): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:00 [INFO    ] Processing row 1265/99, ID: SRX3679902
+2025-05-02 02:18:00 [INFO    ] Row 1265 (ID: SRX3679902): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:00 [INFO    ] Row 1265 (ID: SRX3679902): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:00 [INFO    ] Attempting LLM classification for ID: SRX3679902, Text: 'SRX3679902	ID=SRX3679902 | Cell_type_class=Epidermis | Cell_type=Keratinocytes | Metadata=source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shKMT2D'
+2025-05-02 02:18:01 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:01 [INFO    ] LLM Parsed Result for SRX3679902: non-native
+2025-05-02 02:18:01 [INFO    ] Row 1265 (ID: SRX3679902): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:01 [INFO    ] Processing row 1270/99, ID: SRX3734300
+2025-05-02 02:18:01 [INFO    ] Row 1270 (ID: SRX3734300): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)
+2025-05-02 02:18:01 [INFO    ] Row 1270 (ID: SRX3734300): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:01 [INFO    ] Attempting LLM classification for ID: SRX3734300, Text: 'SRX3734300	ID=SRX3734300 | Cell_type_class=Epidermis | Cell_type=Foreskin | Metadata=source_name=Foreskin | treatment=DMSO'
+2025-05-02 02:18:02 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:02 [INFO    ] LLM Parsed Result for SRX3734300: native
+2025-05-02 02:18:02 [INFO    ] Row 1270 (ID: SRX3734300): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:02 [INFO    ] Processing row 1275/99, ID: SRX3768737
+2025-05-02 02:18:02 [INFO    ] Row 1275 (ID: SRX3768737): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'overexpression' (category: strong_non_native, score: 84.84848484848484). Matches found: 'overexpression' in 'genotype/variation' (strong_non_native/84.84848484848484)
+2025-05-02 02:18:02 [INFO    ] Row 1275 (ID: SRX3768737): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:02 [INFO    ] Processing row 1278/99, ID: SRX382353
+2025-05-02 02:18:02 [INFO    ] Row 1278 (ID: SRX382353): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'immortalized' (category: strong_non_native, score: 100.0). Matches found: 'immortalized' in 'cell type' (strong_non_native/100.0)
+2025-05-02 02:18:02 [INFO    ] Row 1278 (ID: SRX382353): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:02 [INFO    ] Processing row 1294/99, ID: SRX393518
+2025-05-02 02:18:02 [INFO    ] Row 1294 (ID: SRX393518): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:02 [INFO    ] Row 1294 (ID: SRX393518): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:02 [INFO    ] Attempting LLM classification for ID: SRX393518, Text: 'SRX393518	ID=SRX393518 | Cell_type_class=Cardiovascular | Cell_type=Primary endothelial cells | Metadata=source_name=Human primary endothelial colony-forming cells | treatment=100 ng/ml final TSA'
+2025-05-02 02:18:03 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:03 [INFO    ] LLM Parsed Result for SRX393518: non-native
+2025-05-02 02:18:03 [INFO    ] Row 1294 (ID: SRX393518): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:03 [INFO    ] Processing row 1364/99, ID: SRX4370433
+2025-05-02 02:18:03 [INFO    ] Row 1364 (ID: SRX4370433): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:03 [INFO    ] Row 1364 (ID: SRX4370433): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:03 [INFO    ] Attempting LLM classification for ID: SRX4370433, Text: 'SRX4370433	ID=SRX4370433 | Cell_type_class=Neural | Cell_type=Anterior temporal cortex | Metadata=source_name=Adult anterior temporal cortex | developmental stage=Adult | tissue=brain (anterior temporal cortex)'
+2025-05-02 02:18:04 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:04 [INFO    ] LLM Parsed Result for SRX4370433: native
+2025-05-02 02:18:04 [INFO    ] Row 1364 (ID: SRX4370433): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:04 [INFO    ] Processing row 1404/99, ID: SRX4723358
+2025-05-02 02:18:04 [INFO    ] Row 1404 (ID: SRX4723358): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:04 [INFO    ] Row 1404 (ID: SRX4723358): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:04 [INFO    ] Attempting LLM classification for ID: SRX4723358, Text: 'SRX4723358	ID=SRX4723358 | Cell_type_class=Neural | Cell_type=Neurons | Metadata=source_name=2 week neuron_homerTF_GATA3_WT126 | individual=wt126 | sh=none'
+2025-05-02 02:18:05 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:05 [INFO    ] LLM Parsed Result for SRX4723358: native
+2025-05-02 02:18:05 [INFO    ] Row 1404 (ID: SRX4723358): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:05 [INFO    ] Processing row 1525/99, ID: SRX5360084
+2025-05-02 02:18:05 [INFO    ] Row 1525 (ID: SRX5360084): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:05 [INFO    ] Row 1525 (ID: SRX5360084): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:05 [INFO    ] Attempting LLM classification for ID: SRX5360084, Text: 'SRX5360084	ID=SRX5360084 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=Dermal Fibroblasts | neoplastic stage=untransformed'
+2025-05-02 02:18:05 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:05 [INFO    ] LLM Parsed Result for SRX5360084: native
+2025-05-02 02:18:05 [INFO    ] Row 1525 (ID: SRX5360084): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:05 [INFO    ] Processing row 1527/99, ID: SRX5360094
+2025-05-02 02:18:05 [INFO    ] Row 1527 (ID: SRX5360094): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:05 [INFO    ] Row 1527 (ID: SRX5360094): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:05 [INFO    ] Attempting LLM classification for ID: SRX5360094, Text: 'SRX5360094	ID=SRX5360094 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=Dermal Fibroblasts | neoplastic stage=transformed'
+2025-05-02 02:18:06 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:06 [INFO    ] LLM Parsed Result for SRX5360094: non-native
+2025-05-02 02:18:06 [INFO    ] Row 1527 (ID: SRX5360094): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:06 [INFO    ] Processing row 1529/99, ID: SRX5371741
+2025-05-02 02:18:06 [INFO    ] Row 1529 (ID: SRX5371741): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)
+2025-05-02 02:18:06 [INFO    ] Row 1529 (ID: SRX5371741): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:06 [INFO    ] Attempting LLM classification for ID: SRX5371741, Text: 'SRX5371741	ID=SRX5371741 | Cell_type_class=Blood | Cell_type=CD4+ T cells | Metadata=source_name=primary blood | individual=donor 206 | cell type=CD4pos_T | lineage=CD4'
+2025-05-02 02:18:07 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:07 [INFO    ] LLM Parsed Result for SRX5371741: native
+2025-05-02 02:18:07 [INFO    ] Row 1529 (ID: SRX5371741): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:07 [INFO    ] Processing row 1532/99, ID: SRX5391034
+2025-05-02 02:18:07 [INFO    ] Row 1532 (ID: SRX5391034): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'control' (category: weak_native, score: 100.0). Matches found: 'control' in 'genotype' (weak_native/100.0)
+2025-05-02 02:18:07 [INFO    ] Row 1532 (ID: SRX5391034): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:07 [INFO    ] Attempting LLM classification for ID: SRX5391034, Text: 'SRX5391034	ID=SRX5391034 | Cell_type_class=Muscle | Cell_type=Skeletal myotubes | Metadata=source_name=Primary skeletal myotube | cell type=Primary human myocytes | genotype=control | passages=P7'
+2025-05-02 02:18:09 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:09 [ERROR   ] LLM JSON parsing error for SRX5391034: Extra data: line 3 column 1 (char 65)
+Raw response: {"id": "SRX5391034", "metadata": "passages>P7", "native": true}
+
+I classified the sample as NATIVE because there is no clear indication of modification, immortalized cell line, embryonic cells or disease in its metadata. The presence of passages=P7 suggests that it has been passaged a few times but does not necessarily imply modification.
+2025-05-02 02:18:09 [ERROR   ] Row 1532 (ID: SRX5391034): LLM classification failed. Reverting to keyword result: 'native'
+2025-05-02 02:18:09 [INFO    ] Processing row 1533/99, ID: SRX5391035
+2025-05-02 02:18:09 [INFO    ] Row 1533 (ID: SRX5391035): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'kd' (category: strong_non_native, score: 100.0). Matches found: 'kd' in 'genotype' (strong_non_native/100.0)
+2025-05-02 02:18:09 [INFO    ] Row 1533 (ID: SRX5391035): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:09 [INFO    ] Processing row 1573/99, ID: SRX5574342
+2025-05-02 02:18:09 [INFO    ] Row 1573 (ID: SRX5574342): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'donor' (category: weak_native, score: 90.9090909090909). Matches found: 'donor' in 'donr id' (weak_native/90.9090909090909)
+2025-05-02 02:18:09 [INFO    ] Row 1573 (ID: SRX5574342): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:09 [INFO    ] Attempting LLM classification for ID: SRX5574342, Text: 'SRX5574342	ID=SRX5574342 | Cell_type_class=Blood | Cell_type=Monocytes | Metadata=source_name=cMO_PU.1-ChIP | donr id=donorA | tissue/cell type=peripheral blood | cell subtype=primary monocytes'
+2025-05-02 02:18:10 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:10 [INFO    ] LLM Parsed Result for SRX5574342: native
+2025-05-02 02:18:10 [INFO    ] Row 1573 (ID: SRX5574342): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:10 [INFO    ] Processing row 1630/99, ID: SRX5624369
+2025-05-02 02:18:10 [INFO    ] Row 1630 (ID: SRX5624369): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:10 [INFO    ] Row 1630 (ID: SRX5624369): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:10 [INFO    ] Attempting LLM classification for ID: SRX5624369, Text: 'SRX5624369	ID=SRX5624369 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes | treatment=TNF (10ng/ml) for 16 hours'
+2025-05-02 02:18:11 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:11 [INFO    ] LLM Parsed Result for SRX5624369: non-native
+2025-05-02 02:18:11 [INFO    ] Row 1630 (ID: SRX5624369): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:11 [INFO    ] Processing row 1633/99, ID: SRX5716451
+2025-05-02 02:18:11 [INFO    ] Row 1633 (ID: SRX5716451): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype/variation' (weak_native/100.0)
+2025-05-02 02:18:11 [INFO    ] Row 1633 (ID: SRX5716451): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:11 [INFO    ] Attempting LLM classification for ID: SRX5716451, Text: 'SRX5716451	ID=SRX5716451 | Cell_type_class=Neural | Cell_type=Neural progenitor cells | Metadata=source_name=hNPCs | genotype/variation=wild type | sirna=none | lentiviral expression=none'
+2025-05-02 02:18:12 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:12 [INFO    ] LLM Parsed Result for SRX5716451: native
+2025-05-02 02:18:12 [INFO    ] Row 1633 (ID: SRX5716451): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:12 [INFO    ] Processing row 1645/99, ID: SRX5774914
+2025-05-02 02:18:12 [INFO    ] Row 1645 (ID: SRX5774914): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:12 [INFO    ] Row 1645 (ID: SRX5774914): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:12 [INFO    ] Attempting LLM classification for ID: SRX5774914, Text: 'SRX5774914	ID=SRX5774914 | Cell_type_class=Epidermis | Cell_type=Dermal fibroblast | Metadata=source_name=Foreskin fibroblasts | tissue=Foreskin fibroblasts | cell line=A2B5+ iOPCs(H)'
+2025-05-02 02:18:13 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:13 [INFO    ] LLM Parsed Result for SRX5774914: non-native
+2025-05-02 02:18:13 [INFO    ] Row 1645 (ID: SRX5774914): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:13 [INFO    ] Processing row 1657/99, ID: SRX5839976
+2025-05-02 02:18:13 [INFO    ] Row 1657 (ID: SRX5839976): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:13 [INFO    ] Row 1657 (ID: SRX5839976): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:13 [INFO    ] Attempting LLM classification for ID: SRX5839976, Text: 'SRX5839976	ID=SRX5839976 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Primary human monocyte-derived macrophages | tissue=peripheral blood | cell type=monocytes'
+2025-05-02 02:18:14 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:14 [INFO    ] LLM Parsed Result for SRX5839976: non-native
+2025-05-02 02:18:14 [INFO    ] Row 1657 (ID: SRX5839976): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:14 [INFO    ] Processing row 1662/99, ID: SRX6068070
+2025-05-02 02:18:14 [INFO    ] Row 1662 (ID: SRX6068070): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:14 [INFO    ] Row 1662 (ID: SRX6068070): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:14 [INFO    ] Attempting LLM classification for ID: SRX6068070, Text: 'SRX6068070	ID=SRX6068070 | Cell_type_class=Uterus | Cell_type=Endometrium | Metadata=source_name=Midsecretory rep1 PGR-ChIPseq | menstrual cycle phase=mid-secretory | tissue=endometrium/whole endometrium'
+2025-05-02 02:18:15 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:15 [INFO    ] LLM Parsed Result for SRX6068070: native
+2025-05-02 02:18:15 [INFO    ] Row 1662 (ID: SRX6068070): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:15 [INFO    ] Processing row 1663/99, ID: SRX6068072
+2025-05-02 02:18:15 [INFO    ] Row 1663 (ID: SRX6068072): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:15 [INFO    ] Row 1663 (ID: SRX6068072): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:15 [INFO    ] Attempting LLM classification for ID: SRX6068072, Text: 'SRX6068072	ID=SRX6068072 | Cell_type_class=Uterus | Cell_type=Endometrium | Metadata=source_name=Proliferative rep2 PGR-ChIPseq | menstrual cycle phase=proliferative | tissue=endometrium/whole endometrium'
+2025-05-02 02:18:16 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:16 [INFO    ] LLM Parsed Result for SRX6068072: native
+2025-05-02 02:18:16 [INFO    ] Row 1663 (ID: SRX6068072): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:16 [INFO    ] Processing row 1680/99, ID: SRX6578928
+2025-05-02 02:18:16 [INFO    ] Row 1680 (ID: SRX6578928): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:16 [INFO    ] Row 1680 (ID: SRX6578928): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:16 [INFO    ] Attempting LLM classification for ID: SRX6578928, Text: 'SRX6578928	ID=SRX6578928 | Cell_type_class=Blood | Cell_type=T cells | Metadata=source_name=Peripheral blood T cells | tissue=Peripheral blood | disease state=Healthy T cells | treatment=N/A'
+2025-05-02 02:18:17 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:17 [INFO    ] LLM Parsed Result for SRX6578928: native
+2025-05-02 02:18:17 [INFO    ] Row 1680 (ID: SRX6578928): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:17 [INFO    ] Processing row 1707/99, ID: SRX6763473
+2025-05-02 02:18:17 [INFO    ] Row 1707 (ID: SRX6763473): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'treatment' (category: strong_non_native, score: 78.26086956521739). Matches found: 'treatment' in 'treatment' (strong_non_native/78.26086956521739)
+2025-05-02 02:18:17 [INFO    ] Row 1707 (ID: SRX6763473): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:17 [INFO    ] Processing row 1711/99, ID: SRX6763478
+2025-05-02 02:18:17 [INFO    ] Row 1711 (ID: SRX6763478): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:17 [INFO    ] Row 1711 (ID: SRX6763478): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:17 [INFO    ] Attempting LLM classification for ID: SRX6763478, Text: 'SRX6763478	ID=SRX6763478 | Cell_type_class=Blood | Cell_type=Monocytes | Metadata=source_name=PRIMARY-MONOCYTE | cell type=PRIMARY-MONOCYTE | treatment=primary monocytes'
+2025-05-02 02:18:18 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:18 [INFO    ] LLM Parsed Result for SRX6763478: non-native
+2025-05-02 02:18:18 [INFO    ] Row 1711 (ID: SRX6763478): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:18 [INFO    ] Processing row 1718/99, ID: SRX6784062
+2025-05-02 02:18:18 [INFO    ] Row 1718 (ID: SRX6784062): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:18 [INFO    ] Row 1718 (ID: SRX6784062): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:18 [INFO    ] Attempting LLM classification for ID: SRX6784062, Text: 'SRX6784062	ID=SRX6784062 | Cell_type_class=Lung | Cell_type=Lung | Metadata=sample_type=tissue | tissue=upper lobe of left lung | dev_stage=adult | age=51 year | donor ID=ENCDO271OUW'
+2025-05-02 02:18:19 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:19 [INFO    ] LLM Parsed Result for SRX6784062: non-native
+2025-05-02 02:18:19 [INFO    ] Row 1718 (ID: SRX6784062): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:19 [INFO    ] Processing row 1759/99, ID: SRX6969885
+2025-05-02 02:18:19 [INFO    ] Row 1759 (ID: SRX6969885): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:19 [INFO    ] Row 1759 (ID: SRX6969885): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:19 [INFO    ] Attempting LLM classification for ID: SRX6969885, Text: 'SRX6969885	ID=SRX6969885 | Cell_type_class=Cardiovascular | Cell_type=Cardiomyocytes | Metadata=source_name=cardiomyocytes | cell type=CHD6 heterozygous mutant | passages=D9'
+2025-05-02 02:18:20 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:20 [INFO    ] LLM Parsed Result for SRX6969885: non-native
+2025-05-02 02:18:20 [INFO    ] Row 1759 (ID: SRX6969885): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:20 [INFO    ] Processing row 1769/99, ID: SRX7015671
+2025-05-02 02:18:20 [INFO    ] Row 1769 (ID: SRX7015671): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:20 [INFO    ] Row 1769 (ID: SRX7015671): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:20 [INFO    ] Attempting LLM classification for ID: SRX7015671, Text: 'SRX7015671	ID=SRX7015671 | Cell_type_class=Others | Cell_type=Fibroblasts | Metadata=source_name=CRL7250 (FIbroblast) | cell type=FIbroblast | cell line=CRL7250'
+2025-05-02 02:18:21 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:21 [INFO    ] LLM Parsed Result for SRX7015671: non-native
+2025-05-02 02:18:21 [INFO    ] Row 1769 (ID: SRX7015671): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:21 [INFO    ] Processing row 1788/99, ID: SRX7223095
+2025-05-02 02:18:21 [INFO    ] Row 1788 (ID: SRX7223095): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'cell line' (category: strong_non_native, score: 100.0). Matches found: 'cell line' in 'source_name' (strong_non_native/100.0)
+2025-05-02 02:18:21 [INFO    ] Row 1788 (ID: SRX7223095): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:21 [INFO    ] Processing row 1792/99, ID: SRX735289
+2025-05-02 02:18:21 [INFO    ] Row 1792 (ID: SRX735289): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:21 [INFO    ] Row 1792 (ID: SRX735289): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:21 [INFO    ] Attempting LLM classification for ID: SRX735289, Text: 'SRX735289	ID=SRX735289 | Cell_type_class=Blood | Cell_type=Th1 Cells | Metadata=source_name=In vitro differentiated Th1 cells | cell type=Th1 | treatment/agent=PMA/ionomycin'
+2025-05-02 02:18:22 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:22 [INFO    ] LLM Parsed Result for SRX735289: non-native
+2025-05-02 02:18:22 [INFO    ] Row 1792 (ID: SRX735289): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:22 [INFO    ] Processing row 1827/99, ID: SRX7509593
+2025-05-02 02:18:22 [INFO    ] Row 1827 (ID: SRX7509593): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:22 [INFO    ] Row 1827 (ID: SRX7509593): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:22 [INFO    ] Attempting LLM classification for ID: SRX7509593, Text: 'SRX7509593	ID=SRX7509593 | Cell_type_class=Gonad | Cell_type=Testis | Metadata=sample_type=tissue | tissue=testis | dev_stage=adult | age=37 year | donor ID=ENCDO845WKR'
+2025-05-02 02:18:23 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:23 [INFO    ] LLM Parsed Result for SRX7509593: non-native
+2025-05-02 02:18:23 [INFO    ] Row 1827 (ID: SRX7509593): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:23 [INFO    ] Processing row 1854/99, ID: SRX7730450
+2025-05-02 02:18:23 [INFO    ] Row 1854 (ID: SRX7730450): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:23 [INFO    ] Row 1854 (ID: SRX7730450): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:23 [INFO    ] Attempting LLM classification for ID: SRX7730450, Text: 'SRX7730450	ID=SRX7730450 | Cell_type_class=Bone | Cell_type=Osteoblasts | Metadata=source_name=osteoblast | cell=osteoblast | treatment=NA | time point=NA | genotype=Corrected RB1 mutation'
+2025-05-02 02:18:24 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:24 [INFO    ] LLM Parsed Result for SRX7730450: non-native
+2025-05-02 02:18:24 [INFO    ] Row 1854 (ID: SRX7730450): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:24 [INFO    ] Processing row 1883/99, ID: SRX8090642
+2025-05-02 02:18:24 [INFO    ] Row 1883 (ID: SRX8090642): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:24 [INFO    ] Row 1883 (ID: SRX8090642): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:24 [INFO    ] Attempting LLM classification for ID: SRX8090642, Text: 'SRX8090642	ID=SRX8090642 | Cell_type_class=Others | Cell_type=Synoviocytes | Metadata=source_name=Fibroblast like Synoviocytes | diagnosis=Rheumatoid arthritis | cell type=Fibroblast like Synoviocytes | treatment=JQ1 | donor=ST1412'
+2025-05-02 02:18:25 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:25 [INFO    ] LLM Parsed Result for SRX8090642: non-native
+2025-05-02 02:18:25 [INFO    ] Row 1883 (ID: SRX8090642): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:25 [INFO    ] Processing row 1886/99, ID: SRX8090646
+2025-05-02 02:18:25 [INFO    ] Row 1886 (ID: SRX8090646): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)
+2025-05-02 02:18:25 [INFO    ] Row 1886 (ID: SRX8090646): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:25 [INFO    ] Attempting LLM classification for ID: SRX8090646, Text: 'SRX8090646	ID=SRX8090646 | Cell_type_class=Others | Cell_type=Synoviocytes | Metadata=source_name=Fibroblast like Synoviocytes | diagnosis=Rheumatoid arthritis | cell type=Fibroblast like Synoviocytes | treatment=DMSO | donor=ST1412'
+2025-05-02 02:18:27 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:27 [INFO    ] LLM Parsed Result for SRX8090646: non-native
+2025-05-02 02:18:27 [INFO    ] Row 1886 (ID: SRX8090646): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:27 [WARNING ] Row 1886 (ID: SRX8090646): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:18:27 [WARNING ] Row 1886 (ID: SRX8090646): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:18:27 [INFO    ] Processing row 1939/99, ID: SRX8453150
+2025-05-02 02:18:27 [INFO    ] Row 1939 (ID: SRX8453150): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'cancer' (category: strong_non_native, score: 100.0). Matches found: 'cancer' in 'disease state' (strong_non_native/100.0)
+2025-05-02 02:18:27 [INFO    ] Row 1939 (ID: SRX8453150): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:27 [INFO    ] Processing row 1975/99, ID: SRX8841625
+2025-05-02 02:18:27 [INFO    ] Row 1975 (ID: SRX8841625): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:27 [INFO    ] Row 1975 (ID: SRX8841625): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:27 [INFO    ] Attempting LLM classification for ID: SRX8841625, Text: 'SRX8841625	ID=SRX8841625 | Cell_type_class=Blood | Cell_type=Lymphoblasts | Metadata=source_name=RAD21-ChIP-seq-Mut | condition=Acheiropodia patient | cell type=Lymphoblast cells'
+2025-05-02 02:18:28 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:28 [INFO    ] LLM Parsed Result for SRX8841625: non-native
+2025-05-02 02:18:28 [INFO    ] Row 1975 (ID: SRX8841625): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:28 [INFO    ] Processing row 1977/99, ID: SRX885891
+2025-05-02 02:18:28 [INFO    ] Row 1977 (ID: SRX885891): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'control' (category: weak_native, score: 100.0). Matches found: 'control' in 'treatment' (weak_native/100.0)
+2025-05-02 02:18:28 [INFO    ] Row 1977 (ID: SRX885891): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:28 [INFO    ] Attempting LLM classification for ID: SRX885891, Text: 'SRX885891	ID=SRX885891 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Macrophage-control | treatment=Control | cell type=Macrophage'
+2025-05-02 02:18:29 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:29 [INFO    ] LLM Parsed Result for SRX885891: native
+2025-05-02 02:18:29 [INFO    ] Row 1977 (ID: SRX885891): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:29 [INFO    ] Processing row 1978/99, ID: SRX885895
+2025-05-02 02:18:29 [INFO    ] Row 1978 (ID: SRX885895): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:29 [INFO    ] Row 1978 (ID: SRX885895): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:29 [INFO    ] Attempting LLM classification for ID: SRX885895, Text: 'SRX885895	ID=SRX885895 | Cell_type_class=Blood | Cell_type=Macrophages | Metadata=source_name=Macrophage-oxLDL | treatment=oxLDL (50mcg/ml) | cell type=Macrophage'
+2025-05-02 02:18:30 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:30 [INFO    ] LLM Parsed Result for SRX885895: non-native
+2025-05-02 02:18:30 [INFO    ] Row 1978 (ID: SRX885895): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:30 [INFO    ] Processing row 1996/99, ID: SRX9029210
+2025-05-02 02:18:30 [INFO    ] Row 1996 (ID: SRX9029210): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'no treatment' (category: weak_native, score: 100.0). Matches found: 'no treatment' in 'treatment' (weak_native/100.0)
+2025-05-02 02:18:30 [INFO    ] Row 1996 (ID: SRX9029210): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:30 [INFO    ] Attempting LLM classification for ID: SRX9029210, Text: 'SRX9029210	ID=SRX9029210 | Cell_type_class=Blood | Cell_type=Neutrophils | Metadata=source_name=human neutrophil | treatment=no treatment | time=20 h | cell type=neutrophil'
+2025-05-02 02:18:31 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:31 [INFO    ] LLM Parsed Result for SRX9029210: native
+2025-05-02 02:18:31 [INFO    ] Row 1996 (ID: SRX9029210): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:31 [INFO    ] Processing row 1997/99, ID: SRX9029211
+2025-05-02 02:18:31 [INFO    ] Row 1997 (ID: SRX9029211): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:31 [INFO    ] Row 1997 (ID: SRX9029211): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:31 [INFO    ] Attempting LLM classification for ID: SRX9029211, Text: 'SRX9029211	ID=SRX9029211 | Cell_type_class=Blood | Cell_type=Neutrophils | Metadata=source_name=human neutrophil | treatment=R848 (5mM) | time=20 h | cell type=neutrophil'
+2025-05-02 02:18:32 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:32 [INFO    ] LLM Parsed Result for SRX9029211: non-native
+2025-05-02 02:18:32 [INFO    ] Row 1997 (ID: SRX9029211): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:32 [INFO    ] Processing row 2005/99, ID: SRX9221932
+2025-05-02 02:18:32 [INFO    ] Row 2005 (ID: SRX9221932): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:32 [INFO    ] Row 2005 (ID: SRX9221932): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:32 [INFO    ] Attempting LLM classification for ID: SRX9221932, Text: 'SRX9221932	ID=SRX9221932 | Cell_type_class=Liver | Cell_type=Hepatocytes | Metadata=source_name=Primary Hepatocytes | tissue/cell type=Primary hepatocytes | treatment=17 \u03b2-estradiol (1 µM) | treatment time=8 hours'
+2025-05-02 02:18:33 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:33 [INFO    ] LLM Parsed Result for SRX9221932: non-native
+2025-05-02 02:18:33 [INFO    ] Row 2005 (ID: SRX9221932): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:33 [INFO    ] Processing row 2006/99, ID: SRX9221933
+2025-05-02 02:18:33 [INFO    ] Row 2006 (ID: SRX9221933): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)
+2025-05-02 02:18:33 [INFO    ] Row 2006 (ID: SRX9221933): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:33 [INFO    ] Attempting LLM classification for ID: SRX9221933, Text: 'SRX9221933	ID=SRX9221933 | Cell_type_class=Liver | Cell_type=Hepatocytes | Metadata=source_name=Primary Hepatocytes | tissue/cell type=Primary hepatocytes | treatment=DMSO | treatment time=8 hours'
+2025-05-02 02:18:34 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:34 [INFO    ] LLM Parsed Result for SRX9221933: native
+2025-05-02 02:18:34 [INFO    ] Row 2006 (ID: SRX9221933): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:34 [INFO    ] Processing row 2010/99, ID: SRX9345717
+2025-05-02 02:18:34 [INFO    ] Row 2010 (ID: SRX9345717): Keyword analysis - Initial Class: native, Conf: 50, Reason: Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype' (weak_native/100.0)
+2025-05-02 02:18:34 [INFO    ] Row 2010 (ID: SRX9345717): Keyword classification 'native'. Validating with LLM.
+2025-05-02 02:18:34 [INFO    ] Attempting LLM classification for ID: SRX9345717, Text: 'SRX9345717	ID=SRX9345717 | Cell_type_class=Blood | Cell_type=Erythroid Cells | Metadata=source_name=iPSC diffrentiation to Erythroid cells | cell type=Erythroid | differentiation day=Day 21 | genotype=Wild type'
+2025-05-02 02:18:35 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:35 [INFO    ] LLM Parsed Result for SRX9345717: non-native
+2025-05-02 02:18:35 [INFO    ] Row 2010 (ID: SRX9345717): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:35 [WARNING ] Row 2010 (ID: SRX9345717): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:18:35 [WARNING ] Row 2010 (ID: SRX9345717): LLM OVERRIDE: Keyword was 'native', LLM classified as 'non-native'.
+2025-05-02 02:18:35 [INFO    ] Processing row 2034/99, ID: SRX971583
+2025-05-02 02:18:35 [INFO    ] Row 2034 (ID: SRX971583): Keyword analysis - Initial Class: non-native, Conf: 95, Reason: Highest weight keyword: 'shRNA' (category: strong_non_native, score: 80.0). Matches found: 'shRNA' in 'source_name' (strong_non_native/80.0); 'neonatal' in 'cell type' (strong_non_native/76.19047619047619)
+2025-05-02 02:18:35 [INFO    ] Row 2034 (ID: SRX971583): Keyword classification is 'non-native'. Skipping LLM.
+2025-05-02 02:18:35 [INFO    ] Processing row 2045/99, ID: SRX9850737
+2025-05-02 02:18:35 [INFO    ] Row 2045 (ID: SRX9850737): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:35 [INFO    ] Row 2045 (ID: SRX9850737): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:35 [INFO    ] Attempting LLM classification for ID: SRX9850737, Text: 'SRX9850737	ID=SRX9850737 | Cell_type_class=Lung | Cell_type=Bronchial epithelial cells | Metadata=source_name=Calu-3 KLF5 ChIP-seq | cell line=Calu-3 | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS'
+2025-05-02 02:18:36 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:36 [INFO    ] LLM Parsed Result for SRX9850737: non-native
+2025-05-02 02:18:36 [INFO    ] Row 2045 (ID: SRX9850737): LLM classified as 'non-native'. Using LLM result.
+2025-05-02 02:18:36 [INFO    ] Processing row 2049/99, ID: SRX9867030
+2025-05-02 02:18:36 [INFO    ] Row 2049 (ID: SRX9867030): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:36 [INFO    ] Row 2049 (ID: SRX9867030): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:36 [INFO    ] Attempting LLM classification for ID: SRX9867030, Text: 'SRX9867030	ID=SRX9867030 | Cell_type_class=Blood | Cell_type=CD8+ T cells | Metadata=source_name=1818759_CD8_CTCF_REP1 | cell type=CD8'
+2025-05-02 02:18:36 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:36 [INFO    ] LLM Parsed Result for SRX9867030: native
+2025-05-02 02:18:36 [INFO    ] Row 2049 (ID: SRX9867030): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:36 [INFO    ] Processing row 2058/99, ID: SRX9969717
+2025-05-02 02:18:36 [INFO    ] Row 2058 (ID: SRX9969717): Keyword analysis - Initial Class: unknown, Conf: 0, Reason: No relevant keywords
+2025-05-02 02:18:36 [INFO    ] Row 2058 (ID: SRX9969717): Keyword classification inconclusive ('unknown'). Attempting LLM fallback.
+2025-05-02 02:18:36 [INFO    ] Attempting LLM classification for ID: SRX9969717, Text: 'SRX9969717	ID=SRX9969717 | Cell_type_class=Others | Cell_type=16HBE14o- | Metadata=source_name=16HBE14o- | cell line=16HBE14o- | cell type=Human bronchial epithelial cells | growth media=DMEM + 10% FBS'
+2025-05-02 02:18:37 [INFO    ] HTTP Request: POST https://genai.science-cloud.hu/api/chat/completions "HTTP/1.1 200 OK"
+2025-05-02 02:18:37 [INFO    ] LLM Parsed Result for SRX9969717: native
+2025-05-02 02:18:37 [INFO    ] Row 2058 (ID: SRX9969717): LLM classified as 'native'. Using LLM result.
+2025-05-02 02:18:37 [INFO    ] Metadata processing finished.
+2025-05-02 02:18:37 [INFO    ] Classification summary saved to: ../data/processed/classification\llama32-3b_hybrid\classification_summary.csv
+2025-05-02 02:18:37 [INFO    ] Writing final native/non-native tables...
+2025-05-02 02:18:37 [INFO    ] Total Native IDs: 28
+2025-05-02 02:18:37 [INFO    ] Total Non-Native IDs: 71
+2025-05-02 02:18:37 [INFO    ] Finished writing tables: ../data/processed/classification\llama32-3b_hybrid\native_classified.tsv (28 rows) and ../data/processed/classification\llama32-3b_hybrid\non_native_classified.tsv (71 rows)
+2025-05-02 02:18:37 [INFO    ] Script finished.

@@ -1,0 +1,18 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX11513464,1,non-native,LLM (Native Validation),"Highest weight keyword: 'donor' (category: weak_native, score: 100.0). Matches found: 'donor' in 'individual' (weak_native/100.0)",Non-Native. cell line=Dendritic cells differentiated from monocytes 24 hours
+SRX16495697,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. dev stage=adult, age=90 or above year"
+SRX1738529,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. cell type=Hematopoietic Stem Cells, source_name=Human Stem and Progenitor Cell"
+SRX18768994,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. cell type=Human primary adipose stem cells; source_name=Adipose
+SRX18768997,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. cell type=Human primary adipose stem cells, tissue=Adipose"
+SRX212353,0,native,LLM (Fallback),No relevant keywords,"Native. donor=1, treatment=none"
+SRX13006802,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. age=74 year, donor ID=ENCDO907CMO"
+SRX23335291,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. Cell_type_class=Blood, Cell_type=CD4+ T cells"
+SRX3195440,1,non-native,LLM (Native Validation),"Highest weight keyword: 'control' (category: weak_native, score: 100.0). Matches found: 'control' in 'genotype' (weak_native/100.0); 'untreated' in 'genotype' (weak_native/100.0)","Non-Native. genotype=control untreated, cell type=human CD34+ cells"
+SRX5716451,1,non-native,LLM (Native Validation),"Highest weight keyword: 'wild-type' (category: weak_native, score: 100.0). Matches found: 'wild-type' in 'genotype/variation' (weak_native/100.0)","Non-Native. cell_type=Neural progenitor cells, source_name=hNPCs"
+SRX5839976,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. cell type=monocytes, source_name=Primary human monocyte-derived macrophages"
+SRX6784062,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. Cell_line=C20
+SRX7015671,0,native,LLM (Fallback),No relevant keywords,"Native. cell line=CRL7250, generic human cell type (Fibroblasts)"
+SRX8090646,1,non-native,LLM (Native Validation),"Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)","Non-Native. Rheumatoid arthritis, Fibroblast like Synoviocytes (Cell_type_class=Others)"
+SRX9867030,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. Cell_line=C20
+SRX7509593,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. donor age 37 years and 'adult' development stage
+SRX6068070,1,non-native,LLM (Fallback),No relevant keywords,"Non-Native. tissue=endometrium/whole endometrium, source_name=Midsecretory rep1 PGR-ChIPseq"

@@ -1,0 +1,33 @@
+	ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440344,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. cell_type_class=Blood
+SRX11513464,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. individual=donor B | time=24 hours differentiation
+SRX12209241,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. source_name=CD3/CD28 stimulated CD4+ T cells
+SRX16495661,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. age=21 year | donor ID=ENCDO781BMZ
+SRX16495697,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. age=90 or above, donor ID=ENCDO470GFA"
+SRX170349,1,error,Keyword (skipped / LLM Error),Keyword search skipped (LLM-Only mode),"LLM JSON parsing error: Extra data: line 4 column 1 (char 69). Response: {""id"": ""SRX170349"", ""metadata"": ""cell type=CD36+"", ""native"": true}
+
+
+The sample is classified as NATIVE because the metadata indicates the sample comes from a healthy adult individual (developmental stage = Adult) and has not undergone any modifications or treatments (genotype/variation = wild type). The presence of CD36+ cells does not indicate non-nativity, but rather specifies the cell type."
+SRX1738529,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=Hematopoietic Stem Cells, source_name=Human Stem and Progenitor Cell"
+SRX18768994,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell type=Human primary adipose stem cells, source_name=Adipose, tissue=Adipose"
+SRX23335286,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. source_name=foreskin fibroblasts, cell type=foreskin fibroblasts, age=0"
+SRX13006802,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. age=74 year, donor ID=ENCDO907CMO"
+SRX5839976,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. source_name=Primary human monocyte-derived macrophages, tissue=peripheral blood"
+SRX6784062,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. donor ID=ENCDO271OUW, age=51 year"
+SRX8090646,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_type_class=Others, source_name=Fibroblast like Synoviocytes, treatment=DMSO, donor=ST1412"
+SRX9867030,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. source_name=1818759_CD8_CTF
+SRX9969717,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. cell_line=16HBE14o-
+SRX7509593,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. donor ID=ENCDO845WKR, age=37 year"
+SRX6763478,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. treatment=primary monocytes, source_name=PRIMARY-MONOCYTE, cell type=PRIMARY-MONOCYTE"
+SRX5371741,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. individual=donor 206
+SRX5360084,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. source_name=Dermal Fibroblasts, cell_line=Dermal fibroblast, neoplastic stage=untransformed"
+SRX2635902,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. tissue=liver, age=32 year, donor ID=ENCDO060AAA, health state=healthy with non-obstructive CAD (coronary artery disease)"
+SRX5774914,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. cell line=A2B5+ iOPCs(H)
+SRX10977238,0,error,Keyword (skipped / LLM Error),Keyword search skipped (LLM-Only mode),"LLM JSON parsing error: Extra data: line 8 column 1 (char 182). Response: {
+  ""id"": ""SRX10977238"",
+  ""metadata"": ""age=2-4 day; dev_stage=newborn; donor ID=ENCDO615NVN; treatments=chemical treatment for calcium; health state=Healthy"",
+  ""native"": false
+}
+
+
+The provided metadata contains several indicators of a non-native sample: age range (2-4 days) and developmental stage (newborn) suggest the sample is not from a normal physiological condition. The presence of a donor ID, treatments, and passage number further indicates that this is not a native or normal specimen."

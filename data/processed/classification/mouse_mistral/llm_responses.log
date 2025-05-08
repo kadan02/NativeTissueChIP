@@ -1,0 +1,333 @@
+--- LLM Response for ID: ERX204066 ---
+```json
+{
+  "id": "ERX204066",
+  "metadata": "ArrayExpress-Genotype=Wildtype",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX018602 ---
+{
+"id": "SRX018602",
+"metadata": "genotype=Nrl-/-",
+"native": false
+}
+
+--- LLM Response for ID: SRX027447 ---
+```json
+{
+  "id": "SRX027447",
+  "metadata": "genotype/variation=wild type",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX028842 ---
+```json
+{
+    "id": "SRX028842",
+    "metadata": "treatment=Brd2_0H_minus",
+    "native": false
+}
+```
+
+--- LLM Response for ID: SRX105503 ---
+{
+"id": "SRX105503",
+"metadata": "strain=CD1 outbred mice | age=2-3 months",
+"native": true
+}
+
+--- LLM Response for ID: SRX1063034 ---
+```json
+{"id": "SRX1063034", "metadata": "genotype=WT treatment=Cont STAT1", "native": true}
+```
+
+--- LLM Response for ID: SRX10652556 ---
+```json
+{"id": "SRX10652556", "metadata": "genotype=Junbfl/fl", "native": false}
+```
+
+--- LLM Response for ID: SRX10659669 ---
+```json
+{"id": "SRX10659669", "metadata": "genotype=double null", "native": false}
+```
+
+--- LLM Response for ID: SRX10873024 ---
+```json
+{
+  "id": "SRX10873024",
+  "metadata": "strain=C57BL/6, source_name=P5 heart, developmental stage=P5",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX11187698 ---
+```json
+{
+    "id": "SRX11187698",
+    "metadata": "treatment=1h progesterone treatment",
+    "native": false
+}
+```
+
+--- LLM Response for ID: SRX13065852 ---
+{
+  "id": "SRX13065852",
+  "metadata": "genotype=Krt14-Cre+;Ppp1r13l-/- | deletion=specific deletion of Ppp1r13l exon8",
+  "native": false
+}
+
+--- LLM Response for ID: SRX14059359 ---
+```json
+{
+  "id": "SRX14059359",
+  "metadata": "treatment=treated with 100 ng/ml LPS for 4 h",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX142514 ---
+{
+ "id": "SRX142514",
+ "metadata": "Cell_type=C2C12, cell=C2C12, age=immortalized, age description=Immortal cells",
+ "native": false
+}
+
+--- LLM Response for ID: SRX145053 ---
+```json
+{"id": "SRX145053", "metadata": "age=immortalized | cell description=Leukemia (K562 analog) | age description=Immortal cells", "native": false}
+```
+
+--- LLM Response for ID: SRX14563995 ---
+```json
+{
+  "id": "SRX14563995",
+  "metadata": "treatment=Anisomycin + IFNg",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX14818057 ---
+```json
+{"id": "SRX14818057", "metadata": "genotype=IFNb/IRF9 DKO | treatment=stimulated under Th1 culture conditions (10 ng/ml IL-12) for 5 days in vitro. IFNb (100U/ml) were treated for last 3 days.", "native": false}
+```
+
+--- LLM Response for ID: SRX149201 ---
+```json
+{
+  "id": "SRX149201",
+  "metadata": "cell line=pre-B cell line B3",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX1495349 ---
+{
+"id": "SRX1495349",
+"metadata": "tissue=heart 4 days post-injury (MI)",
+"native": false
+}
+
+--- LLM Response for ID: SRX17469441 ---
+```json
+{"id": "SRX17469441", "metadata": "treatment=NSD1 sh1", "native": false}
+```
+
+--- LLM Response for ID: SRX188806 ---
+{"id": "SRX188806", "metadata": "age=immortalized | age description=Immortal cells | cell description=B-cell lymphoma", "native": false}
+
+--- LLM Response for ID: SRX20201036 ---
+{
+  "id": "SRX20201036",
+  "metadata": "genotype=WT",
+  "native": true
+}
+
+--- LLM Response for ID: SRX204705 ---
+```json
+{
+  "id": "SRX204705",
+  "metadata": "source_name=C/EBPalpha 48h",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX20969410 ---
+```json
+{
+    "id": "SRX20969410",
+    "metadata": "timing of preparation=5 months after pIpC injection",
+    "native": false
+}
+```
+
+--- LLM Response for ID: SRX21711865 ---
+```json
+{
+  "id": "SRX21711865",
+  "metadata": "treatment=WT",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX22512363 ---
+```json
+{
+  "id": "SRX22512363",
+  "metadata": "genotype=Setdb1-KO | age=Embryonic day 15.5",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX2424023 ---
+{
+ "id": "SRX2424023",
+ "metadata": "age=0 day",
+ "native": false
+}
+
+--- LLM Response for ID: SRX2647492 ---
+```json
+{
+  "id": "SRX2647492",
+  "metadata": "culture condition=ChIP-seq in vitro culture protocol (IFN-β)",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX2741794 ---
+{
+"id": "SRX2741794",
+"metadata": "tissue=Phenylhydrazine treated spleen",
+"native": false
+}
+
+--- LLM Response for ID: SRX319874 ---
+```json
+{
+  "id": "SRX319874",
+  "metadata": "treatment=Kdo2 Lipid A (KLA) 12h",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX341761 ---
+```json
+{"id": "SRX341761", "metadata": "genotype=MLL3-/-; cell type=MyoD-induced immortalized brown preadipocytes; age=E18.5 embryos", "native": false}
+```
+
+--- LLM Response for ID: SRX3582922 ---
+{
+  "id": "SRX3582922",
+  "metadata": "treatment=12 wk High Fat Diet (Research Diet, D12331)",
+  "native": false
+}
+
+--- LLM Response for ID: SRX3601924 ---
+```json
+{
+  "id": "SRX3601924",
+  "metadata": "genotype/variation=WT",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX392764 ---
+```json
+{"id": "SRX392764", "metadata": "cell type=haftl derived C10 cells", "native": false}
+```
+
+--- LLM Response for ID: SRX4178770 ---
+```json
+{"id": "SRX4178770", "metadata": "treatment=IFNg", "native": false}
+```
+
+--- LLM Response for ID: SRX4325335 ---
+```json
+{
+  "id": "SRX4325335",
+  "metadata": "strain=C3H/HeN",
+  "native": true
+}
+```
+
+--- LLM Response for ID: SRX4348502 ---
+```json
+{"id": "SRX4348502", "metadata": "genotype=IRF9WT | condition=IFNaIL2", "native": false}
+```
+
+--- LLM Response for ID: SRX4895097 ---
+```json
+{
+  "id": "SRX4895097",
+  "metadata": "source_name=CH12 B cell line | cell line=CH12 | cell type=lymphoma cell line | genotype/variation=Med14Nsmash | treatment=APR60h",
+  "native": false
+}
+```
+
+--- LLM Response for ID: SRX5689484 ---
+```json
+{"id": "SRX5689484", "metadata": "genotype/variation=Foxp3Thy1.1/Rosa-Cas9", "native": false}
+```
+
+--- LLM Response for ID: SRX6417441 ---
+```json
+{"id": "SRX6417441", "metadata": "treatment=NR ( 400 mg/kg)", "native": false}
+```
+
+--- LLM Response for ID: SRX661408 ---
+```json
+{"id": "SRX661408", "metadata": "genotype/variation=GRdim", "native": false}
+```
+
+--- LLM Response for ID: SRX7368531 ---
+```json
+{"id": "SRX7368531", "metadata": "stimulation=anti-CD40/IL4", "native": false}
+```
+
+--- LLM Response for ID: SRX7368548 ---
+```json
+{"id": "SRX7368548", "metadata": "genotype=OBF1KO", "native": false}
+```
+
+--- LLM Response for ID: SRX745826 ---
+```json
+{"id": "SRX745826", "metadata": "treatment=Dexamethasone and GW7647 4 hrs", "native": false}
+```
+
+--- LLM Response for ID: SRX7726481 ---
+```json
+{"id": "SRX7726481", "metadata": "Metadata=source_name=Tbet_NK_WT_exvivo, cell type=Natural killer cells, culture condition=ex vivo, genotype=WT", "native": true}
+```
+
+--- LLM Response for ID: SRX8241996 ---
+{"id": "SRX8241996", "metadata": "genotype=Wild type", "native": true}
+
+--- LLM Response for ID: SRX8725650 ---
+```json
+{"id": "SRX8725650", "metadata": "source_name=Mouse Hepatoma Cell Line, treatment=1 µM chromium", "native": false}
+```
+
+--- LLM Response for ID: SRX9311847 ---
+{
+  "id": "SRX9311847",
+  "metadata": "treatment=IL-4 24h",
+  "native": false
+}
+
+--- LLM Response for ID: SRX9311895 ---
+{
+"id": "SRX9311895",
+"metadata": "treatment=IL-4 24h",
+"native": false
+}
+
+--- LLM Response for ID: SRX9432511 ---
+{
+"id": "SRX9432511",
+"metadata": "cell line=Raw264.7 | treatment=Ibet only",
+"native": false
+}
+

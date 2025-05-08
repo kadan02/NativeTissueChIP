@@ -1,0 +1,12 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+SRX7726481,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_type_class=Blood, cell_type=Natural killer cells, surface marker=CD3e-NKp46+"
+SRX10873024,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. developmental stage=P5, strain=C57BL/6J is a specific model organism which doesn't typically imply non-nativeness but since the developmental stage=P5 implies embryonic cells and this sample also comes from an organ (heart) from those cells."
+SRX20201036,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. genotype=WT; age=16 to 20 weeks
+SRX2647492,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. genotype=WT, culture condition=ChIP-seq in vitro culture protocol"
+SRX105503,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. strain=CD1 outbred mice, age=2-3 months"
+SRX1063034,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_type_class=Blood, Cell_type=CD4+ T cells, Metadata=source_name=Pre-activated CD4+ T cells"
+SRX7368531,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. genotype=Wild type, source_name=ChIP WT CD40/IL4 OBF1 rep1"
+SRX3331742,0,native,LLM,Keyword search skipped (LLM-Only mode),"Native. stress=yes, cell line indication is lacking but sample is from wild-type animal which makes it native."
+SRX6095535,1,non-native,LLM,Keyword search skipped (LLM-Only mode),Non-Native. genotype=M1-IKO
+SRX14617697,1,non-native,LLM,Keyword search skipped (LLM-Only mode),"Non-Native. cell_line=Ch12, cell type=Ch12 WT cell line"
+SRX10989779,0,native,LLM,Keyword search skipped (LLM-Only mode),Native. genotype=C57BJ/L6 WT mice

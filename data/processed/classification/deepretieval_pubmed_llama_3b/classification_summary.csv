@@ -1,0 +1,76 @@
+ID,keyword_classification,keyword_confidence,keyword_reason,final_classification,llm_reason,classification_method
+DRX440382,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. ChIPseq EZH2 of WT mouse,LLM
+ERX204066,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. ChIPseq, Liver ChIP, Hepatocytes",LLM
+SRX018602,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Nrl ko or Retina trial,LLM
+SRX027447,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is from a specific organism (pups) and has been crossed for genetic variation, making it non-native.",LLM
+SRX028842,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is Macrophages and the sample is derived from a specific strain (C57BL/6) and treatment condition (Brd2_0H_minus), which indicates it's not a native sample.",LLM
+SRX10462798,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line=Tet2+/- or Nasal Mucosa trial,LLM
+SRX105503,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. strain=CD1, liver sample, mouse trial",LLM
+SRX1063034,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Pre-activated CD4+ T cells trial or experiment with C57BL/6 strain and spleen tissue,LLM
+SRX1063037,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. cell_line=CD4+ T cells, Pre-activated trial, IL21 treatment trial",LLM
+SRX10652556,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. CD4+ T cells, Splenocytes, and Junbfl/fl genotype indicate a specific experimental setup.",LLM
+SRX10659669,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=null, Age=8 weeks old, Tissue=Liver",LLM
+SRX10828736,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Liver sample from C57BL/6 mice with XBP1 knockout or liver trial,LLM
+SRX10828756,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Liver sample from C57BL/6 mice, a common model for liver research.",LLM
+SRX10873024,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is from a specific strain and developmental stage, indicating it's likely a controlled experiment or a well-defined sample. The use of formaldehyde for tissue preparation also suggests that the sample is prepared for sequencing in a laboratory setting.",LLM
+SRX10989779,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Liver sample from C57BJ/L6 mice, a common strain used in mouse genetics and liver research.",LLM
+SRX11187698,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Uterus sample with Pgr (Progesterone receptor) genotype variation and treatment trial,LLM
+SRX11366190,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. strain=C57BL/6, Liver trial, Wild-type genotype",LLM
+SRX1176003,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Cell type is a specific subset of blood cells (CD8+ T cells) and the source is from a controlled experiment (C57BL/6 strain) with no treatment mentioned.,LLM
+SRX13065852,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Keratinocytes isolated from mouse skin with a specific deletion, indicating it's not a native sample.",LLM
+SRX14059359,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is RAW 264.7, which is a murine macrophage cell line, and it has been treated with LPS (Lipopolysaccharide), making it non-native.",LLM
+SRX142514,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. C2C12 cell line, ChipSeq experiment, and treatment with Equine Serum and Insulin",LLM
+SRX145053,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Immortalized cell line (K562 analog) and ChipSeq experiment,LLM
+SRX14563995,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=BMDM, Treatment trial, Immortalized cell line or experimental condition",LLM
+SRX14617697,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Ch12, ChIP-Seq experiment",LLM
+SRX14818057,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. IFNb/IRF9 DKO trial or stimulated under Th1 culture conditions with IL-12 treatment,LLM
+SRX149201,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_line=B3, ChIP-Seq data from Wildtype cells, Rabbit anti-Ikaros antibody",LLM
+SRX1495349,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type classification and source name indicate a native sample, but the presence of an injury trial (MI) and specific strain (C57BL/6) suggests it's not a standard control sample. However, since it's a heart tissue sample from a controlled trial, it's still considered native.",LLM
+SRX15840026,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. kidney tissue, wild-type C57BL6, vehicle trial",LLM
+SRX15840131,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. kidney tissue, wild-type C57BL6, vehicle trial",LLM
+SRX17469441,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Cultured Cortical Neurons, Treatment Trial",LLM
+SRX17605394,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Bone marrow, Monocytes, Wild-type genotype, and no treatment mentioned",LLM
+SRX188806,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. CH12 is an immortalized cell line derived from a mouse B-cell lymphoma, and it's used for chromatin IP sequencing (ChipSeq) experiments.",LLM
+SRX20201036,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Liver sample from a fetal trial with mixed genetic background and controlled diet,LLM
+SRX204705,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line=C/EBPalpha trial or Liver trial,LLM
+SRX20826938,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. Liver (P56) and BL/6Jax genotype,LLM
+SRX20969410,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. donor genotype trial, bone marrow cells trial",LLM
+SRX2162110,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type isolation and strain background indicate a controlled experiment, but the absence of injection trial makes it difficult to classify as non-native. However, considering the specific metadata provided, it can be classified as native.",LLM
+SRX21711865,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is Macrophages (BMDM) and the sample is from a wild-type (WT) condition with no treatment or stimulation trial, making it native.",LLM
+SRX22512363,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. embryonic sample, knockout experiment, neural progenitor cells",LLM
+SRX2424023,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. postnatal, heart tissue sample from newborn",LLM
+SRX2500398,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cerebellar granule neuron progenitor, C57BL/6 strain, neural sample",LLM
+SRX2647474,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. genotype modification or specific cell type, which indicates it's not a native sample",LLM
+SRX2647492,skipped,0,Keyword search skipped (LLM-Only mode),native,Native. ChIP-seq experiment for CD4+ T cells with IFN-β treatment,LLM
+SRX2741794,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Erythroid Cells, Spleen trial, Phenylhydrazine treatment",LLM
+SRX319873,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Kdo2 Lipid A trial or Macrophage trial,LLM
+SRX319874,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Kdo2 Lipid A trial or Macrophage trial,LLM
+SRX3331742,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type and source are native, but the presence of 'stress' in the metadata indicates that this sample may not be entirely under normal physiological conditions.",LLM
+SRX341761,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. immortalized cell line, MyoD-induced",LLM
+SRX3582922,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. High Fat Diet trial with C57BL/6J mice liver sample,LLM
+SRX3601924,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is Primary Macrophages and the sample is from a controlled experiment (ChIP assay) with specific antibodies (NDF7), which suggests it's a native sample. However, the presence of a specific strain (C57BI/6) and age (8-10 weeks) might indicate some level of modification or control trial.",LLM
+SRX3858835,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Epidermis, Postnatal day 0, Control genotype",LLM
+SRX392764,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. cell_line=Haftl or Haftl-derived cells,LLM
+SRX4178770,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. IFN-g treatment trial or Bone Marrow Derived Macrophages trial,LLM
+SRX4325335,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Liver sample from C3H/HeN strain, which is an immortalized cell line",LLM
+SRX4348502,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type class=Blood, Cell type=Natural killer cells, Source name=splenic NK cells, Condition=IFNaIL2 trial",LLM
+SRX4895097,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=CH12, Lymphoma cell line, or treated with APR60h",LLM
+SRX5689484,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. nTreg trial or Foxp3 trial,LLM
+SRX6095535,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. genotype=M1-IKO or Kidney treatment trial,LLM
+SRX6417441,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Liver sample from C57B6/CR mice, indicating a specific strain and treatment condition.",LLM
+SRX661408,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Liver tissue, back-crossed to the BALB/c strain, and a specific genotype variation (GRdim) makes this sample non-native.",LLM
+SRX6924490,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is Liver and has a specific experimental design (ChIP-seq) with Yap and LapTTA, indicating it's not a general liver sample but rather a controlled experiment.",LLM
+SRX7368531,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. ChIP experiment, primary cells, and specific stimulation trial",LLM
+SRX7368548,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=CD19+ splenic B cells, ChIP experiment, KO (OBF1KO) or stimulation trial",LLM
+SRX745826,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_type_class=Burst-forming unit erythroids or experimental trial with dexamethasone and GW7647,LLM
+SRX7726481,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_line=Wild-type Natural Killer cells, ex vivo culture",LLM
+SRX7902429,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell_type_class=Neural, Cell_type=Granule neuron progenitors, and wild-type genotype indicate a native sample.",LLM
+SRX8241996,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Bone marrow cells, Monocytes, Wild-type genotype, Primary isolated cells",LLM
+SRX8725650,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Hepa-1c1c7, Mouse Hepatoma Cell Line, Chromium treatment trial",LLM
+SRX8994289,skipped,0,Keyword search skipped (LLM-Only mode),native,"Native. Cell type is B cells and the source is Mouse splenic B cells, which makes it a native sample.",LLM
+SRX9311847,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. ChIP experiment with IL-4 treatment and bone marrow-derived macrophages, which is a non-native sample due to the specific treatment and cell line.",LLM
+SRX9311895,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell type is derived from bone marrow-derived macrophages and has been treated with IL-4, making it a non-native sample.",LLM
+SRX9311913,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Cell_line=BMDMs or Macrophages trial,LLM
+SRX9344868,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell line: RAW 264.7, Macrophage, LPS trial",LLM
+SRX9432511,skipped,0,Keyword search skipped (LLM-Only mode),non-native,"Non-Native. Cell_line=Raw264.7, Treatment trial, or specific condition trial",LLM
+SRX978687,skipped,0,Keyword search skipped (LLM-Only mode),non-native,Non-Native. Immortalized cells and treatment trial,LLM

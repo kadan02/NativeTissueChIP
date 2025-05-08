@@ -1,0 +1,7 @@
+ID,Is_Native,final_classification,classification_method,keyword_reason,llm_reason
+DRX440349,0,native,LLM (Fallback),No relevant keywords,"Native. Cell_type_class=Blood, Cell_type=CD4+ T cells"
+SRX23335288,0,native,LLM (Fallback),No relevant keywords,"Native. Cell_type_class=Epidermis, Cell_type=Dermal fibroblast, age=84, passage number=2"
+SRX23335289,0,native,LLM (Fallback),No relevant keywords,"Native. Cell_type_class=Epidermis, Cell_type=Dermal fibroblast, age=97"
+SRX23335290,0,native,LLM (Fallback),No relevant keywords,"Native. Cell_type_class=Epidermis, Cell_type=Dermal fibroblast, age=86, passage number=2"
+SRX8090646,1,non-native,LLM (Native Validation),"Highest weight keyword: 'DMSO' (category: weak_native, score: 100.0). Matches found: 'DMSO' in 'treatment' (weak_native/100.0)",Non-Native. diagnosis=Rheumatoid arthritis
+SRX2635902,1,non-native,LLM (Fallback),No relevant keywords,Non-Native. health state=healthy with non-obstructive CAD (coronary artery disease)

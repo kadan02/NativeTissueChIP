@@ -1,4 +1,0 @@
-Egyedi szűrt TF-ek: 317
-Egyedi törölt TF-ek: 1819
-Különböző sejtcsoport kategóriák: 190
-Törölt különböző sejtcsoport kategóriák:1034

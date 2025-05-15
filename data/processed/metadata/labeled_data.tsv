@@ -1,0 +1,101 @@
+ID	Is_Native	Comment
+DRX440344	1	"Normál" T-sejtek. Az LLM-ek a "hCD4-et" nehezen azonosítják így.
+DRX440349	0	TL-Om1 sejtvonal
+SRX017709	1	'Activated CD4+ T cell' és n/a kezelés.
+SRX037935	1	'Human hematopoietic stem cells (referred as CD34+ cells)'
+SRX037941	0	BRG1 KD shLuc control (short hairpin RNA targeting Luciferase)
+SRX037940	0	BRG1 RNAi
+SRX037935	1	CD34 WT
+SRX11513464	1	cell type=DC - normal dendricita
+SRX11513465	0	cell type=tolDC - tolerogenic dendricita
+SRX12118509	1	Naive-b sejt, 'NA' treatment és knockdown
+SRX12129506	0	treament=PLX
+SRX12209241	0	stimulált T-sejt
+SRX14280059	0	Non-alcoholic fatty liver disease
+SRX14280087	1	"normal control"
+SRX15717771	1	Kezeletlen.
+SRX16495661	1	Biopszia
+SRX16495697	1	Biopszia
+SRX170349	1	Wild type CD36
+SRX1738529	1	Hematopoietic Stem Cells
+SRX18672589	0	untreated, de cell line=C20
+SRX18672592	0	C20 és KD
+SRX18768994	1	primary stem cells
+SRX18768997	1	primary stem cells
+SRX19123217	1	healthy control
+SRX212182	0	fetal
+SRX212351	1	normoxy és none treatment
+SRX212353	0	hypoxy
+SRX2166886	0	fetal
+SRX2253219	0	CLL (chronic lmyphocytic leukemia)
+SRX23045260	1	vehicle
+SRX23045263	0	TGFß (citokin)
+SRX23335286	0	epidermisz, age=0 (újszülött)
+SRX13006802	1	agyszövet, age=74
+SRX23335288	0	epidermisz, age = 84
+SRX23335289	0	age = 97
+SRX23335290	0	age = 86
+SRX23335291	1	T sejtek, age = 23
+SRX23383574	0	neonatal
+SRX23548768	1	control
+SRX23548770	0	miR-1204 overexpression
+SRX3195440	1	genotype=control untreated
+SRX3322085	1	Biopszia
+SRX3584196	1	primary cells
+SRX3585704	0	fetal és treatment
+SRX3666488	0	PHA stimulation
+SRX3734300	1	DMSO (control)
+SRX3768737	0	overexpression
+SRX382353	0	immortalized
+SRX5574342	1	Primary
+SRX5716451	1
+SRX5839976	1	primary
+SRX6784062	1	Biopszia
+SRX6969885	0	mutant
+SRX7015671	0	CRL7250 cell line
+SRX8090642	0	JQ1
+SRX8090646	1	DMSO
+SRX971583	0	knockdown=p63
+SRX9867030	1
+SRX9969717	0	16HBE14o
+SRX9345717	0	iPSC
+SRX9221932	0	treatment=17 β-estradiol (1 µM)
+SRX9221933	1	DMSO (control)
+SRX9029211	0	R848 (5mM)
+SRX9029210	1	no treatment
+SRX885891	1	control
+SRX885895	0	oxLDL treatment
+SRX8841625	0	Acheiropodia
+SRX7509593	1	donor (encode)
+SRX735289	0	treatment/agent=PMA/ionomycin
+SRX6763478	1	primary monocyte
+SRX6763473	0	GM-CSF treatment (citokin)
+SRX6578928	1	healthy t cells
+SRX5624369	0	TNF treatment
+SRX5391035	0	KD
+SRX5371741	1	donor
+SRX5360094	0	neoplastic stage=transformed
+SRX5360084	1	neoplastic stage=untransformed
+SRX25152580	0	KO
+SRX25331425	0	Glióma
+SRX25501815	0	Cell line és androgén receptor csendesítés
+SRX2635902	1	Coronary Artery Disease - De máj minta (nem obstruktívként is van írva)
+SRX2966972	0	fetal
+SRX3679902	0	shRNA KO cell cultures
+SRX393518	0	treatment=100 ng/ml final TSA
+SRX4370433	1	Adult biopszia
+SRX4723358	1	WT
+SRX5391034	1	primary, control
+SRX7730450	0	genotype=Corrected RB1 mutation
+SRX8453150	0	áttétes rák
+SRX9850737	0	cell line=Calu-3
+SRX7223095	0	hESC cell line
+SRX5774914	0	2B5+ iOPCs - Generation of induced oligodendrocyte progenitor cells (OPCs) from human somatic cells by OCT4
+SRX6068070	1	menstrual cycle phase=mid-secretory (Nem teszek különbséget a ciklusok között)
+SRX6068072	1	menstrual cycle phase=proliferative (Nem teszek különbséget a ciklusok között)
+SRX10977366	0	organoid, de "embryonic"
+SRX10977238	0	újszülött és sok treatment
+SRX2268292	0	fetal osteoblast
+SRX2770856	1	primary és treatment=none
+SRX3679898	0	genotype/variation=shKMT2D - Géncsendesítés.
+SRX3679900	0	shSC (shRNA Scrambled Control) - Nem csendesít el gént, de lehet hogy a vírusfertőzés maga is megváltoztathatja a génexpressziót.

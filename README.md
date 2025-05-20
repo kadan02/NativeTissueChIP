@@ -11,8 +11,12 @@ A scriptek fő funkciói:
    - Transzkripciós faktor kötőhelyek szekvenciáinak előállítása
    - Traszkripciós faktor - Target gén interakciók azonosítása és táblázatok formázása Uniprot és NCBI keresztlinkekkel
  
-[Részletes dokumentáció itt.](https://github.com/kadan02/NativeTissueChIP/wiki)
-
+Egyéb fontos fájlok elérhetőségei:
+- [Osztályozási futtatások nyers adatai](https://github.com/kadan02/NativeTissueChIP/tree/master/data/processed/classification) (lásd README fájl a linken belül extra magyarázatért)
+- [Osztályozási futtatások benchmark eredményei](https://github.com/kadan02/NativeTissueChIP/tree/master/results/benchmarks)
+- [Kulcsszavak listái](https://github.com/kadan02/NativeTissueChIP/tree/master/data/raw/cell_lines)
+- [Jelölt humán adathalmaz](https://github.com/kadan02/NativeTissueChIP/blob/master/data/processed/metadata/labeled_data.tsv)
+ 
 ## Credits
 This project was made possible using data from [ChIP-Atlas](https://chip-atlas.org).
 

@@ -1,0 +1,2 @@
+- `[MODELL]_[MÓDSZER]_evaluation.log` Log fájl, ami a statisztikai paramétereket tartalmazza.
+- `[MODELL]_[MÓDSZER]_misclassified.csv` Egy átlátható összegzés az a "félreazonosítótt" sorokról.

@@ -9,12 +9,12 @@
    - Transzkripciós faktor kötőhelyek szekvenciáinak előállítása
    - Traszkripciós faktor - Target gén interakciók azonosítása és táblázatok formázása Uniprot és NCBI keresztlinkekkel
 
-### Fontos fájlok elérhetőségei:
+# Fontos fájlok elérhetőségei:
 - [Osztályozási futtatások nyers adatai](https://github.com/kadan02/NativeTissueChIP/tree/master/data/processed/classification) (lásd README fájl a linken belül extra magyarázatért)
 - [Osztályozási futtatások benchmark eredményei](https://github.com/kadan02/NativeTissueChIP/tree/master/results/benchmarks)
 - [Kulcsszavak listái](https://github.com/kadan02/NativeTissueChIP/tree/master/data/raw/cell_lines)
 - [Jelölt humán adathalmaz](https://github.com/kadan02/NativeTissueChIP/blob/master/data/processed/metadata/labeled_data.tsv)
-### A pipeline futtatásához instrukciók [itt](https://github.com/kadan02/NativeTissueChIP/wiki) találhatóak.
+# A pipeline futtatásához instrukciók [itt](https://github.com/kadan02/NativeTissueChIP/wiki) találhatóak.
 # Credits
 This project was made possible using data from [ChIP-Atlas](https://chip-atlas.org).
 1. Zou, Z., Ohta, T., Oki, S. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Res. 52(W1), W45-W53, 2024. [http://dx.doi.org/10.1093/nar/gkae358](http://dx.doi.org/10.1093/nar/gkae358)

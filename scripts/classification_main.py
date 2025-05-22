@@ -9,8 +9,11 @@ from openai import OpenAI
 import classification_config as config
 import classification_utils as utils
 
+# Ha True, akkor a kulcsszavas keresések ki lesznek hagyva és csak az LLM lesz meghívva
+llm_only_mode = False
 
-def process_metadata(df, llm_client=None, llm_model_name=None, prompt_output=None, llm_response_log_file=None, llm_only=True):
+
+def process_metadata(df, llm_only, llm_client=None, llm_model_name=None, prompt_output=None, llm_response_log_file=None):
     """
     A metaadat táblázaton soronként iterál. Az osztályozás menete:
         1. Először megpróbál kulcsszavak alapján osztályzni.
@@ -245,6 +248,7 @@ if __name__ == "__main__":
     with open(llm_response_log_path, 'a', encoding='utf-8') as llm_log_file:
         classification_details = process_metadata(
             metadata_df,
+            llm_only_mode,
             llm_client=llm_client,
             llm_model_name=config.LLM_MODEL_NAME,
             prompt_output=llm_prompt_path,

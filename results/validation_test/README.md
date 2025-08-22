@@ -5,9 +5,9 @@ A script egy permutációs tesztet hajt végre. A vizsgálandó kérdés, hogy a
 
 ### A vizsgálat módszere:
 **A [run_test.py](https://github.com/kadan02/NativeTissueChIP/blob/master/results/validation_test/run_test.py) a következőeket végzi el:**
-1. A bedtools csomag [jaccard](https://bedtools.readthedocs.io/en/latest/content/tools/jaccard.html) parancsát felhasználva kiszámítja az atlagos páronkénti hasonlóságot a „natív” csoport esetében.
+1. A bedtools csomag [jaccard](https://bedtools.readthedocs.io/en/latest/content/tools/jaccard.html) parancsát felhasználva kiszámítja az atlagos páronkénti hasonlóságot a „natív” csoporton belül.
 2. Létrehoz egy kombinált „natív” és „nem natív” SRX azonosítókból álló csoportot.
-3. Elvégez N iterációt véletlenszerű mintavétellel (a véletlenszerű csoport mérete megegyezik a natív csoportéval): kiszámítja az átlagos páronkénti Jaccard-indexszet ezekben a csoportokban is.
+3. Elvégez N iterációt véletlenszerű mintavétellel és kiszámítja az átlagos páronkénti Jaccard-indexszet ezekben a csoportokban is.
 4. Kiszámítja a p-értéket azáltal, hogy összehasonlítja a natív csoport átlagos hasonlóságát a véletlenszerű minták átlagainak eloszlásával.
 
 *A vizsgálandó natív és nem natív csoportokat esetemben úgy állítottam össze, hogy azonos transzkripciós faktort vizsgáljanak, és a szövet- és sejttípus minél inkább megegyezzen.*

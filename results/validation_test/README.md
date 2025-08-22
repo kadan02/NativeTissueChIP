@@ -2,7 +2,7 @@
 
 A vizsgálandó kérdés, hogy az osztályozással előállított *natív* csoport jelentősen magasabb homogenitást mutat-e, mint az azonos méretű, de véletlenszerűen összeállított csoportok, amelyek a *nem-natív* kisérletek adatait is tartalmazhatják.
 
-### A vizsgálat módszere:
+### A vizsgálat módszere röviden
 **A [run_test.py](https://github.com/kadan02/NativeTissueChIP/blob/master/results/validation_test/run_test.py) a következőeket végzi el:**
 1. A bedtools csomag [jaccard](https://bedtools.readthedocs.io/en/latest/content/tools/jaccard.html) parancsát felhasználva kiszámítja az atlagos páronkénti hasonlóságot a „natív” csoporton belül.
 2. Felhasználva a nem-natív adatsorokat is, elvégez N iterációt véletlenszerű mintavétellel és kiszámítja az átlagos páronkénti Jaccard-indexszet ezekben a csoportokban is.

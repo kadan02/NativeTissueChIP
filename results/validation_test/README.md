@@ -1,4 +1,4 @@
-### Jaccard-index hasonlósági tesztelés szövetspecifikus ChIP-Seq adatok osztályozására.
+### BED fájlok Jaccard-index hasonlósági tesztelése
 
 A script egy permutációs tesztet hajt végre. A vizsgálandó kérdés, hogy az osztályozással előállított
 *natív* csoport jelentősen magasabb homogenitást mutat-e, mint az azonos méretű, de véletlenszerűen összeállított csoportok, amelyek a nem-natív kisérletek adatait is tartalmazhatják.

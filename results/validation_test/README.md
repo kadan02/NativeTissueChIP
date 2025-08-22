@@ -4,7 +4,7 @@ A script egy permutációs tesztet hajt végre. A vizsgálandó kérdés, hogy a
 *natív* csoport jelentősen magasabb homogenitást mutat-e, mint az azonos méretű, de véletlenszerűen összeállított csoportok, amelyek a nem-natív kisérletek adatait is tartalmazhatják.
 
 ### A vizsgálat módszere:
-**A [run_test.py]([run_test.py](https://github.com/kadan02/NativeTissueChIP/blob/master/results/validation_test/run_test.py)) a következőeket végzi el:**
+**A [run_test.py](https://github.com/kadan02/NativeTissueChIP/blob/master/results/validation_test/run_test.py) a következőeket végzi el:**
 1. Átlagos páronkénti Jaccard-indexet kiszámítja a „natív” csoport esetében.
 2. Létrehoz egy kombinált „natív” és „nem natív” SRX azonosítókból álló csoportot.
 3. Elvégez N iterációt véletlenszerű mintavétellel (a véletlenszerű csoport mérete megegyezik a natív csoportéval): kiszámítja az átlagos páronkénti Jaccard-indexszet ezekben a csoportokban is.

@@ -1,0 +1,4 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+SRX663252	TP63	Epidermis	Keratinocytes	source_name=Keratinocytes | differentiation day=7 | cell type=Keratinocytes
+SRX018991	TP63	Epidermis	Keratinocytes	source_name=primary keratinocyte | tissue=epidermis | cell line=primary cells | cell type=keratinocytes
+SRX4976908	TP63	Epidermis	Keratinocytes	source_name=human Keratinocytes | genotype=wild-type | treatment strategy=Day 0 of epidermal differentiation (epidermal keratinocyte)

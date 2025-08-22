@@ -1,0 +1,5 @@
+native_bed_file: "Keratinocytes_tp63_native.bed"
+non_native_bed_file: "Keratinocytes_tp63_non_native.bed"
+iterations: 10
+seed: 42
+output_plot: "test_CTCF.png"

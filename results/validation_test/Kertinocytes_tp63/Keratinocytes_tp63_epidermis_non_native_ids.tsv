@@ -1,0 +1,6 @@
+ID	Transcription_Factor	Cell_type_class	Cell_type	Metadata
+SRX3679906	TP63	Epidermis	Keratinocytes	source_name=keratinocytes | tissue=keratinocytes | genotype/variation=shSC
+SRX514838	TP63	Epidermis	Keratinocytes	source_name=Human neonatal foreskin keratinocytes | agent=350nM Adrimycin
+SRX971585	TP63	Epidermis	Keratinocytes	source_name=human keratinoctyes with Brg1/Brm siRNA | cell type=primary human neonatal keratinocytes | knockdown=Brg1/Brm
+SRX514839	TP63	Epidermis	Keratinocytes	source_name=Human neonatal foreskin keratinocytes | agent=25uM Cisplatin
+SRX105186	TP63	Epidermis	Keratinocytes	source_name=keratinocytes | cell type=neonatal keratinocytes | differentiation stage=progenitor
